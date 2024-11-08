@@ -779,7 +779,8 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 * [Draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages fetched from a quotation database.
 * [HARRY_POTTER_ALIASES](https://github.com/P-Y-R-O-B-O-T/HARRY_POTTER_ALIASES) - Harry Potter-themed aliases a magical journey through the wizarding world of terminal commands.
-* [hollywood](https://github.com/dustinkirkland/hollywood) - Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal. (alternative - [Bollywood](https://github.com/abloch/bollywood))
+* [hollywood](https://github.com/dustinkirkland/hollywood) - Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal. 
+* [Bollywood](https://github.com/abloch/bollywood)) - Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal.
 * [kyun](https://github.com/file-acomplaint/kyun) - Kyun is a low productivity, low fidelity, low customizablity text editor that has its focus firm on user discomfort.
 * [Limoji](https://github.com/GEROGIANNIS/Limoji) - Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
 * [LundukeHoliday](https://github.com/BryanLunduke/LundukeHoliday) - A simple Bash script that shows some animated, ASCII holiday decorations in your shell.
