@@ -1637,3 +1637,4 @@ security,sandsifter,,https://github.com/xoreaxeaxeax/sandsifter,The x86 processo
 music,amused,https://projects.omarpolo.com/amused.html,https://github.com/omar-polo/amused,"Minimal music player that composes well, or aims to do so, with other tools thought."
 note-taking,note,,https://github.com/bdazl/note,Minimalistic note taking.
 games,T-RexC,,https://github.com/StiveMan1/T-RexC,Simple Console Google T-Rex Game.
+online,par_scrape,,https://github.com/paulrobello/par_scrape,"PAR Scrape is a versatile web scraping tool with options for Selenium or Playwright, featuring AI-powered data extraction and formatting."

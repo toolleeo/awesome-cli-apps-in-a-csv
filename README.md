@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1638**
+* Apps/tools: **1639**
 * Categories: **77**
 
 # Contents
@@ -25,7 +25,7 @@ Summary:
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (79), [Note taking](#note-taking) (26)
-* [Office tools](#office) (15), [Online search and resources](#online) (22), [Organizers and calendars](#organizers) (22)
+* [Office tools](#office) (15), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (44), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (35), [Shells](#shells) (25), [Sound and music](#music) (53), [System monitoring](#monitor) (32), [System tools](#system) (31)
@@ -1162,6 +1162,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 * [jira-cli](https://github.com/ankitpokhrel/jira-cli) - Feature-rich interactive Jira command line.
 * [magic-tape](https://gitlab.com/christosangel/magic-tape) - Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
+* [par_scrape](https://github.com/paulrobello/par_scrape) - PAR Scrape is a versatile web scraping tool with options for Selenium or Playwright, featuring AI-powered data extraction and formatting.
 * [pockyt](https://github.com/achembarpu/pockyt) - Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet.
 * [pure-recipe](https://github.com/atiumcache/pure-recipe) - Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a Markdown file.
 * [Seashells](https://seashells.io/) - Pipe output to the web.
