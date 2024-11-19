@@ -1,5 +1,5 @@
 category,name,homepage,git,description
-programming,termfu,,https://github.com/jvalcher/termfu,"A multi-language debugger frontend that allows users to create and switch between custom layouts."
+programming,termfu,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.
 productivity,h-m-m,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
 networking,ipcalc,http://jodies.de/ipcalc,https://github.com/kjokjo/ipcalc,"Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range."
 networking,PSSH,https://code.google.com/archive/p/parallel-ssh/,https://github.com/lilydjwg/pssh,"Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications."
@@ -1638,3 +1638,4 @@ music,amused,https://projects.omarpolo.com/amused.html,https://github.com/omar-p
 note-taking,note,,https://github.com/bdazl/note,Minimalistic note taking.
 games,T-RexC,,https://github.com/StiveMan1/T-RexC,Simple Console Google T-Rex Game.
 online,par_scrape,,https://github.com/paulrobello/par_scrape,"PAR Scrape is a versatile web scraping tool with options for Selenium or Playwright, featuring AI-powered data extraction and formatting."
+time-tracker,Timet,https://frankvielma.github.io/posts/timet-a-powerful-command-line-tool-for-tracking-your-time/,https://github.com/frankvielma/timet/,"A lightweight, local time tracker with SQLite storage, offering features like Pomodoro integration, block time and tag distribution plots, detailed statistics, and CSV/iCalendar export."
