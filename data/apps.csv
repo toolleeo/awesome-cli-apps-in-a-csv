@@ -1342,6 +1342,7 @@ find,rawhide,,https://github.com/raforg/rawhide,File finder that uses C expressi
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plain-text YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
+funny,bollywood,,https://github.com/dustinkirkland/hollywood,Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal.
 copilot,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
 networking,asn,,https://github.com/nitefood/asn,"Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server."
 viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
