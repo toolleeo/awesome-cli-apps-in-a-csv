@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1641**
+* Apps/tools: **1645**
 * Categories: **77**
 
 # Contents
@@ -28,7 +28,7 @@ Summary:
 * [Office tools](#office) (15), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (44), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (35), [Shells](#shells) (25), [Sound and music](#music) (53), [System monitoring](#monitor) (32), [System tools](#system) (31)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (53), [System monitoring](#monitor) (32), [System tools](#system) (31)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (12), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (21), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (43)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (30)
@@ -1488,6 +1488,8 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [GnuPG](https://gnupg.org/) - GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 * [gocryptfs](https://nuetzlich.net/gocryptfs) - An encrypted overlay filesystem written in Go.
 * [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!
+* [grant](https://anchore.com/opensource/) - Grant is a tool for generating and managing license security policies for container images.
+* [grype](https://anchore.com/opensource/) - Grype is a vulnerability scanner for container images and filesystems that supports a wide range of package managers.
 * [hashcat](https://hashcat.net/hashcat/) - A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash.
 * [Image Steganography Tool](https://github.com/7thSamurai/steganography) - Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
 * [jdvrif](https://github.com/CleasbyCode/jdvrif) - CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
@@ -1498,6 +1500,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [PaperAge](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets, which takes a text and generates an encrypted QR code to print on paper.
 * [pdvzip](https://github.com/CleasbyCode/pdvzip) - CLI tool to embed a ZIP file within a PNG image to create a tweetable and "executable" PNG-ZIP polyglot file. Post & share your PNG-ZIP image on compatible sites.
 * [pgen](https://github.com/ctsrc/Pgen) - Generate passphrases using the wordlists for random passphrases made by the EFF.
+* [quill](https://anchore.com/opensource/) - Simple mac binary signing from any platform.
 * [safe](https://z3bra.org/safe/) - Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
 * [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer.
 * [securo](https://github.com/iunary/securo) - Encrypt and descrypt files and folders using a symmetric encryption.
@@ -1505,6 +1508,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 * [sshamble](https://github.com/runZeroInc/sshamble) - Unexpected exposures in SSH; the tool checks for several common weaknesses in SSH security issues.
 * [StegCloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords
+* [syft](https://anchore.com/opensource/) - Syft is a CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 * [uacme](https://github.com/ndilieto/uacme) - ACMEv2 client written in plain C with minimal dependencies.
 * [van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide your files of any type inside a image of your choice using steganography.
 * [vet](https://github.com/safedep/vet) - Tool for identifying risks in open source software supply chain.
