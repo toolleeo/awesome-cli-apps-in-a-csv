@@ -766,7 +766,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 * [ascii-movie](https://github.com/gabe565/ascii-movie) - Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
 * [asciicquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
 * [Binary Clock](https://github.com/tom-on-the-internet/binary-clock) - Displays a clock where numbers are represented with blue and gray dots with binary encoding.
-* [bollywood](https://github.com/dustinkirkland/hollywood) - Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal.
+* [bollywood](https://github.com/abloch/bollywood) - Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal.
 * [boxes](https://github.com/ascii-boxes/boxes) - Boxes is a command line filter program which draws ASCII art boxes around your input text.
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
 * [ccube](https://github.com/hamza512b/ccube) - Rotating 3d cube in terminal; written in C.

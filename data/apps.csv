@@ -1342,7 +1342,7 @@ find,rawhide,,https://github.com/raforg/rawhide,File finder that uses C expressi
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plain-text YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
-funny,bollywood,,https://github.com/dustinkirkland/hollywood,"Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal."
+funny,bollywood,,https://github.com/abloch/bollywood,"Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal."
 copilot,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
 networking,asn,,https://github.com/nitefood/asn,"Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server."
 viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
@@ -1640,7 +1640,7 @@ note-taking,note,,https://github.com/bdazl/note,Minimalistic note taking.
 games,T-RexC,,https://github.com/StiveMan1/T-RexC,Simple Console Google T-Rex Game.
 online,par_scrape,,https://github.com/paulrobello/par_scrape,"PAR Scrape is a versatile web scraping tool with options for Selenium or Playwright, featuring AI-powered data extraction and formatting."
 time-tracker,Timet,https://frankvielma.github.io/posts/timet-a-powerful-command-line-tool-for-tracking-your-time/,https://github.com/frankvielma/timet/,"A lightweight, local time tracker with SQLite storage, offering features like Pomodoro integration, block time and tag distribution plots, detailed statistics, and CSV/iCalendar export."
-security,syft,https://anchore.com/opensource/,https://github.com/anchore/syft,"Syft is a CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems."
-security,grype,https://anchore.com/opensource/,https://github.com/anchore/grype,"Grype is a vulnerability scanner for container images and filesystems that supports a wide range of package managers."
-security,grant,https://anchore.com/opensource/,https://github.com/anchore/grant,"Grant is a tool for generating and managing license security policies for container images."
-security,quill,https://anchore.com/opensource/,https://github.com/anchore/quill,"Simple mac binary signing from any platform."
+security,syft,https://anchore.com/opensource/,https://github.com/anchore/syft,Syft is a CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+security,grype,https://anchore.com/opensource/,https://github.com/anchore/grype,Grype is a vulnerability scanner for container images and filesystems that supports a wide range of package managers.
+security,grant,https://anchore.com/opensource/,https://github.com/anchore/grant,Grant is a tool for generating and managing license security policies for container images.
+security,quill,https://anchore.com/opensource/,https://github.com/anchore/quill,Simple mac binary signing from any platform.
