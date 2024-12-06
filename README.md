@@ -10,13 +10,13 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1645**
+* Apps/tools: **1646**
 * Categories: **77**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (31), [Anki, decks and flashcards](#flashcard) (8)
-* [Backup](#backup) (16)
+* [Backup](#backup) (17)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (14)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
@@ -99,6 +99,7 @@ Tools to manage the backup of files and directories.
 * [paperbackup](https://github.com/intra2net/paperbackup) - Create a PDF with barcodes to backup text files on paper.
 * [rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally, using the same protocol as rsync to transfer and store data.
 * [Restic](https://restic.net/) - A backup program that is fast, efficient, and secure.
+* [rsnapshot](https://rsnapshot.org) -  A filesystem snapshot utility based on rsync. It manages a rotation schedule when to discard older backup, e.g. from hourly to yearly. The Perl code makes extensive use of hard links and greatly reduces the disk space required.
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 * [thread-safe](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy.
 * [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories.
