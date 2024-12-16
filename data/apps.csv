@@ -1047,7 +1047,7 @@ data-management-tabular,litecli,,https://github.com/dbcli/litecli,CLI for SQLite
 package-manager,getghrel,,https://github.com/kavishgr/getghrel,"A user-friendly command-line tool that fetches and installs the latest release assets from GitHub for macOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience."
 find,bfs,,https://github.com/tavianator/bfs,A breadth-first version of the UNIX find command.
 chat,Servitor,,https://github.com/bentonedmondson/servitor,A command-line Fediverse client that doesn’t require a server.
-music,mfp,,https://github.com/guptarohit/mfp,"A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state."
+music,mfp,,https://github.com/guptarohit/mfp,"A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](https://musicforprogramming.net/)), unlocking the flow state."
 system,Rumos,,https://github.com/octagony/rumos,CLI utility for controlling screen brightness.
 utility,sprinkles,,https://github.com/KhalilOuali/sprinkles,Randomly colors input text and outputs it to the terminal.
 git,git absorb,,https://github.com/tummychow/git-absorb,"git commit --fixup, but automatic."
