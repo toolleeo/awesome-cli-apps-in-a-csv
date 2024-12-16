@@ -924,7 +924,7 @@ games,escaping-figures-game-cli,,https://github.com/akgondber/escaping-figures-g
 science,periodic-table-cli,,https://github.com/spirometaxas/periodic-table-cli,An interactive Periodic Table of Elements app for the console!
 git,git-identity,,https://github.com/cookiengineer/git-identity,Automated git alias management.
 programming,Leetcode-go,,https://github.com/Manan-Prakash-Singh/leetcode-go,"A simple CLI tool for searching, downloading and submitting problems to LeetCode."
-email,pop,,https://github.com/charmbracelet/pop,Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
+email,pop,,https://github.com/charmbracelet/pop,Send emails from your terminal; it uses the API at [https://resend.com/](https://resend.com).
 cd,cdwe,,https://github.com/synoet/cdwe,(cd with env vars) Wrapper of the cd command that sets and unsets env vars when you change dir based on a config file.
 note-taking,TUI-Journal,,https://github.com/AmmarAbouZor/tui-journal,Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
 financial,Invoice,,https://github.com/maaslalani/invoice,Generate invoices from the command line.
