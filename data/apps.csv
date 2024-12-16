@@ -924,7 +924,7 @@ games,escaping-figures-game-cli,,https://github.com/akgondber/escaping-figures-g
 science,periodic-table-cli,,https://github.com/spirometaxas/periodic-table-cli,An interactive Periodic Table of Elements app for the console!
 git,git-identity,,https://github.com/cookiengineer/git-identity,Automated git alias management.
 programming,Leetcode-go,,https://github.com/Manan-Prakash-Singh/leetcode-go,"A simple CLI tool for searching, downloading and submitting problems to LeetCode."
-email,pop,,https://github.com/charmbracelet/pop,Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
+email,pop,,https://github.com/charmbracelet/pop,Send emails from your terminal; it uses the API at [https://resend.com/](https://resend.com).
 cd,cdwe,,https://github.com/synoet/cdwe,(cd with env vars) Wrapper of the cd command that sets and unsets env vars when you change dir based on a config file.
 note-taking,TUI-Journal,,https://github.com/AmmarAbouZor/tui-journal,Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
 financial,Invoice,,https://github.com/maaslalani/invoice,Generate invoices from the command line.
@@ -1047,7 +1047,7 @@ data-management-tabular,litecli,,https://github.com/dbcli/litecli,CLI for SQLite
 package-manager,getghrel,,https://github.com/kavishgr/getghrel,"A user-friendly command-line tool that fetches and installs the latest release assets from GitHub for macOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience."
 find,bfs,,https://github.com/tavianator/bfs,A breadth-first version of the UNIX find command.
 chat,Servitor,,https://github.com/bentonedmondson/servitor,A command-line Fediverse client that doesn’t require a server.
-music,mfp,,https://github.com/guptarohit/mfp,"A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state."
+music,mfp,,https://github.com/guptarohit/mfp,"A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](https://musicforprogramming.net/)), unlocking the flow state."
 system,Rumos,,https://github.com/octagony/rumos,CLI utility for controlling screen brightness.
 utility,sprinkles,,https://github.com/KhalilOuali/sprinkles,Randomly colors input text and outputs it to the terminal.
 git,git absorb,,https://github.com/tummychow/git-absorb,"git commit --fixup, but automatic."
