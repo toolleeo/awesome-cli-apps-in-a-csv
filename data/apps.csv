@@ -1645,3 +1645,4 @@ security,grype,https://anchore.com/opensource/,https://github.com/anchore/grype,
 security,grant,https://anchore.com/opensource/,https://github.com/anchore/grant,Grant is a tool for generating and managing license security policies for container images.
 security,quill,https://anchore.com/opensource/,https://github.com/anchore/quill,Simple mac binary signing from any platform.
 backup,rsnapshot,https://rsnapshot.org,https://github.com/rsnapshot/rsnapshot," A filesystem snapshot utility based on rsync. It manages a rotation schedule when to discard older backup, e.g. from hourly to yearly. The Perl code makes extensive use of hard links and greatly reduces the disk space required."
+ls,lscoltui,,https://github.com/breynard0/lscoltui,A TUI tool for changing the colours of ls.
