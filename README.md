@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1646**
+* Apps/tools: **1647**
 * Categories: **77**
 
 # Contents
@@ -20,7 +20,7 @@ Summary:
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (14)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
-* [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (15)
+* [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (15)
 * [Games](#games) (55), [Git and accessories](#git) (56), [Graphics](#graphics) (43)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
@@ -658,6 +658,7 @@ List directory content and files, with colors or icons; alternatives to `ls`.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork. 
 * [eza](https://github.com/eza-community/eza) - eza is a modern, _maintained_ replacement for `ls`, built on `exa`.
 * [ll](https://github.com/antonmedv/ll) - ls with git status.
+* [lscoltui](https://github.com/breynard0/lscoltui) - A TUI tool for changing the colours of ls.
 * [lsd](https://github.com/lsd-rs/lsd) - This project is a rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
 * [nat](https://github.com/willdoescode/nat) - Complete replacement for the `ls` command.
 * [pretty-ls](https://github.com/ix/pretty-ls) - Rust ls clone with pretty colors.
