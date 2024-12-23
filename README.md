@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1647**
+* Apps/tools: **1648**
 * Categories: **77**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (31), [Anki, decks and flashcards](#flashcard) (8)
+* [AI / ChatGPT](#ai) (32), [Anki, decks and flashcards](#flashcard) (8)
 * [Backup](#backup) (17)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (14)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
@@ -69,6 +69,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [safespace](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 * [savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge.
 * [Sengpt](https://github.com/SenZmaKi/Sengpt) - ChatGPT in your terminal, no OpenAI API key required.
+* [Spren](https://smadgulkar.github.io/spren/) - AI-powered terminal assistant that converts natural language to shell commands. Supports PowerShell, Bash, and CMD with intelligent command suggestions and safety checks.
 
 ## <a name="flashcard"></a>Anki, decks and flashcards
 
