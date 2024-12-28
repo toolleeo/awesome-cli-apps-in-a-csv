@@ -1647,3 +1647,4 @@ security,quill,https://anchore.com/opensource/,https://github.com/anchore/quill,
 backup,rsnapshot,https://rsnapshot.org,https://github.com/rsnapshot/rsnapshot," A filesystem snapshot utility based on rsync. It manages a rotation schedule when to discard older backup, e.g. from hourly to yearly. The Perl code makes extensive use of hard links and greatly reduces the disk space required."
 ls,lscoltui,,https://github.com/breynard0/lscoltui,A TUI tool for changing the colours of ls.
 ai,Spren,https://smadgulkar.github.io/spren/,https://github.com/smadgulkar/spren,"AI-powered terminal assistant that converts natural language to shell commands. Supports PowerShell, Bash, and CMD with intelligent command suggestions and safety checks."
+time-tracker,tim:r,,https://github.com/sectore/timr,A TUI for organizing your time: Pomodoro, Countdown, Timer.
