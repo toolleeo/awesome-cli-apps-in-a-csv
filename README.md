@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1648**
+* Apps/tools: **1649**
 * Categories: **77**
 
 # Contents
@@ -29,7 +29,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (44), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (53), [System monitoring](#monitor) (32), [System tools](#system) (31)
-* [Terminals](#terminal) (22), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (12), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (21), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
+* [Terminals](#terminal) (22), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (12), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (43)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (29), [Writing](#writing) (9)
@@ -1800,6 +1800,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 * [MyTimer](https://github.com/sepandhaghighi/mytimer) - Simple timer for the terminal with timer-mode and alarm.
 * [pom](https://github.com/maaslalani/pom) - Pomodoro timer for the terminal.
 * [Productivity Timer](https://github.com/h-sifat/productivity-timer) - A CLI/TUI Pomodoro timer and todo (coming soon) application for keyboard addicts and terminal fans that makes you more productive.
+* [tim:r](https://github.com/sectore/timr) - A TUI for organizing your time: Pomodoro
 * [Timer-CLI](https://github.com/1Blademaster/timer-cli) - A very simple countdown timer.
 * [Timet](https://frankvielma.github.io/posts/timet-a-powerful-command-line-tool-for-tracking-your-time/) - A lightweight, local time tracker with SQLite storage, offering features like Pomodoro integration, block time and tag distribution plots, detailed statistics, and CSV/iCalendar export.
 * [Timetrap](https://github.com/samg/timetrap) - A simple command line time tracker written in Ruby. It provides an easy-to-use command line interface for tracking what you spend your time on.
