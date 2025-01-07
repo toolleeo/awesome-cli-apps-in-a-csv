@@ -1653,3 +1653,4 @@ file-handling,qcp,,https://github.com/crazyscot/qcp,Quick File Copy using QUIC.
 office,tui-slides,,https://github.com/Chleba/tui-slides,TerminalpPresentation program with modern TUI.
 office,tuitorial,,https://github.com/basnijholt/tuitorial,Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
 data-management-tabular,Probe,,https://github.com/shaankhosla/probe,Interactive SQL query tool for file analysis.
+option-picker,tui-datepicker,,https://github.com/maraloon/tui-datepicker,Select date in terminal with vim-motions and copy to buffer.
