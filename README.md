@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1653**
+* Apps/tools: **1654**
 * Categories: **77**
 
 # Contents
@@ -18,7 +18,7 @@ Summary:
 * [AI / ChatGPT](#ai) (32), [Anki, decks and flashcards](#flashcard) (8)
 * [Backup](#backup) (17)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (14)
-* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (29), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (15)
 * [Games](#games) (56), [Git and accessories](#git) (56), [Graphics](#graphics) (43)
@@ -385,6 +385,7 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 * [Miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do autocompletion and syntax highlighting.
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+* [Probe](https://github.com/shaankhosla/probe) - Interactive SQL query tool for file analysis.
 * [pykli](https://github.com/eshepelyuk/pykli) - Interactive ksqlDB command line client with autocompletion and syntax highlighting written in Python.
 * [q](http://harelba.github.io/q/) - Execute SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; supports all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
 * [qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
