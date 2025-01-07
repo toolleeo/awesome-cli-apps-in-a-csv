@@ -1658,4 +1658,4 @@ git,patchy,,https://github.com/NikitaRevenco/patchy,A tool which makes it easy t
 text-search,bookworm,,https://github.com/kiran94/bookworm,LLM-powered bookmark search engine.
 webdev,qwicket,,https://github.com/hardfau1t/qwicket,Commandline API development ecosystem.
 option-picker,television,,https://github.com/alexpasmantier/television,Blazing fast general purpose fuzzy finder TUI.
-video,yt-x,,https://github.com/Benexl/yt-x,"Browse youtube from your terminal, with text-based UI using `fzf` or `rofi` for seamless navigationi."
+video,yt-x,,https://github.com/Benexl/yt-x,"Browse youtube from your terminal, with text-based UI using `fzf` or `rofi` for seamless navigation."
