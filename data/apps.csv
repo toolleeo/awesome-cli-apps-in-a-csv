@@ -1659,3 +1659,4 @@ text-search,bookworm,,https://github.com/kiran94/bookworm,LLM-powered bookmark s
 webdev,qwicket,,https://github.com/hardfau1t/qwicket,Commandline API development ecosystem.
 option-picker,television,,https://github.com/alexpasmantier/television,Blazing fast general purpose fuzzy finder TUI.
 video,yt-x,,https://github.com/Benexl/yt-x,"Browse youtube from your terminal, with text-based UI using `fzf` or `rofi` for seamless navigation."
+conversion,MarkItDown,,https://github.com/microsoft/markitdown,Python tool for converting files and office documents to Markdown.
