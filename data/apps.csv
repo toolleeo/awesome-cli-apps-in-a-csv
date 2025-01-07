@@ -1657,3 +1657,4 @@ option-picker,tui-datepicker,,https://github.com/maraloon/tui-datepicker,Select 
 git,patchy,,https://github.com/NikitaRevenco/patchy,A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests.
 text-search,bookworm,,https://github.com/kiran94/bookworm,LLM-powered bookmark search engine.
 webdev,qwicket,,https://github.com/hardfau1t/qwicket,Commandline API development ecosystem.
+option-picker,television,,https://github.com/alexpasmantier/television,Blazing fast general purpose fuzzy finder TUI.
