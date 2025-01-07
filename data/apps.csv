@@ -1650,3 +1650,4 @@ ai,Spren,https://smadgulkar.github.io/spren/,https://github.com/smadgulkar/spren
 time-tracker,tim:r,,https://github.com/sectore/timr,A TUI for organizing your time: Pomodoro, Countdown, Timer.
 games,gg,,https://github.com/Kaamkiya/gg,A collection of games you can play in your terminal; written in Go.
 file-handling,qcp,,https://github.com/crazyscot/qcp,Quick File Copy using QUIC.
+office,tui-slides,,https://github.com/Chleba/tui-slides,TerminalpPresentation program with modern TUI.
