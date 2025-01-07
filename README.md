@@ -2114,6 +2114,8 @@ A list of some online resources that contribute interesting links to apps and in
 
 [Terminal Trove](https://terminaltrove.com/) - Collection of terminal CLI/TUI programs, with one page per program, nice screenshots and animated GIFs.
 
+[Terminal Directory](https://termui.sh/) - List of all (known) terminals.
+
 
 
 # <a name="contribute"></a>How to contribute
