@@ -10,14 +10,14 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1661**
+* Apps/tools: **1662**
 * Categories: **77**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (32), [Anki, decks and flashcards](#flashcard) (8)
 * [Backup](#backup) (17)
-* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (15)
+* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (15)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (29), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (17)
@@ -196,6 +196,7 @@ Programs that use GPT and GPT-like engines to generate commands at the command l
 * [gpt-do](https://github.com/yasyf/gpt-do) - This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you.
 * [Llama Terminal Completion](https://github.com/adammpkins/llama-terminal-completion) - Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts.
 * [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+* [shy-sh](https://github.com/mceck/shy-sh) - Shell AI copilot.
 * [Yai](https://github.com/ekkinox/yai) - Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you.
 
 ## <a name="launcher"></a>Command launchers
