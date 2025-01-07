@@ -1655,3 +1655,4 @@ office,tuitorial,,https://github.com/basnijholt/tuitorial,Create beautiful termi
 data-management-tabular,Probe,,https://github.com/shaankhosla/probe,Interactive SQL query tool for file analysis.
 option-picker,tui-datepicker,,https://github.com/maraloon/tui-datepicker,Select date in terminal with vim-motions and copy to buffer.
 git,patchy,,https://github.com/NikitaRevenco/patchy,A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests.
+text-search,bookworm,,https://github.com/kiran94/bookworm,LLM-powered bookmark search engine.
