@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1655**
+* Apps/tools: **1656**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (29), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (16)
-* [Games](#games) (56), [Git and accessories](#git) (56), [Graphics](#graphics) (43)
+* [Games](#games) (56), [Git and accessories](#git) (57), [Graphics](#graphics) (43)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (79), [Note taking](#note-taking) (26)
@@ -938,6 +938,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [mergestat-lite](https://github.com/mergestat/mergestat-lite) - A command-line tool for running SQL queries on git repositories and related data sources.
 * [mkgit](https://github.com/cosmicwanderer7/mkgit) - This Bash script automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository. The script prompts the user for a repository name and utilizes the GitHub API to create a new public repository.
 * [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
+* [patchy](https://github.com/NikitaRevenco/patchy) - A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests.
 * [prs](https://github.com/dhth/prs) - Stay updated on PRs without leaving the terminal.
 * [rcz](https://github.com/Cassin01/rcz) - A tool to write a commit message based on “Conventional Commits”.
 * [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
