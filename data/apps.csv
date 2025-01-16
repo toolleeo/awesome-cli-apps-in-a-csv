@@ -359,6 +359,7 @@ git,Soft Serve,,https://github.com/charmbracelet/soft-serve,Self-hostable Git se
 text-processing,deadlink,,https://github.com/nschloe/deadlink,Parses text files for HTTP URLs and checks if they are still valid. Good to use on Markdown documentation files.
 cd,SmartCd,,https://github.com/CodesOfRishi/smartcd,"A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching."
 terminal,mx,,https://gitlab.com/lpireyn/mx,A tmux session manager written as a single Bash script.
+terminal,mynav,,https://github.com/GianlucaP106/mynav,Workspace and session management TUI.
 time-tracker,Bartib,,https://github.com/nikolassv/bartib,Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plain-text file and allows you to create flexible reports.
 productivity,gdir,,https://github.com/pafoster/gdir,A command line tool which queries Google Directions. The tool displays results as human-readable text.
 webdev,Mycorrhiza Wiki,https://mycorrhiza.wiki/,https://github.com/bouncepaw/mycorrhiza,A lightweight file-system wiki engine that uses Git for keeping history.
