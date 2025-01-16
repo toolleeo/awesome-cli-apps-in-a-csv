@@ -1702,7 +1702,7 @@ Terminal and terminal multiplexers.
 * [mlterm](https://mlterm.sourceforge.net/) - A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency.
 * [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
 * [mx](https://gitlab.com/lpireyn/mx) - A tmux session manager written as a single Bash script.
-* [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+* [mynav](https://github.com/GianlucaP106/mynav) - A powerful terminal-based workspace navigator and session manager built in Go, MyNav helps developers organize and manage multiple projects through an intuitive interface, seamlessly integrating with tmux sessions.
 * [peaches](https://github.com/KCaverly/peaches) - A smart switcher for the terminal. Based on tmux.
 * [screen](https://www.gnu.org/software/screen/) - Terminal multiplexer that split a physical terminal between several processes, typically interactive shells.
 * [st](https://st.suckless.org/) - A simple terminal implementation for X.
