@@ -1662,3 +1662,4 @@ option-picker,television,,https://github.com/alexpasmantier/television,Blazing f
 video,yt-x,,https://github.com/Benexl/yt-x,"Browse youtube from your terminal, with text-based UI using `fzf` or `rofi` for seamless navigation.",,
 conversion,MarkItDown,,https://github.com/microsoft/markitdown,Python tool for converting files and office documents to Markdown.,,
 copilot,shy-sh,,https://github.com/mceck/shy-sh,Shell AI copilot.,,
+graphics,astroterm,,https://github.com/da-luce/astroterm,"A planetarium for your terminal. Explore stars, planets, constellations, and more!",,
