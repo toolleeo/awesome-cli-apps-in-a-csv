@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1666**
+* Apps/tools: **1667**
 * Categories: **77**
 
 # Contents
@@ -26,7 +26,7 @@ Summary:
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (79), [Note taking](#note-taking) (26)
 * [Office tools](#office) (18), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (44), [Prompts](#prompt) (15)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (53), [System monitoring](#monitor) (32), [System tools](#system) (31)
 * [Terminals](#terminal) (23), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (13), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
@@ -1358,6 +1358,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search in 200+ offline documentation sets API docs offline, in your terminal or browser.
 * [DEM](https://www.axemsolutions.io/dem_doc/index.html) - Containerized Development Environment Manager for embedded development.
 * [devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments.
+* [dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to centrally manage .env files. Written in Python powered by Textual.
 * [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
 * [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
 * [Flox](https://github.com/flox/flox) - Developer environments you can take with you.
