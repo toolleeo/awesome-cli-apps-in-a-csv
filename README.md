@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1693**
+* Apps/tools: **1694**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (58), [Git and accessories](#git) (58), [Graphics](#graphics) (45)
+* [Games](#games) (58), [Git and accessories](#git) (59), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (80), [Note taking](#note-taking) (28)
@@ -906,6 +906,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 
 Tools to support and extend the functionalities of the `git` version tracker.
 
+* [automate-git-commands](https://github.com/LEDparty/automate-git-commands) - Automates many of the common uses of git, ssh key generation, and ssh configuration.
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 * [czg](https://github.com/Zhengqbbb/cz-git) - Interactively generate standardized commit messages.
 * [dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal.
