@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1689**
+* Apps/tools: **1690**
 * Categories: **77**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (58), [Git and accessories](#git) (58), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (79), [Note taking](#note-taking) (27)
+* [Networking](#networking) (80), [Note taking](#note-taking) (27)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (11), [Religion](#religion) (4)
@@ -1043,6 +1043,7 @@ Utilities to display, convert and reformat Markdown files.
 
 Networks and communication tools: bandwidth monitoring, packet inspection, remote connection, VPNs, terminal sharing, etc..
 
+* [adless](https://github.com/WIttyJudge/adless) - Local domains blocker written in Go.
 * [asn](https://github.com/nitefood/asn) - Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server.
 * [ATAC](https://github.com/Julien-cpsn/ATAC) - Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever.
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
