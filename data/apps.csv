@@ -1684,3 +1684,4 @@ office,bashform,,https://github.com/devmegablaster/bashform,Create and share for
 rss,feedln,,https://github.com/xqtr/feedln,A simple terminal RSS reader.
 ai,wut,,https://github.com/shobrook/wut,An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
 games,term-asteroids,,https://github.com/NoiseByNorthwest/term-asteroids,"An Asteroids-like game, running in a terminal, written in PHP."
+games,chess-tui,,https://github.com/thomas-mauran/chess-tui,"Play chess from your terminal."
