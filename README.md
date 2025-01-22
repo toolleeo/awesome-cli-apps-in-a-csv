@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1675**
+* Apps/tools: **1676**
 * Categories: **77**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (34), [Anki, decks and flashcards](#flashcard) (8)
+* [AI / ChatGPT](#ai) (34), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (17)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (15)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
@@ -81,6 +81,7 @@ Manage decks of flashcards and Anki decks.
 * [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
 * [mdfc](https://github.com/bttger/markdown-flashcards) - Easily create and study flashcards using a Markdown file with spaced repetition.
 * [py_flashcards](https://github.com/M4THYOU/py_flashcards) - Text-only CLI flashcards parsed from Markdown file.
+* [revise-tui](https://github.com/noelzubin/revise-tui) - A TUI Anki client. Revise is a command-line program used to schedule the review of items using spaced repetition.
 * [speki](https://github.com/tbs1996/speki) - Manage flashcards in the terminal similar to anki.
 * [ToRRential Card processor](https://github.com/Constantin1489/trrc) - A command-line program to add a card to Anki using AnkiConnect API.
 * [tui-deck](https://github.com/mebitek/tui-deck) - A TUI frontend for Nextcloud Deck app.
