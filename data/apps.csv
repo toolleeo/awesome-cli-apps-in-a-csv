@@ -1691,3 +1691,4 @@ note-taking,lazyorg,,https://github.com/HubertBel/lazyorg,Simple terminal-based 
 networking,adless,,https://github.com/WIttyJudge/adless,Local domains blocker written in Go.
 note-taking,note,,https://github.com/armand-sauzay/note,A modern terminal-based note-taking application built with Bubble Tea and Lip Gloss to organize your thoughts with style.
 vm,ocui,,https://github.com/fishinthecalculator/ocui,Simple text based UI for managing containers.
+typing,typist,,https://github.com/wick3dr0se/typist,A stupid simple type test written in pure Bash v5.1+.
