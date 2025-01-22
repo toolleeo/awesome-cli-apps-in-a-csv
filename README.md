@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1663**
+* Apps/tools: **1664**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (29), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (56), [Git and accessories](#git) (57), [Graphics](#graphics) (43)
+* [Games](#games) (56), [Git and accessories](#git) (57), [Graphics](#graphics) (44)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (79), [Note taking](#note-taking) (26)
@@ -958,6 +958,7 @@ Applications to process images, colors, and ASCII art.
 * [Aewan](http://aewan.sourceforge.net/) - Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 * [Artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (JPG, PNG, WEBP, etc.) to ASCII art, written in Rust.
 * [ArTTY](https://github.com/mjwhitta/artty) - Pixel art with optional system info, similar to Neofetch.
+* [astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal. Explore stars, planets, constellations, and more!
 * [BlockPaint](https://github.com/wooster0/blockpaint) - BlockPaint is a painting program that allows you to draw pixel graphics in the terminal using the mouse.
 * [catnip](https://github.com/sweetbbak/catnip) - An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 * [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21 st century.
