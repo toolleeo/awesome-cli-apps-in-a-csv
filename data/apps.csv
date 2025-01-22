@@ -1668,3 +1668,4 @@ git,mamediff,,https://github.com/sile/mamediff,A TUI editor for managing unstage
 programming,dotenvhub,,https://github.com/Zaloog/dotenvhub,Terminal App to centrally manage .env files. Written in Python powered by Textual.
 music,kmp3,,https://github.com/korei999/kmp3,Little music player with some peculiar characteristics.
 text-processing,modo,,https://github.com/elliot40404/modo,A cross platform cli app to interact with markdown style checkboxes within any text file.
+ai,kwaak,,https://github.com/bosun-ai/kwaak,Run a team of autonomous AI agents on your code.
