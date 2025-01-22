@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1676**
+* Apps/tools: **1677**
 * Categories: **77**
 
 # Contents
@@ -28,7 +28,7 @@ Summary:
 * [Office tools](#office) (18), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (32), [System tools](#system) (32)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (33), [System tools](#system) (32)
 * [Terminals](#terminal) (23), [Text processing](#text-processing) (47), [Text search (alternatives to grep)](#text-search) (13), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (44)
 * [Versioning](#versioning) (9), [Video](#video) (13), [Viewers](#viewers) (30)
@@ -1629,6 +1629,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 
 Applications to display the usage of system resources: network, memory, power, etc..
 
+* [aserial](https://github.com/CT3/aserial) - A serial monitor with error/warning highlighting and scrollable interface.
 * [Batfetch](https://github.com/ashish-kus/batfetch) - A command-line tool that displays detailed information about the battery of your device in a clean and organized way.
 * [dmidecode](https://www.nongnu.org/dmidecode/) - System information utility.
 * [dysk](https://dystroy.org/dysk) - A thing to get information on your mounted disks

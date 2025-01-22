@@ -1675,3 +1675,4 @@ system,qman,,https://github.com/plp13/qman,A more modern man page viewer for our
 utility,Aniweather,,https://github.com/miselume/aniweather,Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
 ai,leettools,,https://github.com/leettools-dev/leettools,AI Search tools.
 flashcard,revise-tui,,https://github.com/noelzubin/revise-tui,A TUI Anki client. Revise is a command-line program used to schedule the review of items using spaced repetition.
+monitor,aserial,,https://github.com/CT3/aserial,A serial monitor with error/warning highlighting and scrollable interface.
