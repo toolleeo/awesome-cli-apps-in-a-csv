@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1690**
+* Apps/tools: **1691**
 * Categories: **77**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (58), [Git and accessories](#git) (58), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (80), [Note taking](#note-taking) (27)
+* [Networking](#networking) (80), [Note taking](#note-taking) (28)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (11), [Religion](#religion) (4)
@@ -1144,6 +1144,7 @@ Tools to take, organize and manage notes.
 * [mn](https://github.com/misopog/mn) - A dead simple note-taking script.
 * [nb](https://github.com/xwmx/nb) - A command line and local web note-taking, bookmarking, archiving, and knowledge base application.
 * [note](https://github.com/bdazl/note) - Minimalistic note taking.
+* [note](https://github.com/armand-sauzay/note) - A modern terminal-based note-taking application built with Bubble Tea and Lip Gloss to organize your thoughts with style.
 * [Noted](https://github.com/torbratsberg/noted) - Notes library, with viewer and shortcuts to add, delete and edit notes.
 * [NoteSH](https://github.com/Cvaniak/NoteSH) - Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!
 * [posce](https://github.com/vdt/posce) - A note-taking toolkit for your command line.

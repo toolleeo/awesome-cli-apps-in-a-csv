@@ -1689,3 +1689,4 @@ launcher,paneru,,https://github.com/pondda/paneru,Launcher panel from the termin
 graphics,greentext,,https://github.com/jasonuc/greentext,A CLI tool for creating green-text memes.
 note-taking,lazyorg,,https://github.com/HubertBel/lazyorg,Simple terminal-based calendar and note-taking app.
 networking,adless,,https://github.com/WIttyJudge/adless,Local domains blocker written in Go.
+note-taking,note,,https://github.com/armand-sauzay/note,A modern terminal-based note-taking application built with Bubble Tea and Lip Gloss to organize your thoughts with style.
