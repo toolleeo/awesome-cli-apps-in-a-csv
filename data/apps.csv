@@ -1677,3 +1677,4 @@ ai,leettools,,https://github.com/leettools-dev/leettools,AI Search tools.
 flashcard,revise-tui,,https://github.com/noelzubin/revise-tui,A TUI Anki client. Revise is a command-line program used to schedule the review of items using spaced repetition.
 monitor,aserial,,https://github.com/CT3/aserial,A serial monitor with error/warning highlighting and scrollable interface.
 ai,termite,,https://github.com/shobrook/termite,Generative UI in your terminal.
+chat,cli_chat_app,,https://github.com/Johnkhk/cli_chat_app,A end-to-end encrypted chat application.
