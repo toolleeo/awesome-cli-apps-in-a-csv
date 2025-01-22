@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1668**
+* Apps/tools: **1669**
 * Categories: **77**
 
 # Contents
@@ -29,7 +29,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (32), [System tools](#system) (31)
-* [Terminals](#terminal) (23), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (13), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
+* [Terminals](#terminal) (23), [Text processing](#text-processing) (47), [Text search (alternatives to grep)](#text-search) (13), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (43)
 * [Versioning](#versioning) (9), [Video](#video) (13), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
@@ -1752,6 +1752,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [logshark](https://github.com/ugosan/logshark) - Logshark is a debugger CLI for JSON logs written in Go.
 * [logu](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
+* [modo](https://github.com/elliot40404/modo) - A cross platform cli app to interact with markdown style checkboxes within any text file.
 * [Normalize Country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard.
 * [Output as Format ](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
 * [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
