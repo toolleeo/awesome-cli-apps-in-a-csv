@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1680**
+* Apps/tools: **1681**
 * Categories: **77**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (35), [Anki, decks and flashcards](#flashcard) (9)
+* [AI / ChatGPT](#ai) (36), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (17)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (35), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (15)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
@@ -51,6 +51,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [clai](https://github.com/iivvoo/clai) - Command Line AI is a command line integration for openai. It's setup to help you learn new shell commands and construct more complex commands.
 * [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types.
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
+* [egit](https://github.com/Sweet-Papa-Technologies/egit) - A.I. tools and workflows for Git.
 * [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual.
 * [fabric](https://github.com/danielmiessler/fabric) - An open-source framework for augmenting humans using AI, providing a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * [gemini-cli](https://github.com/reugn/gemini-cli) - A command-line interface (CLI) for Google Gemini.
