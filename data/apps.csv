@@ -1663,3 +1663,4 @@ video,yt-x,,https://github.com/Benexl/yt-x,"Browse youtube from your terminal, w
 conversion,MarkItDown,,https://github.com/microsoft/markitdown,Python tool for converting files and office documents to Markdown.,,
 copilot,shy-sh,,https://github.com/mceck/shy-sh,Shell AI copilot.,,
 graphics,astroterm,,https://github.com/da-luce/astroterm,"A planetarium for your terminal. Explore stars, planets, constellations, and more!",,
+office,ggl,,https://github.com/taraqfarhan/ggl,"Search the web (google, youtube, gmail, wiki, github, stackoverflow), prompt to send emails, prompt chatGPT, Gemini right from the terminal (command line).",,
