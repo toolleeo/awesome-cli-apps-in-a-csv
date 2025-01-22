@@ -10,14 +10,14 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1691**
+* Apps/tools: **1692**
 * Categories: **77**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (37), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (17)
-* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (35), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (15)
+* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (35), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (15)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (17)
@@ -280,6 +280,7 @@ Tools to manage virtual machines and/or containers and related utilities.
 * [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 * [lxc](https://linuxcontainers.org/lxc) - A userspace interface for the Linux kernel containment features.
 * [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU.
+* [ocui](https://github.com/fishinthecalculator/ocui) - Simple text based UI for managing containers.
 * [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control docker containers.
 * [Pocker](https://github.com/pommee/Pocker) - Pocker is a TUI tool to help with docker related tasks, such as view containers/images, manage status of containers, see logs, attributes, environment variables and container statistics, filter logs based on keywords, start shell inside a container.
 * [podman](https://podman.io/) - Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images.
