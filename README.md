@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1699**
+* Apps/tools: **1700**
 * Categories: **77**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [RSS](#rss) (11), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (33), [System tools](#system) (35)
 * [Terminals](#terminal) (23), [Text processing](#text-processing) (48), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (15)
-* [Utilities](#utility) (44)
+* [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (13), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
 
@@ -1964,6 +1964,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions there are more than 100 exercises covering both the builtin re and third-party regex module.
 * [sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command.
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
+* [sisi](https://github.com/frost-beta/sisi) - Semantic image search CLI tool.
 * [sizeof](https://github.com/zackproser/sizeof) - Experimental CLI, written alongside ChatGPT4 and GitHub Copilot.
 * [Skylab](https://github.com/SerhiiStets/skylab) - A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
 * [sprinkles](https://github.com/KhalilOuali/sprinkles) - Randomly colors input text and outputs it to the terminal.
