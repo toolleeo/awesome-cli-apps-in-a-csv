@@ -1672,3 +1672,4 @@ ai,kwaak,,https://github.com/bosun-ai/kwaak,Run a team of autonomous AI agents o
 financial,ecb-rates,,https://github.com/lov3b/ecb-rates,Fetch exchage rates from the European Central Bank.
 data-management-tabular,rainfrog,,https://github.com/achristmascarl/rainfrog,A database management tui for PostGres.
 system,qman,,https://github.com/plp13/qman,A more modern man page viewer for our terminals.
+utility,Aniweather,,https://github.com/miselume/aniweather,Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.

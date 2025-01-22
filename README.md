@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1673**
+* Apps/tools: **1674**
 * Categories: **77**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (32), [System tools](#system) (32)
 * [Terminals](#terminal) (23), [Text processing](#text-processing) (47), [Text search (alternatives to grep)](#text-search) (13), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
-* [Utilities](#utility) (43)
+* [Utilities](#utility) (44)
 * [Versioning](#versioning) (9), [Video](#video) (13), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
 
@@ -1909,6 +1909,7 @@ Games and utilities to measure and/or improve the typing ability.
 
 Miscellaneous utilities that are not do not fit in other categories and they are not numerous enough that they do not require a dedicated category.
 
+* [Aniweather](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoization / caching library for bash scripts and shells
 * [bashtutor](https://github.com/agvxov/bashtutor) - Easily extendable utility to interactively showcase or teach CLIs, command line tasks, workflows and Bash itself.
