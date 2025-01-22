@@ -1664,3 +1664,4 @@ conversion,MarkItDown,,https://github.com/microsoft/markitdown,Python tool for c
 copilot,shy-sh,,https://github.com/mceck/shy-sh,Shell AI copilot.
 graphics,astroterm,,https://github.com/da-luce/astroterm,"A planetarium for your terminal. Explore stars, planets, constellations, and more!"
 office,ggl,,https://github.com/taraqfarhan/ggl,"Search the web (google, youtube, gmail, wiki, github, stackoverflow), prompt to send emails, prompt chatGPT, Gemini right from the terminal (command line)."
+git,mamediff,,https://github.com/sile/mamediff,A TUI editor for managing unstaged and staged Git diffs.
