@@ -1695,3 +1695,4 @@ typing,typist,,https://github.com/wick3dr0se/typist,A stupid simple type test wr
 git,automate-git-commands,,https://github.com/LEDparty/automate-git-commands,"Automates many of the common uses of git, ssh key generation, and ssh configuration."
 system,clipper,,https://github.com/supitsdu/clipper,"Seamlessly copy file contents to clipboard from command line. Lightweight, cross-platform tool for instant text transfers."
 system,shournal,,https://github.com/tycho-kirchner/shournal,Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
+text-processing,hburger,,https://github.com/niqodea/hburger,Shorten long strings and paths while preserving readability.
