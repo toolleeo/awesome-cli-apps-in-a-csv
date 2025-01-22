@@ -1687,3 +1687,4 @@ games,term-asteroids,,https://github.com/NoiseByNorthwest/term-asteroids,"An Ast
 games,chess-tui,,https://github.com/thomas-mauran/chess-tui,"Play chess from your terminal."
 launcher,paneru,,https://github.com/pondda/paneru,Launcher panel from the terminal.
 graphics,greentext,,https://github.com/jasonuc/greentext,A CLI tool for creating green-text memes.
+note-taking,lazyorg,,https://github.com/HubertBel/lazyorg,Simple terminal-based calendar and note-taking app.

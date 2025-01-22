@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1688**
+* Apps/tools: **1689**
 * Categories: **77**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (58), [Git and accessories](#git) (58), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (79), [Note taking](#note-taking) (26)
+* [Networking](#networking) (79), [Note taking](#note-taking) (27)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (11), [Religion](#religion) (4)
@@ -1138,6 +1138,7 @@ Tools to take, organize and manage notes.
 * [journalC](https://github.com/Dr-42/journalC) - A simple encrypted terminal journaling book.
 * [jrnl](https://github.com/jrnl-org/jrnl) - jrnl is a simple journal application for the command line to easily create, search, and view journal entries; journals are stored as human-readable plain text, and can also be encrypted using AES encryption.
 * [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
+* [lazyorg](https://github.com/HubertBel/lazyorg) - Simple terminal-based calendar and note-taking app.
 * [meudeus](https://github.com/dj8yfo/meudeus) - A skim-based `*.md` explore and surf tool.
 * [mn](https://github.com/misopog/mn) - A dead simple note-taking script.
 * [nb](https://github.com/xwmx/nb) - A command line and local web note-taking, bookmarking, archiving, and knowledge base application.
