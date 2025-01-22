@@ -1696,3 +1696,4 @@ git,automate-git-commands,,https://github.com/LEDparty/automate-git-commands,"Au
 system,clipper,,https://github.com/supitsdu/clipper,"Seamlessly copy file contents to clipboard from command line. Lightweight, cross-platform tool for instant text transfers."
 system,shournal,,https://github.com/tycho-kirchner/shournal,Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 text-processing,hburger,,https://github.com/niqodea/hburger,Shorten long strings and paths while preserving readability.
+text-search,zfind,,https://github.com/laktak/zfind,Search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter.
