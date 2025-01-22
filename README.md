@@ -1814,7 +1814,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 * [MyTimer](https://github.com/sepandhaghighi/mytimer) - Simple timer for the terminal with timer-mode and alarm.
 * [pom](https://github.com/maaslalani/pom) - Pomodoro timer for the terminal.
 * [Productivity Timer](https://github.com/h-sifat/productivity-timer) - A CLI/TUI Pomodoro timer and todo (coming soon) application for keyboard addicts and terminal fans that makes you more productive.
-* [tim:r](https://github.com/sectore/timr) - A TUI for organizing your time: Pomodoro
+* [tim:r](https://github.com/sectore/timr) - A TUI for organizing your time: Pomodoro Countdown counter.
 * [Timer-CLI](https://github.com/1Blademaster/timer-cli) - A very simple countdown timer.
 * [Timet](https://frankvielma.github.io/posts/timet-a-powerful-command-line-tool-for-tracking-your-time/) - A lightweight, local time tracker with SQLite storage, offering features like Pomodoro integration, block time and tag distribution plots, detailed statistics, and CSV/iCalendar export.
 * [Timetrap](https://github.com/samg/timetrap) - A simple command line time tracker written in Ruby. It provides an easy-to-use command line interface for tracking what you spend your time on.
