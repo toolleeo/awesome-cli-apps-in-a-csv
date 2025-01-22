@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1682**
+* Apps/tools: **1683**
 * Categories: **77**
 
 # Contents
@@ -27,7 +27,7 @@ Summary:
 * [Networking](#networking) (79), [Note taking](#note-taking) (26)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
-* [RSS](#rss) (10), [Religion](#religion) (4)
+* [RSS](#rss) (11), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (33), [System tools](#system) (33)
 * [Terminals](#terminal) (23), [Text processing](#text-processing) (47), [Text search (alternatives to grep)](#text-search) (13), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (44)
@@ -1426,6 +1426,7 @@ Prompts and welcome messages at the command line.
 RSS feed visualizers, converters, and managers.
 
 * [Canto Curses](https://github.com/themoken/canto-curses) - Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
+* [feedln](https://github.com/xqtr/feedln) - A simple terminal RSS reader.
 * [Newsbeuter](http://newsbeuter.org/) - "The Mutt of RSS Feed Readers": Newsbeuter is an open source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard.
 * [Newsboat](https://newsboat.org/) - An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
 * [Newsraft](https://codeberg.org/newsraft/newsraft) - Newsraft is a feed reader with ncurses user interface. It is greatly inspired by Newsboat and tries to be its lightweight counterpart.
