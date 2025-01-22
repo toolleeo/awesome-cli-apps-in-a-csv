@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1684**
+* Apps/tools: **1685**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (36), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (56), [Git and accessories](#git) (58), [Graphics](#graphics) (44)
+* [Games](#games) (57), [Git and accessories](#git) (58), [Graphics](#graphics) (44)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (79), [Note taking](#note-taking) (26)
@@ -886,6 +886,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [sssnake](https://github.com/AngelJumbo/sssnake) - (Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.
 * [T-RexC](https://github.com/StiveMan1/T-RexC) - Simple Console Google T-Rex Game.
 * [terdle](https://github.com/neelkarma/terdle) - Wordle implemented in Rust.
+* [term-asteroids](https://github.com/NoiseByNorthwest/term-asteroids) - An Asteroids-like game, running in a terminal, written in PHP.
 * [Terminal Phase](https://dustycloud.org/blog/terminal-phase-1.0/) - A space shooter game you can play in your terminal.
 * [Terminal Roulette](https://github.com/levkush/TerminalRoulette) - Your own roulette table in the terminal.
 * [terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals.
