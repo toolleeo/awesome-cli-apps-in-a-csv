@@ -1666,3 +1666,4 @@ graphics,astroterm,,https://github.com/da-luce/astroterm,"A planetarium for your
 office,ggl,,https://github.com/taraqfarhan/ggl,"Search the web (google, youtube, gmail, wiki, github, stackoverflow), prompt to send emails, prompt chatGPT, Gemini right from the terminal (command line)."
 git,mamediff,,https://github.com/sile/mamediff,A TUI editor for managing unstaged and staged Git diffs.
 programming,dotenvhub,,https://github.com/Zaloog/dotenvhub,Terminal App to centrally manage .env files. Written in Python powered by Textual.
+music,kmp3,,https://github.com/korei999/kmp3,Little music player with some peculiar characteristics.
