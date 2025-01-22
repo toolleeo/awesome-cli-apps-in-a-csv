@@ -1699,3 +1699,4 @@ text-processing,hburger,,https://github.com/niqodea/hburger,Shorten long strings
 text-search,zfind,,https://github.com/laktak/zfind,Search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter.
 graphics,gowall,,https://github.com/Achno/gowall,"A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction, image upsacling with Adversarial Networks  and more image processing features."
 utility,sisi,,https://github.com/frost-beta/sisi,Semantic image search CLI tool.
+funny,rich_life,,https://github.com/paulrobello/rich_life,Conway's Game of Life and Langton's Ant.
