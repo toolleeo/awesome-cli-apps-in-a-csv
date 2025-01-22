@@ -1678,3 +1678,4 @@ flashcard,revise-tui,,https://github.com/noelzubin/revise-tui,A TUI Anki client.
 monitor,aserial,,https://github.com/CT3/aserial,A serial monitor with error/warning highlighting and scrollable interface.
 ai,termite,,https://github.com/shobrook/termite,Generative UI in your terminal.
 chat,cli_chat_app,,https://github.com/Johnkhk/cli_chat_app,A end-to-end encrypted chat application.
+system,clipy,,https://github.com/szktkfm/clipy,Manage clipboard history.
