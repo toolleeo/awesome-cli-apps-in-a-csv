@@ -1703,3 +1703,4 @@ funny,rich_life,,https://github.com/paulrobello/rich_life,Conway's Game of Life 
 system,sysz,,https://github.com/joehillen/sysz,fzf terminal UI for systemctl.
 system,systemctl-tui,,https://github.com/rgwood/systemctl-tui,A fast simple TUI for interacting with systemd services and their logs.
 networking,ggh,,https://github.com/byawitz/ggh,"Recall your SSH sessions, also searching your SSH config file."
+terminal,ghostty,,https://github.com/ghostty-org/ghostty/,"A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration"
