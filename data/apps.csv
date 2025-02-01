@@ -1700,3 +1700,6 @@ text-search,zfind,,https://github.com/laktak/zfind,Search for files (even inside
 graphics,gowall,,https://github.com/Achno/gowall,"A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction, image upsacling with Adversarial Networks  and more image processing features."
 utility,sisi,,https://github.com/frost-beta/sisi,Semantic image search CLI tool.
 funny,rich_life,,https://github.com/paulrobello/rich_life,Conway's Game of Life and Langton's Ant.
+system,sysz,,https://github.com/joehillen/sysz,fzf terminal UI for systemctl
+system,systemctl-tui,,https://github.com/rgwood/systemctl-tui,A fast simple TUI for interacting with systemd services and their logs
+networking,ggh,,https://github.com/byawitz/ggh,Recall your SSH sessions (also search your SSH config file)
