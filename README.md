@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1704**
+* Apps/tools: **1705**
 * Categories: **77**
 
 # Contents
@@ -29,7 +29,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (11), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (33), [System tools](#system) (37)
-* [Terminals](#terminal) (23), [Text processing](#text-processing) (48), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (15)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (48), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (15)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (13), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
@@ -1733,6 +1733,7 @@ Terminal and terminal multiplexers.
 * [dtach](https://github.com/crigler/dtach) - A program written in C that emulates the detach feature of screen.
 * [dvtm](https://www.brain-dump.org/projects/dvtm) - Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
 * [extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators.
+* [ghostty](https://github.com/ghostty-org/ghostty/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * [kitty](https://sw.kovidgoyal.net/kitty/) - A fast, feature-rich, GPU based terminal emulator.
 * [mlterm](https://mlterm.sourceforge.net/) - A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency.
 * [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
