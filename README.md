@@ -808,7 +808,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 * [neo](https://github.com/st3w/neo) - Recreates the digital rain effect from "The Matrix". Streams of random characters will endlessly scroll down your terminal screen.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * [paclear](https://github.com/orangekame3/paclear) - paclear is a clear command with pacman animation.
-* [pokeget](https://github.com/talwat/pokeget) - A bash script you can use to display cool sprites of Pokemon in your terminal.
+* [pokeget](https://github.com/talwat/pokeget-rs) - A bash script you can use to display cool sprites of Pokemon in your terminal.
 * [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 * [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
 * [rich_life](https://github.com/paulrobello/rich_life) - Conway's Game of Life and Langton's Ant.

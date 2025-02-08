@@ -558,7 +558,7 @@ editors,o,,https://github.com/xyproto/orbiton,"Configuration-free text editor an
 games,Pokete,,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.
 git,czg,,https://github.com/Zhengqbbb/cz-git,Interactively generate standardized commit messages.
 transfer,portal,,https://github.com/SpatiumPortae/portal,A quick and easy command-line file transfer utility from any computer to another.
-funny,pokeget,,https://github.com/talwat/pokeget,A bash script you can use to display cool sprites of Pokemon in your terminal.
+funny,pokeget,,https://github.com/talwat/pokeget-rs,A bash script you can use to display cool sprites of Pokemon in your terminal.
 monitor-top,tiptop,,https://github.com/nschloe/tiptop,"A command-line system monitoring tool in the spirit of top, written in Python. It displays various interesting system stats and graphs them. Works on all operating systems."
 webdev,iola,,https://github.com/pvarentsov/iola,A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.
 data-management,lowcharts,,https://github.com/juan-leon/lowcharts,lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
