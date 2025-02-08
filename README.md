@@ -17,14 +17,14 @@ Summary:
 
 * [AI / ChatGPT](#ai) (37), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (18)
-* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (35), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (15)
+* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (15)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (37), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (58), [Git and accessories](#git) (59), [Graphics](#graphics) (46)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (81), [Note taking](#note-taking) (28)
+* [Networking](#networking) (80), [Note taking](#note-taking) (28)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (11), [Religion](#religion) (4)
@@ -145,6 +145,7 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [GNU Freetalk](https://www.gnu.org/software/freetalk/) - A console based chat client for Jabber and other XMPP servers. It has context-sensitive autocompletion for buddy names, commands, and even ordinary English words.
 * [gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 * [iamb](https://iamb.chat/) - A Matrix client for the terminal that uses Vim keybindings.
+* [icy_tools](https://github.com/mkrueger/icy_term) - Icy Term a terminal program for legacy BBS systems, Icy Draw a drawing tool supporting almost all ANSI formats, Icy View a viewer to browse/view Ansi screens, Icy Play a tool that shows icy draw animations on cmd line/bbs.
 * [irssi](http://www.irssi.org) - The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols.
 * [kirc](http://kirc.io/) - A tiny IRC client written in POSIX C99.
 * [matrix-commander](https://github.com/8go/matrix-commander) - Simple but convenient CLI-based Matrix client app for sending and receiving.
@@ -1073,7 +1074,6 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [havn](https://github.com/mrjackwills/havn) - A fast configurable port scanner with reasonable defaults.
 * [hflow](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
 * [humble-explorer](https://github.com/koenvervloesem/humble-explorer) - Cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
-* [icy_term](https://github.com/mkrueger/icy_term) - Old school ANSI/AVT terminal program for modern systems for connecting to BBS systems.
 * [impala](https://github.com/pythops/impala) - TUI for managing wifi networks and connections on Linux.
 * [ipcalc](http://jodies.de/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
 * [Kapow!](https://github.com/BBVA/kapow) - Say we have a nice cozy shell command that solves our problem. Kapow! lets us easily turn that into an HTTP API.

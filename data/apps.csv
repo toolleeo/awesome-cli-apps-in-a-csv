@@ -1436,7 +1436,7 @@ terminal,wterm,,https://github.com/TornadoCookie/wterm,A native Wayland terminal
 terminal,mlterm,https://mlterm.sourceforge.net/,https://github.com/arakiken/mlterm,"A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency."
 games,sshattrick,,https://github.com/ricott1/sshattrick,Play Hattrick in your terminal over SSH.
 git,mkgit,,https://github.com/cosmicwanderer7/mkgit,"This Bash script automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository. The script prompts the user for a repository name and utilizes the GitHub API to create a new public repository."
-networking,icy_term,,https://github.com/mkrueger/icy_term,Old school ANSI/AVT terminal program for modern systems for connecting to BBS systems.
+chat,icy_tools,,https://github.com/mkrueger/icy_term,"Icy Term a terminal program for legacy BBS systems, Icy Draw a drawing tool supporting almost all ANSI formats, Icy View a viewer to browse/view Ansi screens, Icy Play a tool that shows icy draw animations on cmd line/bbs."
 text-processing,toolong,,https://github.com/Textualize/toolong,"A terminal application to view, tail, merge, and search log files (plus JSONL)."
 torrent,toru,,https://github.com/sweetbbak/toru,BitTorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
 option-picker,fuzzysh,,https://github.com/yazgoo/fuzzysh,"Minimalist selector in shell, inspired by fzf."
