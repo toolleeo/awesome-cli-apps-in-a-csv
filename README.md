@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1705**
+* Apps/tools: **1704**
 * Categories: **77**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (58), [Git and accessories](#git) (59), [Graphics](#graphics) (46)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (80), [Note taking](#note-taking) (28)
+* [Networking](#networking) (79), [Note taking](#note-taking) (28)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1064,7 +1064,6 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [echo](https://github.com/devem-tech/echo) - Speedy API emulation facilitated by a reverse proxy and mock JSON server.
 * [ejabberd](https://www.ejabberd.im/) - ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language.
 * [generate-ip](https://generate-ip.org) - Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses.
-* [geoiplookup](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
 * [geolocate](https://geolocatejs.org) - Fetch IP geolocation data.
 * [gg](https://github.com/mzz2017/gg) - A command-line tool for one-click proxy in your research and development without installing v2ray or anything else.
 * [ggh](https://github.com/byawitz/ggh) - Recall your SSH sessions, also searching your SSH config file.
