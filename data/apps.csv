@@ -856,7 +856,6 @@ copilot,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface 
 rm,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 ai,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
 writing,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms, and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
-markdown,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdown,"Experimental ""Markdown browser"" for the terminal, built with Textual."
 transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
 music,mpvc,,https://github.com/gmt4/mpvc,A minimal mpc-like CLI and TUI for controlling mpv from the shell.
 funny,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your terminal.
