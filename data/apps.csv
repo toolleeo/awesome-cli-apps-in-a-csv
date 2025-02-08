@@ -167,7 +167,6 @@ browser,Links,http://www.jikos.cz/~mikulas/links//,,A textual Web browser with t
 browser,Elinks,http://elinks.cz/,https://repo.or.cz/elinks.git,"""Advanced and well-established feature-rich text mode web browser""; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor."
 browser,Lynx,http://lynx.invisible-island.net/,,"A highly configurable text-based web browser, one of the oldest CLI browser I'm aware of."
 browser,w3m,http://w3m.sourceforge.net/,https://sourceforge.net/projects/w3m/,"A text-based web browser as well as a pager like `less`, it can be used as a text formatting tool which typesets HTML into plain text."
-rss,Newsbeuter,http://newsbeuter.org/,https://github.com/akrennmair/newsbeuter,"""The Mutt of RSS Feed Readers"": Newsbeuter is an open source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard."
 email,alpine,http://www.washington.edu/alpine/,,"Mail client which aims at being ""fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users""."
 email,alot,,https://github.com/pazz/alot,"MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support."
 email,mbsync,http://isync.sourceforge.net/mbsync.html,,"Mailboxes synchronization tool, allows downloading email locally, MailDir format supported."
