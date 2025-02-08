@@ -1567,7 +1567,6 @@ funny,HARRY_POTTER_ALIASES,,https://github.com/P-Y-R-O-B-O-T/HARRY_POTTER_ALIASE
 rm,trashbhuwan,,https://github.com/tribhuwan-kumar/trashbhuwan,"Trashing CLI application for Linux distros, written in C."
 package-manager,pm-jesus,,https://github.com/sebastiancarlos/pm-jesus,Package manager front-end.
 music,bash_radio_player,,https://github.com/gokayburuc/bash_radio_player,Terminal Radio Player using mpv and fzf.
-ai,Sengpt,,https://github.com/SenZmaKi/Sengpt,"ChatGPT in your terminal, no OpenAI API key required."
 cheatsheet,cmdCompass,,https://github.com/johnwangwyx/cmdCompass,"Cross-platform terminal command manager/notebook with features like custom collections, tagging, variable substitution, and integrated man page with option highlighting."
 programming,bencher,,https://github.com/bencherdev/bencher,"Continuous benchmarking, Bencher allows you to track the performance of your code or binary over time and catch performance regressions before you release."
 system,ntfyme,,https://github.com/AnirudhG07/ntfyme,"Simple to use, cross platform notification tool which sends you local, gmail, telegram, etc notification when a long running process ends with detailed diagnostics, along with features like tracking for suspended process and terminate them automatically."
