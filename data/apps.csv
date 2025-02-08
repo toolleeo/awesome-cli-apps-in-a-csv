@@ -39,7 +39,7 @@ terminal,warp,,https://github.com/spolu/warp,Secure and simple terminal sharing.
 monitor-top,bpytop,,https://github.com/aristocratos/bpytop,Linux/macOS/FreeBSD resource monitor with a nice interface.
 monitor,glances,https://nicolargo.github.io/glances/,https://github.com/nicolargo/glances,"A comprehensive and detailed system monitor; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime."
 networking,GoTTY,,https://github.com/yudai/gotty,"Turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page."
-monitor,inxi,http://smxi.org/docs/inxi.htm,https://github.com/smxi/inxi,"A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script."
+monitor,inxi,http://smxi.org/docs/inxi.htm,https://codeberg.org/smxi/inxi.git,"A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script."
 monitor-top,iotop,http://guichaz.free.fr/iotop/,https://repo.or.cz/iotop.git,"""A Python program with a top like UI used to show of behalf of which process is the I/O going on""."
 monitor-top,htop,http://hisham.hm/htop/,https://github.com/htop-dev/htop,"An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors."
 monitor,multitail,https://www.vanheusden.com/multitail/,https://github.com/folkertvanheusden/multitail,Open multiple log files in a single terminal window and monitor them in real-time.
