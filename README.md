@@ -96,7 +96,7 @@ Tools to manage the backup of files and directories.
 * [autorestic](https://autorestic.vercel.app/) - A wrapper around the [restic](https://restic.net/) backup tool, with the goal of simplifying the setup and usage through the use of config files.
 * [borg](https://www.borgbackup.org/) - Encrypted backups with a clean and simple interface, easy to use and set up, possibility to mount the backup archive with FUSE and inspect it as a regular file system.
 * [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
-* [bupstash](https://github.com/andrewchambers/bupstash) - Bupstash offers secure, encrypted backups with efficient deduplication, client-side encryption, offline decryption, search-tagged data protection, strong privacy, robust performance on slow networks, memory-safe security against attacks, incremental backups, and minimal RAM usage for production use.
+* [bupstash](https://github.com/andrewchambers/bupstash) - Secure, encrypted backups with efficient deduplication, client-side encryption, offline decryption, search-tagged data protection, strong privacy, robust performance on slow networks, memory-safe security against attacks, incremental backups, and minimal RAM usage for production use.
 * [Crestic](https://nils-werner.github.io/crestic/) - Configurable Restic Wrapper.
 * [duplicity](http://duplicity.nongnu.org/) - Creates GPG encrypted, compressed backups; client-side encryption allows uploading the backup onto untrusted servers.
 * [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.
