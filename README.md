@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1700**
+* Apps/tools: **1701**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (23), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (37), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (58), [Git and accessories](#git) (59), [Graphics](#graphics) (46)
+* [Games](#games) (59), [Git and accessories](#git) (59), [Graphics](#graphics) (46)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (79), [Note taking](#note-taking) (28)
@@ -899,6 +899,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [terminordle](https://github.com/HP4k1h5/terminordle) - Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.
 * [tetrs](https://github.com/Strophox/tetrs) - Tetromino game engine and terminal application to play Tetris, written in Rust.
 * [tui-sudoku](https://gitlab.com/christosangel/tui-sudoku) - tui-sudoku is a configurable terminal interface sudoku game, with quite a few features.
+* [tuifoop](https://gitlab.com/christosangel/tuifoop) - Terminal puzzle game with the goal of removing as many cells as possible (or even all cells) from a grid. A terminal clone of Swell Foop.
 * [usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal.
 * [Wordle Solver](https://gitlab.com/christosangel/wordle-solver) - A bash script that can solve wordle riddles.
 * [wordle-curses](https://github.com/knosmos/wordle-curses) - A simple TUI wordle game with curses.

@@ -1699,3 +1699,4 @@ system,systemctl-tui,,https://github.com/rgwood/systemctl-tui,A fast simple TUI 
 networking,ggh,,https://github.com/byawitz/ggh,"Recall your SSH sessions, also searching your SSH config file."
 terminal,ghostty,,https://github.com/ghostty-org/ghostty/,"A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
 backup,ZnapZend,https://www.znapzend.org,https://github.com/oetiker/znapzend/,ZFS centric backup tool creates snapshots and sends them to backup volumes. It manages local and remote copies by thinning them out as time progresses.
+games,tuifoop,,https://gitlab.com/christosangel/tuifoop,Terminal puzzle game with the goal of removing as many cells as possible (or even all cells) from a grid. A terminal clone of Swell Foop.
