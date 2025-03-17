@@ -1702,3 +1702,4 @@ backup,ZnapZend,https://www.znapzend.org,https://github.com/oetiker/znapzend/,ZF
 games,tuifoop,,https://gitlab.com/christosangel/tuifoop,Terminal puzzle game with the goal of removing as many cells as possible (or even all cells) from a grid. A terminal clone of Swell Foop.
 games,shellphone,,https://github.com/kokasmark/shellphone,Terminal based Terraria player file editor.
 monitor,llmtop,,https://github.com/arinbjornk/llmtop,A system monitoring tool powered by LLMs that provides real-time insights about your system's performance.
+networking,blueutil-tui,,https://github.com/Zaloog/blueutil-tui,TUI for Mac to interact with bluetooth devices via blueutil.

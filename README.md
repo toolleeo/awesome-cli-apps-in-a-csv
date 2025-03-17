@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1703**
+* Apps/tools: **1704**
 * Categories: **77**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (60), [Git and accessories](#git) (59), [Graphics](#graphics) (46)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (79), [Note taking](#note-taking) (28)
+* [Networking](#networking) (80), [Note taking](#note-taking) (28)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1054,6 +1054,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [ATAC](https://github.com/Julien-cpsn/ATAC) - Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever.
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
+* [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - TUI for Mac to interact with bluetooth devices via blueutil.
 * [bmon](https://github.com/tgraf/bmon) - A monitoring and debugging tool to capture networking related statistics and prepare them visually in a human friendly way.
 * [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
 * [chiko](https://github.com/felangga/chiko) - The ultimate beauty gRPC Client on your Terminal: a simple tool to interact with gRPC services using a beautiful terminal interface.
