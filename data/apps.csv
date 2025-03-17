@@ -1705,3 +1705,4 @@ monitor,llmtop,,https://github.com/arinbjornk/llmtop,A system monitoring tool po
 networking,blueutil-tui,,https://github.com/Zaloog/blueutil-tui,TUI for Mac to interact with bluetooth devices via blueutil.
 git,ur-commit-mentor,,https://github.com/ddoemonn/ur-commit-mentor,A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API).
 text-processing,yek,,https://github.com/bodo-run/yek,A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption.
+note-taking,FuzPad,,https://github.com/JianZcar/FuzPad,"A minimalistic note management solution, powered by fzf."

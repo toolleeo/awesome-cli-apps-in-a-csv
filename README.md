@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1706**
+* Apps/tools: **1707**
 * Categories: **77**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (60), [Git and accessories](#git) (60), [Graphics](#graphics) (46)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (80), [Note taking](#note-taking) (28)
+* [Networking](#networking) (80), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1140,6 +1140,7 @@ Tools to take, organize and manage notes.
 * [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
 * [dnote](https://github.com/dnote/dnote) - A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
 * [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
+* [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution, powered by fzf.
 * [Geeknote](https://github.com/jeffkowalski/geeknote) - A command line client for Evernote that can be use on Linux, FreeBSD and OS X.
 * [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 * [jot](https://github.com/araekiel/jot) - Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.
