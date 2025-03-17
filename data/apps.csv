@@ -1703,3 +1703,4 @@ games,tuifoop,,https://gitlab.com/christosangel/tuifoop,Terminal puzzle game wit
 games,shellphone,,https://github.com/kokasmark/shellphone,Terminal based Terraria player file editor.
 monitor,llmtop,,https://github.com/arinbjornk/llmtop,A system monitoring tool powered by LLMs that provides real-time insights about your system's performance.
 networking,blueutil-tui,,https://github.com/Zaloog/blueutil-tui,TUI for Mac to interact with bluetooth devices via blueutil.
+git,ur-commit-mentor,,https://github.com/ddoemonn/ur-commit-mentor,A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API).
