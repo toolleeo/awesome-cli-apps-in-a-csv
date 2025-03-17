@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1705**
+* Apps/tools: **1706**
 * Categories: **77**
 
 # Contents
@@ -29,7 +29,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (34), [System tools](#system) (37)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (48), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (15)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (49), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (15)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (13), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
@@ -1804,6 +1804,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [ucto](https://languagemachines.github.io/ucto/) - Ucto tokenizes text files: it separates words from punctuation, and splits sentences. It has rules (regular-expression based) for several languages.
 * [Ultimate Plumber](https://github.com/akavel/up) - Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop.
 * [wg-cmd](https://github.com/AndrianBdn/wg-cmd) - TUI for managing WireGuard configuration files.
+* [yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption.
 
 ## <a name="text-search"></a>Text search (alternatives to grep)
 
