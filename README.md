@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1722**
+* Apps/tools: **1723**
 * Categories: **77**
 
 # Contents
@@ -20,7 +20,7 @@ Summary:
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (25), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (15)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (22), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
-* [File and file system handling](#file-handling) (24), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (38), [Fuzzy finders and option pickers](#option-picker) (17)
+* [File and file system handling](#file-handling) (25), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (38), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (60), [Git and accessories](#git) (60), [Graphics](#graphics) (47)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
@@ -609,6 +609,7 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [ForkFS](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
 * [gcp](https://github.com/aelafifi/gcp) - (Goffi's cp) - an advanced file copier tool, heavily inspired from the traditional `cp` command, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
 * [gcstree](https://github.com/owlinux1000/gcstree) - Tree command for GCS (Google Cloud Storage).
+* [lib-x](https://github.com/Benexl/lib-x) - Browse your calibre library from the terminal.
 * [logrotate](https://github.com/logrotate/logrotate) - Rotate, compress and mail logs.
 * [ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
