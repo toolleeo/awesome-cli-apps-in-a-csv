@@ -1736,3 +1736,4 @@ todo-manager,cursedtodo,,https://github.com/FLchs/cursedtodo,"A minimalist, term
 programming,llm-fuse,,https://github.com/antonbelev/llm-fuse,"A tool designed to quickly generate an aggregated text file, or multiple files when chunking is enabled, from numerous files within a repository that can then be pasted into a LLM prompt to provide context from multiple source files."
 viewers,timg,,https://github.com/hzeller/timg,A terminal image and video viewer.
 programming,ChatDBG,,https://github.com/plasma-umass/ChatDBG,AI-assisted debugging. Uses AI to answer 'why'.
+cheatsheet,snip,,https://github.com/mehran-prs/snip,A simple and minimal command-line snippet manager.
