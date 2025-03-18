@@ -1710,3 +1710,4 @@ data-management-tabular,csvsuite,,https://github.com/wiluite/csvsuite,"A suite o
 typing,chimp-type,,https://github.com/NewstellerBot/chimp-type,A minimal typing test for terminal written in go.
 monitor,ptrstream,,https://github.com/acidvegas/ptrstream,High-performance distributed PTR record scanner with real-time streaming output.
 text-processing,grits,,https://github.com/solidiquis/grits,"A simple line-text formatter that makes it simple to parse, filter, and format live logs turning noise into meaningful insights."
+utility,ccsum,,https://github.com/sevenc-nanashi/ccsum,"Convenient sha256sum (md5sum, sha1sum, and sha512sum) checksum with improved usability."
