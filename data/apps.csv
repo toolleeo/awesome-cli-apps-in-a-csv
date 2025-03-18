@@ -1726,3 +1726,4 @@ viewers,kplay,,https://github.com/dhth/kplay,Inspect messages in a Kafka topic i
 cheatsheet,rsnip,,https://github.com/sysid/rsnip,A powerful command-line snippet manager.
 graphics,TerrainGenerator,,https://github.com/NM711/TerrainGenerator,2D Terrain Generator to create procedural 2D worlds and maps.
 conversion,markdrop,,https://github.com/shoryasethia/markdrop,"Converts PDFs to markdown while extracting images and tables, generating descriptive text descriptions for extracted tables/images using several LLM clients."
+git,unreal-git-hook,,https://github.com/dmayboroda/unreal-git-hook,Mix of git-hook and Unreal Tournament announcer.
