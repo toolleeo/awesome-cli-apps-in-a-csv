@@ -1722,3 +1722,4 @@ screen-recorder,terminal-svg-screenshot,,https://github.com/suin/terminal-svg-sc
 funny,clouddrift,,https://github.com/thrly/clouddrift#readme,Soft clouds drifting across your terminal.
 cd,Shunpo,,https://github.com/egurapha/Shunpo,A minimalist bash tool that makes directory navigation just a little bit faster.
 file-handling,lib-x,,https://github.com/Benexl/lib-x,Browse your calibre library from the terminal.
+viewers,kplay,,https://github.com/dhth/kplay,Inspect messages in a Kafka topic in a simple and deliberate manner.
