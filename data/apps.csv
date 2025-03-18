@@ -1716,3 +1716,4 @@ video,subauto,,https://github.com/ricjuanflores/subauto,"CLI tool for transcribi
 file-handling,zip-stream-cli,,https://github.com/alexandre-garrec/zip-stream-cli,"A tool that allows to stream and display the contents of various file types from a remote ZIP archive directly in your terminal. With support for images, audio files, text, PDFs, and more,"
 email,maildir-rank-addr,,https://github.com/ferdinandyb/maildir-rank-addr,"Creates a ranked list of email addresses from local email files, which can be used for address completion for example in aerc."
 cheatsheet,tome,,https://github.com/laktak/tome,Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux).
+programming,lab,,https://github.com/lugenx/lab,"Lab helps you experiment with code without friction. Type `lab` with any extension and start coding - it handles files, organization, and cleanup automatically."
