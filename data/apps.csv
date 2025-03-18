@@ -1733,3 +1733,4 @@ viewers,krafna,,https://github.com/7sedam7/krafna,Obsidion dataview plugin-like 
 git,giq,,https://github.com/doganarif/giq,Git CLI with AI-powered commit messages and insights; it is a drop-in replacement for git with the same commands.
 games,asterion,,https://github.com/ricott1/asterion,Find your way through an inifinite maze in this multiplayer ssh game. Beware of the minotaurs!
 todo-manager,cursedtodo,,https://github.com/FLchs/cursedtodo,"A minimalist, terminal base todo manager storing tasks as .ics files for storage."
+programming,llm-fuse,,https://github.com/antonbelev/llm-fuse,"A tool designed to quickly generate an aggregated text file, or multiple files when chunking is enabled, from numerous files within a repository that can then be pasted into a LLM prompt to provide context from multiple source files."
