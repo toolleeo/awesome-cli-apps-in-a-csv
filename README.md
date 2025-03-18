@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1710**
+* Apps/tools: **1711**
 * Categories: **77**
 
 # Contents
@@ -29,7 +29,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (45), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (35), [System tools](#system) (37)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (49), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (50), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (13), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
@@ -1772,6 +1772,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust. Not limited to the command line.
 * [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 * [grc](https://github.com/pengwynn/grc) - (Generic Colourizer) - parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.
+* [grits](https://github.com/solidiquis/grits) - A simple line-text formatter that makes it simple to parse, filter, and format live logs turning noise into meaningful insights.
 * [gtree](https://github.com/ddddddO/gtree) - Using either Markdown or programmatically to generate directory trees and directories, and to verify directories.
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 * [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
