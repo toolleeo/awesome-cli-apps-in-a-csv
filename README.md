@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1741**
+* Apps/tools: **1742**
 * Categories: **77**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (36), [Anki, decks and flashcards](#flashcard) (9)
+* [AI / ChatGPT](#ai) (37), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -73,6 +73,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge.
 * [Spren](https://smadgulkar.github.io/spren/) - AI-powered terminal assistant that converts natural language to shell commands. Supports PowerShell, Bash, and CMD with intelligent command suggestions and safety checks.
 * [termite](https://github.com/shobrook/termite) - Generative UI in your terminal.
+* [wtg](https://github.com/brylee10/wtg) - What The GPT (wtg), a CLI to chat with your program logs.
 * [wut](https://github.com/shobrook/wut) - An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
 
 ## <a name="flashcard"></a>Anki, decks and flashcards
