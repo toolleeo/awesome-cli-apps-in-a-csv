@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1725**
+* Apps/tools: **1726**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (22), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (25), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (38), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (60), [Git and accessories](#git) (60), [Graphics](#graphics) (47)
+* [Games](#games) (60), [Git and accessories](#git) (60), [Graphics](#graphics) (48)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (80), [Note taking](#note-taking) (29)
@@ -1029,6 +1029,7 @@ Applications to process images, colors, and ASCII art.
 * [svgshift](https://github.com/10xJSChad/svgshift) - Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
 * [TermImg](https://github.com/srlehn/termimg) - termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
 * [terminal-art](https://github.com/Eric-Lennartson/terminal-art) - Art made in the terminal: rotating cube.
+* [TerrainGenerator](https://github.com/NM711/TerrainGenerator) - 2D Terrain Generator to create procedural 2D worlds and maps.
 * [zbar](https://zbar.sourceforge.net/) - ZBar reads bar codes from various sources, such as video streams and image files. It supports many popular ypes of bar codes including QR Codes.
 
 ## <a name="history"></a>History management
