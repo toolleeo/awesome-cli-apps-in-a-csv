@@ -1718,3 +1718,4 @@ email,maildir-rank-addr,,https://github.com/ferdinandyb/maildir-rank-addr,"Creat
 cheatsheet,tome,,https://github.com/laktak/tome,Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux).
 programming,lab,,https://github.com/lugenx/lab,"Lab helps you experiment with code without friction. Type `lab` with any extension and start coding - it handles files, organization, and cleanup automatically."
 graphics,3D-renderer,,https://github.com/rashid-360/3D-renderer,A console-based 3D renderer that uses ASCII characters to display and rotate 3D shapes.
+screen-recorder,terminal-svg-screenshot,,https://github.com/suin/terminal-svg-screenshot,"A tool for creating beautiful SVG screenshots of terminal output, perfect for documentation and blog posts."

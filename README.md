@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1719**
+* Apps/tools: **1720**
 * Categories: **77**
 
 # Contents
@@ -28,7 +28,7 @@ Summary:
 * [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (46), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (36), [System tools](#system) (37)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (36), [System tools](#system) (37)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (50), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (30)
@@ -1500,6 +1500,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 * [goscript](https://github.com/elisescu/goscript) - Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained HTML file that can be run in the browser, to playback the session.
 * [t-rec](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated GIF images for the web written in rust.
 * [terminal-recorder](https://github.com/cortezcristian/terminal-recorder) - Terminal recorder allows you to record your bash session, and export it to HTML so then you can share it with your friends.
+* [terminal-svg-screenshot](https://github.com/suin/terminal-svg-screenshot) - A tool for creating beautiful SVG screenshots of terminal output, perfect for documentation and blog posts.
 * [terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated GIF images or share a web player link [www.terminalizer.com](www.terminalizer.com).
 * [termtosvg](https://github.com/nbedos/termtosvg) - A Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
 * [ttygif](https://github.com/icholy/ttygif) - ttygif converts a ttyrec file into GIF files. It's a stripped down version of ttyplay that screenshots every frame.
