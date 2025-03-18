@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1730**
+* Apps/tools: **1731**
 * Categories: **77**
 
 # Contents
@@ -31,7 +31,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (36), [System tools](#system) (37)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (50), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (47)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (31)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (32)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2059,6 +2059,7 @@ File viewers for images and other formats (e.g., e-books).
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
 * [hnterm](https://github.com/ggerganov/hnterm) - Hacker News in the terminal.
 * [kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner.
+* [krafna](https://github.com/7sedam7/krafna) - Obsidion dataview plugin-like tool for command line.
 * [Lob TUI](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 * [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
