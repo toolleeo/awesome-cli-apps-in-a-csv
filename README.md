@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1732**
+* Apps/tools: **1733**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (22), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (25), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (38), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (60), [Git and accessories](#git) (62), [Graphics](#graphics) (48)
+* [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (48)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (80), [Note taking](#note-taking) (29)
@@ -858,6 +858,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [2048-cli](https://github.com/Frost-Phoenix/2048-cli) - A 2048 clone that run in the terminal.
 * [Angband](https://rephial.org/) - Angband is a free, single-player dungeon exploration game.
 * [anonymine](https://oskog97.com/projects/anonymine/) - Curses mode minesweeper without guessing and other original features.
+* [asterion](https://github.com/ricott1/asterion) - Find your way through an inifinite maze in this multiplayer ssh game. Beware of the minotaurs!
 * [bastet](http://fph.altervista.org/prog/bastet.html) - (Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.
 * [blackjack](https://github.com/acidvegas/blackjack) - IRC bot to play blackjack.
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Open source turn-based survival RPG development project.
