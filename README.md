@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1731**
+* Apps/tools: **1732**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (22), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (25), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (38), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (60), [Git and accessories](#git) (61), [Graphics](#graphics) (48)
+* [Games](#games) (60), [Git and accessories](#git) (62), [Graphics](#graphics) (48)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (80), [Note taking](#note-taking) (29)
@@ -933,6 +933,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh CLI.
 * [gh-s](https://github.com/gennaro-tedesco/gh-s) - Search GitHub repositories interactively.
 * [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
+* [giq](https://github.com/doganarif/giq) - Git CLI with AI-powered commit messages and insights; it is a drop-in replacement for git with the same commands.
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools, distributed versioning, fully controllable from the command-line, plenty of configuration and usage options, behind a number of related project that leverage git as backend.
 * [git absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
 * [Git Auto Sync](https://github.com/GitJournal/git-auto-sync) - Automatically commits changes to a git repository, and always keep that repository up to date.
