@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1718**
+* Apps/tools: **1719**
 * Categories: **77**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (24), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (37), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (60), [Git and accessories](#git) (60), [Graphics](#graphics) (46)
+* [Games](#games) (60), [Git and accessories](#git) (60), [Graphics](#graphics) (47)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (80), [Note taking](#note-taking) (29)
@@ -979,6 +979,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 
 Applications to process images, colors, and ASCII art.
 
+* [3D-renderer](https://github.com/rashid-360/3D-renderer) - A console-based 3D renderer that uses ASCII characters to display and rotate 3D shapes.
 * [Aewan](http://aewan.sourceforge.net/) - Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 * [Artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (JPG, PNG, WEBP, etc.) to ASCII art, written in Rust.
 * [ArTTY](https://github.com/mjwhitta/artty) - Pixel art with optional system info, similar to Neofetch.
