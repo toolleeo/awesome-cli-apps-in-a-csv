@@ -1727,3 +1727,4 @@ cheatsheet,rsnip,,https://github.com/sysid/rsnip,A powerful command-line snippet
 graphics,TerrainGenerator,,https://github.com/NM711/TerrainGenerator,2D Terrain Generator to create procedural 2D worlds and maps.
 conversion,markdrop,,https://github.com/shoryasethia/markdrop,"Converts PDFs to markdown while extracting images and tables, generating descriptive text descriptions for extracted tables/images using several LLM clients."
 git,unreal-git-hook,,https://github.com/dmayboroda/unreal-git-hook,Mix of git-hook and Unreal Tournament announcer.
+utility,volgo,,https://github.com/elliot40404/volgo,A cross-platform CLI app written in Go for controlling system volume from the terminal. Use simple commands or a beautiful interactive TUI—even over SSH.
