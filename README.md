@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1739**
+* Apps/tools: **1740**
 * Categories: **77**
 
 # Contents
@@ -18,7 +18,7 @@ Summary:
 * [AI / ChatGPT](#ai) (36), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
-* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (22), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (25), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (38), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (48)
@@ -516,6 +516,7 @@ Programs for improving the efficiency of directory traversal by remembering comm
 * [Jmp](https://github.com/gholmes829/Jmp) - Change directory with smart searching of the path specified through regex.
 * [menucd](https://github.com/andy5995/menucd) - Directory browser and changer for the command line.
 * [nav](https://github.com/dkaslovsky/nav) - Terminal navigator for interactive ls workflows.
+* [navita](https://github.com/CodesOfRishi/navita) - A command-line tool for fast directory navigation in Bash & Zsh, ranking directories by frequency and recency. It enables quick fuzzy searches, recent history access, and smooth directory switching for efficient terminal workflows.
 * [pazi](https://github.com/euank/pazi) - Fast autojump helper.
 * [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch between your projects on ZSH. In short, another directory changer.
 * [qcd](https://github.com/ClaasBontus/qcd_rs) - A tool to change to another directory by just by entering commands like `qcd 3` and step back to where you came from with `qcd -o`. Frequently visited directories are stored in a sqlite3 database.
