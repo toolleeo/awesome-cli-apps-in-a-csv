@@ -1741,3 +1741,4 @@ online,Wikipedia-Command-Line-Interface,,https://github.com/DaDevMikey/Wikipedia
 cd,navita,,https://github.com/CodesOfRishi/navita,"A command-line tool for fast directory navigation in Bash & Zsh, ranking directories by frequency and recency. It enables quick fuzzy searches, recent history access, and smooth directory switching for efficient terminal workflows."
 file-handling,treegen,,https://github.com/bilbilak/treegen,ASCII tree directory and file structure generator.
 ai,wtg,,https://github.com/brylee10/wtg,"What The GPT (wtg), a CLI to chat with your program logs."
+file-manager,fzfm,,https://github.com/ashish0kumar/fzfm,A command-line fuzzy finder file manager.
