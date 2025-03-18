@@ -1708,3 +1708,4 @@ text-processing,yek,,https://github.com/bodo-run/yek,A fast Rust based tool to s
 note-taking,FuzPad,,https://github.com/JianZcar/FuzPad,"A minimalistic note management solution, powered by fzf."
 data-management-tabular,csvsuite,,https://github.com/wiluite/csvsuite,"A suite of tools to process CSV files, written in C++."
 typing,chimp-type,,https://github.com/NewstellerBot/chimp-type,A minimal typing test for terminal written in go.
+monitor,ptrstream,,https://github.com/acidvegas/ptrstream,High-performance distributed PTR record scanner with real-time streaming output.
