@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1738**
+* Apps/tools: **1739**
 * Categories: **77**
 
 # Contents
@@ -25,7 +25,7 @@ Summary:
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (80), [Note taking](#note-taking) (29)
-* [Office tools](#office) (19), [Online search and resources](#online) (23), [Organizers and calendars](#organizers) (22)
+* [Office tools](#office) (19), [Online search and resources](#online) (24), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (48), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (36), [System tools](#system) (37)
@@ -1231,6 +1231,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [subs](https://github.com/0x4f53/subs) - Grab valid subdomains, resolve them, split them and more.
 * [tuir](https://gitlab.com/Chocimier/tuir) - Browse Reddit from your terminal.
 * [wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface.
+* [Wikipedia-Command-Line-Interface](https://github.com/DaDevMikey/Wikipedia-Command-Line-Interface) - Use wikipedia in your command prompt.
 * [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
 
 ## <a name="organizers"></a>Organizers and calendars
