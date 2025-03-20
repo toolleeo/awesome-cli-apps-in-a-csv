@@ -1742,3 +1742,4 @@ cd,navita,,https://github.com/CodesOfRishi/navita,"A command-line tool for fast 
 file-handling,treegen,,https://github.com/bilbilak/treegen,ASCII tree directory and file structure generator.
 ai,wtg,,https://github.com/brylee10/wtg,"What The GPT (wtg), a CLI to chat with your program logs."
 file-manager,fzfm,,https://github.com/ashish0kumar/fzfm,A command-line fuzzy finder file manager.
+financial,beancount,https://beancount.github.io/,https://github.com/beancount/beancount,"Double-entry bookkeeping computer language that lets you define financial transaction records in a text file, read them in memory, generate a variety of reports from them, and provides a web interface."
