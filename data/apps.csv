@@ -1744,3 +1744,4 @@ ai,wtg,,https://github.com/brylee10/wtg,"What The GPT (wtg), a CLI to chat with 
 file-manager,fzfm,,https://github.com/ashish0kumar/fzfm,A command-line fuzzy finder file manager.
 animation,firew0rks,,https://github.com/addyosmani/firew0rks,Fireworks in your terminal.
 animation,rusty-rain,,https://github.com/cowboy8625/rusty-rain,A cross platform matrix rain made with Rust.
+animation,nyancat,,https://github.com/klange/nyancat,"Nyancat in your terminal, rendered through ANSI escape sequences."
