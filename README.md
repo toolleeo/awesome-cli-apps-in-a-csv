@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1747**
+* Apps/tools: **1748**
 * Categories: **78**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (37), [Animation](#animation) (28), [Anki, decks and flashcards](#flashcard) (9)
+* [AI / ChatGPT](#ai) (37), [Animation](#animation) (29), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -83,6 +83,7 @@ Generate or display animated graphics and effects.
 * [ascii-matrix](https://gitlab.com/christosangel/ascii-matrix) - This script written in the C language, will render the matrix effect in the terminal, while rendering ASCII art loaded from a txt file, at the center of the terminal window.
 * [ascii-movie](https://github.com/gabe565/ascii-movie) - Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
 * [asciicquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
+* [bb](https://github.com/stroucki/bb) - The portable BB demo of AAlib, with fixes for vax etc.
 * [Binary Clock](https://github.com/tom-on-the-internet/binary-clock) - Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
 * [ccube](https://github.com/hamza512b/ccube) - Rotating 3d cube in terminal; written in C.
