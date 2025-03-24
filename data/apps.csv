@@ -1745,3 +1745,4 @@ file-manager,fzfm,,https://github.com/ashish0kumar/fzfm,A command-line fuzzy fin
 animation,firew0rks,,https://github.com/addyosmani/firew0rks,Fireworks in your terminal.
 animation,rusty-rain,,https://github.com/cowboy8625/rusty-rain,A cross platform matrix rain made with Rust.
 animation,nyancat,,https://github.com/klange/nyancat,"Nyancat in your terminal, rendered through ANSI escape sequences."
+animation,terminaltexteffects,,https://github.com/ChrisBuilds/terminaltexteffects,"TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library."
