@@ -221,7 +221,7 @@ Find/remove duplicate files, automatically organize files, etc..
 * [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, PDFs, images, etc.
 * [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
-* [detox](http://detox.sourceforge.net/) - Easily clean up filenames; it replaces characters like spaces with standard equivalents and UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
+* [detox](https://github.com/dharple/detox) - Easily clean up filenames; it replaces characters like spaces with standard equivalents and UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
 * [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 * [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
 * [Framed](https://github.com/mactat/framed) - A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
