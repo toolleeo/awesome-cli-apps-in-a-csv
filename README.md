@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1744**
+* Apps/tools: **1745**
 * Categories: **78**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (37), [Animation](#animation) (25), [Anki, decks and flashcards](#flashcard) (9)
+* [AI / ChatGPT](#ai) (37), [Animation](#animation) (26), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -100,6 +100,7 @@ Generate or display animated graphics and effects.
 * [paclear](https://github.com/orangekame3/paclear) - paclear is a clear command with pacman animation.
 * [PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
 * [rich_life](https://github.com/paulrobello/rich_life) - Conway's Game of Life and Langton's Ant.
+* [rusty-rain](https://github.com/cowboy8625/rusty-rain) - A cross platform matrix rain made with Rust.
 * [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 * StarWars vision - See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
 * [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.

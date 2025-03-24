@@ -1743,3 +1743,4 @@ file-handling,treegen,,https://github.com/bilbilak/treegen,ASCII tree directory 
 ai,wtg,,https://github.com/brylee10/wtg,"What The GPT (wtg), a CLI to chat with your program logs."
 file-manager,fzfm,,https://github.com/ashish0kumar/fzfm,A command-line fuzzy finder file manager.
 animation,firew0rks,,https://github.com/addyosmani/firew0rks,Fireworks in your terminal.
+animation,rusty-rain,,https://github.com/cowboy8625/rusty-rain,A cross platform matrix rain made with Rust.
