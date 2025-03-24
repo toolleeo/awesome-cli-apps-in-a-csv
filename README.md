@@ -11,17 +11,17 @@ Some links are available to [related resources](#resources).
 Summary:
 
 * Apps/tools: **1743**
-* Categories: **77**
+* Categories: **78**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (37), [Anki, decks and flashcards](#flashcard) (9)
+* [AI / ChatGPT](#ai) (37), [Animation](#animation) (24), [Anki, decks and flashcards](#flashcard) (9)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (22), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
-* [File and file system handling](#file-handling) (26), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (38), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (48)
+* [File and file system handling](#file-handling) (26), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (16), [Font management](#font) (4), [Funny tools](#funny) (18), [Fuzzy finders and option pickers](#option-picker) (17)
+* [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (80), [Note taking](#note-taking) (29)
@@ -30,7 +30,7 @@ Summary:
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (54), [System monitoring](#monitor) (36), [System tools](#system) (37)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (50), [Text search (alternatives to grep)](#text-search) (14), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (22), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
-* [Utilities](#utility) (47)
+* [Utilities](#utility) (46)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (33)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (9)
 
@@ -75,6 +75,35 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [termite](https://github.com/shobrook/termite) - Generative UI in your terminal.
 * [wtg](https://github.com/brylee10/wtg) - What The GPT (wtg), a CLI to chat with your program logs.
 * [wut](https://github.com/shobrook/wut) - An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
+
+## <a name="animation"></a>Animation
+
+Generate or display animated graphics and effects.
+
+* [ascii-matrix](https://gitlab.com/christosangel/ascii-matrix) - This script written in the C language, will render the matrix effect in the terminal, while rendering ASCII art loaded from a txt file, at the center of the terminal window.
+* [ascii-movie](https://github.com/gabe565/ascii-movie) - Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
+* [asciicquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
+* [Binary Clock](https://github.com/tom-on-the-internet/binary-clock) - Displays a clock where numbers are represented with blue and gray dots with binary encoding.
+* [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
+* [ccube](https://github.com/hamza512b/ccube) - Rotating 3d cube in terminal; written in C.
+* [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
+* [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A CLI for traversing the Mandelbrot fractal.
+* [cmatrix](http://www.asty.org/cmatrix/) - ncurses program that display the scrolling lines found in the movie `The matrix`.
+* [console-fun](https://github.com/akgondber/console-fun) - Some console stuff to have a fun and watch some animations with texts, figures, etc.
+* [ctree](https://github.com/gleich/ctree) - A Christmas tree right from your terminal.
+* [LundukeHoliday](https://github.com/BryanLunduke/LundukeHoliday) - A simple Bash script that shows some animated, ASCII holiday decorations in your shell.
+* [Maze Solver](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
+* [neo](https://github.com/st3w/neo) - Recreates the digital rain effect from "The Matrix". Streams of random characters will endlessly scroll down your terminal screen.
+* [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+* [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+* [paclear](https://github.com/orangekame3/paclear) - paclear is a clear command with pacman animation.
+* [PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
+* [rich_life](https://github.com/paulrobello/rich_life) - Conway's Game of Life and Langton's Ant.
+* [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
+* StarWars vision - See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
+* [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.
+* [terminal-art](https://github.com/Eric-Lennartson/terminal-art) - Art made in the terminal: rotating cube.
+* [ternimal](https://github.com/p-e-w/ternimal) - Simulate a life form in the terminal.
 
 ## <a name="flashcard"></a>Anki, decks and flashcards
 
@@ -795,21 +824,11 @@ Utilities to manage system fonts and to generate text using ASCII-art-like chara
 
 Miscellaneous of tools that provide some funny/aesthetical functionality (animations, funny quotes, original message visualization, etc.).
 
-* [ascii-matrix](https://gitlab.com/christosangel/ascii-matrix) - This script written in the C language, will render the matrix effect in the terminal, while rendering ASCII art loaded from a txt file, at the center of the terminal window.
-* [ascii-movie](https://github.com/gabe565/ascii-movie) - Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
-* [asciicquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
-* [Binary Clock](https://github.com/tom-on-the-internet/binary-clock) - Displays a clock where numbers are represented with blue and gray dots with binary encoding.
-* [bollywood](https://github.com/abloch/bollywood) - Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal.
+* [bollywood](https://github.com/abloch/bollywood) - Runs terminal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal.
 * [boxes](https://github.com/ascii-boxes/boxes) - Boxes is a command line filter program which draws ASCII art boxes around your input text.
-* [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
-* [ccube](https://github.com/hamza512b/ccube) - Rotating 3d cube in terminal; written in C.
-* [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 * [clouddrift](https://github.com/thrly/clouddrift#readme) - Soft clouds drifting across your terminal.
-* [cmatrix](http://www.asty.org/cmatrix/) - ncurses program that display the scrolling lines found in the movie `The matrix`.
-* [console-fun](https://github.com/akgondber/console-fun) - Some console stuff to have a fun and watch some animations with texts, figures, etc.
 * [cowsay](https://en.wikipedia.org/wiki/Cowsay) - Generate an ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).
 * [cowthink](https://en.wikipedia.org/wiki/Cowsay) - Same as `cowsay`, but uses a "think" bubble instead of a speech bubble.
-* [ctree](https://github.com/gleich/ctree) - A Christmas tree right from your terminal.
 * [daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter adding sounds at each keystroke.
 * [Draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages fetched from a quotation database.
@@ -817,21 +836,11 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 * [hollywood](https://github.com/dustinkirkland/hollywood) - Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
 * [kyun](https://github.com/file-acomplaint/kyun) - Kyun is a low productivity, low fidelity, low customizablity text editor that has its focus firm on user discomfort.
 * [Limoji](https://github.com/GEROGIANNIS/Limoji) - Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
-* [LundukeHoliday](https://github.com/BryanLunduke/LundukeHoliday) - A simple Bash script that shows some animated, ASCII holiday decorations in your shell.
 * [matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
-* [Maze Solver](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
-* [neo](https://github.com/st3w/neo) - Recreates the digital rain effect from "The Matrix". Streams of random characters will endlessly scroll down your terminal screen.
-* [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-* [paclear](https://github.com/orangekame3/paclear) - paclear is a clear command with pacman animation.
 * [pokeget](https://github.com/talwat/pokeget-rs) - A bash script you can use to display cool sprites of Pokemon in your terminal.
 * [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 * [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
-* [rich_life](https://github.com/paulrobello/rich_life) - Conway's Game of Life and Langton's Ant.
 * [Russhian Roulette](https://github.com/cyradotpink/russhian-roulette) - 1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
-* [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
-* StarWars vision - See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
-* [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.
-* [ternimal](https://github.com/p-e-w/ternimal) - Simulate a life form in the terminal.
 * [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 
 ## <a name="option-picker"></a>Fuzzy finders and option pickers
@@ -1001,7 +1010,6 @@ Applications to process images, colors, and ASCII art.
 * [BlockPaint](https://github.com/wooster0/blockpaint) - BlockPaint is a painting program that allows you to draw pixel graphics in the terminal using the mouse.
 * [catnip](https://github.com/sweetbbak/catnip) - An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 * [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21 st century.
-* [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A CLI for traversing the Mandelbrot fractal.
 * [colout](https://github.com/nojhan/colout) - colout read lines of text stream on the standard input and output characters matching a given regular expression pattern in given color and style.
 * [D2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 * [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around mobile/web/progressive app screenshots.
@@ -1030,7 +1038,6 @@ Applications to process images, colors, and ASCII art.
 * [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program.
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 * [pik](https://github.com/immanelg/pik) - Color picker for terminal.
-* [PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
 * [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool.
 * [rimage](https://github.com/SalOne22/rimage) - A powerful Rust image optimization CLI tool.
 * [scrot](https://github.com/dreamer/scrot) - SCReenshot - simple screenshot tool. Main features: window and retangular area capturing export to PNG JPG GIF and others.
@@ -1038,7 +1045,6 @@ Applications to process images, colors, and ASCII art.
 * [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 * [svgshift](https://github.com/10xJSChad/svgshift) - Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
 * [TermImg](https://github.com/srlehn/termimg) - termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
-* [terminal-art](https://github.com/Eric-Lennartson/terminal-art) - Art made in the terminal: rotating cube.
 * [TerrainGenerator](https://github.com/NM711/TerrainGenerator) - 2D Terrain Generator to create procedural 2D worlds and maps.
 * [zbar](https://zbar.sourceforge.net/) - ZBar reads bar codes from various sources, such as video streams and image files. It supports many popular ypes of bar codes including QR Codes.
 
@@ -1992,7 +1998,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [movie](https://github.com/mayankchd/movie) - A CLI for getting information about a movie and comparing two movies.
 * [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
 * [oji](https://github.com/xxczaki/oji) - Interactive text emoji creator.
-* [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [pangran](https://github.com/BimoT/pangran) - A simple TUI program that checks if you've typed a pangram.
 * [play](https://github.com/paololazzari/play) - TUI playground for your favorite programs, such as grep, sed and awk.
 * [plzz](https://github.com/deep5050/plzz) - A Python CLI to automate daily tasks of both common and advanced users. It allows easily launching common and different types of operations such as creating random files or check hashes.

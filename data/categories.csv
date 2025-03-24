@@ -1,4 +1,5 @@
 label,name,description
+animation,Animation,Generate or display animated graphics and effects
 backup,Backup,Tools to manage the backup of files and directories
 calc,Calculators,"Calculators for mathematical operations among numbers, dates, base conversions, etc."
 chat,Chat and instant messaging,"Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Mattermost, Matrix, Slack, Telegram, Reddit"

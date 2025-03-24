@@ -141,14 +141,14 @@ file-handling,gcp,,https://github.com/aelafifi/gcp,"(Goffi's cp) - an advanced f
 file-manager,nnn,,https://github.com/jarun/nnn,"""The unorthodox terminal file manager"" - a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories."
 file-handling,PathPicker,https://facebook.github.io/PathPicker/,https://github.com/facebook/pathpicker,"A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories."
 file-explorer,tree,http://mama.indstate.edu/users/ice/tree/,https://gitlab.com/OldManProgrammer/unix-tree,Recursive directory listing command that produces a depth indented list of files.
-funny,asciicquarium,http://www.robobunny.com/projects/asciiquarium/html/,https://github.com/rgoring/asciiquarium,Enjoy the mysteries of the sea from the safety of your own terminal!
-funny,cmatrix,http://www.asty.org/cmatrix/,https://github.com/abishekvashok/cmatrix,ncurses program that display the scrolling lines found in the movie `The matrix`.
+animation,asciicquarium,http://www.robobunny.com/projects/asciiquarium/html/,https://github.com/rgoring/asciiquarium,Enjoy the mysteries of the sea from the safety of your own terminal!
+animation,cmatrix,http://www.asty.org/cmatrix/,https://github.com/abishekvashok/cmatrix,ncurses program that display the scrolling lines found in the movie `The matrix`.
 funny,cowsay,https://en.wikipedia.org/wiki/Cowsay,https://github.com/tnalpgge/rank-amateur-cowsay,Generate an ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).
 funny,cowthink,https://en.wikipedia.org/wiki/Cowsay,https://github.com/tnalpgge/rank-amateur-cowsay,"Same as `cowsay`, but uses a ""think"" bubble instead of a speech bubble."
 funny,fortune,http://software.clapper.org/fortune/,https://github.com/bmc/fortune,Generates random messages fetched from a quotation database.
-funny,Steam Locomotive,http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html,https://github.com/mtoyoda/sl,A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.
-funny,ternimal,,https://github.com/p-e-w/ternimal,Simulate a life form in the terminal.
-funny,StarWars vision,,,See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
+animation,Steam Locomotive,http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html,https://github.com/mtoyoda/sl,A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.
+animation,ternimal,,https://github.com/p-e-w/ternimal,Simulate a life form in the terminal.
+animation,StarWars vision,,,See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
 games,bastet,http://fph.altervista.org/prog/bastet.html,https://github.com/fph/bastet,(Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.
 games,Cataclysm: Dark Days Ahead,https://cataclysmdda.org/,https://github.com/CleverRaven/Cataclysm-DDA,Open source turn-based survival RPG development project.
 games,Dwarf fortress,http://www.bay12games.com/dwarves/,,"A fantasy game using ASCII art graphical representation of the game environment, it features a rich environment with many options and possibilities."
@@ -244,7 +244,7 @@ data-management,datadash,,https://github.com/keithknott26/datadash,Visualize and
 music,Mp3blaster,http://www.mp3blaster.org/?m=1,https://sourceforge.net/projects/mp3blaster,Audio player for the text console.
 data-management-json,jqview,,https://github.com/fiatjaf/jqview,Simplest possible native GUI for inspecting JSON.
 transfer,ytmdl,,https://github.com/deepjyoti30/ytmdl,Get songs from YouTube in mp3 format.
-funny,sha256-animation,,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.
+animation,sha256-animation,,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.
 browser,cli-arxiv,,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.
 markdown,mdBook,,https://github.com/rust-lang/mdBook,Create book from Markdown files.
 password-manager,SpicyPass,,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.
@@ -270,7 +270,7 @@ prompt,Starship,https://starship.rs/,https://github.com/starship/starship,The cr
 todo-manager,todotxt-machine,https://pypi.org/project/todotxt-machine/,https://github.com/AnthonyDiGirolamo/todotxt-machine,Interface for todo.txt.
 games,usolitaire,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.
 file-manager,rnr,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
-funny,cbonsai,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
+animation,cbonsai,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
 data-management-tabular,Dolt,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
 transfer,ytfzf,,https://github.com/pystardust/ytfzf,A POSIX script that helps you find YouTube videos (without API) and opens/downloads them using mpv/youtube-dl.
 data-management-json,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage is a command-line utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
@@ -429,8 +429,8 @@ webdev,lychee,,https://github.com/lycheeverse/lychee,"Fast, async, resource-frie
 networking,Rustcat,,https://github.com/robiot/rustcat,Netcat Alternative in Rust.
 funny,ponysay,,https://github.com/erkin/ponysay,Pony rewrite of cowsay.
 funny,yosay,,https://github.com/yeoman/yosay,"Like cowsay, but for yeoman."
-graphics,cli-mandelbrot,,https://github.com/danyshaanan/cli-mandelbrot,A CLI for traversing the Mandelbrot fractal.
-funny,cli-fireplace,,https://github.com/dolsup/cli-fireplace,Shows digital fireplace.
+animation,cli-mandelbrot,,https://github.com/danyshaanan/cli-mandelbrot,A CLI for traversing the Mandelbrot fractal.
+animation,cli-fireplace,,https://github.com/dolsup/cli-fireplace,Shows digital fireplace.
 graphics,givegif,,https://github.com/passy/givegif,GIFs on the command line.
 git,git-extras,,https://github.com/tj/git-extras,"Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more."
 versioning,Gistup,,https://github.com/mbostock/gistup,"Create a gist from terminal, then use git to update it."
@@ -563,7 +563,7 @@ note-taking,nb,,https://github.com/xwmx/nb,"A command line and local web note-ta
 security,ots,,https://github.com/sniptt-official/ots,Share end-to-end encrypted secrets with others via a one-time URL.
 text-processing,rare,,https://github.com/zix99/rare,"Real-time regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!"
 online,Awesome CLI,,https://github.com/umutphp/awesome-cli,Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
-utility,ora,,https://github.com/sindresorhus/ora,Elegant terminal spinner.
+animation,ora,,https://github.com/sindresorhus/ora,Elegant terminal spinner.
 monitor,hyperfine,,https://github.com/sharkdp/hyperfine,A command-line benchmarking tool.
 password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,https://github.com/bitwarden/cli,"Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises."
 option-picker,choose,,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
@@ -658,7 +658,7 @@ security,Image Steganography Tool,,https://github.com/7thSamurai/steganography,S
 religion,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
 science,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
 time-tracker,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
-funny,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+animation,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 package-manager,asdf,https://asdf-vm.com/,https://github.com/asdf-vm/asdf,Manage multiple runtime versions with a single CLI tool.
 shells,Cat9,,https://github.com/letoram/cat9,"Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua."
 productivity,speedread,,https://github.com/pasky/speedread,A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
@@ -775,7 +775,7 @@ utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identi
 data-management-tabular,Soul,,https://github.com/thevahidal/soul,A SQLite REST and real-time server.
 flashcard,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
-funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
+animation,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 package-manager,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of your CLI tools, if they are installed and what version they are on."
 cheatsheet,Nap,,https://github.com/maaslalani/nap,"Code snippet manager that allows creating and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface."
 chat,ttchat,,https://github.com/atye/ttchat,Twitch chats in the terminal.
@@ -815,7 +815,7 @@ shells,cosh,,https://github.com/tomhrr/cosh,Concatenative command-line shell.
 system,sysm,,https://github.com/jafarlihi/sysm,Makes your system play custom sounds when any configured system or external event happens.
 graphics,Mercator,,https://github.com/mrusme/mercator,OpenStreetMap but as terminal user interface (TUI) program.
 terminal,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
-funny,Maze Solver,,https://github.com/Vlamonster/maze_solver_rust,"Generate, display and solve mazes in an animated way in the terminal."
+animation,Maze Solver,,https://github.com/Vlamonster/maze_solver_rust,"Generate, display and solve mazes in an animated way in the terminal."
 data-management-tabular,Miller,,https://github.com/johnkerl/miller,"Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed."
 data-management,datasetGPT,,https://github.com/radi-cho/datasetGPT,A command-line interface and a Python library for inferencing Large Language Models to generate textual datasets.
 monitor-top,nvitop,,https://github.com/XuehaiPan/nvitop,"An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management."
@@ -849,7 +849,7 @@ backup,thread-safe,,https://github.com/dkaslovsky/thread-safe,Keep your favorite
 networking,hflow,,https://github.com/comradequinn/hflow,"A command-line, debugging http/s proxy server."
 transfer,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboard across multiple machines using an MQTT service.
 transfer,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere you can ssh to.
-funny,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
+animation,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
 git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelog Generator that follows Conventional Commit specifications.
 copilot,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
 copilot,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
@@ -858,7 +858,7 @@ ai,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
 writing,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms, and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
 transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
 music,mpvc,,https://github.com/gmt4/mpvc,A minimal mpc-like CLI and TUI for controlling mpv from the shell.
-funny,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your terminal.
+animation,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your terminal.
 monitor,ramfetch,,https://github.com/WhoseTheNerd/ramfetch,A fetch which displays memory info using /proc/meminfo.
 file-dir-cleanup,mat2,,https://0xacab.org/jvoisin/mat2.git,"Metadata removal tool, supporting a wide range of commonly used file formats."
 file-dir-cleanup,Dext,,https://github.com/AfzGit/dext,(Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
@@ -997,7 +997,7 @@ screensaver,sclocka,,https://github.com/mezantrop/sclocka,The real screensaver/l
 screensaver,ASCII Saver,,https://gitlab.com/mezantrop/ascsaver,Screensaver for terminals.
 typing,typetype,,https://github.com/ahmet8zer/typetype,Minimalistic command line typing game.
 todo-manager,geek-life,,https://github.com/ajaxray/geek-life,A full-featured TUI task manager.
-funny,ascii-movie,,https://github.com/gabe565/ascii-movie,Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
+animation,ascii-movie,,https://github.com/gabe565/ascii-movie,Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
 text-search-replace,repgrep,,https://github.com/acheronfail/repgrep,A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
 graphics,rclip,,https://github.com/yurijmikhalevich/rclip,AI-Powered Command-Line Photo Search Tool.
 science,bibtools,,https://github.com/pkgw/bibtools,Command-line bibliography manager.
@@ -1178,7 +1178,7 @@ utility,tmux-fingers,,https://github.com/morantron/tmux-fingers,Copy-pasting in 
 utility,Various Scripts,,https://github.com/xkcd386at/scripts,"Various script, mainly in shell and Perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf."
 utility,Zsh Angel IQ System,,https://github.com/psprint/zsh-angel-iq-system,"A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife."
 text-processing,JsonGenius,,https://github.com/semanser/JsonGenius,Self-hosted scraping API that extracts structured data described by a JSON Schema.
-funny,paclear,,https://github.com/orangekame3/paclear,paclear is a clear command with pacman animation.
+animation,paclear,,https://github.com/orangekame3/paclear,paclear is a clear command with pacman animation.
 note-taking,zk,,https://github.com/mickael-menu/zk,zk is a command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
 utility,play,,https://github.com/paololazzari/play,"TUI playground for your favorite programs, such as grep, sed and awk."
 package-manager,Shell Bling Ubuntu,,https://github.com/hiAndrewQuinn/shell-bling-ubuntu,"A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy."
@@ -1217,7 +1217,7 @@ transfer,lux,,https://github.com/iawia002/lux,Lux is a fast and simple video dow
 transfer,gallery-dl,,https://github.com/mikf/gallery-dl,Gallery-dl is a command-line program to download image galleries and collections from several image hosting sites.
 data-management,sampler,,https://github.com/sqshq/sampler,"Sampler is a tool for shell commands execution, visualization, and alerting. Configured with a simple YAML file."
 launcher,pueue,,https://github.com/Nukesor/pueue,Pueue is a command-line task management tool for sequential and parallel execution of long-running tasks.
-funny,neo,,https://github.com/st3w/neo,"Recreates the digital rain effect from ""The Matrix"". Streams of random characters will endlessly scroll down your terminal screen."
+animation,neo,,https://github.com/st3w/neo,"Recreates the digital rain effect from ""The Matrix"". Streams of random characters will endlessly scroll down your terminal screen."
 funny,boxes,,https://github.com/ascii-boxes/boxes,Boxes is a command line filter program which draws ASCII art boxes around your input text.
 data-management-json,jaq,,https://github.com/01mf02/jaq,"jaq is a clone of the JSON data processing tool jq, that aims to support a large subset of jq's syntax and operations."
 cheatsheet,asciit,,https://github.com/Q1CHENL/asciit,"A more compact and intuitive ASCII table in your terminal: an alternative to ""man 7 ascii"" and ""ascii""."
@@ -1233,7 +1233,7 @@ networking,oha,,https://github.com/hatoo/oha,oha is a tiny program that sends so
 todo-manager,Redo.vc,https://redo.vc,https://github.com/sottey/redo.vc,"Redo.vc is a tool for command line fans that allows you to track your tasks. It is a full-featured todo manager with tagging, projects, recurring tasks and much more, all stored in a JSON file so it is super portable and tooling new apps for the data format is super easy."
 todo-manager,wish,,https://github.com/levkush/wish,A delightful wish list manager to keep track of your dreams and desires!
 data-management,redis_tui,,https://github.com/mat2cc/redis_tui,Redis terminal browser application.
-graphics,terminal-art,,https://github.com/Eric-Lennartson/terminal-art,Art made in the terminal: rotating cube.
+animation,terminal-art,,https://github.com/Eric-Lennartson/terminal-art,Art made in the terminal: rotating cube.
 git,gitleaks,,https://github.com/gitleaks/gitleaks,"Tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos."
 git,mergestat-lite,,https://github.com/mergestat/mergestat-lite,A command-line tool for running SQL queries on git repositories and related data sources.
 git,git-quick-stats,,https://github.com/arzzen/git-quick-stats,A simple and efficient way to access various statistics in a git repository.
@@ -1286,7 +1286,7 @@ webdev,django-tui,,https://github.com/anze3db/django-tui,Inspect and run Django 
 calc,HIP35,,https://github.com/leonmavr/HIP35,HP-35 RPN calculator emulator in C++17 with a terminal user interface.
 security,pdvzip,,https://github.com/CleasbyCode/pdvzip,"CLI tool to embed a ZIP file within a PNG image to create a tweetable and ""executable"" PNG-ZIP polyglot file. Post & share your PNG-ZIP image on compatible sites."
 launcher,Sway-Talisman,,https://github.com/sebastiancarlos/sway-talisman,"Terminal application launcher in scratchpad, minimalist and native."
-funny,ascii-matrix,,https://gitlab.com/christosangel/ascii-matrix,"This script written in the C language, will render the matrix effect in the terminal, while rendering ASCII art loaded from a txt file, at the center of the terminal window."
+animation,ascii-matrix,,https://gitlab.com/christosangel/ascii-matrix,"This script written in the C language, will render the matrix effect in the terminal, while rendering ASCII art loaded from a txt file, at the center of the terminal window."
 monitor,tmon,,https://github.com/pondda/tmon,A tiny system monitor for Linux.
 text-search,hae,,https://github.com/eeroel/hae,Like grep but with natural language queries; useful to retrieve paragraphs of text that deal with specific topics.
 system,bashmount,,https://github.com/jamielinux/bashmount,Tool to mount and unmount removable media from the command-line with a nice interface to list the available options..
@@ -1339,7 +1339,7 @@ find,rawhide,,https://github.com/raforg/rawhide,File finder that uses C expressi
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plain-text YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
-funny,bollywood,,https://github.com/abloch/bollywood,"Runs terninal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal."
+funny,bollywood,,https://github.com/abloch/bollywood,"Runs terminal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal."
 copilot,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
 networking,asn,,https://github.com/nitefood/asn,"Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server."
 viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
@@ -1520,7 +1520,7 @@ typing,typeinc,,https://github.com/AnirudhG07/Typeinc,An ncurses based terminal 
 utility,tab-pal,,https://github.com/ben-n93/tab-pal,A command-line app that makes it easier to add and edit custom colour palettes in Tableau.
 system,x-cmd,https://www.x-cmd.com/,https://github.com/x-cmd/x-cmd,A toolset implemented using posix shell and awk offering many interesting features and that is very small in size.
 calc,CalcPy,,https://github.com/idanpa/calcpy,"Terminal calculator and advanced math solver using Python, IPython and SymPy."
-funny,ccube,,https://github.com/hamza512b/ccube,Rotating 3d cube in terminal; written in C.
+animation,ccube,,https://github.com/hamza512b/ccube,Rotating 3d cube in terminal; written in C.
 todo-manager,agile-planner,,https://github.com/AndrewRoe34/agile-planner,"Streamline your study schedule with our unique scripting language and CLI, designed for efficient planning and task management."
 music,sonicradio,,https://github.com/dancnb/sonicradio,A TUI radio player making use of Radio Browser API and Bubbletea.
 viewers,moulti,,https://github.com/xavierog/moulti,"Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps."
@@ -1535,7 +1535,7 @@ graphics,pik,,https://github.com/immanelg/pik,Color picker for terminal.
 launcher,mk,,https://github.com/orangekame3/mk,"Interactive task runner for Makefile or Taskfile.yml, designed to interactively execute make commands. It provides a user-friendly interface to select and run predefined commands, making it easier to manage and execute build tasks."
 email,quackalias-cli,,https://github.com/Megane0103/quackalias-cli,Scripts to generate DuckDuckGo email aliases and store the history of generated aliases.
 networking,chiko,,https://github.com/felangga/chiko,The ultimate beauty gRPC Client on your Terminal: a simple tool to interact with gRPC services using a beautiful terminal interface.
-funny,console-fun,,https://github.com/akgondber/console-fun,"Some console stuff to have a fun and watch some animations with texts, figures, etc."
+animation,console-fun,,https://github.com/akgondber/console-fun,"Some console stuff to have a fun and watch some animations with texts, figures, etc."
 prompt,blaze,,https://github.com/danieltodor/blaze,"A customizable and informative prompt for bash, zsh, fish, on linux distributions."
 note-taking,rucola,,https://github.com/Linus-Mussmaecher/rucola,Terminal-based markdown note manager.
 time-tracker,cations,,https://github.com/Alcryst/cations,"Lightweight, user-friendly habit tracker and productivity tool; terminal-based CLI application."
@@ -1602,7 +1602,7 @@ programming,devbox,,https://github.com/jetify-com/devbox,"Instant, easy, and pre
 text-search,semantic-grep,,https://github.com/arunsupe/semantic-grep,grep for words with similar meaning to the query.
 networking,nics,,https://github.com/jftuga/nics,Display information about Network Interface Cards (NICs); the same output is presented across platforms.
 note-taking,tb.go,,https://github.com/araaha/tb.go,"Tasks, boards & notes for the command-line habitat."
-graphics,PyBonsai,,https://github.com/Ben-Edwards44/PyBonsai,Generate procedural ASCII art trees in the terminal.
+animation,PyBonsai,,https://github.com/Ben-Edwards44/PyBonsai,Generate procedural ASCII art trees in the terminal.
 chat,senpai,,https://git.sr.ht/~delthas/senpai/,A modern terminal IRC client.
 flashcard,vocage,,https://git.sr.ht/~proycon/vocage/,Vocage is a minimalistic terminal-based vocabulary-learning tool. It presents flashcards using a spaced-repetition algorithm (e.g. Leitner). Data is stored in a simple plain-text tab-separated values format (TSV).
 todo-manager,todo.txt-more,,https://git.sr.ht/~proycon/todotxt-more,"Extensions for todo.txt: interactive rofi/fzf control, sync github issues, better colors, time tracking... and more!"
@@ -1693,7 +1693,7 @@ text-processing,hburger,,https://github.com/niqodea/hburger,Shorten long strings
 text-search,zfind,,https://github.com/laktak/zfind,Search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter.
 graphics,gowall,,https://github.com/Achno/gowall,"A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction, image upsacling with Adversarial Networks  and more image processing features."
 utility,sisi,,https://github.com/frost-beta/sisi,Semantic image search CLI tool.
-funny,rich_life,,https://github.com/paulrobello/rich_life,Conway's Game of Life and Langton's Ant.
+animation,rich_life,,https://github.com/paulrobello/rich_life,Conway's Game of Life and Langton's Ant.
 system,sysz,,https://github.com/joehillen/sysz,fzf terminal UI for systemctl.
 system,systemctl-tui,,https://github.com/rgwood/systemctl-tui,A fast simple TUI for interacting with systemd services and their logs.
 networking,ggh,,https://github.com/byawitz/ggh,"Recall your SSH sessions, also searching your SSH config file."
