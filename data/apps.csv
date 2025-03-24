@@ -1747,3 +1747,7 @@ animation,rusty-rain,,https://github.com/cowboy8625/rusty-rain,A cross platform 
 animation,nyancat,,https://github.com/klange/nyancat,"Nyancat in your terminal, rendered through ANSI escape sequences."
 animation,terminaltexteffects,,https://github.com/ChrisBuilds/terminaltexteffects,"TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library."
 animation,bb,,https://github.com/stroucki/bb,"The portable BB demo of AAlib, with fixes for vax etc."
+animation,c-squares,,https://gitlab.com/christosangel/c-squares,"Program written in C that will render random coloured rectangulars in the terminal, while the font, speed, density, color, ratio and number of the shapes drawn are fully costumizable."
+animation,c-pipes,,https://gitlab.com/christosangel/c-pipes,"Program written in the C language that will render random coloured zigzag lines in the terminal, while the font, speed, density and number of lines are fully costumizable. Each line stops once it reaches the edge of the window, only for a new line to begin."
+animation,animatrix,,https://gitlab.com/christosangel/animatrix,"C program that will create some basic animation of ascii-art loaded from a txt file, while rendering the matrix effect in the terminal window."
+animation,chaftrix,,https://gitlab.com/christosangel/chaftrix,"C program that will render the matrix effect in the terminal window in the background, while rendering an image in the foreground, allowing animation of this image in one or two dimensions."
