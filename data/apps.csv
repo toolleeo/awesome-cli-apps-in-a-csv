@@ -1765,3 +1765,4 @@ file-handling,choof,,https://github.com/elParadigm/choof,"Choof is a fast and mi
 time-tracker,aimssh,,https://github.com/sairash/aimssh,SSH Pomodoro app.
 text-processing,seaq,,https://github.com/nt54hamnghi/seaq,"seaq (pronounced ""seek"") allows you to extract text data from the web and process it with your favorite prompt and LLM model, all from your terminal."
 programming,air,,https://github.com/air-verse/air,Live reload for Go apps.
+networking,oama,,https://github.com/pdobsan/oama,OAuth credential Manager.

@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1766**
+* Apps/tools: **1767**
 * Categories: **78**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (81), [Note taking](#note-taking) (29)
+* [Networking](#networking) (82), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (25), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (50), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1125,6 +1125,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics with a Terminal UI.
 * [netscanner](https://github.com/Chleba/netscanner) - All-in-one network scanning tool.
 * [nics](https://github.com/jftuga/nics) - Display information about Network Interface Cards (NICs); the same output is presented across platforms.
+* [oama](https://github.com/pdobsan/oama) - OAuth credential Manager.
 * [oha](https://github.com/hatoo/oha) - oha is a tiny program that sends some load to a web application and show real-time TUI.
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 * [oryx](https://github.com/pythops/oryx) - TUI for sniffing network traffic using eBPF on Linux.
