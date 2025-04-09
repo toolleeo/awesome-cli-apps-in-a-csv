@@ -1753,3 +1753,4 @@ animation,animatrix,,https://gitlab.com/christosangel/animatrix,"C program that 
 animation,chaftrix,,https://gitlab.com/christosangel/chaftrix,"C program that will render the matrix effect in the terminal window in the background, while rendering an image in the foreground, allowing animation of this image in one or two dimensions."
 financial,beancount,https://beancount.github.io/,https://github.com/beancount/beancount,"Double-entry bookkeeping computer language that lets you define financial transaction records in a text file, read them in memory, generate a variety of reports from them, and provides a web interface."
 file-dir-cleanup,duple,,https://github.com/dbruce-ae05/duple,"Find and remove duplicate files."
+online,chuckle-cli,,https://github.com/seburbandev/chuckle-cli,An application that utilises an API in order to print out jokes in your terminal.
