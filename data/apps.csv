@@ -1774,3 +1774,4 @@ versioning,cocommit,,https://github.com/andrewromanenco/cocommit,Cocommit is a c
 flashcard,GoCard,,https://github.com/DavidMiserak/GoCard,"A lightweight file-based spaced repetition system (SRS) that uses plain Markdown files for flashcards. Perfect for developers who prefer text files, Git version control, and keyboard-driven interfaces."
 programming,o,,https://github.com/rev-dot-now/o,"Agentic Design Framework, automate with natural language, build agents in seconds, self-generate new features."
 system,landrun,,https://github.com/Zouuup/landrun,"Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+system,empiriqa,,https://github.com/ynqa/empiriqa,empiriqa (command name is epiq) is a tool for interactively manipulating UNIX pipelines.
