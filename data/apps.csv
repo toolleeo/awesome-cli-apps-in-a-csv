@@ -1516,7 +1516,6 @@ utility,tab-pal,,https://github.com/ben-n93/tab-pal,A command-line app that make
 system,x-cmd,https://www.x-cmd.com/,https://github.com/x-cmd/x-cmd,A toolset implemented using posix shell and awk offering many interesting features and that is very small in size.
 calc,CalcPy,,https://github.com/idanpa/calcpy,"Terminal calculator and advanced math solver using Python, IPython and SymPy."
 animation,ccube,,https://github.com/hamza512b/ccube,Rotating 3d cube in terminal; written in C.
-todo-manager,agile-planner,,https://github.com/AndrewRoe34/agile-planner,"Streamline your study schedule with our unique scripting language and CLI, designed for efficient planning and task management."
 music,sonicradio,,https://github.com/dancnb/sonicradio,A TUI radio player making use of Radio Browser API and Bubbletea.
 viewers,moulti,,https://github.com/xavierog/moulti,"Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps."
 networking,tsshd,,https://github.com/trzsz/tsshd,"The tsshd works like mosh-server, while the ""tssh --udp"" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding."
