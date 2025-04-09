@@ -594,7 +594,6 @@ flashcard,flash-tui,,https://github.com/TBS1996/speki,Flashcard app for the term
 data-management-json,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
 system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.
 games,hangman,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.
-writing,CLI-Dictionary,,https://github.com/Lodobo/dict.py,Scripts for downloading and viewing wiktionary entries from Kaikki.org.
 editors,Feather,https://www.feathereditor.com/,https://github.com/0xBaca/FeatherEditor,The only terminal based text editor designed to work with BIG files.
 text-processing,swordfish-rs,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.
 git,GitUI,,https://github.com/extrawurst/gitui,"The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git."
