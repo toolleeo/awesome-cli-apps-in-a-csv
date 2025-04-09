@@ -1775,3 +1775,4 @@ flashcard,GoCard,,https://github.com/DavidMiserak/GoCard,"A lightweight file-bas
 programming,o,,https://github.com/rev-dot-now/o,"Agentic Design Framework, automate with natural language, build agents in seconds, self-generate new features."
 system,landrun,,https://github.com/Zouuup/landrun,"Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
 system,empiriqa,,https://github.com/ynqa/empiriqa,empiriqa (command name is epiq) is a tool for interactively manipulating UNIX pipelines.
+writing,rdict,,https://github.com/Lodobo/rdict,Offline dictionary using data from wiktionary written in Rust.

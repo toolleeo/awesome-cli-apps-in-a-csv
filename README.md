@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1776**
+* Apps/tools: **1777**
 * Categories: **78**
 
 # Contents
@@ -32,7 +32,7 @@ Summary:
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
 * [Versioning](#versioning) (10), [Video](#video) (14), [Viewers](#viewers) (33)
-* [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (10)
+* [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -2194,6 +2194,7 @@ Tools to assist the writing of text and documents, including translation, spell 
 * [CLI-Dictionary](https://github.com/Lodobo/dict.py) - Scripts for downloading and viewing wiktionary entries from Kaikki.org.
 * [Grammatical](https://github.com/pncnmnp/grammatical) - Corrects the spelling and grammar of your text using ChatGPT.
 * [GTT - Google Translate TUI](https://github.com/eeeXun/GTT) - A TUI interface to bring Google Translation in the terminal.
+* [rdict](https://github.com/Lodobo/rdict) - Offline dictionary using data from wiktionary written in Rust.
 * [storycraftr](https://github.com/raestrada/storycraftr) - StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI.
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [trino](https://github.com/eneserdogan/trino) - Quick and easy translation of words and phrases entered in the command line.
