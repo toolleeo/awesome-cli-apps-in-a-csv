@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1768**
+* Apps/tools: **1769**
 * Categories: **78**
 
 # Contents
@@ -20,7 +20,7 @@ Summary:
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (23), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
-* [File and file system handling](#file-handling) (27), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (17), [Font management](#font) (4), [Funny tools](#funny) (18), [Fuzzy finders and option pickers](#option-picker) (17)
+* [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (17), [Font management](#font) (4), [Funny tools](#funny) (18), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
@@ -650,6 +650,7 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 * [dlorg](https://github.com/deepspeccode/dlorg) - Powerful and intuitive that automatically organizes your cluttered Downloads folder into a neatly structured directory system.
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
+* [dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles.
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows using one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
 * [Fast Files](https://github.com/mintycube/fast-files) - ff is a bash script which is a combination of `mkdir` and `touch`. It can create directory structures and files simultaneously and lists the created objects using `eza`, `lsd`, or `ls`.
 * [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
