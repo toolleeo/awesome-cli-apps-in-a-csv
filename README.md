@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1759**
+* Apps/tools: **1760**
 * Categories: **78**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
 * [History management](#history) (4)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (80), [Note taking](#note-taking) (29)
+* [Networking](#networking) (81), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (25), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (48), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1168,6 +1168,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [wuzz](https://github.com/asciimoo/wuzz) - Interactive CLI tool for HTTP inspection.
 * [xiringuito](https://github.com/ivanilves/xiringuito) - VPN made easy! No configuration. No VPN servers. No hassle. Using SSH capabilities.
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
+* [zxc](https://github.com/hail-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
 
 ## <a name="note-taking"></a>Note taking
 
