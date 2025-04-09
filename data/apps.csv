@@ -1764,3 +1764,4 @@ programming,codegrab,,https://github.com/epilande/codegrab,"Interactive CLI tool
 file-handling,choof,,https://github.com/elParadigm/choof,"Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux."
 time-tracker,aimssh,,https://github.com/sairash/aimssh,SSH Pomodoro app.
 text-processing,seaq,,https://github.com/nt54hamnghi/seaq,"seaq (pronounced ""seek"") allows you to extract text data from the web and process it with your favorite prompt and LLM model, all from your terminal."
+programming,air,,https://github.com/air-verse/air,Live reload for Go apps.
