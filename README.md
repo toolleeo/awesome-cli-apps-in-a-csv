@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1773**
+* Apps/tools: **1774**
 * Categories: **78**
 
 # Contents
@@ -26,7 +26,7 @@ Summary:
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (82), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (51), [Prompts](#prompt) (14)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (52), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (37)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
@@ -1454,6 +1454,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 * [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 * [nsh](https://github.com/theHamdiz/nsh) - A powerful renaming utility for developers, used to rename Symbols, Phrases in File contents, file names, directory names, recursively, useful specially when you find a better name for your app.
+* [o](https://github.com/rev-dot-now/o) - Agentic Design Framework, automate with natural language, build agents in seconds, self-generate new features.
 * [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 * [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
 * [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Go, and Java.
