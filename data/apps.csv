@@ -1757,3 +1757,4 @@ online,chuckle-cli,,https://github.com/seburbandev/chuckle-cli,An application th
 text-processing,neospeller,,https://github.com/richardhapb/neospeller,Spell checking for different languages comments.
 writing,storycraftr,,https://github.com/raestrada/storycraftr,"StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI."
 music,cli-viz,,https://github.com/sam1am/cli-viz,An audio visualizer that runs in the linux terminal and reacts to the microphone.
+launcher,menu.sh,,https://github.com/iandennismiller/menu.sh,A lightweight menu and launcher for text-mode consoles. Menus are described with YAML and sub-menus are supported.
