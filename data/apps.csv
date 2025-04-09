@@ -1761,3 +1761,4 @@ launcher,menu.sh,,https://github.com/iandennismiller/menu.sh,A lightweight menu 
 networking,zxc,,https://github.com/hail-hydrant/zxc,Terminal based intercepting proxy written in rust with tmux and vim as user interface.
 text-search,krep,,https://github.com/davidesantangelo/krep,"Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale."
 programming,codegrab,,https://github.com/epilande/codegrab,"Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file."
+file-handling,choof,,https://github.com/elParadigm/choof,"Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux."
