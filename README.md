@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1772**
+* Apps/tools: **1773**
 * Categories: **78**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (37), [Animation](#animation) (33), [Anki, decks and flashcards](#flashcard) (9)
+* [AI / ChatGPT](#ai) (37), [Animation](#animation) (33), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (17), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (23), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -119,6 +119,7 @@ Generate or display animated graphics and effects.
 Manage decks of flashcards and Anki decks.
 
 * [flash-tui](https://github.com/TBS1996/speki) - Flashcard app for the terminal.
+* [GoCard](https://github.com/DavidMiserak/GoCard) - A lightweight file-based spaced repetition system (SRS) that uses plain Markdown files for flashcards. Perfect for developers who prefer text files, Git version control, and keyboard-driven interfaces.
 * [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
 * [mdfc](https://github.com/bttger/markdown-flashcards) - Easily create and study flashcards using a Markdown file with spaced repetition.
 * [py_flashcards](https://github.com/M4THYOU/py_flashcards) - Text-only CLI flashcards parsed from Markdown file.
