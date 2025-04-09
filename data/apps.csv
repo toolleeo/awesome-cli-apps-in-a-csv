@@ -1755,3 +1755,4 @@ financial,beancount,https://beancount.github.io/,https://github.com/beancount/be
 file-dir-cleanup,duple,,https://github.com/dbruce-ae05/duple,"Find and remove duplicate files."
 online,chuckle-cli,,https://github.com/seburbandev/chuckle-cli,An application that utilises an API in order to print out jokes in your terminal.
 text-processing,neospeller,,https://github.com/richardhapb/neospeller,Spell checking for different languages comments.
+writing,storycraftr,,https://github.com/raestrada/storycraftr,"StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI."
