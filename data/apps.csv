@@ -1770,3 +1770,4 @@ programming,mush,,https://github.com/javanile/mush,"Mush, a build system for she
 file-handling,dotbins,,https://github.com/basnijholt/dotbins,Keep updated binaries in your dotfiles.
 online,is-fast,,https://github.com/Magic-JD/is-fast,"A TUI tool designed for quick and efficient internet searches directly from the terminal, ideal for environments where you don't have easy access to a browser."
 calc,ka,,https://github.com/Kevinpgalligan/ka,A calculator language.
+versioning,cocommit,,https://github.com/andrewromanenco/cocommit,Cocommit is a command-line tool that works with your HEAD commit and leverages an LLM of your choice to enhance commit quality.

@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1771**
+* Apps/tools: **1772**
 * Categories: **78**
 
 # Contents
@@ -31,7 +31,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (37)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (33)
+* [Versioning](#versioning) (10), [Video](#video) (14), [Viewers](#viewers) (33)
 * [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (10)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2056,6 +2056,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 Tools for file versioning that are not related to git.
 
 * [Bazaar](http://bazaar.canonical.com/en/) - Multiplatform version control system supporting different workflows; it is part of the GNU Project, and it is free software sponsored by Canonical.
+* [cocommit](https://github.com/andrewromanenco/cocommit) - Cocommit is a command-line tool that works with your HEAD commit and leverages an LLM of your choice to enhance commit quality.
 * [fnc](https://fnc.bsdbox.org/index) - Interactive text-based user interface for Fossil.
 * [fossil](https://fossil-scm.org/) - A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more.
 * [gee](https://github.com/human37/gee) - CLI repository manager and automation tool written in rust.
