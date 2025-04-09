@@ -680,7 +680,6 @@ text-processing,detect-indent-cli,,https://github.com/sindresorhus/detect-indent
 text-processing,fullname-cli,,https://github.com/sindresorhus/fullname-cli,Get the fullname of the current user.
 graphics,gifgen,,https://github.com/lukechilds/gifgen,Simple high quality GIF encoding.
 graphics,gifsicle,,https://github.com/kohler/gifsicle,"Create, manipulate, and optimize GIF images and animations."
-versioning,SnowFS,,https://github.com/snowtrack/snowfs,"A high-performance application and node library for binary file versioning, initially made for the graphics industry."
 programming-boilerplate,readme-md-generator,,https://github.com/kefranabg/readme-md-generator,CLI that generates beautiful README.md files.
 security,StegCloak,,https://github.com/kurolabs/stegcloak,Hide secrets with invisible characters in plain text securely using passwords
 file-manager,fff,,https://github.com/dylanaraps/fff,"Fast, simple file manager written in bash."
@@ -1751,7 +1750,7 @@ animation,c-pipes,,https://gitlab.com/christosangel/c-pipes,"Program written in 
 animation,animatrix,,https://gitlab.com/christosangel/animatrix,"C program that will create some basic animation of ascii-art loaded from a txt file, while rendering the matrix effect in the terminal window."
 animation,chaftrix,,https://gitlab.com/christosangel/chaftrix,"C program that will render the matrix effect in the terminal window in the background, while rendering an image in the foreground, allowing animation of this image in one or two dimensions."
 financial,beancount,https://beancount.github.io/,https://github.com/beancount/beancount,"Double-entry bookkeeping computer language that lets you define financial transaction records in a text file, read them in memory, generate a variety of reports from them, and provides a web interface."
-file-dir-cleanup,duple,,https://github.com/dbruce-ae05/duple,"Find and remove duplicate files."
+file-dir-cleanup,duple,,https://github.com/dbruce-ae05/duple,Find and remove duplicate files.
 online,chuckle-cli,,https://github.com/seburbandev/chuckle-cli,An application that utilises an API in order to print out jokes in your terminal.
 text-processing,neospeller,,https://github.com/richardhapb/neospeller,Spell checking for different languages comments.
 writing,storycraftr,,https://github.com/raestrada/storycraftr,"StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI."
