@@ -1759,3 +1759,4 @@ writing,storycraftr,,https://github.com/raestrada/storycraftr,"StoryCraftr is an
 music,cli-viz,,https://github.com/sam1am/cli-viz,An audio visualizer that runs in the linux terminal and reacts to the microphone.
 launcher,menu.sh,,https://github.com/iandennismiller/menu.sh,A lightweight menu and launcher for text-mode consoles. Menus are described with YAML and sub-menus are supported.
 networking,zxc,,https://github.com/hail-hydrant/zxc,Terminal based intercepting proxy written in rust with tmux and vim as user interface.
+text-search,krep,,https://github.com/davidesantangelo/krep,"Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale."
