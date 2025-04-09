@@ -1468,7 +1468,6 @@ prompt,Pure,,https://github.com/sindresorhus/pure,"Pretty, minimal, and fast ZSH
 prompt,Polyglot Prompt,,https://github.com/agkozak/polyglot,"A dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `oksh`, `dash`, `yash`, `busybox ash`, and `osh` that uses basic ASCII symbols (and color, when possible)."
 prompt,Powerlevel10k,,https://github.com/romkatv/powerlevel10k,"A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience."
 prompt,geometry,,https://github.com/geometry-zsh/geometry,"A minimalistic, fully customizable Zsh prompt theme with support for asynchronous functions."
-prompt,Polus,,https://github.com/rashed145/polus-bash-theme,"A fast, lightweight and modern Bash prompt theme written in 100 lines of Bash code."
 prompt,Oh My Posh,https://ohmyposh.dev,https://github.com/jandedobbeleer/oh-my-posh,"From their README: ""The most customizable and low-latency cross-platform/shell prompt renderer""."
 conversion,scss-to-css,https://scsstocss.org,https://github.com/adamlui/scss-to-css,Recursively compile all SCSS files into minified CSS.
 package-manager,pmt,,https://github.com/olexij-christian/pmt,Translator of package names between different package managers of Linux distributions.
