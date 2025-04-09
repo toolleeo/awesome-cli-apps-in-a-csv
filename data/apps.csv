@@ -807,7 +807,6 @@ calc,Programmer calculator,,https://github.com/alt-romes/programmer-calculator,"
 file-renamer,Musort,,https://github.com/tdeerenberg/Musort,Rename multiple audio/music files based on the ID3 tag at once.
 funny,Russhian Roulette,,https://github.com/cyradotpink/russhian-roulette,1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
 funny,pyjokes,,https://github.com/pyjokes/pyjokes,One line jokes for programmers (jokes as a service).
-password-manager,Pswd,,https://github.com/Mandrew0822/pswd,A secure password generator written in C.
 music,PyRadio,,https://github.com/coderholic/pyradio,Curses based internet radio player.
 shells,cosh,,https://github.com/tomhrr/cosh,Concatenative command-line shell.
 system,sysm,,https://github.com/jafarlihi/sysm,Makes your system play custom sounds when any configured system or external event happens.
