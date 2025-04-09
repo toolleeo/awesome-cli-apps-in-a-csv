@@ -41,7 +41,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [AI](https://github.com/nitefood/ai-bash-gpt) - A command-line ChatGPT client in BASH with conversation/completion support.
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 * [Alibaba-CLI-Scraper](https://github.com/poneoneo/Alibaba-CLI-Scraper) - Create your own Alibaba dataset and interact with it in plain English.
-* [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
+* [ata](https://github.com/transformrs/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
 * [cai](https://github.com/ad-si/cai) - The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
 * [cha](https://github.com/MehmetMHY/cha) - A simple CLI chat tool to easily interface with OpenAI's models.
 * [chat.sh](https://github.com/basherbots/chat.sh) - Pipeable LLM wrapper with code execution (OpenRouter).
