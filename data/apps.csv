@@ -818,7 +818,6 @@ data-management,datasetGPT,,https://github.com/radi-cho/datasetGPT,A command-lin
 monitor-top,nvitop,,https://github.com/XuehaiPan/nvitop,"An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management."
 utility,guesswidth,,https://github.com/noborus/guesswidth,Guess the width output without delimiters in commands that output to the terminal.
 todo-manager,mdt,,https://github.com/basilioss/mdt,A simple command-line Markdown todo list manager inspired by t.
-editors,pickaxe,,https://github.com/mdom/pickaxe,The Redmine wiki editor.
 utility,Python re(gex)? exercises,,https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises,TUI application intended to help you practice Python regular expressions there are more than 100 exercises covering both the builtin re and third-party regex module.
 email,Himalaya,,https://github.com/soywod/himalaya,Command-line interface for email management.
 todo-manager,Dooit,,https://github.com/kraanzu/dooit,"Todo manager with interactive and beautiful UI, and vim keybindings."
