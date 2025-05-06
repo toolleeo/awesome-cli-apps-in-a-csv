@@ -1,6 +1,7 @@
 category,name,homepage,git,description
 programming,termfu,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.
 productivity,h-m-m,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
+productivity,telert,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete."
 networking,ipcalc,http://jodies.de/ipcalc,https://github.com/kjokjo/ipcalc,"Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range."
 networking,PSSH,https://code.google.com/archive/p/parallel-ssh/,https://github.com/lilydjwg/pssh,"Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications."
 networking,rtop,http://www.rtop-monitor.org/,https://github.com/rapidloop/rtop,"Simple, agent-less, remote server monitoring tool that works over plain SSH. Written in Go, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics."
