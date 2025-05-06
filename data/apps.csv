@@ -1771,3 +1771,4 @@ system,landrun,,https://github.com/Zouuup/landrun,"Run any Linux process in a se
 system,empiriqa,,https://github.com/ynqa/empiriqa,empiriqa (command name is epiq) is a tool for interactively manipulating UNIX pipelines.
 writing,rdict,,https://github.com/Lodobo/rdict,Offline dictionary using data from wiktionary written in Rust.
 writing,gdict,,https://github.com/Lodobo/gdict,"An offline CLI dictionary written in go, using data from wiktionary."
+calc,Speedcrunch,,https://heldercorreia.bitbucket.io/speedcrunch,"SpeedCrunch is a high-precision scientific calculator featuring a fast, keyboard-driven user interface."
