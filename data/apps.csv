@@ -1772,3 +1772,4 @@ system,empiriqa,,https://github.com/ynqa/empiriqa,empiriqa (command name is epiq
 writing,rdict,,https://github.com/Lodobo/rdict,Offline dictionary using data from wiktionary written in Rust.
 writing,gdict,,https://github.com/Lodobo/gdict,"An offline CLI dictionary written in go, using data from wiktionary."
 calc,Speedcrunch,,https://heldercorreia.bitbucket.io/speedcrunch,"SpeedCrunch is a high-precision scientific calculator featuring a fast, keyboard-driven user interface."
+browser,Chawan,https://sr.ht/~bptato/chawan/,https://git.sr.ht/~bptato/chawan,A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.

@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1773**
+* Apps/tools: **1774**
 * Categories: **78**
 
 # Contents
@@ -32,7 +32,7 @@ Summary:
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (33)
-* [Web browser](#browser) (18), [Web development](#webdev) (30), [Writing](#writing) (11)
+* [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -2132,6 +2132,7 @@ Web browsers with textual interface.
 * [Bombadillo](https://bombadillo.colorfield.space/) - A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
 * [browsh](https://www.brow.sh/) - It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs.
 * [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal.
+* [Chawan](https://sr.ht/~bptato/chawan/) - A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.
 * [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
 * [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
 * [gplaces](https://github.com/dimkr/gplaces) - Simple but powerful terminal Gemini client.
