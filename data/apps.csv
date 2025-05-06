@@ -1752,7 +1752,7 @@ text-processing,neospeller,,https://github.com/richardhapb/neospeller,Spell chec
 writing,storycraftr,,https://github.com/raestrada/storycraftr,"StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI."
 music,cli-viz,,https://github.com/sam1am/cli-viz,An audio visualizer that runs in the linux terminal and reacts to the microphone.
 launcher,menu.sh,,https://github.com/iandennismiller/menu.sh,A lightweight menu and launcher for text-mode consoles. Menus are described with YAML and sub-menus are supported.
-networking,zxc,,https://github.com/hail-hydrant/zxc,Terminal based intercepting proxy written in rust with tmux and vim as user interface.
+networking,zxc,https://hail-hydrant.github.io/zxc/,https://github.com/hail-hydrant/zxc,Terminal based intercepting proxy written in rust with tmux and vim as user interface.
 text-search,krep,,https://github.com/davidesantangelo/krep,"Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale."
 programming,codegrab,,https://github.com/epilande/codegrab,"Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file."
 file-handling,choof,,https://github.com/elParadigm/choof,"Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux."

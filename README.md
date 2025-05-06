@@ -1171,7 +1171,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [wuzz](https://github.com/asciimoo/wuzz) - Interactive CLI tool for HTTP inspection.
 * [xiringuito](https://github.com/ivanilves/xiringuito) - VPN made easy! No configuration. No VPN servers. No hassle. Using SSH capabilities.
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
-* [zxc](https://github.com/hail-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
+* [zxc](https://hail-hydrant.github.io/zxc/) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
 
 ## <a name="note-taking"></a>Note taking
 
