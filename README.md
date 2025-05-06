@@ -2107,7 +2107,6 @@ File viewers for images and other formats (e.g., e-books).
 * [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization.
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
-* [nbcat](https://github.com/akopdev/nbcat) - Preview Jupyter notebooks (ipynb) in terminal.
 * [nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
 * [Oyomu](https://github.com/EruEri/oyomu) - A command line comic reader and collection manager.
