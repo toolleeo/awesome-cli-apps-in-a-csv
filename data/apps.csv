@@ -1564,7 +1564,6 @@ music,bash_radio_player,,https://github.com/gokayburuc/bash_radio_player,Termina
 cheatsheet,cmdCompass,,https://github.com/johnwangwyx/cmdCompass,"Cross-platform terminal command manager/notebook with features like custom collections, tagging, variable substitution, and integrated man page with option highlighting."
 programming,bencher,,https://github.com/bencherdev/bencher,"Continuous benchmarking, Bencher allows you to track the performance of your code or binary over time and catch performance regressions before you release."
 system,ntfyme,,https://github.com/AnirudhG07/ntfyme,"Simple to use, cross platform notification tool which sends you local, gmail, telegram, etc notification when a long running process ends with detailed diagnostics, along with features like tracking for suspended process and terminate them automatically."
-viewers,nbcat,https://github.com/akopdev/nbcat,https://github.com/akopdev/nbcat,Preview Jupyter notebooks (ipynb) in terminal.
 viewers,nbpreview,https://github.com/paw-lu/nbpreview,https://github.com/paw-lu/nbpreview,A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 monitor,fastfetch,,https://github.com/fastfetch-cli/fastfetch,"An actively maintained, feature-rich and performance oriented, neofetch like system information tool."
 networking,oryx,,https://github.com/pythops/oryx,TUI for sniffing network traffic using eBPF on Linux.
