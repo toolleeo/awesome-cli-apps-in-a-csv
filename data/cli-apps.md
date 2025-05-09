@@ -1,12 +1,3 @@
-# Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
-With source information maintained in a handy CSV file.
-
-To contribute, see the [contribution section](#contribute).
-Read the instructions before rushing at changing the README file: you must edit the CSV files, not the README!
-
-Some links are available to [related resources](#resources).
 
 Summary:
 
@@ -2241,48 +2232,4 @@ A list of some online resources that contribute interesting links to apps and in
 [Terminal Directory](https://termui.sh/) - List of all (known) terminals.
 
 
-
-# <a name="contribute"></a>How to contribute
-
-If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
-
-As a follower of the 0-inbox approach for emails, I strive to maintain a 0-length list of pull requests for new contributions.
-
-## Open an issue
-
-To suggest a new program, check the existence of the program in the list.
-If it is not present, you can open an issue including the following items:
-
-- `name`: Name of the program
-- `homepage`: URL of the homepage (if it exists)
-- `git`: URL of a clonable git repository (if it exists)
-- `description`: Text with the description of the program
-
-At least one of the two items `homepage` and `git` must be present.
-
-## Pull request on `data/apps.csv`
-
-The peculiarity of this repository is that the source of information is structured into CSV files with a simple structure.
-See the `data/` directory.
-
-If you want to contribute using a pull request, add the new entry to `data/apps.csv`.
-In the CSV file, the `git` field refers to a **clonable git URL**.
-
-Please make changes **to the CSV file only**, **not to the README file**.
-I will review the request and, upon acceptance, I will take care of generating the README and updating the list.
-
-## Contribution via email
-
-If you prefer an email, contact me at `toolleeo@gmail.com` by sending the same information required for the "open an issue" method.
-
-# Generation of the README file
-
-If necessary, this `README` file can be (re-)generated from the CSV files.
-To build `README.md` run:
-
-```
-make
-```
-
-`python3` is required for building. And `make`, of course. :-)
 
