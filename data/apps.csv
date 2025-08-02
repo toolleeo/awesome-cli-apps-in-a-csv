@@ -1776,5 +1776,6 @@ calc,Speedcrunch,,https://heldercorreia.bitbucket.io/speedcrunch,"SpeedCrunch is
 browser,Chawan,https://sr.ht/~bptato/chawan/,https://git.sr.ht/~bptato/chawan,A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.
 games,Maze of Me,,https://github.com/bakill3/maze-of-me,A deeply personal psychological game powered by AI and real user data.
 editors,edit,,https://github.com/microsoft/edit,"This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code."
-viewers,fancy-cat,,https://github.com/freref/fancy-cat, "CLI PDF reader with Vim keybindings."
+security,Pareto Security,https://paretosecurity.com/linux,https://github.com/paretoSecurity/agent,Check for basic security hygiene of any Linux desktop.
+viewers,fancy-cat,,https://github.com/freref/fancy-cat,"CLI PDF reader with Vim keybindings."
 ai,c0admin,,https://github.com/mbrell/c0admin,A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
