@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1787**
+* Apps/tools: **1788**
 * Categories: **79**
 
 # Contents
@@ -29,7 +29,7 @@ Summary:
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (52), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (39)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (37), [System tools](#system) (39)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
@@ -1734,6 +1734,7 @@ Applications to display the usage of system resources: network, memory, power, e
 * [ngrep](http://ngrep.sourceforge.net/) - (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
 * [nitchplusplus](https://github.com/clamsfeel2/nitchplusplus) - A fast system information fetch tool.
 * [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+* [plox](https://github.com/michalkucharczyk/plox) - Extract numeric values from log files and plot them over time. Fully CLI-driven.
 * [powertop](https://01.org/powertop) - A `top`-like utility to monitor the sources of power consumption, allows turning on/off many components, quite useful to track possible power-related issues.
 * [ptrstream](https://github.com/acidvegas/ptrstream) - High-performance distributed PTR record scanner with real-time streaming output.
 * [pv](http://www.ivarch.com/programs/pv.shtml) - The pv command is used to monitor the progress of data through pipe.

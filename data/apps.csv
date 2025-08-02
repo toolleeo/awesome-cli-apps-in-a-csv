@@ -1789,3 +1789,4 @@ indexing, analyzing, filtering, enriching, transforming,
 sorting, validating, joining, formatting & converting
 qsv is a command line program for querying, slicing, indexing, analyzing, filtering, enriching, transforming, sorting, validating, joining, formatting & converting tabular data (CSV, spreadsheets, DBs, parquet, etc)."
 learning,lexy,,https://github.com/antoniorodr/lexy,"Lexy is a lightweight CLI tool that fetches programming tutorials from ""Learn X in Y Minutes"" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow."
+monitor,plox,,https://github.com/michalkucharczyk/plox,Extract numeric values from log files and plot them over time. Fully CLI-driven.
