@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1781**
+* Apps/tools: **1782**
 * Categories: **78**
 
 # Contents
@@ -31,7 +31,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (39)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (36)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (37)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2125,6 +2125,7 @@ File viewers for images and other formats (e.g., e-books).
 * [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 * [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
 * [timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
+* [treepp](https://github.com/terroo/treepp) - The `tree` command with icons made with Modern C++.
 * [TubiTui](https://codeberg.org/777/TubiTui.git) - A lightweight, libre, TUI-based YouTube client
 * [ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
