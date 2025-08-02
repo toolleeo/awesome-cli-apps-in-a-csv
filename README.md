@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1788**
+* Apps/tools: **1789**
 * Categories: **79**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (17), [Font management](#font) (4), [Funny tools](#funny) (18), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
+* [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (46)
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
@@ -1057,6 +1057,7 @@ Applications to process images, colors, and ASCII art.
 * [mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform terminal mandelbrot set explorer.
 * [MapSCII](https://github.com/rastapasta/mapscii) - A Braille & ASCII world map renderer for your console
 * [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program.
+* [objcurses](https://github.com/admtrv/objcurses) - ncurses 3d object viewer.
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 * [pik](https://github.com/immanelg/pik) - Color picker for terminal.
 * [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool.
