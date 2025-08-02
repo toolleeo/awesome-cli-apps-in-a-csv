@@ -1783,3 +1783,7 @@ viewers,kat,,https://github.com/terroo/kat,"A `cat` command with syntax highligh
 viewers,treepp,,https://github.com/terroo/treepp,The `tree` command with icons made with Modern C++.
 viewers,lspp,,https://github.com/terroo/lspp,An alternative to the `ls` command with display of icons of files and folders and with colors.
 ai,unibear,,https://github.com/kamilmac/unibear,A lean TUI AI assistant.
+data-management-tabular,qsv,,https://github.com/dathere/qsv,"qsv is a command line program for querying, slicing,
+indexing, analyzing, filtering, enriching, transforming,
+sorting, validating, joining, formatting & converting
+qsv is a command line program for querying, slicing, indexing, analyzing, filtering, enriching, transforming, sorting, validating, joining, formatting & converting tabular data (CSV, spreadsheets, DBs, parquet, etc)."
