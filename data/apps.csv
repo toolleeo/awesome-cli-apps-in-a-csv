@@ -474,7 +474,7 @@ torrent,Mabel,,https://github.com/smmr-software/mabel,A fancy BitTorrent client 
 text-processing,tuc,,https://github.com/riquito/tuc,"You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help."
 games,sku,,https://github.com/fedeztk/sku,Simple TUI written in go to play sudoku in the terminal.
 typing,fasttyper,,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.
-games,GameShell,,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
+learning,GameShell,,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
 office,Lotus 1-2-3 for Linux,,https://github.com/taviso/123elf,A native port of Lotus 1-2-3 Release 3 to Linux.
 organizers,addrb,,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.
 history,atuin,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronization of your history between machines, via an Atuin server."
@@ -1025,7 +1025,7 @@ networking,quark,https://tools.suckless.org/quark/,https://git.suckless.org/quar
 networking,Prosody,https://prosody.im/,https://github.com/bjc/prosody,"Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources."
 networking,ejabberd,https://www.ejabberd.im/,https://github.com/processone/ejabberd,"ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language."
 rss,openring,,https://git.sr.ht/~sircmpwn/openring,"A tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog."
-productivity,TUI apps,,https://github.com/learnbyexample/TUI-apps,"A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc."
+learning,TUI apps,,https://github.com/learnbyexample/TUI-apps,"A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc."
 viewers,Oyomu,,https://github.com/EruEri/oyomu,A command line comic reader and collection manager.
 monitor-top,procs,,https://github.com/dalance/procs,A modern replacement for ps written in Rust.
 text-processing,Line Select,,https://github.com/urbanogilson/lineselect,"A powerful utility enabling interactive line selection from stdin, allowing to seamlessly integrate, pause, select, and refine your pipeline, enhancing data processing precision."
@@ -1099,7 +1099,7 @@ security,gocryptfs,https://nuetzlich.net/gocryptfs,https://github.com/rfjakob/go
 conversion,jsonify-resume,,https://github.com/ashishbinu/jsonify-resume,A CLI that converts resumes into JSON Resume schema.
 todo-manager,boards,,https://github.com/benrutter/boards,Recursive kanban boards based around the filesystem.
 religion,ltorah,,https://github.com/Mandrew0822/ltorah,ltorah provides a way to read the ancient hebrew Torah from the command line.
-utility,minicloze,,https://github.com/benmanone/minicloze,Rust-based command-line language-learning game using the Tatoeba database.
+learning,minicloze,,https://github.com/benmanone/minicloze,Rust-based command-line language-learning game using the Tatoeba database.
 git,gitnr,,https://github.com/reemus-dev/gitnr,"Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection."
 networking,sslh,,https://github.com/yrutschle/sslh,"A ssl/ssh multiplexer (Applicative Protocol Multiplexer) that allows, for example, to share SSH and HTTPS on the same port."
 cd,qcd,,https://github.com/ClaasBontus/qcd_rs,A tool to change to another directory by just by entering commands like `qcd 3` and step back to where you came from with `qcd -o`. Frequently visited directories are stored in a sqlite3 database.
@@ -1777,8 +1777,9 @@ browser,Chawan,https://sr.ht/~bptato/chawan/,https://git.sr.ht/~bptato/chawan,A 
 games,Maze of Me,,https://github.com/bakill3/maze-of-me,A deeply personal psychological game powered by AI and real user data.
 editors,edit,,https://github.com/microsoft/edit,"This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code."
 security,Pareto Security,https://paretosecurity.com/linux,https://github.com/paretoSecurity/agent,Check for basic security hygiene of any Linux desktop.
-viewers,fancy-cat,,https://github.com/freref/fancy-cat,"CLI PDF reader with Vim keybindings."
-ai,c0admin,,https://github.com/mbrell/c0admin,A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.ls,Files-Sort-py,,https://github.com/AfzGit/Files-Sort-py,"Python-based file sorter that sorts file by extensions, size, and time."
+viewers,fancy-cat,,https://github.com/freref/fancy-cat,CLI PDF reader with Vim keybindings.
+ai,c0admin,,https://github.com/mbrell/c0admin,A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
+ls,Files-Sort-py,,https://github.com/AfzGit/Files-Sort-py,"Python-based file sorter that sorts file by extensions, size, and time."
 viewers,kat,,https://github.com/terroo/kat,"A `cat` command with syntax highlight, with support for several common programming languages."
 viewers,treepp,,https://github.com/terroo/treepp,The `tree` command with icons made with Modern C++.
 viewers,lspp,,https://github.com/terroo/lspp,An alternative to the `ls` command with display of icons of files and folders and with colors.

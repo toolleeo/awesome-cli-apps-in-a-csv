@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1786**
+* Apps/tools: **1787**
 * Categories: **79**
 
 # Contents
@@ -20,18 +20,18 @@ Summary:
 * [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (23), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
-* [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (17), [Font management](#font) (4), [Funny tools](#funny) (18), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (62), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
+* [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (17), [Font management](#font) (4), [Funny tools](#funny) (18), [Fuzzy finders and option pickers](#option-picker) (17)
+* [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
 * [History management](#history) (4)
-* [Learning and didactic tools](#learning) (1)
+* [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (82), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (52), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (52), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (39)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
-* [Utilities](#utility) (46)
+* [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
 
@@ -43,7 +43,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 * [Alibaba-CLI-Scraper](https://github.com/poneoneo/Alibaba-CLI-Scraper) - Create your own Alibaba dataset and interact with it in plain English.
 * [ata](https://github.com/transformrs/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
-* [c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.ls
+* [c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
 * [cai](https://github.com/ad-si/cai) - The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
 * [cha](https://github.com/MehmetMHY/cha) - A simple CLI chat tool to easily interface with OpenAI's models.
 * [chat.sh](https://github.com/basherbots/chat.sh) - Pipeable LLM wrapper with code execution (OpenRouter).
@@ -734,6 +734,7 @@ List directory content and files, with colors or icons; alternatives to `ls`.
 * [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork. 
 * [eza](https://github.com/eza-community/eza) - eza is a modern, _maintained_ replacement for `ls`, built on `exa`.
+* [Files-Sort-py](https://github.com/AfzGit/Files-Sort-py) - Python-based file sorter that sorts file by extensions, size, and time.
 * [ll](https://github.com/antonmedv/ll) - ls with git status.
 * [lscoltui](https://github.com/breynard0/lscoltui) - A TUI tool for changing the colours of ls.
 * [lsd](https://github.com/lsd-rs/lsd) - This project is a rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
@@ -911,7 +912,6 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [freesweep](http://www.upl.cs.wisc.edu/~hartmann/sweep/) - A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors, and also has a high scores table.
 * [Frotz](https://davidgriffith.gitlab.io/frotz/) - Frotz is an interpreter for Infocom games and other Z-machine games.
 * [gambit](https://github.com/maaslalani/gambit) - Chess board in your terminal.
-* [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [gg](https://github.com/Kaamkiya/gg) - A collection of games you can play in your terminal; written in Go.
 * [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper game in the command line programmed in Go.
 * [greed](http://www.catb.org/~esr/greed/) - A game in which the goal is to move and consume all the numbers in a table.
@@ -1082,7 +1082,10 @@ Programs to replace or improve the management of command line history.
 
 Programs that help learning or teaching about some argument.
 
+* [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
+* [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
+* [TUI apps](https://github.com/learnbyexample/TUI-apps) - A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc.
 
 ## <a name="markdown"></a>Markdown
 
@@ -1403,7 +1406,6 @@ Applications for improving own productivity that do not deserve (at the moment) 
 * [h-m-m](https://github.com/nadrad/h-m-m) - h-m-m (pronounced like the interjection "hmm") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
 * [speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
 * [telert](https://github.com/navig-me/telert) - Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete.
-* [TUI apps](https://github.com/learnbyexample/TUI-apps) - A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc.
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal, including todos, calendar, JIRA, etc.
 * [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a Linux console.
@@ -2034,7 +2036,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [glyphs](https://github.com/maaslalani/glyphs) - Unicode symbols on the command line.
 * [guesswidth](https://github.com/noborus/guesswidth) - Guess the width output without delimiters in commands that output to the terminal.
 * [Keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
-* [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
 * [mkdesk](https://gitlab.com/mr-draxs/mkdesk) - A program/command to create .desktop files (program launchers) using the terminal.
 * [movie](https://github.com/mayankchd/movie) - A CLI for getting information about a movie and comparing two movies.
 * [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
