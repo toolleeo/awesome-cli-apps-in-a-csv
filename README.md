@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1780**
+* Apps/tools: **1781**
 * Categories: **78**
 
 # Contents
@@ -31,7 +31,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (39)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (35)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (36)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2107,6 +2107,7 @@ File viewers for images and other formats (e.g., e-books).
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
 * [hnterm](https://github.com/ggerganov/hnterm) - Hacker News in the terminal.
+* [kat](https://github.com/terroo/kat) - A cat command with syntax highlight, with support for several common programming languages.
 * [kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner.
 * [krafna](https://github.com/7sedam7/krafna) - Obsidion dataview plugin-like tool for command line.
 * [Lob TUI](https://github.com/pythops/lobtui) - TUI for lobste.rs website.

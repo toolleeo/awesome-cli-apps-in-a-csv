@@ -1779,3 +1779,4 @@ editors,edit,,https://github.com/microsoft/edit,"This editor pays homage to the 
 security,Pareto Security,https://paretosecurity.com/linux,https://github.com/paretoSecurity/agent,Check for basic security hygiene of any Linux desktop.
 viewers,fancy-cat,,https://github.com/freref/fancy-cat,"CLI PDF reader with Vim keybindings."
 ai,c0admin,,https://github.com/mbrell/c0admin,A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.ls,Files-Sort-py,,https://github.com/AfzGit/Files-Sort-py,"Python-based file sorter that sorts file by extensions, size, and time."
+viewers,kat,,https://github.com/terroo/kat,"A cat command with syntax highlight, with support for several common programming languages."
