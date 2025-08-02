@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1777**
+* Apps/tools: **1780**
 * Categories: **78**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (37), [Animation](#animation) (33), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (38), [Animation](#animation) (33), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (23), [Commands cheatsheet and snippets](#cheatsheet) (27), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (30), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -28,10 +28,10 @@ Summary:
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (52), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (38), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (39)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (55), [System monitoring](#monitor) (36), [System tools](#system) (39)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (52), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (34)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (35)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -42,6 +42,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 * [Alibaba-CLI-Scraper](https://github.com/poneoneo/Alibaba-CLI-Scraper) - Create your own Alibaba dataset and interact with it in plain English.
 * [ata](https://github.com/transformrs/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
+* [c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
 * [cai](https://github.com/ad-si/cai) - The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
 * [cha](https://github.com/MehmetMHY/cha) - A simple CLI chat tool to easily interface with OpenAI's models.
 * [chat.sh](https://github.com/basherbots/chat.sh) - Pipeable LLM wrapper with code execution (OpenRouter).
@@ -1593,6 +1594,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [OAuth2c](https://github.com/cloudentity/oauth2c) - A command-line tool for interacting with OAuth 2.0 authorization servers.
 * [ots](https://github.com/sniptt-official/ots) - Share end-to-end encrypted secrets with others via a one-time URL.
 * [PaperAge](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets, which takes a text and generates an encrypted QR code to print on paper.
+* [Pareto Security](https://paretosecurity.com/linux) - Check for basic security hygiene of any Linux desktop.
 * [pdvzip](https://github.com/CleasbyCode/pdvzip) - CLI tool to embed a ZIP file within a PNG image to create a tweetable and "executable" PNG-ZIP polyglot file. Post & share your PNG-ZIP image on compatible sites.
 * [pgen](https://github.com/ctsrc/Pgen) - Generate passphrases using the wordlists for random passphrases made by the EFF.
 * [quill](https://anchore.com/opensource/) - Simple mac binary signing from any platform.
@@ -2100,6 +2102,7 @@ File viewers for images and other formats (e.g., e-books).
 * [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
 * [ccat](https://github.com/owenthereal/ccat) - `cat` with colorized output.
 * [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader.
+* [fancy-cat](https://github.com/freref/fancy-cat) - CLI PDF reader with Vim keybindings.
 * [hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
