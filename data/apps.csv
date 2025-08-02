@@ -1782,3 +1782,4 @@ ai,c0admin,,https://github.com/mbrell/c0admin,A terminal-based AI assistant for 
 viewers,kat,,https://github.com/terroo/kat,"A `cat` command with syntax highlight, with support for several common programming languages."
 viewers,treepp,,https://github.com/terroo/treepp,The `tree` command with icons made with Modern C++.
 viewers,lspp,,https://github.com/terroo/lspp,An alternative to the `ls` command with display of icons of files and folders and with colors.
+ai,unibear,,https://github.com/kamilmac/unibear,A lean TUI AI assistant.
