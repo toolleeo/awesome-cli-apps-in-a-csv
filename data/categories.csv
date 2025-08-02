@@ -36,6 +36,7 @@ games,Games,"Board games, puzzles, roguelikes, role-play, adventures, card games
 git,Git and accessories,Tools to support and extend the functionalities of the `git` version tracker
 graphics,Graphics,"Applications to process images, colors, and ASCII art"
 history,History management,Programs to replace or improve the management of command line history
+learning,Learning and didactic tools,Programs that help learning or teaching about some argument
 launcher,Command launchers,"Applications to launch/execute programs, either interactively, automatically, in parallel, etc."
 markdown,Markdown,"Utilities to display, convert and reformat Markdown files"
 video,Video,"Programs to process and manage video files (downloader, editing, players, etc.)"

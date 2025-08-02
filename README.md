@@ -10,8 +10,8 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1785**
-* Categories: **78**
+* Apps/tools: **1786**
+* Categories: **79**
 
 # Contents
 
@@ -23,6 +23,7 @@ Summary:
 * [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (10), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (17), [Font management](#font) (4), [Funny tools](#funny) (18), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (62), [Git and accessories](#git) (62), [Graphics](#graphics) (45)
 * [History management](#history) (4)
+* [Learning and didactic tools](#learning) (1)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (82), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
@@ -1076,6 +1077,12 @@ Programs to replace or improve the management of command line history.
 * [Bevel](https://github.com/NorfairKing/bevel) - Command line history in an SQLite database for effective reuse.
 * [hiSHtory](https://github.com/ddworken/hishtory) - A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers.
 * [hstr](https://github.com/dvorka/hstr) - Manage the shell history. It has a powerful visual search and execution of previous commands, and history editing capabilities.
+
+## <a name="learning"></a>Learning and didactic tools
+
+Programs that help learning or teaching about some argument.
+
+* [lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
 
 ## <a name="markdown"></a>Markdown
 
