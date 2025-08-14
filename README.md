@@ -470,6 +470,7 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 * [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [xsv](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/) - Doing a SQL join with CSV files.
 * [YAS-QWIN](https://github.com/sebastiancarlos/yas-qwin) - YAS-QWIN (Yet Another SQL-Query Writing Interface) is a CLI tool for building (and optionally running) SQL queries.
+* [zsv](https://github.com/liquidaty/zsv/) - The world's fastest (simd) CSV parser, with an extensible, multipurpose CLI including TUI viewer.
 
 ## <a name="transfer"></a>Data transfer
 
