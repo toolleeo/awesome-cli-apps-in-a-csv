@@ -1797,3 +1797,4 @@ music,spytorec,,https://github.com/Danidukiyu/SpytoRec,"Real-time Spotify record
 text-processing,trre,,https://github.com/c0stya/trre,Transductive regular expressions: an extension of the regular expressions for text editing and a grep-like command line tool.
 text-search,nocjk,,https://github.com/aethiopicuschan/nocjk,"A simple CLI tool and library to detect CJK (Chinese, Japanese, and Korean) text."
 cheatsheet,bkmr,,https://github.com/sysid/bkmr,"A unified CLI tool for bookmark, snippet, and knowledge management."
+text-processing,catdir,,https://github.com/emilastanov/catdir,"A simple CLI utility that traverses directories and concatenates the contents of all files within a folder and its subfolders, similar to the Unix cat command, but for entire directory trees."
