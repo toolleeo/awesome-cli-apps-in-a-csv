@@ -1811,3 +1811,4 @@ text-processing,catselector,,https://github.com/alexaldearroyo/catselector,Inter
 music,music,,https://github.com/kitesi/music,"Command line tool to help with music related tasks, such as querying songs, lastfm scrobbling, lastfm suggestions, spotify - local playlist sync."
 todo-manager,TODO-CLI-and-TUI,,https://github.com/Harsh-bin/TODO-CLI-and-TUI,"A small todo app which is both ""TUI"" and ""CLI"" based on gum with features like adding tasks for day, week or months, setting target date, adding notes, reward window and many more."
 networking,sshbook,,https://github.com/edavlis/sshbook,Minimal terminal-based SSH launcher for saving ssh entries.
+funny,chadsay,,https://github.com/agvxov/chadsay,"Like cowsay, but pronounced by GigaChad."
