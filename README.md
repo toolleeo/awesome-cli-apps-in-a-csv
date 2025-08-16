@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1802**
+* Apps/tools: **1803**
 * Categories: **79**
 
 # Contents
@@ -27,7 +27,7 @@ Summary:
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (83), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (56), [System monitoring](#monitor) (37), [System tools](#system) (39)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (54), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
@@ -1409,6 +1409,7 @@ Applications for improving own productivity that do not deserve (at the moment) 
 
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
 * [classis](https://github.com/ginschel/classis) - An easy CLI for the terminal fans out there who want to access Open Assistant's API through the terminal or want to use the API in their own applications.
+* [floww](https://github.com/dagimg-dot/floww) - Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
 * [gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally), now supporting Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
 * [h-m-m](https://github.com/nadrad/h-m-m) - h-m-m (pronounced like the interjection "hmm") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
