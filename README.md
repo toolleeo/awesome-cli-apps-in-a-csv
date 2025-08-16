@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1811**
+* Apps/tools: **1812**
 * Categories: **79**
 
 # Contents
@@ -25,7 +25,7 @@ Summary:
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (85), [Note taking](#note-taking) (29)
+* [Networking](#networking) (86), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1171,6 +1171,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer.
 * [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 * [ssh-menu](https://github.com/antonjah/ssh-menu) - A very simple terminal tool that renders an interactive menu with your ssh profiles listed.
+* [sshbook](https://github.com/edavlis/sshbook) - Minimal terminal-based SSH launcher for saving ssh entries.
 * [sshed](https://github.com/trntv/sshed) - sshed is a ssh config editor and bookmarks manager.
 * [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
