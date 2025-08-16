@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1801**
+* Apps/tools: **1802**
 * Categories: **79**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (39), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (40), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (24), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -53,6 +53,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [clai](https://github.com/iivvoo/clai) - Command Line AI is a command line integration for openai. It's setup to help you learn new shell commands and construct more complex commands.
 * [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types.
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
+* [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Natural language shell command generator and executor powered by AI.
 * [egit](https://github.com/Sweet-Papa-Technologies/egit) - A.I. tools and workflows for Git.
 * [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual.
 * [fabric](https://github.com/danielmiessler/fabric) - An open-source framework for augmenting humans using AI, providing a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
