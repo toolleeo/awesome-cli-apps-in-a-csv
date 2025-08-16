@@ -1802,3 +1802,4 @@ networking,dish,,https://github.com/thevxn/dish,"A lightweight, remotely configu
 animation,aclock,,https://github.com/tenox7/aclock,Ascii analog clock for text console displays and terminals and terminal emulators.
 ai,cmd-ai,,https://github.com/BrodaNoel/cmd-ai,Natural language shell command generator and executor powered by AI.
 productivity,floww,,https://github.com/dagimg-dot/floww,"Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications."
+networking,ssm,,https://github.com/lfaoro/ssm,"SSH connection manager designed to connect, filter, tag, and much more from a simple terminal interface."
