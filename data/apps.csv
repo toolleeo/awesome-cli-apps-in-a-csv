@@ -1800,3 +1800,4 @@ cheatsheet,bkmr,,https://github.com/sysid/bkmr,"A unified CLI tool for bookmark,
 text-processing,catdir,,https://github.com/emilastanov/catdir,"A simple CLI utility that traverses directories and concatenates the contents of all files within a folder and its subfolders, similar to the Unix cat command, but for entire directory trees."
 cheatsheet,snipt,,https://github.com/snipt/snipt,Snipt is a powerful text snippet expansion tool.
 todo-manager,tascli,,https://github.com/Aperocky/tascli,"A simple, fast, local task and record manager in CLI."
+programming,suss,,https://github.com/shobrook/suss,AI-powered bug finder that knows your codebase.
