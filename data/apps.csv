@@ -1812,3 +1812,4 @@ music,music,,https://github.com/kitesi/music,"Command line tool to help with mus
 todo-manager,TODO-CLI-and-TUI,,https://github.com/Harsh-bin/TODO-CLI-and-TUI,"A small todo app which is both ""TUI"" and ""CLI"" based on gum with features like adding tasks for day, week or months, setting target date, adding notes, reward window and many more."
 networking,sshbook,,https://github.com/edavlis/sshbook,Minimal terminal-based SSH launcher for saving ssh entries.
 funny,chadsay,,https://github.com/agvxov/chadsay,"Like cowsay, but pronounced by GigaChad."
+text-processing,cho,,https://github.com/jaggzh/cho,"The safe echo & quoting utility you always knew you needed, but were too afraid to ask [for]."
