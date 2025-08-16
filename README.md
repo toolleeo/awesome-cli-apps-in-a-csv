@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1797**
+* Apps/tools: **1798**
 * Categories: **79**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (52), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (56), [System monitoring](#monitor) (37), [System tools](#system) (39)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (54), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (54), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
@@ -1973,6 +1973,7 @@ Todo list and task managers.
 * [omm](https://github.com/dhth/omm) - "on-my-mind" is a keyboard-driven task manager for the command line.
 * [Redo.vc](https://redo.vc) - Redo.vc is a tool for command line fans that allows you to track your tasks. It is a full-featured todo manager with tagging, projects, recurring tasks and much more, all stored in a JSON file so it is super portable and tooling new apps for the data format is super easy.
 * [t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.
+* [tascli](https://github.com/Aperocky/tascli) - A simple, fast, local task and record manager in CLI.
 * [taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 * [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 * [TaskWarrior](https://taskwarrior.org/) - Todo manager with advanced features, dedicated synchronization server available, many plugins and related tools, healthy software project.

@@ -1799,3 +1799,4 @@ text-search,nocjk,,https://github.com/aethiopicuschan/nocjk,"A simple CLI tool a
 cheatsheet,bkmr,,https://github.com/sysid/bkmr,"A unified CLI tool for bookmark, snippet, and knowledge management."
 text-processing,catdir,,https://github.com/emilastanov/catdir,"A simple CLI utility that traverses directories and concatenates the contents of all files within a folder and its subfolders, similar to the Unix cat command, but for entire directory trees."
 cheatsheet,snipt,,https://github.com/snipt/snipt,Snipt is a powerful text snippet expansion tool.
+todo-manager,tascli,,https://github.com/Aperocky/tascli,"A simple, fast, local task and record manager in CLI."
