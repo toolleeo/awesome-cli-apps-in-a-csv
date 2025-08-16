@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1807**
+* Apps/tools: **1808**
 * Categories: **79**
 
 # Contents
@@ -25,7 +25,7 @@ Summary:
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (84), [Note taking](#note-taking) (29)
+* [Networking](#networking) (85), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1150,6 +1150,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [mosh](https://mosh.org/) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 * [mtr](https://github.com/traviscross/mtr) - mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics with a Terminal UI.
+* [netdump](https://github.com/giorgiopapini/netdump) - A simple network packet analyzer using libpcap, supporting both real-time and offline analysis with ASCII visualization.
 * [netscanner](https://github.com/Chleba/netscanner) - All-in-one network scanning tool.
 * [nics](https://github.com/jftuga/nics) - Display information about Network Interface Cards (NICs); the same output is presented across platforms.
 * [oama](https://github.com/pdobsan/oama) - OAuth credential Manager.
