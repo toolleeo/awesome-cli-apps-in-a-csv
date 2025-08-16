@@ -1784,13 +1784,34 @@ viewers,kat,,https://github.com/terroo/kat,"A `cat` command with syntax highligh
 viewers,treepp,,https://github.com/terroo/treepp,The `tree` command with icons made with Modern C++.
 viewers,lspp,,https://github.com/terroo/lspp,An alternative to the `ls` command with display of icons of files and folders and with colors.
 ai,unibear,,https://github.com/kamilmac/unibear,A lean TUI AI assistant.
-data-management-tabular,qsv,,https://github.com/dathere/qsv,"qsv is a command line program for querying, slicing,
-indexing, analyzing, filtering, enriching, transforming,
-sorting, validating, joining, formatting & converting
-qsv is a command line program for querying, slicing, indexing, analyzing, filtering, enriching, transforming, sorting, validating, joining, formatting & converting tabular data (CSV, spreadsheets, DBs, parquet, etc)."
+data-management-tabular,qsv,,https://github.com/dathere/qsv,"qsv is a command line program for querying, slicing, indexing, analyzing, filtering, enriching, transforming, sorting, validating, joining, formatting & converting tabular data (CSV, spreadsheets, DBs, parquet, etc)."
 learning,lexy,,https://github.com/antoniorodr/lexy,"Lexy is a lightweight CLI tool that fetches programming tutorials from ""Learn X in Y Minutes"" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow."
 monitor,plox,,https://github.com/michalkucharczyk/plox,Extract numeric values from log files and plot them over time. Fully CLI-driven.
 graphics,objcurses,,https://github.com/admtrv/objcurses,ncurses 3d object viewer.
 data-management-json,jellex,,https://github.com/kellyjonbrazil/jellex,TUI to filter JSON and JSON Lines data with Python syntax.
 launcher,sunbeam,,https://github.com/pomdtr/sunbeam,"General purpose command-line launcher that defines UIs composed of a succession of views from simple scripts written in any language; a mix between an application launcher like `raycast` or `rofi` and a fuzzy-finder like `fzf` or `telescope`."
+music,spytorec,,https://github.com/Danidukiyu/SpytoRec,"Real-time Spotify recorder with automatic track splitting, metadata tagging, and high-quality FLAC/OGG output."
+text-processing,trre,,https://github.com/c0stya/trre,Transductive regular expressions: an extension of the regular expressions for text editing and a grep-like command line tool.
+text-search,nocjk,,https://github.com/aethiopicuschan/nocjk,"A simple CLI tool and library to detect CJK (Chinese, Japanese, and Korean) text."
+cheatsheet,bkmr,,https://github.com/sysid/bkmr,"A unified CLI tool for bookmark, snippet, and knowledge management."
+text-processing,catdir,,https://github.com/emilastanov/catdir,"A simple CLI utility that traverses directories and concatenates the contents of all files within a folder and its subfolders, similar to the Unix cat command, but for entire directory trees."
+cheatsheet,snipt,,https://github.com/snipt/snipt,Snipt is a powerful text snippet expansion tool.
+todo-manager,tascli,,https://github.com/Aperocky/tascli,"A simple, fast, local task and record manager in CLI."
+programming,suss,,https://github.com/shobrook/suss,AI-powered bug finder that knows your codebase.
+networking,dish,,https://github.com/thevxn/dish,"A lightweight, remotely configurable monitoring service."
+animation,aclock,,https://github.com/tenox7/aclock,Ascii analog clock for text console displays and terminals and terminal emulators.
+ai,cmd-ai,,https://github.com/BrodaNoel/cmd-ai,Natural language shell command generator and executor powered by AI.
+productivity,floww,,https://github.com/dagimg-dot/floww,"Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications."
+networking,ssm,,https://github.com/lfaoro/ssm,"SSH connection manager designed to connect, filter, tag, and much more from a simple terminal interface."
+text-processing,json-leaves,,https://github.com/talwrii/json-leaves,Extract the leaves from a JSON file and show the paths to said leaves.
+graphics,ghost-image-cleaner,,https://github.com/DeadSwitch404/ghost-image-cleaner,"If you share, do it like a Ghost... No metadata, no filename fingerprint, no trace."
+ai,py-ai-shell,,https://github.com/cheney-yan/py-ai-shell,AI-powered shell for command line users.
+networking,netdump,,https://github.com/giorgiopapini/netdump,"A simple network packet analyzer using libpcap, supporting both real-time and offline analysis with ASCII visualization."
+text-processing,catselector,,https://github.com/alexaldearroyo/catselector,Interactive file selector for concatenating and exporting text files.
+music,music,,https://github.com/kitesi/music,"Command line tool to help with music related tasks, such as querying songs, lastfm scrobbling, lastfm suggestions, spotify - local playlist sync."
+todo-manager,TODO-CLI-and-TUI,,https://github.com/Harsh-bin/TODO-CLI-and-TUI,"A small todo app which is both ""TUI"" and ""CLI"" based on gum with features like adding tasks for day, week or months, setting target date, adding notes, reward window and many more."
+networking,sshbook,,https://github.com/edavlis/sshbook,Minimal terminal-based SSH launcher for saving ssh entries.
+funny,chadsay,,https://github.com/agvxov/chadsay,"Like cowsay, but pronounced by GigaChad."
+text-processing,cho,,https://github.com/jaggzh/cho,"The safe echo & quoting utility you always knew you needed, but were too afraid to ask [for]."
+rm,gomi,,https://github.com/babarot/gomi,UNIX rm command with a safety net.
 data-management-tabular,zsv,,https://github.com/liquidaty/zsv,"The world's fastest (simd) CSV parser, with an extensible, multi-purpose CLI"
