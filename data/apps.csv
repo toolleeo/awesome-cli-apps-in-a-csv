@@ -1796,3 +1796,4 @@ launcher,sunbeam,,https://github.com/pomdtr/sunbeam,"General purpose command-lin
 music,spytorec,,https://github.com/Danidukiyu/SpytoRec,"Real-time Spotify recorder with automatic track splitting, metadata tagging, and high-quality FLAC/OGG output."
 text-processing,trre,,https://github.com/c0stya/trre,Transductive regular expressions: an extension of the regular expressions for text editing and a grep-like command line tool.
 text-search,nocjk,,https://github.com/aethiopicuschan/nocjk,"A simple CLI tool and library to detect CJK (Chinese, Japanese, and Korean) text."
+cheatsheet,bkmr,,https://github.com/sysid/bkmr,"A unified CLI tool for bookmark, snippet, and knowledge management."
