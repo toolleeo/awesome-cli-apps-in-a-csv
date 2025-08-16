@@ -1804,3 +1804,4 @@ ai,cmd-ai,,https://github.com/BrodaNoel/cmd-ai,Natural language shell command ge
 productivity,floww,,https://github.com/dagimg-dot/floww,"Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications."
 networking,ssm,,https://github.com/lfaoro/ssm,"SSH connection manager designed to connect, filter, tag, and much more from a simple terminal interface."
 text-processing,json-leaves,,https://github.com/talwrii/json-leaves,Extract the leaves from a JSON file and show the paths to said leaves.
+graphics,ghost-image-cleaner,,https://github.com/DeadSwitch404/ghost-image-cleaner,"If you share, do it like a Ghost... No metadata, no filename fingerprint, no trace."
