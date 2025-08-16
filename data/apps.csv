@@ -1793,3 +1793,4 @@ monitor,plox,,https://github.com/michalkucharczyk/plox,Extract numeric values fr
 graphics,objcurses,,https://github.com/admtrv/objcurses,ncurses 3d object viewer.
 data-management-json,jellex,,https://github.com/kellyjonbrazil/jellex,TUI to filter JSON and JSON Lines data with Python syntax.
 launcher,sunbeam,,https://github.com/pomdtr/sunbeam,"General purpose command-line launcher that defines UIs composed of a succession of views from simple scripts written in any language; a mix between an application launcher like `raycast` or `rofi` and a fuzzy-finder like `fzf` or `telescope`."
+data-management-tabular,zsv,,https://github.com/liquidaty/zsv,"The world's fastest (simd) CSV parser, with an extensible, multi-purpose CLI"
