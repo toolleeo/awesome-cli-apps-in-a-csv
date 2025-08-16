@@ -1807,3 +1807,4 @@ text-processing,json-leaves,,https://github.com/talwrii/json-leaves,Extract the 
 graphics,ghost-image-cleaner,,https://github.com/DeadSwitch404/ghost-image-cleaner,"If you share, do it like a Ghost... No metadata, no filename fingerprint, no trace."
 ai,py-ai-shell,,https://github.com/cheney-yan/py-ai-shell,AI-powered shell for command line users.
 networking,netdump,,https://github.com/giorgiopapini/netdump,"A simple network packet analyzer using libpcap, supporting both real-time and offline analysis with ASCII visualization."
+text-processing,catselector,,https://github.com/alexaldearroyo/catselector,Interactive file selector for concatenating and exporting text files.
