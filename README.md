@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1793**
+* Apps/tools: **1794**
 * Categories: **79**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (52), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (56), [System monitoring](#monitor) (37), [System tools](#system) (39)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (53), [Text search (alternatives to grep)](#text-search) (15), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (53), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
@@ -1900,6 +1900,7 @@ Search files and exploring directory trees to look for text or patterns (RegEx) 
 * [hae](https://github.com/eeroel/hae) - Like grep but with natural language queries; useful to retrieve paragraphs of text that deal with specific topics.
 * [hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern using Intel Hypescan.
 * [krep](https://github.com/davidesantangelo/krep) - Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale.
+* [nocjk](https://github.com/aethiopicuschan/nocjk) - A simple CLI tool and library to detect CJK (Chinese, Japanese, and Korean) text.
 * [paragrep](http://software.clapper.org/paragrep/) - Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions, a paragraph is defined as a block of text delimited by an empty or blank line, fully customizable via command line parameters.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively searches directories for a regex pattern.
 * [ripgrep-all](https://github.com/phiresky/ripgrep-all) - grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc.
