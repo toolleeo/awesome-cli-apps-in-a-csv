@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1800**
+* Apps/tools: **1801**
 * Categories: **79**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (39), [Animation](#animation) (33), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (39), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (24), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -83,6 +83,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 
 Generate or display animated graphics and effects.
 
+* [aclock](https://github.com/tenox7/aclock) - Ascii analog clock for text console displays and terminals and terminal emulators.
 * [animatrix](https://gitlab.com/christosangel/animatrix) - C program that will create some basic animation of ascii-art loaded from a txt file, while rendering the matrix effect in the terminal window.
 * [ascii-matrix](https://gitlab.com/christosangel/ascii-matrix) - This script written in the C language, will render the matrix effect in the terminal, while rendering ASCII art loaded from a txt file, at the center of the terminal window.
 * [ascii-movie](https://github.com/gabe565/ascii-movie) - Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
