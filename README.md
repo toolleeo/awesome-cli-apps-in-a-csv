@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1804**
+* Apps/tools: **1805**
 * Categories: **79**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (56), [System monitoring](#monitor) (37), [System tools](#system) (39)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (54), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (55), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
@@ -1865,6 +1865,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [hck](https://github.com/sstadick/hck) - A sharp cut clone.
 * [huniq](https://github.com/koraa/huniq) - Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.
 * [hyphertool](https://github.com/proycon/hyphertool/) - Command-line tool for syllabification and hyphenisation for multiple languages.
+* [json-leaves](https://github.com/talwrii/json-leaves) - Extract the leaves from a JSON file and show the paths to said leaves.
 * [JsonGenius](https://github.com/semanser/JsonGenius) - Self-hosted scraping API that extracts structured data described by a JSON Schema.
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 * [lexmatch](https://github.com/proycon/lexmatch) - This is a simple lexicon matching tool that, given a lexicon of words or phrases, identifies all matches in a given target text, returning their exact positions. It can be used compute a frequency list for a lexicon, on a target corpus.
