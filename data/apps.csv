@@ -1809,3 +1809,4 @@ ai,py-ai-shell,,https://github.com/cheney-yan/py-ai-shell,AI-powered shell for c
 networking,netdump,,https://github.com/giorgiopapini/netdump,"A simple network packet analyzer using libpcap, supporting both real-time and offline analysis with ASCII visualization."
 text-processing,catselector,,https://github.com/alexaldearroyo/catselector,Interactive file selector for concatenating and exporting text files.
 music,music,,https://github.com/kitesi/music,"Command line tool to help with music related tasks, such as querying songs, lastfm scrobbling, lastfm suggestions, spotify - local playlist sync."
+todo-manager,TODO-CLI-and-TUI,,https://github.com/Harsh-bin/TODO-CLI-and-TUI,"A small todo app which is both ""TUI"" and ""CLI"" based on gum with features like adding tasks for day, week or months, setting target date, adding notes, reward window and many more."

@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1810**
+* Apps/tools: **1811**
 * Categories: **79**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (39)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (56), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (36), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (56), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
@@ -1992,6 +1992,7 @@ Todo list and task managers.
 * [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - A terminal user interface for taskwarrior.
 * [td](https://github.com/wolandark/td) - Simple & elegant To Do list manager written In Bash.
 * [td-cli](https://github.com/darrikonn/td-cli) - A command line todo manager, where you can organize and manage your todos across multiple projects.
+* [TODO-CLI-and-TUI](https://github.com/Harsh-bin/TODO-CLI-and-TUI) - A small todo app which is both "TUI" and "CLI" based on gum with features like adding tasks for day, week or months, setting target date, adding notes, reward window and many more.
 * [todo.txt](http://todotxt.org/) - Minimalistic todo manager that uses a simple plain text file to keep track of items, implemented as a shell script.
 * [todo.txt-more](https://git.sr.ht/~proycon/todotxt-more) - Extensions for todo.txt: interactive rofi/fzf control, sync github issues, better colors, time tracking... and more!
 * [todoclist](https://github.com/RuslanGagushin/todoclist) - Simple CLI app for check your tasks from todoist.
