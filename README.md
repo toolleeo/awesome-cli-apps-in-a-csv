@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1821**
+* Apps/tools: **1822**
 * Categories: **79**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (41), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (42), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (25), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -80,6 +80,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [unibear](https://github.com/kamilmac/unibear) - A lean TUI AI assistant.
 * [wtg](https://github.com/brylee10/wtg) - What The GPT (wtg), a CLI to chat with your program logs.
 * [wut](https://github.com/shobrook/wut) - An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
+* [zev](https://github.com/dtnewman/zev) - A simple CLI tool to generate terminal commands using AI.
 
 ## <a name="animation"></a>Animation
 
