@@ -10,29 +10,29 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1815**
+* Apps/tools: **1823**
 * Categories: **79**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (41), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (42), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (24), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
+* [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (25), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (31), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (17), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (61), [Git and accessories](#git) (62), [Graphics](#graphics) (47)
+* [Games](#games) (62), [Git and accessories](#git) (62), [Graphics](#graphics) (47)
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (86), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (39)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (41)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (57), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (39)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -80,6 +80,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [unibear](https://github.com/kamilmac/unibear) - A lean TUI AI assistant.
 * [wtg](https://github.com/brylee10/wtg) - What The GPT (wtg), a CLI to chat with your program logs.
 * [wut](https://github.com/shobrook/wut) - An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
+* [zev](https://github.com/dtnewman/zev) - A simple CLI tool to generate terminal commands using AI.
 
 ## <a name="animation"></a>Animation
 
@@ -264,6 +265,7 @@ Applications to launch/execute programs, either interactively, automatically, in
 * [climenu](https://github.com/10xJSChad/climenu) - Compact application for creating shell menus with executable entries. Use it to build straightforward static shortcut menus or dynamically generate advanced menus for more complex programs.
 * [entr](https://github.com/eradman/entr) - Event Notify Test Runner - Run an arbitrary command when files change.
 * [foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
+* [fzs](https://github.com/Squirreljetpack/fzs) - "Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related ""actions"".
 * [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
 * [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end-to-end encrypted.
 * [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows setting limits on CPU usage, memory usage, and the number of cores for a process.
@@ -913,6 +915,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [cli-chess](https://github.com/trevorbayless/cli-chess) - A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 * [clidle](https://github.com/ajeetdsouza/clidle) - Wordle, now over SSH.
 * [crappybird-py](https://github.com/JonPizza/crappybird-py) - Flappy bird.
+* [dans-dungeon](https://github.com/ruscoe/dans-dungeon) - A dungeon crawler engine written in Python.
 * [Dino](https://github.com/wldfngrs/chrome-dinosaur-terminal) - A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
 * [Durak](https://github.com/levkush/durak) - Durak card game for two in a terminal.
 * [Dwarf fortress](http://www.bay12games.com/dwarves/) - A fantasy game using ASCII art graphical representation of the game environment, it features a rich environment with many options and possibilities.
@@ -1415,6 +1418,7 @@ Programs to list and monitor currently running processes; alternatives to the `t
 Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps.
 
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
+* [autolog](https://github.com/daveymoores/autolog) - Git-based CLI tool for timesheet generation.
 * [classis](https://github.com/ginschel/classis) - An easy CLI for the terminal fans out there who want to access Open Assistant's API through the terminal or want to use the API in their own applications.
 * [floww](https://github.com/dagimg-dot/floww) - Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
@@ -1438,6 +1442,7 @@ Utilities that generate licenses, documentation structure (README files), projec
 * [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
 * [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 * [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+* [lichen](https://github.com/philocalyst/lichen) - Lichen provides tools for producing and managing licenses both on the CLI and through a config file. Double license and only license particular parts of a codebase with regex.
 * [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
 * [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
 * [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
@@ -1794,6 +1799,7 @@ System management tools, such as for brightness control, dotfile and environment
 * [fzf-kill](https://github.com/Zeioth/fzf-kill) - The no-nonsense task killer for your terminal.
 * [has](https://github.com/kdabir/has) - Checks presence of various command line tools on the PATH and reports their installed version.
 * [inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete with support for 600+ command line tools.
+* [joshfile](https://github.com/if-not-nil/joshfile) - Makefiles for those who dont want makefiles: specifies dependencies and commands via YAML configuration file.
 * [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 * [Kill](https://github.com/unsigned-enby/Kill) - Small bash-only script for killing processes/sending signals.
 * [killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
@@ -1802,6 +1808,7 @@ System management tools, such as for brightness control, dotfile and environment
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [Ntfy](https://github.com/dschep/ntfy) - Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long-running commands complete. It can as well send push notifications to your phone once a particular command completes.
 * [ntfyme](https://github.com/AnirudhG07/ntfyme) - Simple to use, cross platform notification tool which sends you local, gmail, telegram, etc notification when a long running process ends with detailed diagnostics, along with features like tracking for suspended process and terminate them automatically.
+* [oswriter](https://github.com/TheSoftwareWizard/oswriter) - A command-line tool for creating bootable USB drives from various operating system images.
 * [qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals.
 * [rfsh](https://github.com/docsion/rfsh) - Run shell scripts in batch, concurrently, fully customized with variable.
 * [rs-env](https://github.com/sysid/rs-env) - Hierarchical environment variable management, compiling the resulting set of from a hierarchical list of `<name>.env` files.
@@ -2151,6 +2158,7 @@ File viewers for images and other formats (e.g., e-books).
 * [Lob TUI](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 * [lspp](https://github.com/terroo/lspp) - An alternative to the `ls` command with display of icons of files and folders and with colors.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
+* [meow](https://github.com/datsfilipe/meow) - Uses Neovim text editor to print highlighted text in the terminal like cat, bat, etc., but using Neovim it allows to be more configurable, since it uses Lua.
 * [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization.
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
