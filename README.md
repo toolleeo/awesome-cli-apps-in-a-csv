@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1818**
+* Apps/tools: **1819**
 * Categories: **79**
 
 # Contents
@@ -27,7 +27,7 @@ Summary:
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (86), [Note taking](#note-taking) (29)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (53), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (11), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (41)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (57), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
@@ -1439,6 +1439,7 @@ Utilities that generate licenses, documentation structure (README files), projec
 * [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
 * [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 * [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+* [lichen](https://github.com/philocalyst/lichen) - Lichen provides tools for producing and managing licenses both on the CLI and through a config file. Double license and only license particular parts of a codebase with regex.
 * [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
 * [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
 * [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
