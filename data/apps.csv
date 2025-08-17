@@ -1815,3 +1815,4 @@ funny,chadsay,,https://github.com/agvxov/chadsay,"Like cowsay, but pronounced by
 text-processing,cho,,https://github.com/jaggzh/cho,"The safe echo & quoting utility you always knew you needed, but were too afraid to ask [for]."
 rm,gomi,,https://github.com/babarot/gomi,UNIX rm command with a safety net.
 system,joshfile,,https://github.com/if-not-nil/joshfile,Makefiles for those who dont want makefiles: specifies dependencies and commands via YAML configuration file
+launcher,fzs,,https://github.com/Squirreljetpack/fzs,"Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related ""actions"".
