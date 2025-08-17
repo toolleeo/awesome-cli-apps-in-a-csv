@@ -1789,7 +1789,7 @@ learning,lexy,,https://github.com/antoniorodr/lexy,"Lexy is a lightweight CLI to
 monitor,plox,,https://github.com/michalkucharczyk/plox,Extract numeric values from log files and plot them over time. Fully CLI-driven.
 graphics,objcurses,,https://github.com/admtrv/objcurses,ncurses 3d object viewer.
 data-management-json,jellex,,https://github.com/kellyjonbrazil/jellex,TUI to filter JSON and JSON Lines data with Python syntax.
-launcher,sunbeam,,https://github.com/pomdtr/sunbeam,"General purpose command-line launcher that defines UIs composed of a succession of views from simple scripts written in any language; a mix between an application launcher like `raycast` or `rofi` and a fuzzy-finder like `fzf` or `telescope`."
+launcher,sunbeam,,https://github.com/pomdtr/sunbeam,General purpose command-line launcher that defines UIs composed of a succession of views from simple scripts written in any language; a mix between an application launcher like `raycast` or `rofi` and a fuzzy-finder like `fzf` or `telescope`.
 music,spytorec,,https://github.com/Danidukiyu/SpytoRec,"Real-time Spotify recorder with automatic track splitting, metadata tagging, and high-quality FLAC/OGG output."
 text-processing,trre,,https://github.com/c0stya/trre,Transductive regular expressions: an extension of the regular expressions for text editing and a grep-like command line tool.
 text-search,nocjk,,https://github.com/aethiopicuschan/nocjk,"A simple CLI tool and library to detect CJK (Chinese, Japanese, and Korean) text."
@@ -1814,6 +1814,6 @@ networking,sshbook,,https://github.com/edavlis/sshbook,Minimal terminal-based SS
 funny,chadsay,,https://github.com/agvxov/chadsay,"Like cowsay, but pronounced by GigaChad."
 text-processing,cho,,https://github.com/jaggzh/cho,"The safe echo & quoting utility you always knew you needed, but were too afraid to ask [for]."
 rm,gomi,,https://github.com/babarot/gomi,UNIX rm command with a safety net.
-system,joshfile,,https://github.com/if-not-nil/joshfile,Makefiles for those who dont want makefiles: specifies dependencies and commands via YAML configuration file
-launcher,fzs,,https://github.com/Squirreljetpack/fzs,"Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related ""actions"".
+system,joshfile,,https://github.com/if-not-nil/joshfile,Makefiles for those who dont want makefiles: specifies dependencies and commands via YAML configuration file.
+launcher,fzs,,https://github.com/Squirreljetpack/fzs,"""Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related """"actions""""."
 system,oswriter,,https://github.com/TheSoftwareWizard/oswriter,A command-line tool for creating bootable USB drives from various operating system images.
