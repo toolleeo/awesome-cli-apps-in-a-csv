@@ -1814,6 +1814,7 @@ networking,sshbook,,https://github.com/edavlis/sshbook,Minimal terminal-based SS
 funny,chadsay,,https://github.com/agvxov/chadsay,"Like cowsay, but pronounced by GigaChad."
 text-processing,cho,,https://github.com/jaggzh/cho,"The safe echo & quoting utility you always knew you needed, but were too afraid to ask [for]."
 rm,gomi,,https://github.com/babarot/gomi,UNIX rm command with a safety net.
+data-management-tabular,zsv,,https://github.com/liquidaty/zsv,"The world's fastest (simd) CSV parser, with an extensible, multi-purpose CLI."
 system,joshfile,,https://github.com/if-not-nil/joshfile,Makefiles for those who dont want makefiles: specifies dependencies and commands via YAML configuration file.
 launcher,fzs,,https://github.com/Squirreljetpack/fzs,"""Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related """"actions""""."
 system,oswriter,,https://github.com/TheSoftwareWizard/oswriter,A command-line tool for creating bootable USB drives from various operating system images.
