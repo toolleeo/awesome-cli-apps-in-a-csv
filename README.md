@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1819**
+* Apps/tools: **1820**
 * Categories: **79**
 
 # Contents
@@ -32,7 +32,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (41)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (57), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (38)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (39)
 * [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2155,6 +2155,7 @@ File viewers for images and other formats (e.g., e-books).
 * [Lob TUI](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 * [lspp](https://github.com/terroo/lspp) - An alternative to the `ls` command with display of icons of files and folders and with colors.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
+* [meow](https://github.com/datsfilipe/meow) - Uses Neovim text editor to print highlighted text in the terminal like cat, bat, etc., but using Neovim it allows to be more configurable, since it uses Lua.
 * [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization.
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.

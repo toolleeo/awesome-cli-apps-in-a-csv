@@ -1818,3 +1818,4 @@ system,joshfile,,https://github.com/if-not-nil/joshfile,Makefiles for those who 
 launcher,fzs,,https://github.com/Squirreljetpack/fzs,"""Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related """"actions""""."
 system,oswriter,,https://github.com/TheSoftwareWizard/oswriter,A command-line tool for creating bootable USB drives from various operating system images.
 programming-boilerplate,lichen,,https://github.com/philocalyst/lichen,Lichen provides tools for producing and managing licenses both on the CLI and through a config file. Double license and only license particular parts of a codebase with regex.
+viewers,meow,,https://github.com/datsfilipe/meow,"Uses Neovim text editor to print highlighted text in the terminal like cat, bat, etc., but using Neovim it allows to be more configurable, since it uses Lua."
