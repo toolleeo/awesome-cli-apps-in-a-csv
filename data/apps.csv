@@ -1816,3 +1816,4 @@ text-processing,cho,,https://github.com/jaggzh/cho,"The safe echo & quoting util
 rm,gomi,,https://github.com/babarot/gomi,UNIX rm command with a safety net.
 system,joshfile,,https://github.com/if-not-nil/joshfile,Makefiles for those who dont want makefiles: specifies dependencies and commands via YAML configuration file
 launcher,fzs,,https://github.com/Squirreljetpack/fzs,"Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related ""actions"".
+system,oswriter,,https://github.com/TheSoftwareWizard/oswriter,A command-line tool for creating bootable USB drives from various operating system images.
