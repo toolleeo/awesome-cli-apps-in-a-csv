@@ -1879,3 +1879,4 @@ viewers,vv,,https://github.com/wolfpld/vv,"A terminal image viewer, supporting a
 music,upiano,,https://github.com/eliasdorneles/upiano,A Piano in your terminal (TUI).
 graphics,textual-paint,,https://github.com/1j01/textual-paint,MS Paint in your terminal (TUI).
 music,spotui,,https://github.com/ceuk/spotui,TUI Spotify client written in Python.
+music,rmpc,,https://mierak.github.io/rmpc/,A configurable TUI MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
