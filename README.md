@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1872**
+* Apps/tools: **1873**
 * Categories: **81**
 
 # Contents
@@ -32,7 +32,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (59), [System monitoring](#monitor) (41), [System tools](#system) (41)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (44)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (45)
 * [Web browser](#browser) (19), [Web development](#webdev) (32), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2223,6 +2223,7 @@ File viewers for images and other formats (e.g., e-books).
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
 * [Oyomu](https://github.com/EruEri/oyomu) - A command line comic reader and collection manager.
 * [reader](https://github.com/mrusme/reader) - Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
+* [rfc_reader](https://github.com/ozan2003/rfc_reader) - A tool to read RFCs (Request for Comments) with a TUI, allowing you to fetch, cache, and browse RFC documents.
 * [rttt](https://gitlab.com/BlackEdder/rttt) - A Hackernews, RSS and Reddit TUI reader written in C++.
 * [see](https://github.com/guilhermeprokisch/see) - A cute cat for the terminal with advanced code viewing, Markdown rendering, tree-sitter syntax highlighting, images view and more.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and Unicode block graphics characters.
