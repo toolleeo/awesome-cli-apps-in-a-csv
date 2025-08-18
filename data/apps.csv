@@ -1854,3 +1854,4 @@ ai,OrChat,,https://github.com/oop7/OrChat,"A powerful, feature-rich command-line
 git,kick,,https://github.com/mcandre/kick,git sync automator.
 viewers,head-shoulders-knees-toes,,https://github.com/jaggzh/head-shoulders-knees-toes,"Preview file contents by sampling from head, middle, and end."
 music,Aurras,,https://github.com/vedant-asati03/Aurras,"Enhances your music experience with an intuitive TUI and seamless Spotify integration, easily navigate your music library, access playlists, and get recommendations based on your listening habits."
+calc,numio-cli,,https://github.com/neholos/numio-cli,Tool to perform time calculations.
