@@ -1861,3 +1861,4 @@ system,rufl,,https://github.com/mobydeck/rufl,RunFlow (rufl) is a command line t
 file-watch,fswatch,,https://github.com/codeskyblue/fswatch,"Watch file change, and trigger commands (cross platform)."
 monitor,AdGuardian-Term,,https://github.com/lissy93/AdGuardian-Term,A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance.
 dashboards,CoreFreq,,https://github.com/cyring/CoreFreq,CPU monitoring TUI software designed for the 64-bits Processors.
+dashboards,dashbrew,,https://github.com/rasjonell/dashbrew,TUI dashboard builder that lets you visualize data from scripts and APIs.
