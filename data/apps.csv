@@ -1838,3 +1838,4 @@ copy-paste,copytools.sh,,https://github.com/sdavidsson90/copytools.sh,Tools for 
 music,lltag,http://bgoglin.free.fr/lltag/,,Bulk edit MP3 tags.
 games,Sausage,,https://gitlab.com/christosangel/sausage,"Terminal word forming game, written in Bash, inspired by Bookworm."
 utility,DirCrcMd,,https://gitlab.com/halanosiblee/dircrcmd.git,Checksum directory in crc32 and export it into markdown.
+utility,anbu,,https://github.com/tanq16/anbu,A swiss army knife for CLI operations catered to devs and security professionals.
