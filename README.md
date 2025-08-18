@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1878**
+* Apps/tools: **1879**
 * Categories: **81**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (33), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (20), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (63), [Git and accessories](#git) (64), [Graphics](#graphics) (47)
+* [Games](#games) (63), [Git and accessories](#git) (64), [Graphics](#graphics) (48)
 * [History management](#history) (5)
 * [Learning and didactic tools](#learning) (5)
 * [Markdown](#markdown) (10)
@@ -1117,6 +1117,7 @@ Applications to process images, colors, and ASCII art.
 * [svgshift](https://github.com/10xJSChad/svgshift) - Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
 * [TermImg](https://github.com/srlehn/termimg) - termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
 * [TerrainGenerator](https://github.com/NM711/TerrainGenerator) - 2D Terrain Generator to create procedural 2D worlds and maps.
+* [textual-paint](https://github.com/1j01/textual-paint) - MS Paint in your terminal.
 * [zbar](https://zbar.sourceforge.net/) - ZBar reads bar codes from various sources, such as video streams and image files. It supports many popular ypes of bar codes including QR Codes.
 
 ## <a name="history"></a>History management
