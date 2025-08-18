@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1833**
+* Apps/tools: **1834**
 * Categories: **79**
 
 # Contents
@@ -32,7 +32,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (42)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (40)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (41)
 * [Web browser](#browser) (19), [Web development](#webdev) (31), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2173,6 +2173,7 @@ File viewers for images and other formats (e.g., e-books).
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
 * [nbcat](https://github.com/akopdev/nbcat) - Preview Jupyter notebooks (ipynb) in terminal.
 * [nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
+* [nerdlog](https://github.com/dimonomid/nerdlog) - Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server.
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
 * [Oyomu](https://github.com/EruEri/oyomu) - A command line comic reader and collection manager.
 * [reader](https://github.com/mrusme/reader) - Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line

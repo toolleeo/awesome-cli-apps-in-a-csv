@@ -1832,3 +1832,4 @@ viewers,mcat,,https://github.com/Skardyy/mcat,"Terminal image, video, directory,
 financial,budget_tracker_tui,,https://github.com/Feromond/budget_tracker_tui,A simple TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 text-processing,dir2txt,,https://github.com/shubhamoy/dir2txt,A blazing-fast CLI tool to export a directory's structure and contents into a neatly formatted `.txt` or `.json` file.
 system,immortal,,https://github.com/immortal/immortal,A *nix cross-platform (OS agnostic) supervisor.
+viewers,nerdlog,,https://github.com/dimonomid/nerdlog,"Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server."
