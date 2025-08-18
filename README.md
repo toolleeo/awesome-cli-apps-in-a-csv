@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1834**
+* Apps/tools: **1835**
 * Categories: **79**
 
 # Contents
@@ -31,7 +31,7 @@ Summary:
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (42)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
-* [Utilities](#utility) (45)
+* [Utilities](#utility) (46)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (41)
 * [Web browser](#browser) (19), [Web development](#webdev) (31), [Writing](#writing) (11)
 
@@ -2072,6 +2072,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [ccsum](https://github.com/sevenc-nanashi/ccsum) - Convenient sha256sum (md5sum, sha1sum, and sha512sum) checksum with improved usability.
 * [chet-client](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
 * [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+* [copytools.sh](https://github.com/sdavidsson90/copytools.sh) - Tools for copying and pasting in the command line.
 * [envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
