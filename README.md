@@ -1117,7 +1117,7 @@ Applications to process images, colors, and ASCII art.
 * [svgshift](https://github.com/10xJSChad/svgshift) - Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
 * [TermImg](https://github.com/srlehn/termimg) - termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
 * [TerrainGenerator](https://github.com/NM711/TerrainGenerator) - 2D Terrain Generator to create procedural 2D worlds and maps.
-* [textual-paint](https://github.com/1j01/textual-paint) - MS Paint in your terminal.
+* [textual-paint](https://github.com/1j01/textual-paint) - MS Paint in your terminal (TUI).
 * [zbar](https://zbar.sourceforge.net/) - ZBar reads bar codes from various sources, such as video streams and image files. It supports many popular ypes of bar codes including QR Codes.
 
 ## <a name="history"></a>History management
@@ -1776,13 +1776,13 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [sonicradio](https://github.com/dancnb/sonicradio) - A TUI radio player making use of Radio Browser API and Bubbletea.
 * [Spotify TUI](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust.
 * [spotify-player](https://github.com/aome510/spotify-player) - spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.
-* [spotui](https://github.com/ceuk/spotui) - Spotify client written in Python.
+* [spotui](https://github.com/ceuk/spotui) - TUI Spotify client written in Python.
 * [sptui](https://github.com/szktkfm/sptui) - Spotify TUI player, written in Go.
 * [spytorec](https://github.com/Danidukiyu/SpytoRec) - Real-time Spotify recorder with automatic track splitting, metadata tagging, and high-quality FLAC/OGG output.
 * [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
 * [termusic](https://github.com/tramhao/termusic) - Terminal Music Player written in Rust.
 * [Tizonia](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
-* [upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal.
+* [upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal (TUI).
 * [yt-audio](https://github.com/RijulGulati/yt-audio) - A simple, configurable youtube-dl wrapper to download and manage YouTube audio.
 * [ytui-music](https://github.com/sudipghimire533/ytui-music) - YouTube client in terminal for music (lightweight YouTube client).
 
