@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1842**
+* Apps/tools: **1843**
 * Categories: **80**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (43), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (43), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (25), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16), [Copy/paste and clipboard](#copy-paste) (8)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (32), [Data transfer](#transfer) (41), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
@@ -98,6 +98,7 @@ Generate or display animated graphics and effects.
 * [c-squares](https://gitlab.com/christosangel/c-squares) - Program written in C that will render random coloured rectangulars in the terminal, while the font, speed, density, color, ratio and number of the shapes drawn are fully costumizable.
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
 * [ccube](https://github.com/hamza512b/ccube) - Rotating 3d cube in terminal; written in C.
+* [cgol](https://github.com/lporanta/cgol) - Conway's Game of Life in C.
 * [chaftrix](https://gitlab.com/christosangel/chaftrix) - C program that will render the matrix effect in the terminal window in the background, while rendering an image in the foreground, allowing animation of this image in one or two dimensions.
 * [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 * [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A CLI for traversing the Mandelbrot fractal.

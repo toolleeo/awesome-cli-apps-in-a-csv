@@ -1841,3 +1841,4 @@ utility,DirCrcMd,,https://gitlab.com/halanosiblee/dircrcmd.git,Checksum director
 utility,anbu,,https://github.com/tanq16/anbu,A swiss army knife for CLI operations catered to devs and security professionals.
 git,gitsnip,,https://github.com/dagimg-dot/gitsnip,A CLI tool to download specific folders from a git repository.
 todo-manager,todocli,,https://github.com/HxX2/todocli,Todo CLI to manage your to do list in a neat way.
+animation,cgol,,https://github.com/lporanta/cgol,Conway's Game of Life in C.
