@@ -266,7 +266,7 @@ Applications to launch/execute programs, either interactively, automatically, in
 * [climenu](https://github.com/10xJSChad/climenu) - Compact application for creating shell menus with executable entries. Use it to build straightforward static shortcut menus or dynamically generate advanced menus for more complex programs.
 * [entr](https://github.com/eradman/entr) - Event Notify Test Runner - Run an arbitrary command when files change.
 * [foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
-* [fzs](https://github.com/Squirreljetpack/fzs) - "Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related ""actions"".
+* [fzs](https://github.com/Squirreljetpack/fzs) - "Fuzzy selector for your binaries that generalizes the function of launchers like rofi and alfred/raycast using the concept of plugins to group related "actions".
 * [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
 * [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end-to-end encrypted.
 * [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows setting limits on CPU usage, memory usage, and the number of cores for a process.
