@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1828**
+* Apps/tools: **1829**
 * Categories: **79**
 
 # Contents
@@ -27,7 +27,7 @@ Summary:
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (86), [Note taking](#note-taking) (30)
 * [Office tools](#office) (19), [Online search and resources](#online) (27), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (53), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (41)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (57), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
@@ -1377,6 +1377,7 @@ Programs to store and manage collections of passwords and other login/authentica
 * [teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 * [titan](https://www.byteptr.com/titan/) - Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license.
 * [tresor](https://github.com/Zaphoood/tresor) - A KeePass TUI written in Go using Bubble Tea.
+* [vault-crypt](https://github.com/DeadSwitch404/vault-crypt) - Minimalist GPG-powered vault encryption for KeePassXC. No cloud. No traces. Just your keys, your silence, and the seal.
 
 ## <a name="pastebin"></a>Pastebin
 
