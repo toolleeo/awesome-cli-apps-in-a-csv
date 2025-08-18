@@ -1830,3 +1830,4 @@ webdev,restbook,,https://github.com/shalev007/restbook,RestBook is an open-sourc
 password-manager,vault-crypt,,https://github.com/DeadSwitch404/vault-crypt,"Minimalist GPG-powered vault encryption for KeePassXC. No cloud. No traces. Just your keys, your silence, and the seal."
 viewers,mcat,,https://github.com/Skardyy/mcat,"Terminal image, video, directory, and Markdown viewer."
 financial,budget_tracker_tui,,https://github.com/Feromond/budget_tracker_tui,A simple TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
+text-processing,dir2txt,,https://github.com/shubhamoy/dir2txt,A blazing-fast CLI tool to export a directory's structure and contents into a neatly formatted `.txt` or `.json` file.
