@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1859**
+* Apps/tools: **1860**
 * Categories: **81**
 
 # Contents
@@ -20,7 +20,7 @@ Summary:
 * [Calculators](#calc) (19), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (25), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16), [Copy/paste and clipboard](#copy-paste) (9)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (32), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (27), [Email](#email) (18)
-* [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (18), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
+* [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (18), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (63), [Git and accessories](#git) (64), [Graphics](#graphics) (47)
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (5)
@@ -839,6 +839,7 @@ File systems with specific features; e.g., the possibility to add tags and label
 Services that watch files for changes and perform actions when something happens.
 
 * [Chokidar CLI](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform command line utility to watch file system changes.
+* [fswatch](https://github.com/codeskyblue/fswatch) - Watch file change, and trigger commands (cross platform).
 * [reflex](https://github.com/cespare/reflex) - Reflex is a small tool to watch a directory and rerun a command when certain files change.
 * [rwatch](https://github.com/davidhfrankelcodes/rwatch) - A Rust re-implementation of the classic Unix watch command that allows you to run a command repeatedly and watch its output.
 * [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
