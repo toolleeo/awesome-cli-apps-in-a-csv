@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1853**
+* Apps/tools: **1854**
 * Categories: **81**
 
 # Contents
@@ -32,7 +32,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (58), [System monitoring](#monitor) (37), [System tools](#system) (40)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (41)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (42)
 * [Web browser](#browser) (19), [Web development](#webdev) (31), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2187,6 +2187,7 @@ File viewers for images and other formats (e.g., e-books).
 * [fancy-cat](https://github.com/freref/fancy-cat) - CLI PDF reader with Vim keybindings.
 * [hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+* [head-shoulders-knees-toes](https://github.com/jaggzh/head-shoulders-knees-toes) - Preview file contents by sampling from head, middle, and end.
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
 * [hnterm](https://github.com/ggerganov/hnterm) - Hacker News in the terminal.
 * [kat](https://github.com/terroo/kat) - A `cat` command with syntax highlight, with support for several common programming languages.

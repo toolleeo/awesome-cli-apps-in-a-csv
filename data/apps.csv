@@ -1852,3 +1852,4 @@ ai-cli-commands,reTermAI,,https://github.com/pie0902/reTermAI,"Smart command ass
 file-handling,fstk,,https://github.com/archsyscall/fstk,"Stack-based file & directory manager: modern ""cut/paste"" alternative to mv."
 ai,OrChat,,https://github.com/oop7/OrChat,"A powerful, feature-rich command-line interface for interacting with AI models through OpenRouter."
 git,kick,,https://github.com/mcandre/kick,git sync automator.
+viewers,head-shoulders-knees-toes,,https://github.com/jaggzh/head-shoulders-knees-toes,"Preview file contents by sampling from head, middle, and end."
