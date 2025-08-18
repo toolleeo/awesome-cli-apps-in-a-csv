@@ -1857,3 +1857,4 @@ music,Aurras,,https://github.com/vedant-asati03/Aurras,"Enhances your music expe
 calc,numio-cli,,https://github.com/neholos/numio-cli,Tool to perform time calculations.
 copy-paste,extrakto,,https://github.com/laktak/extrakto,"extrakto for tmux - quickly select, copy/insert/complete text without a mouse."
 transfer,goop-cli,,https://github.com/yojoecapital/goop-cli,The Google Drive Push CLI is a simple tool for syncing files between a local directory and Google Drive.
+system,rufl,,https://github.com/mobydeck/rufl,RunFlow (rufl) is a command line tool that allows executing other commands either in parallel or sequentially.
