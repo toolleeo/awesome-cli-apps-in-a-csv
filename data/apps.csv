@@ -1847,3 +1847,4 @@ disk-analyzer,mac-storage-manager,,https://github.com/NarekMosisian/mac-storage-
 learning,bashmate,,https://github.com/algobuddha/bashmate,CLI tool to learn bash command with your natural language.
 ai-cli-commands,terminal-command,,https://github.com/huss-mo/terminal-command,"A Python-based CLI tool for generating, and optionally executing, shell commands from natural language."
 text-search,brave-bookmarks,,https://github.com/talwrii/brave-bookmarks,Command-line script to query Brave's bookmark.
+online,monolith,,https://github.com/Y2Z/monolith,Tool and library for saving complete web pages as a single HTML file.
