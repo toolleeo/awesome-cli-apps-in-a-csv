@@ -2223,7 +2223,7 @@ File viewers for images and other formats (e.g., e-books).
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
 * [Oyomu](https://github.com/EruEri/oyomu) - A command line comic reader and collection manager.
 * [reader](https://github.com/mrusme/reader) - Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
-* [rttt](https://gitlab.com/BlackEdder/rttt) - A Hackernews, RSS and Reddit reader for the terminal written in C++.
+* [rttt](https://gitlab.com/BlackEdder/rttt) - A Hackernews, RSS and Reddit TUI reader written in C++.
 * [see](https://github.com/guilhermeprokisch/see) - A cute cat for the terminal with advanced code viewing, Markdown rendering, tree-sitter syntax highlighting, images view and more.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and Unicode block graphics characters.
 * [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
@@ -2289,7 +2289,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [restbook](https://github.com/shalev007/restbook) - RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks.
 * [s3cmd](https://github.com/s3tools/s3cmd) - Command line tool for managing Amazon S3 and CloudFront services.
 * [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - Tools to assist with the development and/or maintenance of Shopify apps and stores.
-* [Slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
+* [Slumber](https://github.com/LucasPickering/slumber) - TUI-based HTTP/REST client.
 * [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 * [surge](https://surge.sh) - Static web publishing on surge.sh CDN.
 * [Tsung](http://tsung.erlang-projects.org/) - A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
