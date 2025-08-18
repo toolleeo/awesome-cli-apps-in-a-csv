@@ -1825,3 +1825,4 @@ ai,zev,,https://github.com/dtnewman/zev,A simple CLI tool to generate terminal c
 productivity,autolog,,https://github.com/daveymoores/autolog,Git-based CLI tool for timesheet generation.programming,sidem,,https://github.com/taha-yassine/sidem,TUI app that helps simplify the management of .env configuration files.
 note-taking,numen,,https://github.com/aguiarsc/numen,Markdown-compatible AI-Powered Terminal Notepad.
 online,gh-star-timeline,,https://github.com/talwrii/gh-star-timeline,Command-line tool to keep track of historic stars on github. Machine-useable output.
+ai,mcp-manager,,https://github.com/nstebbins/mcp-manager,CLI tool for managing Model Context Protocol (MCP) servers in one place & using them across them different clients.
