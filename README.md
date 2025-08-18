@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1836**
+* Apps/tools: **1839**
 * Categories: **80**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (32), [Data transfer](#transfer) (41), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (27), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (18), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (62), [Git and accessories](#git) (62), [Graphics](#graphics) (47)
+* [Games](#games) (63), [Git and accessories](#git) (62), [Graphics](#graphics) (47)
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
@@ -29,9 +29,9 @@ Summary:
 * [Office tools](#office) (19), [Online search and resources](#online) (27), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (54), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (40)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (58), [System monitoring](#monitor) (37), [System tools](#system) (40)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
-* [Utilities](#utility) (44)
+* [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (41)
 * [Web browser](#browser) (19), [Web development](#webdev) (31), [Writing](#writing) (11)
 
@@ -954,6 +954,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
 * [rooshk](https://github.com/cmspeedrunner/rooshk) - A command line game in which you act as god over a sandbox world.
 * [rpg-cli](https://github.com/facundoolano/rpg-cli) - Your filesystem as a dungeon!
+* [Sausage](https://gitlab.com/christosangel/sausage) - Terminal word forming game, written in Bash, inspired by Bookworm.
 * [shellphone](https://github.com/kokasmark/shellphone) - Terminal based Terraria player file editor.
 * [sku](https://github.com/fedeztk/sku) - Simple TUI written in go to play sudoku in the terminal.
 * [Slash'EM](http://slashem.sourceforge.net/) - Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version.
@@ -1715,6 +1716,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [kmp3](https://github.com/korei999/kmp3) - Little music player with some peculiar characteristics.
 * [kord](https://github.com/synestematic/kord) - A Python framework that provides programmers with a simple API for the creation of music-based applications.
 * [line](https://github.com/pd3v/line) - Tiny command-line midi sequencer and language for live coding.
+* [lltag](http://bgoglin.free.fr/lltag/) - Bulk edit MP3 tags.
 * [lowfi](https://github.com/remvze/lowfi) - A music player through your terminal, with the option to open YouTube in the browser.
 * [maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.
 * [mfp](https://github.com/guptarohit/mfp) - A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state.
@@ -2080,6 +2082,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [ccsum](https://github.com/sevenc-nanashi/ccsum) - Convenient sha256sum (md5sum, sha1sum, and sha512sum) checksum with improved usability.
 * [chet-client](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
 * [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+* [DirCrcMd](https://gitlab.com/halanosiblee/dircrcmd.git) - Checksum directory in crc32 and export it into markdown.
 * [envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.

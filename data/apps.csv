@@ -1835,3 +1835,6 @@ text-processing,dir2txt,,https://github.com/shubhamoy/dir2txt,A blazing-fast CLI
 system,immortal,,https://github.com/immortal/immortal,A *nix cross-platform (OS agnostic) supervisor.
 viewers,nerdlog,,https://github.com/dimonomid/nerdlog,"Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server."
 copy-paste,copytools.sh,,https://github.com/sdavidsson90/copytools.sh,Tools for copying and pasting in the command line.
+music,lltag,http://bgoglin.free.fr/lltag/,,Bulk edit MP3 tags.
+games,Sausage,,https://gitlab.com/christosangel/sausage,"Terminal word forming game, written in Bash, inspired by Bookworm."
+utility,DirCrcMd,,https://gitlab.com/halanosiblee/dircrcmd.git,Checksum directory in crc32 and export it into markdown.
