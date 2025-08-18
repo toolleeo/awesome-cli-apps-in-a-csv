@@ -2341,6 +2341,8 @@ A list of some online resources that contribute interesting links to apps and in
 
 [Terminal Directory](https://termui.sh/) - List of all (known) terminals.
 
+[Awesome TUIs](https://github.com/rothgar/awesome-tuis) - An awesome list dedicated to TUI programs.
+
 
 
 # <a name="contribute"></a>How to contribute
