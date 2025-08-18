@@ -1874,3 +1874,4 @@ viewers,rttt,,https://gitlab.com/BlackEdder/rttt,"A Hackernews, RSS and Reddit T
 viewers,rfc_reader,,https://github.com/ozan2003/rfc_reader,"A tool to read RFCs (Request for Comments) with a TUI, allowing you to fetch, cache, and browse RFC documents."
 financial,portfolio_rs,,https://github.com/MarkusZoppelt/portfolio_rs,A command line TUI tool for managing financial investment portfolios.
 history,mcfly,,https://github.com/cantino/mcfly,Intelligent context-aware search engine for your shell history with TUI.
+productivity,SheetsUI,,https://github.com/zaphar/sheetsui,A console based (TUI) spreadsheet application.
