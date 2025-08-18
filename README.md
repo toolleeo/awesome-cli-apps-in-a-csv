@@ -1419,7 +1419,7 @@ Programs to list and monitor currently running processes; alternatives to the `t
 Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps.
 
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
-* [autolog](https://github.com/daveymoores/autolog) - Git-based CLI tool for timesheet generation.
+* [autolog](https://github.com/daveymoores/autolog) - Git-based CLI tool for timesheet generation.programming
 * [classis](https://github.com/ginschel/classis) - An easy CLI for the terminal fans out there who want to access Open Assistant's API through the terminal or want to use the API in their own applications.
 * [floww](https://github.com/dagimg-dot/floww) - Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
