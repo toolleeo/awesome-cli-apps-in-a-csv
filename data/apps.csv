@@ -1864,3 +1864,4 @@ monitor,CoreFreq,,https://github.com/cyring/CoreFreq,CPU monitoring TUI software
 viewers,dashbrew,,https://github.com/rasjonell/dashbrew,TUI dashboard builder that lets you visualize data from scripts and APIs.
 monitor,Grafterm,,https://github.com/slok/grafterm,"Metrics TUI dashboards on terminal, a Grafana inspired terminal version."
 programming,binsider,,https://github.com/orhun/binsider,A TUI for analyzing Linux binaries.
+dashboards,dolphie,,https://github.com/charles-001/dolphie,Your single pane of glass (TUI) for real-time analytics into MySQL/MariaDB & ProxySQL.
