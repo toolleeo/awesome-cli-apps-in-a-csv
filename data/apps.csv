@@ -1828,3 +1828,4 @@ online,gh-star-timeline,,https://github.com/talwrii/gh-star-timeline,Command-lin
 ai,mcp-manager,,https://github.com/nstebbins/mcp-manager,CLI tool for managing Model Context Protocol (MCP) servers in one place & using them across them different clients.
 webdev,restbook,,https://github.com/shalev007/restbook,RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks.
 password-manager,vault-crypt,,https://github.com/DeadSwitch404/vault-crypt,"Minimalist GPG-powered vault encryption for KeePassXC. No cloud. No traces. Just your keys, your silence, and the seal."
+viewers,mcat,,https://github.com/Skardyy/mcat,"Terminal image, video, directory, and Markdown viewer."
