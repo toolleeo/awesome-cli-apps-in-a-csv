@@ -1823,3 +1823,4 @@ viewers,meow,,https://github.com/datsfilipe/meow,"Uses Neovim text editor to pri
 games,dans-dungeon,,https://github.com/ruscoe/dans-dungeon,A dungeon crawler engine written in Python.
 ai,zev,,https://github.com/dtnewman/zev,A simple CLI tool to generate terminal commands using AI.
 productivity,autolog,,https://github.com/daveymoores/autolog,Git-based CLI tool for timesheet generation.programming,sidem,,https://github.com/taha-yassine/sidem,TUI app that helps simplify the management of .env configuration files.
+note-taking,numen,,https://github.com/aguiarsc/numen,Markdown-compatible AI-Powered Terminal Notepad.

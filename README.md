@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1824**
+* Apps/tools: **1825**
 * Categories: **79**
 
 # Contents
@@ -25,7 +25,7 @@ Summary:
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (86), [Note taking](#note-taking) (29)
+* [Networking](#networking) (86), [Note taking](#note-taking) (30)
 * [Office tools](#office) (19), [Online search and resources](#online) (26), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (53), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1232,6 +1232,7 @@ Tools to take, organize and manage notes.
 * [note](https://github.com/armand-sauzay/note) - A modern terminal-based note-taking application built with Bubble Tea and Lip Gloss to organize your thoughts with style.
 * [Noted](https://github.com/torbratsberg/noted) - Notes library, with viewer and shortcuts to add, delete and edit notes.
 * [NoteSH](https://github.com/Cvaniak/NoteSH) - Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!
+* [numen](https://github.com/aguiarsc/numen) - Markdown-compatible AI-Powered Terminal Notepad.
 * [posce](https://github.com/vdt/posce) - A note-taking toolkit for your command line.
 * [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 * [sncli](https://github.com/insanum/sncli) - A Python application that gives you access to your Simplenote account via the command line.
