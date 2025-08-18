@@ -1875,3 +1875,4 @@ viewers,rfc_reader,,https://github.com/ozan2003/rfc_reader,"A tool to read RFCs 
 financial,portfolio_rs,,https://github.com/MarkusZoppelt/portfolio_rs,A command line TUI tool for managing financial investment portfolios.
 history,mcfly,,https://github.com/cantino/mcfly,Intelligent context-aware search engine for your shell history with TUI.
 office,SheetsUI,,https://github.com/zaphar/sheetsui,A console based (TUI) spreadsheet application.
+viewers,vv,,https://github.com/wolfpld/vv,"A terminal image viewer, supporting an extensive range of modern image formats."
