@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1852**
+* Apps/tools: **1853**
 * Categories: **81**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (32), [Data transfer](#transfer) (41), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (18), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (63), [Git and accessories](#git) (63), [Graphics](#graphics) (47)
+* [Games](#games) (63), [Git and accessories](#git) (64), [Graphics](#graphics) (47)
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (5)
 * [Markdown](#markdown) (10)
@@ -1039,6 +1039,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [GitUI](https://github.com/extrawurst/gitui) - The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git.
 * [grv](https://github.com/rgburke/grv) - Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits, and diffs to be viewed, searched and filtered.
 * [hut](https://git.sr.ht/~xenrox/hut) - A CLI tool for sr.ht.
+* [kick](https://github.com/mcandre/kick) - git sync automator.
 * [Kusa](https://github.com/Ryu0118/Kusa) - Displays GitHub contribution graphs.
 * [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands that simplify the execution of many operations making them interactive.
 * [mamediff](https://github.com/sile/mamediff) - A TUI editor for managing unstaged and staged Git diffs.
