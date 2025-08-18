@@ -1878,3 +1878,4 @@ office,SheetsUI,,https://github.com/zaphar/sheetsui,A console based (TUI) spread
 viewers,vv,,https://github.com/wolfpld/vv,"A terminal image viewer, supporting an extensive range of modern image formats."
 music,upiano,,https://github.com/eliasdorneles/upiano,A Piano in your terminal.
 graphics,textual-paint,,https://github.com/1j01/textual-paint,MS Paint in your terminal.
+music,spotui,,https://github.com/ceuk/spotui,Spotify client written in Python.
