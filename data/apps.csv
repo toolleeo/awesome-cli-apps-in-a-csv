@@ -1863,3 +1863,4 @@ monitor,AdGuardian-Term,,https://github.com/lissy93/AdGuardian-Term,A TUI dashbo
 monitor,CoreFreq,,https://github.com/cyring/CoreFreq,CPU monitoring TUI software designed for the 64-bits Processors.
 viewers,dashbrew,,https://github.com/rasjonell/dashbrew,TUI dashboard builder that lets you visualize data from scripts and APIs.
 monitor,Grafterm,,https://github.com/slok/grafterm,"Metrics TUI dashboards on terminal, a Grafana inspired terminal version."
+programming,binsider,,https://github.com/orhun/binsider,A TUI for analyzing Linux binaries.
