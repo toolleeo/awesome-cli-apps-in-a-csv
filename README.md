@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1870**
+* Apps/tools: **1871**
 * Categories: **81**
 
 # Contents
@@ -33,7 +33,7 @@ Summary:
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (46)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (43)
-* [Web browser](#browser) (19), [Web development](#webdev) (31), [Writing](#writing) (11)
+* [Web browser](#browser) (19), [Web development](#webdev) (32), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -2288,6 +2288,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [restbook](https://github.com/shalev007/restbook) - RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks.
 * [s3cmd](https://github.com/s3tools/s3cmd) - Command line tool for managing Amazon S3 and CloudFront services.
 * [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - Tools to assist with the development and/or maintenance of Shopify apps and stores.
+* [Slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 * [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 * [surge](https://surge.sh) - Static web publishing on surge.sh CDN.
 * [Tsung](http://tsung.erlang-projects.org/) - A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
