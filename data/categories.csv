@@ -13,6 +13,7 @@ data-management-tabular,Data management - Tabular data,"Tools to manage tabular 
 transfer,Data transfer,Programs for transferring files and data between different machines
 cd,Directory changers (alternatives to cd),Programs for improving the efficiency of directory traversal by remembering common paths and other approaches; alternatives to the `cd` command
 ai,AI / ChatGPT,Interfaces and front-ends to GPT engines and other tools powered by artificial intelligence and Natural Language Processing
+ai-cli-commands,AI terminal command generator,Generates or explains commands for the command line using AI
 copilot,Co-pilot,Programs that use GPT and GPT-like engines to generate commands at the command line or code in general from natural language
 devops,DevOps,"Applications for supporting DevOps tasks, such as containers or cloud systems management"
 diff,Diff,"Calculation of diffs between files and data, even with context or semantic awareness (i.e., considering the meaning of the data)"

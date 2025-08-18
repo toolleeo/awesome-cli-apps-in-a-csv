@@ -1299,7 +1299,7 @@ webdev,beachpatrol,,https://github.com/sebastiancarlos/beachpatrol,A CLI tool to
 security,SSH-Snake,,https://github.com/MegaManSec/SSH-Snake,"SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery."
 file-renamer,VisioNomicon,,https://github.com/rehanzo/VisioNomicon,A utility that leverages GPT-4V to rename image files based on their content.
 music,opencubicplayer,,https://github.com/mywave82/opencubicplayer,"Open Cubic Player (UNIX fork) is a music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene."
-ai,ht,,https://github.com/catallo/ht,A shell command that answers your questions about shell commands using OpenAI GPT.
+ai-cli-commands,ht,,https://github.com/catallo/ht,A shell command that answers your questions about shell commands using OpenAI GPT.
 graphics,durdraw,,https://github.com/cmang/durdraw,"Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes."
 browser,carbonyl,,https://github.com/fathyb/carbonyl,Chromium running inside your terminal.
 package-manager,app,,https://github.com/hkdb/app,A cross-platform package management assistant with super powers.
@@ -1322,7 +1322,7 @@ data-management-tabular,YAS-QWIN,,https://github.com/sebastiancarlos/yas-qwin,YA
 webdev,Ballast,,https://github.com/synoet/ballast,A simple API load testing tool that lets you compare performance snapshots of your API.
 text-processing,toc,,https://github.com/AlphaJack/toc,Generate a table of contents from the comments of a file.
 music,sptui,,https://github.com/szktkfm/sptui,"Spotify TUI player, written in Go."
-ai,osh,,https://github.com/charyan/osh,Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
+ai-cli-commands,osh,,https://github.com/charyan/osh,Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
 ai,clai,,https://github.com/iivvoo/clai,Command Line AI is a command line integration for openai. It's setup to help you learn new shell commands and construct more complex commands.
 organizers,pbook,,https://github.com/proh14/pbook,A simple phonebook manager for TUI lovers.
 transfer,smartscp,,https://github.com/lengyijun/smartscp,"A replacement of scp, but auto skip git-ignored files; it's just a wrapper of sshfs and xcp."
@@ -1572,7 +1572,7 @@ password-manager,teller,,https://github.com/tellerops/teller,Cloud native secret
 transfer,github-dlr,,https://github.com/rocktimsaikia/github-dlr,Download individual files and folders from Github recursively.
 online,dawson,,https://github.com/will-moss/dawson,"Track your project's statistics on Hacker News and Github, and get notified on every new interaction."
 viewers,see,,https://github.com/guilhermeprokisch/see,"A cute cat for the terminal with advanced code viewing, Markdown rendering, tree-sitter syntax highlighting, images view and more."
-ai,llm-term,,https://github.com/dh1011/llm-term,A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
+ai-cli-commands,llm-term,,https://github.com/dh1011/llm-term,A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
 ai,fabric,,https://github.com/danielmiessler/fabric,"An open-source framework for augmenting humans using AI, providing a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
 ai,genie,,https://github.com/harshalranjhani/genie,"Personal assistant for the CLI that helps in tasks such as running commands, generating images and music, summarizing comments."
 online,tuir,,https://gitlab.com/Chocimier/tuir,Browse Reddit from your terminal.
@@ -1637,7 +1637,7 @@ security,grant,https://anchore.com/opensource/,https://github.com/anchore/grant,
 security,quill,https://anchore.com/opensource/,https://github.com/anchore/quill,Simple mac binary signing from any platform.
 backup,rsnapshot,https://rsnapshot.org,https://github.com/rsnapshot/rsnapshot," A filesystem snapshot utility based on rsync. It manages a rotation schedule when to discard older backup, e.g. from hourly to yearly. The Perl code makes extensive use of hard links and greatly reduces the disk space required."
 ls,lscoltui,,https://github.com/breynard0/lscoltui,A TUI tool for changing the colours of ls.
-ai,Spren,https://smadgulkar.github.io/spren/,https://github.com/smadgulkar/spren,"AI-powered terminal assistant that converts natural language to shell commands. Supports PowerShell, Bash, and CMD with intelligent command suggestions and safety checks."
+ai-cli-commands,Spren,https://smadgulkar.github.io/spren/,https://github.com/smadgulkar/spren,"AI-powered terminal assistant that converts natural language to shell commands. Supports PowerShell, Bash, and CMD with intelligent command suggestions and safety checks."
 time-tracker,tim:r,,https://github.com/sectore/timr,A TUI for organizing your time: Pomodoro Countdown counter.
 games,gg,,https://github.com/Kaamkiya/gg,A collection of games you can play in your terminal; written in Go.
 file-handling,qcp,,https://github.com/crazyscot/qcp,Quick File Copy using QUIC.
@@ -1671,7 +1671,7 @@ copy-paste,clipy,,https://github.com/szktkfm/clipy,Manage clipboard history.
 ai,egit,,https://github.com/Sweet-Papa-Technologies/egit,A.I. tools and workflows for Git.
 office,bashform,,https://github.com/devmegablaster/bashform,Create and share forms in the terminal over SSH.
 rss,feedln,,https://github.com/xqtr/feedln,A simple terminal RSS reader.
-ai,wut,,https://github.com/shobrook/wut,An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
+ai-cli-commands,wut,,https://github.com/shobrook/wut,An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
 games,term-asteroids,,https://github.com/NoiseByNorthwest/term-asteroids,"An Asteroids-like game, running in a terminal, written in PHP."
 games,chess-tui,,https://github.com/thomas-mauran/chess-tui,Play chess from your terminal.
 launcher,paneru,,https://github.com/pondda/paneru,Launcher panel from the terminal.
@@ -1778,7 +1778,7 @@ games,Maze of Me,,https://github.com/bakill3/maze-of-me,A deeply personal psycho
 editors,edit,,https://github.com/microsoft/edit,"This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code."
 security,Pareto Security,https://paretosecurity.com/linux,https://github.com/paretoSecurity/agent,Check for basic security hygiene of any Linux desktop.
 viewers,fancy-cat,,https://github.com/freref/fancy-cat,CLI PDF reader with Vim keybindings.
-ai,c0admin,,https://github.com/mbrell/c0admin,A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
+ai-cli-commands,c0admin,,https://github.com/mbrell/c0admin,A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
 ls,Files-Sort-py,,https://github.com/AfzGit/Files-Sort-py,"Python-based file sorter that sorts file by extensions, size, and time."
 viewers,kat,,https://github.com/terroo/kat,"A `cat` command with syntax highlight, with support for several common programming languages."
 viewers,treepp,,https://github.com/terroo/treepp,The `tree` command with icons made with Modern C++.
@@ -1800,12 +1800,12 @@ todo-manager,tascli,,https://github.com/Aperocky/tascli,"A simple, fast, local t
 programming,suss,,https://github.com/shobrook/suss,AI-powered bug finder that knows your codebase.
 networking,dish,,https://github.com/thevxn/dish,"A lightweight, remotely configurable monitoring service."
 animation,aclock,,https://github.com/tenox7/aclock,Ascii analog clock for text console displays and terminals and terminal emulators.
-ai,cmd-ai,,https://github.com/BrodaNoel/cmd-ai,Natural language shell command generator and executor powered by AI.
+ai-cli-commands,cmd-ai,,https://github.com/BrodaNoel/cmd-ai,Natural language shell command generator and executor powered by AI.
 productivity,floww,,https://github.com/dagimg-dot/floww,"Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications."
 networking,ssm,,https://github.com/lfaoro/ssm,"SSH connection manager designed to connect, filter, tag, and much more from a simple terminal interface."
 text-processing,json-leaves,,https://github.com/talwrii/json-leaves,Extract the leaves from a JSON file and show the paths to said leaves.
 graphics,ghost-image-cleaner,,https://github.com/DeadSwitch404/ghost-image-cleaner,"If you share, do it like a Ghost... No metadata, no filename fingerprint, no trace."
-ai,py-ai-shell,,https://github.com/cheney-yan/py-ai-shell,AI-powered shell for command line users.
+ai-cli-commands,py-ai-shell,,https://github.com/cheney-yan/py-ai-shell,AI-powered shell for command line users.
 networking,netdump,,https://github.com/giorgiopapini/netdump,"A simple network packet analyzer using libpcap, supporting both real-time and offline analysis with ASCII visualization."
 text-processing,catselector,,https://github.com/alexaldearroyo/catselector,Interactive file selector for concatenating and exporting text files.
 music,music,,https://github.com/kitesi/music,"Command line tool to help with music related tasks, such as querying songs, lastfm scrobbling, lastfm suggestions, spotify - local playlist sync."
@@ -1821,7 +1821,7 @@ system,oswriter,,https://github.com/TheSoftwareWizard/oswriter,A command-line to
 programming-boilerplate,lichen,,https://github.com/philocalyst/lichen,Lichen provides tools for producing and managing licenses both on the CLI and through a config file. Double license and only license particular parts of a codebase with regex.
 viewers,meow,,https://github.com/datsfilipe/meow,"Uses Neovim text editor to print highlighted text in the terminal like cat, bat, etc., but using Neovim it allows to be more configurable, since it uses Lua."
 games,dans-dungeon,,https://github.com/ruscoe/dans-dungeon,A dungeon crawler engine written in Python.
-ai,zev,,https://github.com/dtnewman/zev,A simple CLI tool to generate terminal commands using AI.
+ai-cli-commands,zev,,https://github.com/dtnewman/zev,A simple CLI tool to generate terminal commands using AI.
 productivity,autolog,,https://github.com/daveymoores/autolog,Git-based CLI tool for timesheet generation.
 programming,sidem,,https://github.com/taha-yassine/sidem,TUI app that helps simplifying the management of .env configuration files.
 note-taking,numen,,https://github.com/aguiarsc/numen,Markdown-compatible AI-Powered Terminal Notepad.
