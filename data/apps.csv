@@ -1826,3 +1826,4 @@ productivity,autolog,,https://github.com/daveymoores/autolog,Git-based CLI tool 
 note-taking,numen,,https://github.com/aguiarsc/numen,Markdown-compatible AI-Powered Terminal Notepad.
 online,gh-star-timeline,,https://github.com/talwrii/gh-star-timeline,Command-line tool to keep track of historic stars on github. Machine-useable output.
 ai,mcp-manager,,https://github.com/nstebbins/mcp-manager,CLI tool for managing Model Context Protocol (MCP) servers in one place & using them across them different clients.
+webdev,restbook,,https://github.com/shalev007/restbook,RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks.

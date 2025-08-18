@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1827**
+* Apps/tools: **1828**
 * Categories: **79**
 
 # Contents
@@ -33,7 +33,7 @@ Summary:
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (57), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (45)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (39)
-* [Web browser](#browser) (19), [Web development](#webdev) (30), [Writing](#writing) (11)
+* [Web browser](#browser) (19), [Web development](#webdev) (31), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -2233,6 +2233,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal, not unlike Postman and Insomnia.
 * [qwicket](https://github.com/hardfau1t/qwicket) - Commandline API development ecosystem.
 * [Reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
+* [restbook](https://github.com/shalev007/restbook) - RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks.
 * [s3cmd](https://github.com/s3tools/s3cmd) - Command line tool for managing Amazon S3 and CloudFront services.
 * [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - Tools to assist with the development and/or maintenance of Shopify apps and stores.
 * [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
