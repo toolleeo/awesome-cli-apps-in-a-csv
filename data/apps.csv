@@ -331,7 +331,7 @@ versioning,Bazaar,http://bazaar.canonical.com/en/,,"Multiplatform version contro
 git,grv,,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits, and diffs to be viewed, searched and filtered."
 versioning,fossil,https://fossil-scm.org/,https://github.com/drhsqlite/fossil-mirror,"A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more."
 editors,Diakonos,,https://github.com/Pistos/diakonos,"A powerful editor with “standard"" keybindings and several advanced features; written in Ruby."
-utility,yank,,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
+copy-paste,yank,,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
 terminal,mtm,,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer."
 text-search-replace,sd,,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
 time-tracker,Watson,,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
@@ -629,10 +629,10 @@ programming,Kool,,https://github.com/kool-dev/kool,"CLI tool that brings the com
 networking,Optic,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 flashcard,speki,,https://github.com/tbs1996/speki,Manage flashcards in the terminal similar to anki.
 launcher,sake,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
-transfer,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
+copy-paste,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
 password-manager,passfzf,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them."
 transfer,Nextcloud share URL downloader,,https://github.com/aertslab/nextcloud_share_url_downloader,Download files from and list content of NextCloud (password protected) share directly from the command line without needing a web browser.
-file-handling,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl."
+copy-paste,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl."
 pastebin,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.
 conversion,NestedTextTo,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML."
 funny,matrix-webcam,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.
@@ -844,8 +844,8 @@ file-renamer,mmv-c,,https://github.com/mcauley-penney/mmv-c,Interactively rename
 organizers,avail,,https://github.com/mufeez-amjad/avail,Find available times between all your calendars.
 backup,thread-safe,,https://github.com/dkaslovsky/thread-safe,Keep your favorite Twitter threads safe with a local copy.
 networking,hflow,,https://github.com/comradequinn/hflow,"A command-line, debugging http/s proxy server."
-transfer,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboard across multiple machines using an MQTT service.
-transfer,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere you can ssh to.
+copy-paste,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboard across multiple machines using an MQTT service.
+copy-paste,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere you can ssh to.
 animation,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
 git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelog Generator that follows Conventional Commit specifications.
 copilot,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
@@ -1667,7 +1667,7 @@ flashcard,revise-tui,,https://github.com/noelzubin/revise-tui,A TUI Anki client.
 monitor,aserial,,https://github.com/CT3/aserial,A serial monitor with error/warning highlighting and scrollable interface.
 ai,termite,,https://github.com/shobrook/termite,Generative UI in your terminal.
 chat,cli_chat_app,,https://github.com/Johnkhk/cli_chat_app,A end-to-end encrypted chat application.
-system,clipy,,https://github.com/szktkfm/clipy,Manage clipboard history.
+copy-paste,clipy,,https://github.com/szktkfm/clipy,Manage clipboard history.
 ai,egit,,https://github.com/Sweet-Papa-Technologies/egit,A.I. tools and workflows for Git.
 office,bashform,,https://github.com/devmegablaster/bashform,Create and share forms in the terminal over SSH.
 rss,feedln,,https://github.com/xqtr/feedln,A simple terminal RSS reader.
@@ -1682,7 +1682,7 @@ note-taking,note,,https://github.com/armand-sauzay/note,A modern terminal-based 
 vm,ocui,,https://github.com/fishinthecalculator/ocui,Simple text based UI for managing containers.
 typing,typist,,https://github.com/wick3dr0se/typist,A stupid simple type test written in pure Bash v5.1+.
 git,automate-git-commands,,https://github.com/LEDparty/automate-git-commands,"Automates many of the common uses of git, ssh key generation, and ssh configuration."
-system,clipper,,https://github.com/supitsdu/clipper,"Seamlessly copy file contents to clipboard from command line. Lightweight, cross-platform tool for instant text transfers."
+copy-paste,clipper,,https://github.com/supitsdu/clipper,"Seamlessly copy file contents to clipboard from command line. Lightweight, cross-platform tool for instant text transfers."
 system,shournal,,https://github.com/tycho-kirchner/shournal,Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 text-processing,hburger,,https://github.com/niqodea/hburger,Shorten long strings and paths while preserving readability.
 text-search,zfind,,https://github.com/laktak/zfind,Search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter.
@@ -1834,4 +1834,4 @@ financial,budget_tracker_tui,,https://github.com/Feromond/budget_tracker_tui,A s
 text-processing,dir2txt,,https://github.com/shubhamoy/dir2txt,A blazing-fast CLI tool to export a directory's structure and contents into a neatly formatted `.txt` or `.json` file.
 system,immortal,,https://github.com/immortal/immortal,A *nix cross-platform (OS agnostic) supervisor.
 viewers,nerdlog,,https://github.com/dimonomid/nerdlog,"Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server."
-utility,copytools.sh,,https://github.com/sdavidsson90/copytools.sh,Tools for copying and pasting in the command line.
+copy-paste,copytools.sh,,https://github.com/sdavidsson90/copytools.sh,Tools for copying and pasting in the command line.

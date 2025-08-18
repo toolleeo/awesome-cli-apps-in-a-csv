@@ -10,28 +10,28 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1835**
-* Categories: **79**
+* Apps/tools: **1836**
+* Categories: **80**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (43), [Animation](#animation) (34), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (25), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16)
-* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (32), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
+* [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (25), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16), [Copy/paste and clipboard](#copy-paste) (8)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (32), [Data transfer](#transfer) (41), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (18)
-* [File and file system handling](#file-handling) (28), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (18), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
+* [File and file system handling](#file-handling) (27), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (18), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (62), [Git and accessories](#git) (62), [Graphics](#graphics) (47)
 * [History management](#history) (4)
 * [Learning and didactic tools](#learning) (4)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (86), [Note taking](#note-taking) (30)
 * [Office tools](#office) (19), [Online search and resources](#online) (27), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (53), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (54), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (42)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (39), [Shells](#shells) (25), [Sound and music](#music) (57), [System monitoring](#monitor) (37), [System tools](#system) (40)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (16), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (37), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
-* [Utilities](#utility) (46)
+* [Utilities](#utility) (44)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (41)
 * [Web browser](#browser) (19), [Web development](#webdev) (31), [Writing](#writing) (11)
 
@@ -372,6 +372,19 @@ File format converters.
 * [Vertopal-CLI](https://github.com/vertopal/vertopal-cli) - Vertopal-CLI is a small, yet powerful utility for converting digital files to a variety of file formats using Vertopal public API.
 * [wv](https://wvware.sourceforge.net/) - Utility for performing operations on .doc files. The tool is now deprecated in favor of AbiWord, which uses the same library that is used in the CLI program.
 
+## <a name="copy-paste"></a>Copy/paste and clipboard
+
+Clipboard managers and text copy/paste tools.
+
+* [clipper](https://github.com/supitsdu/clipper) - Seamlessly copy file contents to clipboard from command line. Lightweight, cross-platform tool for instant text transfers.
+* [Clipsync](https://github.com/marcopaganini/clipsync) - Share your clipboard across multiple machines using an MQTT service.
+* [clipy](https://github.com/szktkfm/clipy) - Manage clipboard history.
+* [copytools.sh](https://github.com/sdavidsson90/copytools.sh) - Tools for copying and pasting in the command line.
+* [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
+* [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
+* [shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
+* [yank](https://github.com/mptre/yank) - Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
+
 ## <a name="data-management"></a>Data management
 
 Tools to manage data files.
@@ -485,7 +498,6 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 Programs for transferring files and data between different machines.
 
 * [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
-* [Clipsync](https://github.com/marcopaganini/clipsync) - Share your clipboard across multiple machines using an MQTT service.
 * [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 * [curl](https://curl.haxx.se/) - A tool and library for transferring data with URL syntax, supports a lot of protocols.
 * [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
@@ -503,7 +515,6 @@ Programs for transferring files and data between different machines.
 * [OnionShare](https://onionshare.org/) - "An open source tool that lets you securely and anonymously share a file of any size." 
 * [osync](http://www.netpower.fr/osync) - A robust two-way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near real-time sync.
 * [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices.
-* [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
 * [portal](https://github.com/SpatiumPortae/portal) - A quick and easy command-line file transfer utility from any computer to another.
 * [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 * [qrcp](https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html) - Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
@@ -512,7 +523,6 @@ Programs for transferring files and data between different machines.
 * [rsync](https://download.samba.org/pub/rsync/rsync.html) - A tool that mirrors directories across networked machines, handling changes to files, working across SSH, with plenty of parameters for configuration.
 * [sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app.
 * [shbin](https://github.com/Shiphero/shbin) - Upload code snippets, notebooks, images or any other content to a GitHub repository that acts as your internal pastebin, and returns the URL to share it with your team.
-* [shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
 * [sitecopy](http://www.manyfish.co.uk/sitecopy/) - Synchronizes a local copy of a website with a remote copy on a server, does not use SSH/`scp` but FTP for file copy, useful when the remote server does not support secure copy.
 * [smartscp](https://github.com/lengyijun/smartscp) - A replacement of scp, but auto skip git-ignored files; it's just a wrapper of sshfs and xcp.
 * [stftp](http://stftp.sourceforge.net/) - (simple terminal FTP) aims to be an "easy-to-use and unbloated client for the UNIX (and UNIX-like) console".
@@ -678,7 +688,6 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [logrotate](https://github.com/logrotate/logrotate) - Rotate, compress and mail logs.
 * [ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
-* [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 * [progress](https://github.com/Xfennec/progress) - Monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses a ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
 * [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar.
 * [qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC.
@@ -1424,7 +1433,7 @@ Programs to list and monitor currently running processes; alternatives to the `t
 Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps.
 
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
-* [autolog](https://github.com/daveymoores/autolog) - Git-based CLI tool for timesheet generation.programming
+* [autolog](https://github.com/daveymoores/autolog) - Git-based CLI tool for timesheet generation.
 * [classis](https://github.com/ginschel/classis) - An easy CLI for the terminal fans out there who want to access Open Assistant's API through the terminal or want to use the API in their own applications.
 * [floww](https://github.com/dagimg-dot/floww) - Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
@@ -1504,6 +1513,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [scons](https://github.com/SCons/scons) - Software construction tool.
 * [scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 * [semantic-release](https://github.com/semantic-release/semantic-release) - Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package.
+* [sidem](https://github.com/taha-yassine/sidem) - TUI app that helps simplifying the management of .env configuration files.
 * [stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance.
 * [suss](https://github.com/shobrook/suss) - AI-powered bug finder that knows your codebase.
 * [temci](https://github.com/parttimenerd/temci) - Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
@@ -1795,8 +1805,6 @@ System management tools, such as for brightness control, dotfile and environment
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl) - Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.
 * [checksum.sh](https://checksum.sh/) - Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere.
 * [chezmoi](https://www.chezmoi.io/) - Manage your dotfiles across multiple diverse machines, securely.
-* [clipper](https://github.com/supitsdu/clipper) - Seamlessly copy file contents to clipboard from command line. Lightweight, cross-platform tool for instant text transfers.
-* [clipy](https://github.com/szktkfm/clipy) - Manage clipboard history.
 * [conspy](http://conspy.sourceforge.net/) - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 * [direnv](https://direnv.net/) - Loads and unloads environment variables depending on the current directory.
 * [dtui](https://github.com/Troels51/dtui) - Small TUI for introspecting the state of the system/session dbus.
@@ -2072,7 +2080,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [ccsum](https://github.com/sevenc-nanashi/ccsum) - Convenient sha256sum (md5sum, sha1sum, and sha512sum) checksum with improved usability.
 * [chet-client](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
 * [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
-* [copytools.sh](https://github.com/sdavidsson90/copytools.sh) - Tools for copying and pasting in the command line.
 * [envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
@@ -2107,7 +2114,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [volgo](https://github.com/elliot40404/volgo) - A cross-platform CLI app written in Go for controlling system volume from the terminal. Use simple commands or a beautiful interactive TUI—even over SSH.
 * [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
-* [yank](https://github.com/mptre/yank) - Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
 * [Zsh Angel IQ System](https://github.com/psprint/zsh-angel-iq-system) - A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife.
 
 ## <a name="versioning"></a>Versioning
