@@ -1870,3 +1870,4 @@ launcher,process-compose,,https://github.com/F1bonacc1/process-compose,TUI for r
 financial,Puffin,,https://github.com/siddhantac/puffin,A beautiful TUI dashboard for hledger.
 chat,twterm,,https://github.com/ryota-ka/twterm,A full-featured TUI Twitter client.
 webdev,Slumber,,https://github.com/LucasPickering/slumber,Terminal-based HTTP/REST client.
+viewers,rttt,,https://gitlab.com/BlackEdder/rttt,"A Hackernews, RSS and Reddit reader for the terminal written in C++."
