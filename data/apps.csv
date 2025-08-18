@@ -1868,3 +1868,4 @@ data-management-tabular,dolphie,,https://github.com/charles-001/dolphie,Your sin
 monitor,kmon,,https://github.com/orhun/kmon,Linux TUI Kernel manager and activity monitor.
 launcher,process-compose,,https://github.com/F1bonacc1/process-compose,TUI for running apps and processes.
 financial,Puffin,,https://github.com/siddhantac/puffin,A beautiful TUI dashboard for hledger.
+chat,twterm,,https://github.com/ryota-ka/twterm,A full-featured TUI Twitter client.
