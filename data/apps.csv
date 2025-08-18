@@ -1844,3 +1844,4 @@ todo-manager,todocli,,https://github.com/HxX2/todocli,Todo CLI to manage your to
 animation,cgol,,https://github.com/lporanta/cgol,Conway's Game of Life in C.
 find,trovatore,,https://github.com/trikko/trovatore,A fast command-line tool for searching files by name.
 disk-analyzer,mac-storage-manager,,https://github.com/NarekMosisian/mac-storage-manager,"A cross‑platform CLI for macOS & Linux that reclaims disk space by identifying and removing large apps and associated files, with multi‑language interface (40+ translations), robust logging, and seamless Homebrew integration (macOS) for a safe, interactive cleanup experience."
+learning,bashmate,,https://github.com/algobuddha/bashmate,CLI tool to learn bash command with your natural language.

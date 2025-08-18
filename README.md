@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1845**
+* Apps/tools: **1846**
 * Categories: **80**
 
 # Contents
@@ -23,7 +23,7 @@ Summary:
 * [File and file system handling](#file-handling) (27), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (18), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (63), [Git and accessories](#git) (63), [Graphics](#graphics) (47)
 * [History management](#history) (4)
-* [Learning and didactic tools](#learning) (4)
+* [Learning and didactic tools](#learning) (5)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (86), [Note taking](#note-taking) (30)
 * [Office tools](#office) (19), [Online search and resources](#online) (27), [Organizers and calendars](#organizers) (22)
@@ -1113,6 +1113,7 @@ Programs to replace or improve the management of command line history.
 
 Programs that help learning or teaching about some argument.
 
+* [bashmate](https://github.com/algobuddha/bashmate) - CLI tool to learn bash command with your natural language.
 * [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
 * [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
