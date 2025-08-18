@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1851**
+* Apps/tools: **1852**
 * Categories: **81**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (34), [AI terminal command generator](#ai-cli-commands) (11), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (35), [AI terminal command generator](#ai-cli-commands) (11), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (18), [Chat and instant messaging](#chat) (36), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (25), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16), [Copy/paste and clipboard](#copy-paste) (8)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (32), [Data transfer](#transfer) (41), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
@@ -67,6 +67,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [mcp-manager](https://github.com/nstebbins/mcp-manager) - CLI tool for managing Model Context Protocol (MCP) servers in one place & using them across them different clients.
 * [Mods!](https://github.com/charmbracelet/mods) - AI for the command line, built for pipelines.
 * [ollama](https://ollama.com/) - Get up and running with large language models locally.
+* [OrChat](https://github.com/oop7/OrChat) - A powerful, feature-rich command-line interface for interacting with AI models through OpenRouter.
 * [parllama](https://github.com/paulrobello/parllama) - TUI designed for easy management and use of Ollama based LLMs.
 * [safespace](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 * [savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge.
