@@ -1848,3 +1848,4 @@ learning,bashmate,,https://github.com/algobuddha/bashmate,CLI tool to learn bash
 ai-cli-commands,terminal-command,,https://github.com/huss-mo/terminal-command,"A Python-based CLI tool for generating, and optionally executing, shell commands from natural language."
 text-search,brave-bookmarks,,https://github.com/talwrii/brave-bookmarks,Command-line script to query Brave's bookmark.
 online,monolith,,https://github.com/Y2Z/monolith,Tool and library for saving complete web pages as a single HTML file.
+ai-cli-commands,reTermAI,,https://github.com/pie0902/reTermAI,"Smart command assistant for your terminal, using LLM."
