@@ -1881,3 +1881,4 @@ graphics,textual-paint,,https://github.com/1j01/textual-paint,MS Paint in your t
 music,spotui,,https://github.com/ceuk/spotui,TUI Spotify client written in Python.
 music,rmpc,,https://mierak.github.io/rmpc/,A configurable TUI MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 monitor,chdig,,https://github.com/azat/chdig,Dig into ClickHouse with TUI interface.
+system,damon,,https://github.com/hashicorp/damon,"TUI interface for Hashicorp Nomad, it provides functionality to observe and interact with Nomad resources such as Jobs, Deployments, or Allocations."
