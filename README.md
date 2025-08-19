@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1895**
+* Apps/tools: **1896**
 * Categories: **81**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (27), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (55), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (47), [System tools](#system) (45)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (47)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (46)
 * [Web browser](#browser) (19), [Web development](#webdev) (32), [Writing](#writing) (11)
@@ -2040,6 +2040,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 * [Timetrap](https://github.com/samg/timetrap) - A simple command line time tracker written in Ruby. It provides an easy-to-use command line interface for tracking what you spend your time on.
 * [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting.
 * [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - Pomodoro technique into your tmux workflow
+* [tuicamp](https://github.com/AbeEstrada/tuicamp) - Unofficial TimeCamp TUI - seems a time tracker for specific purposes.
 * [utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python.
 * [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
 * [yacht](https://github.com/tracyspacy/yacht) - Yet another command line habit tracker written in Rust.

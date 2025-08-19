@@ -1894,3 +1894,4 @@ monitor-top,tegratop,,https://github.com/pythops/tegratop,TUI monitoring tool (t
 monitor,TermUI,,https://github.com/gizak/termui,Cross-platform and fully-customizable TUI dashboard and widget library.
 system,trek,,https://github.com/franckverrot/trek,ncurses TUI explorer for Hashicorp Nomad clusters.
 system,tufw,,https://github.com/peltho/tufw,Terminal UI for the UFW Linux firewall.
+time-tracker,tuicamp,,https://github.com/AbeEstrada/tuicamp,Unofficial TimeCamp TUI - seems a time tracker for specific purposes.
