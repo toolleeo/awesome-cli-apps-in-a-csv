@@ -1883,3 +1883,4 @@ music,rmpc,,https://mierak.github.io/rmpc/,A configurable TUI MPD client inspire
 monitor,chdig,,https://github.com/azat/chdig,Dig into ClickHouse with TUI interface.
 system,damon,,https://github.com/hashicorp/damon,"TUI interface for Hashicorp Nomad, it provides functionality to observe and interact with Nomad resources such as Jobs, Deployments, or Allocations."
 security,fubar,,https://github.com/irishmaestro/fubar,"Formidable Unix Binary Arsenal & Repository. TUI built for offline payload generation, retrieval, and exfiltration."
+system,htui,,https://github.com/PierreKieffer/htui,"Heroku Terminal User Interface: manage your apps, scale your dynos, browse logs in real time..."
