@@ -1892,3 +1892,4 @@ utility,Raijin,,https://github.com/MasonStooksbury/Raijin,"A free, simple weathe
 monitor,tdash,,https://github.com/jessfraz/tdash,"A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to the author of the tool."
 monitor-top,tegratop,,https://github.com/pythops/tegratop,TUI monitoring tool (top like) for Nvidia Jetson boards.
 monitor,TermUI,,https://github.com/gizak/termui,Cross-platform and fully-customizable TUI dashboard and widget library.
+system,trek,,https://github.com/franckverrot/trek,ncurses TUI explorer for Hashicorp Nomad clusters.
