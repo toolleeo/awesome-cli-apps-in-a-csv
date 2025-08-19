@@ -1890,3 +1890,4 @@ monitor,macmon,,https://github.com/vladkens/macmon,"Sudoless performance monitor
 monitor,otel-tui,,https://github.com/ymtdzzz/otel-tui,"A terminal OpenTelemetry viewer, currently supporting OpenTelemetry, Zipkin (Traces) and Prometheus (Metrics) formats."
 utility,Raijin,,https://github.com/MasonStooksbury/Raijin,"A free, simple weather TUI that pulls data without the need for an API key, account, or subscription."
 monitor,tdash,,https://github.com/jessfraz/tdash,"A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to the author of the tool."
+monitor-top,tegratop,,https://github.com/pythops/tegratop,TUI monitoring tool (top like) for Nvidia Jetson boards.
