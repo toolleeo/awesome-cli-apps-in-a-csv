@@ -1893,3 +1893,4 @@ monitor,tdash,,https://github.com/jessfraz/tdash,"A terminal dashboard with stat
 monitor-top,tegratop,,https://github.com/pythops/tegratop,TUI monitoring tool (top like) for Nvidia Jetson boards.
 monitor,TermUI,,https://github.com/gizak/termui,Cross-platform and fully-customizable TUI dashboard and widget library.
 system,trek,,https://github.com/franckverrot/trek,ncurses TUI explorer for Hashicorp Nomad clusters.
+system,tufw,,https://github.com/peltho/tufw,Terminal UI for the UFW Linux firewall.
