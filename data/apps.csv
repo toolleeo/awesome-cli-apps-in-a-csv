@@ -1885,3 +1885,4 @@ system,damon,,https://github.com/hashicorp/damon,"TUI interface for Hashicorp No
 security,fubar,,https://github.com/irishmaestro/fubar,"Formidable Unix Binary Arsenal & Repository. TUI built for offline payload generation, retrieval, and exfiltration."
 system,htui,,https://github.com/PierreKieffer/htui,"Heroku Terminal User Interface: manage your apps, scale your dynos, browse logs in real time..."
 monitor,kaskade,,https://github.com/sauljabin/kaskade,"TUI for kafka, which allows you to interact and consume topics from your terminal in style."
+networking,Kyanos,,https://github.com/hengyoush/kyanos,"Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient."
