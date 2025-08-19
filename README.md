@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1899**
+* Apps/tools: **1900**
 * Categories: **81**
 
 # Contents
@@ -32,7 +32,7 @@ Summary:
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (49), [System tools](#system) (46)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (47)
-* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (46)
+* [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (47)
 * [Web browser](#browser) (19), [Web development](#webdev) (32), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -2261,6 +2261,7 @@ File viewers for images and other formats (e.g., e-books).
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [vv](https://github.com/wolfpld/vv) - A terminal image viewer, supporting an extensive range of modern image formats.
 * [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.
+* [Yozefu](https://github.com/MAIF/yozefu) - An TUI for exploring data of a Kafka cluster.
 
 ## <a name="browser"></a>Web browser
 
