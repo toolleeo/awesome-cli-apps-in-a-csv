@@ -1903,3 +1903,4 @@ monitor,act3,,https://github.com/dhth/act3,Glance at the last 3 runs of your Git
 monitor,amtui,,https://github.com/pehlicd/amtui/,"A terminal-based user interface (TUI) application that allows you to interact with Prometheus Alertmanager using your terminal. It provides a convenient way to monitor alerts, view silences, and check the status of Alertmanager instances."
 monitor,austin-tui,,https://github.com/P403n1x87/austin-tui,The top-like TUI user interface for Austin.
 programming,blinkenlights,,https://github.com/jart/blink,TUI that may be used for debugging x86_64-linux or i8086 programs across platforms.
+file-handling,burf,,https://github.com/razeghi71/burf,TUI for Google Cloud Storage (GCS).
