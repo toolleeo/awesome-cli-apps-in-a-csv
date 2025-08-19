@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1906**
+* Apps/tools: **1907**
 * Categories: **81**
 
 # Contents
@@ -33,7 +33,7 @@ Summary:
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (47)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (47)
-* [Web browser](#browser) (19), [Web development](#webdev) (32), [Writing](#writing) (11)
+* [Web browser](#browser) (19), [Web development](#webdev) (33), [Writing](#writing) (11)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -2300,6 +2300,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal.
 * [Ballast](https://github.com/synoet/ballast) - A simple API load testing tool that lets you compare performance snapshots of your API.
 * [beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your everyday web browser.
+* [cnTUI](https://github.com/fipso/cntui) - Replay chrome requests from your terminal using curl.
 * [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
 * [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 * [django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI).
