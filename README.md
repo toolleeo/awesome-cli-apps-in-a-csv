@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1889**
+* Apps/tools: **1890**
 * Categories: **81**
 
 # Contents
@@ -31,7 +31,7 @@ Summary:
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (45), [System tools](#system) (43)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (23), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
-* [Utilities](#utility) (46)
+* [Utilities](#utility) (47)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (46)
 * [Web browser](#browser) (19), [Web development](#webdev) (32), [Writing](#writing) (11)
 
@@ -2150,6 +2150,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [ProgressLine](https://github.com/kattouf/ProgressLine) - Track commands progress in a compact one-line format.
 * [ps1palette](https://github.com/WDoyle123/ps1palette) - Streamline Bash PS1 customization through script automation for prompt color coding and .bashrc integration.
 * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions there are more than 100 exercises covering both the builtin re and third-party regex module.
+* [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
 * [sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command.
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
 * [sisi](https://github.com/frost-beta/sisi) - Semantic image search CLI tool.
