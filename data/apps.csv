@@ -1901,3 +1901,4 @@ monitor,WTF,,https://github.com/senorprogrammer/wtf,The personal information das
 viewers,Yozefu,,https://github.com/MAIF/yozefu,An TUI for exploring data of a Kafka cluster.
 monitor,act3,,https://github.com/dhth/act3,Glance at the last 3 runs of your Github Actions.
 monitor,amtui,,https://github.com/pehlicd/amtui/,"A terminal-based user interface (TUI) application that allows you to interact with Prometheus Alertmanager using your terminal. It provides a convenient way to monitor alerts, view silences, and check the status of Alertmanager instances."
+monitor,austin-tui,,https://github.com/P403n1x87/austin-tui,The top-like TUI user interface for Austin.
