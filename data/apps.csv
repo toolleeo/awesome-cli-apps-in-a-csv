@@ -1904,3 +1904,4 @@ monitor,amtui,,https://github.com/pehlicd/amtui/,"A terminal-based user interfac
 monitor,austin-tui,,https://github.com/P403n1x87/austin-tui,The top-like TUI user interface for Austin.
 programming,blinkenlights,,https://github.com/jart/blink,TUI that may be used for debugging x86_64-linux or i8086 programs across platforms.
 file-handling,burf,,https://github.com/razeghi71/burf,TUI for Google Cloud Storage (GCS).
+programming,cargo-seek,,https://github.com/tareqimbasher/cargo-seek,"A TUI for searching, adding and installing cargo crates."
