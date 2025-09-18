@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1907**
+* Apps/tools: **1908**
 * Categories: **81**
 
 # Contents
@@ -26,7 +26,7 @@ Summary:
 * [Learning and didactic tools](#learning) (5)
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (87), [Note taking](#note-taking) (30)
-* [Office tools](#office) (20), [Online search and resources](#online) (28), [Organizers and calendars](#organizers) (22)
+* [Office tools](#office) (21), [Online search and resources](#online) (28), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (27), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (57), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (52), [System tools](#system) (46)
@@ -1294,6 +1294,7 @@ Programs to manage spreadsheets and to make presentations.
 * [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
 * [mdp](https://github.com/visit1985/mdp) - A command-line based Markdown presentation tool.
 * [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
+* [PDFjuicer](https://github.com/dmikhr/pdfjuicer) - CLI tool for converting PDF pages to high-quality images. It features custom image sizing, scaling options, thumbnail generation, and batch processing.
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - PDFtk is a simple tool for doing everyday things with PDF documents.
 * [presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool.
 * [pysentation](https://github.com/mimseyedi/pysentation) - pysentation is a CLI for displaying Python presentations.

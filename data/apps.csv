@@ -1906,3 +1906,4 @@ programming,blinkenlights,,https://github.com/jart/blink,TUI that may be used fo
 file-handling,burf,,https://github.com/razeghi71/burf,TUI for Google Cloud Storage (GCS).
 programming,cargo-seek,,https://github.com/tareqimbasher/cargo-seek,"A TUI for searching, adding and installing cargo crates."
 webdev,cnTUI,,https://github.com/fipso/cntui,Replay chrome requests from your terminal using curl.
+office,PDFjuicer,,https://github.com/dmikhr/pdfjuicer,"CLI tool for converting PDF pages to high-quality images. It features custom image sizing, scaling options, thumbnail generation, and batch processing."
