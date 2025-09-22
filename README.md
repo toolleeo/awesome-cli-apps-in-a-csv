@@ -10,12 +10,12 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1908**
+* Apps/tools: **1909**
 * Categories: **81**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (35), [AI terminal command generator](#ai-cli-commands) (11), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (36), [AI terminal command generator](#ai-cli-commands) (11), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16), [Copy/paste and clipboard](#copy-paste) (9)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (33), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
@@ -60,6 +60,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line ChatGPT frontend written in Rust.
 * [GPTparser](https://github.com/dtflare/GPTparser) - Use GPTparser with your OpenAI API to scrape & parse files into structured JSON files.
 * [HAL 2023](https://github.com/Brutuski/hal2023-cli) - Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT.
+* [hns](https://github.com/primaprashant/hns) - A simple, privacy-focused speech-to-text CLI tool that records your voice, transcribes it locally using faster-whisper, and copies the transcription to your clipboard.
 * [Instrukt](https://github.com/blob42/Instrukt) - A integrated AI environment in the terminal. Build, test and instruct agents.
 * [kwaak](https://github.com/bosun-ai/kwaak) - Run a team of autonomous AI agents on your code.
 * [leettools](https://github.com/leettools-dev/leettools) - AI Search tools.
