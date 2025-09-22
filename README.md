@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1909**
+* Apps/tools: **1910**
 * Categories: **81**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (27), [Productivity](#productivity) (12), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (57), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (52), [System tools](#system) (46)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (38), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (17), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (39), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (47)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (47)
 * [Web browser](#browser) (19), [Web development](#webdev) (33), [Writing](#writing) (11)
@@ -2070,6 +2070,7 @@ Todo list and task managers.
 * [geek-life](https://github.com/ajaxray/geek-life) - A full-featured TUI task manager.
 * [grit](https://github.com/climech/grit) - A multitree-based personal task manager.
 * [iKog](https://sites.google.com/site/henspace/ikog/) - A fully-featured task manager encapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
+* [judo](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite.
 * [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings.
 * [kanban-python](https://github.com/Zaloog/kanban-python) - Kanban Terminal App written in Python.
 * [mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker.
