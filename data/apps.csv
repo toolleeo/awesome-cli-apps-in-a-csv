@@ -1908,3 +1908,4 @@ programming,cargo-seek,,https://github.com/tareqimbasher/cargo-seek,"A TUI for s
 webdev,cnTUI,,https://github.com/fipso/cntui,Replay chrome requests from your terminal using curl.
 office,PDFjuicer,,https://github.com/dmikhr/pdfjuicer,"CLI tool for converting PDF pages to high-quality images. It features custom image sizing, scaling options, thumbnail generation, and batch processing."
 ai,hns,,https://github.com/primaprashant/hns,"A simple, privacy-focused speech-to-text CLI tool that records your voice, transcribes it locally using faster-whisper, and copies the transcription to your clipboard."
+todo-manager,judo,,https://github.com/giacomopiccinini/judo,"A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite."
