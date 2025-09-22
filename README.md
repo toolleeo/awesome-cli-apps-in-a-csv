@@ -60,7 +60,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line ChatGPT frontend written in Rust.
 * [GPTparser](https://github.com/dtflare/GPTparser) - Use GPTparser with your OpenAI API to scrape & parse files into structured JSON files.
 * [HAL 2023](https://github.com/Brutuski/hal2023-cli) - Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT.
-* [hns](https://github.com/primaprashant/hns) - A simple, privacy-focused speech-to-text CLI tool that records your voice, transcribes it locally using faster-whisper, and copies the transcription to your clipboard.
+* [hns](https://github.com/primaprashant/hns) - A privacy-focused open-source command-line tool for on-device speech-to-text. It records your voice, transcribes it completely locally using faster-whisper, and automatically copies the text to clipboard for immediate use in any application.
 * [Instrukt](https://github.com/blob42/Instrukt) - A integrated AI environment in the terminal. Build, test and instruct agents.
 * [kwaak](https://github.com/bosun-ai/kwaak) - Run a team of autonomous AI agents on your code.
 * [leettools](https://github.com/leettools-dev/leettools) - AI Search tools.
