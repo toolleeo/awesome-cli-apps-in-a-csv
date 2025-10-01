@@ -1012,6 +1012,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
 * [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf.
 * [gacp](https://github.com/anhsirk0/gacp) - git add, commit and push in one go.
+* [ggc](https://github.com/bmf-san/ggc) - About A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 * [gh](https://cli.github.com/) - GitHub's official tool to manage repos, issues, projects, gists and much more.
 * [gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh CLI.
