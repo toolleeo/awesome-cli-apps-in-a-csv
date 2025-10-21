@@ -1556,6 +1556,7 @@ monitor,tinyfetch,,https://github.com/beucismis/tinyfetch,Python and system info
 git,prs,,https://github.com/dhth/prs,Stay updated on PRs without leaving the terminal.,,
 file-manager,walk,,https://github.com/antonmedv/walk,Terminal file manager.,,
 git,git-bug,,https://github.com/MichaelMure/git-bug,"Distributed, offline-first bug tracker embedded in git, with bridges.",,
+git,hug-scm,https://elifarley.github.io/hug-scm/,https://github.com/elifarley/hug-scm.git,"A humane, intuitive CLI for Git. Allows you to focus on your code, not on wrestling with version control.",,
 utility,ProgressLine,,https://github.com/kattouf/ProgressLine,Track commands progress in a compact one-line format.,,
 data-management-tabular,tabiew,,https://github.com/shshemi/tabiew,"A lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files.",,
 typing,tt,,https://github.com/lemnos/tt,A terminal based typing test.,,
