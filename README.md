@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1910**
+* Apps/tools: **1911**
 * Categories: **81**
 
 # Contents
@@ -21,7 +21,7 @@ Summary:
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (33), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (20), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (63), [Git and accessories](#git) (64), [Graphics](#graphics) (48)
+* [Games](#games) (63), [Git and accessories](#git) (65), [Graphics](#graphics) (48)
 * [History management](#history) (5)
 * [Learning and didactic tools](#learning) (5)
 * [Markdown](#markdown) (10)
@@ -1012,7 +1012,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
 * [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf.
 * [gacp](https://github.com/anhsirk0/gacp) - git add, commit and push in one go.
-* [ggc](https://github.com/bmf-san/ggc) - About A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
+* [ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 * [gh](https://cli.github.com/) - GitHub's official tool to manage repos, issues, projects, gists and much more.
 * [gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh CLI.

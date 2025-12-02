@@ -1909,3 +1909,4 @@ webdev,cnTUI,,https://github.com/fipso/cntui,Replay chrome requests from your te
 office,PDFjuicer,,https://github.com/dmikhr/pdfjuicer,"CLI tool for converting PDF pages to high-quality images. It features custom image sizing, scaling options, thumbnail generation, and batch processing."
 todo-manager,judo,,https://github.com/giacomopiccinini/judo,"A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite."
 ai,hns,,https://github.com/primaprashant/hns,"A privacy-focused open-source command-line tool for on-device speech-to-text. It records your voice, transcribes it completely locally using faster-whisper, and automatically copies the text to clipboard for immediate use in any application."
+git,ggc,,https://github.com/bmf-san/ggc,A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
