@@ -1834,7 +1834,7 @@ Applications to display the usage of system resources: network, memory, power, e
 * [pv](http://www.ivarch.com/programs/pv.shtml) - The pv command is used to monitor the progress of data through pipe.
 * [ramfetch](https://github.com/WhoseTheNerd/ramfetch) - A fetch which displays memory info using /proc/meminfo.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.
-* [senzu](https://github.com/Hakky54/senzu) -  CLI tool to get the battery percentage.
+* [senzu](https://github.com/Hakky54/senzu) - CLI tool to get the battery percentage.
 * [slurm](https://github.com/mattthias/slurm) - Yet another network load monitor.
 * [smem](https://www.selenic.com/smem/) - Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation.
 * [sntop](https://sourceforge.net/projects/sntop) - A simple network top for monitoring connectivity.
@@ -1973,7 +1973,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [modo](https://github.com/elliot40404/modo) - A cross platform cli app to interact with markdown style checkboxes within any text file.
 * [neospeller](https://github.com/richardhapb/neospeller) - Spell checking for different languages comments.
 * [Normalize Country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard.
-* [Output as Format ](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
+* [Output as Format](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
 * [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
 * [rare](https://github.com/zix99/rare) - Real-time regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
 * [rich](https://github.com/Textualize/rich-cli) - Rich-CLI is a command line toolbox for fancy output in the terminal, built with [Rich](https://github.com/Textualize/rich).
