@@ -10,14 +10,14 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1912**
+* Apps/tools: **1913**
 * Categories: **81**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (36), [AI terminal command generator](#ai-cli-commands) (11), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16), [Copy/paste and clipboard](#copy-paste) (9)
+* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (33), [Data transfer](#transfer) (43), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (20), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
@@ -374,6 +374,7 @@ File format converters.
 * [hecat](https://gitlab.com/nodiscc/hecat) - A generic automation tool around data stored as plain-text YAML files.
 * [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
 * [jsonify-resume](https://github.com/ashishbinu/jsonify-resume) - A CLI that converts resumes into JSON Resume schema.
+* [lx](https://github.com/rasros/lx) - Convert arbitrary files into Markdown-fenced blocks for LLM context.
 * [markdrop](https://github.com/shoryasethia/markdrop) - Converts PDFs to markdown while extracting images and tables, generating descriptive text descriptions for extracted tables/images using several LLM clients.
 * [MarkItDown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
