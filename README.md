@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1911**
+* Apps/tools: **1912**
 * Categories: **81**
 
 # Contents
@@ -18,7 +18,7 @@ Summary:
 * [AI / ChatGPT](#ai) (36), [AI terminal command generator](#ai-cli-commands) (11), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (16), [Copy/paste and clipboard](#copy-paste) (9)
-* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (33), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (33), [Data transfer](#transfer) (43), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (20), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
 * [Games](#games) (63), [Git and accessories](#git) (65), [Graphics](#graphics) (48)
@@ -513,6 +513,7 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 Programs for transferring files and data between different machines.
 
 * [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
+* [Better Curl Saul](https://github.com/DeprecatedLuar/better-curl-saul) - HTTP client with persistent workspace configs and dynamic variables to eliminate API setup repetition.
 * [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 * [curl](https://curl.haxx.se/) - A tool and library for transferring data with URL syntax, supports a lot of protocols.
 * [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.

@@ -1910,3 +1910,4 @@ office,PDFjuicer,,https://github.com/dmikhr/pdfjuicer,"CLI tool for converting P
 todo-manager,judo,,https://github.com/giacomopiccinini/judo,"A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite."
 ai,hns,,https://github.com/primaprashant/hns,"A privacy-focused open-source command-line tool for on-device speech-to-text. It records your voice, transcribes it completely locally using faster-whisper, and automatically copies the text to clipboard for immediate use in any application."
 git,ggc,,https://github.com/bmf-san/ggc,A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
+transfer,Better Curl Saul,,https://github.com/DeprecatedLuar/better-curl-saul,HTTP client with persistent workspace configs and dynamic variables to eliminate API setup repetition.
