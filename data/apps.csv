@@ -1919,3 +1919,4 @@ programming,Crush,,https://github.com/charmbracelet/crush,"Flexible AI coding ag
 data-management-tabular,DBee,,https://github.com/murat-cileli/dbee,"Fast & Minimalistic Database Browser (MySQL, MariaDB, PostgreSQL)."
 data-management-tabular,dblab,,https://github.com/danvergara/dblab,"Interactive client for PostgreSQL, MySQL, SQLite3, Oracle and SQL Server."
 productivity,DDQA,,https://github.com/DataDog/ddqa,Jira TUI to help with software releasestool for users of Jira to perform QA of anticipated releases of code on GitHub.
+git,Froggit,,https://github.com/thewizardshell/froggit,Minimalist Git TUI with GitHub CLI integration.
