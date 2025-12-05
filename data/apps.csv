@@ -1918,3 +1918,4 @@ networking,CuTE,,https://github.com/PThorpe92/CuTE,"TUI to help build, execute a
 programming,Crush,,https://github.com/charmbracelet/crush,"Flexible AI coding agent with a wide range of LLMS, maintains multiple work sessions and contexts per project, works everywhere and extensible."
 data-management-tabular,DBee,,https://github.com/murat-cileli/dbee,"Fast & Minimalistic Database Browser (MySQL, MariaDB, PostgreSQL)."
 data-management-tabular,dblab,,https://github.com/danvergara/dblab,"Interactive client for PostgreSQL, MySQL, SQLite3, Oracle and SQL Server."
+productivity,DDQA,,https://github.com/DataDog/ddqa,Jira TUI to help with software releasestool for users of Jira to perform QA of anticipated releases of code on GitHub.
