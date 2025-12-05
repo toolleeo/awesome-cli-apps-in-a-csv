@@ -1917,3 +1917,4 @@ text-search,Csope,,https://github.com/agvxov/csope,"C source code browser - Fork
 networking,CuTE,,https://github.com/PThorpe92/CuTE,"TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys."
 programming,Crush,,https://github.com/charmbracelet/crush,"Flexible AI coding agent with a wide range of LLMS, maintains multiple work sessions and contexts per project, works everywhere and extensible."
 data-management-tabular,DBee,,https://github.com/murat-cileli/dbee,"Fast & Minimalistic Database Browser (MySQL, MariaDB, PostgreSQL)."
+data-management-tabular,dblab,,https://github.com/danvergara/dblab,"Interactive client for PostgreSQL, MySQL, SQLite3, Oracle and SQL Server."
