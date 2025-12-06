@@ -1912,3 +1912,13 @@ ai,hns,,https://github.com/primaprashant/hns,"A privacy-focused open-source comm
 git,ggc,,https://github.com/bmf-san/ggc,A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 transfer,Better Curl Saul,,https://github.com/DeprecatedLuar/better-curl-saul,HTTP client with persistent workspace configs and dynamic variables to eliminate API setup repetition.
 conversion,lx,,https://github.com/rasros/lx,Convert arbitrary files into Markdown-fenced blocks for LLM context.
+monitor,Cloud Code Usage Monitor,,https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor,Real-time Claude Code usage monitor with predictions and warnings.
+text-search,Csope,,https://github.com/agvxov/csope,"C source code browser - Fork of Cscope version 15,9, with various improvements."
+networking,CuTE,,https://github.com/PThorpe92/CuTE,"TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys."
+programming,Crush,,https://github.com/charmbracelet/crush,"Flexible AI coding agent with a wide range of LLMS, maintains multiple work sessions and contexts per project, works everywhere and extensible."
+data-management-tabular,DBee,,https://github.com/murat-cileli/dbee,"Fast & Minimalistic Database Browser (MySQL, MariaDB, PostgreSQL)."
+data-management-tabular,dblab,,https://github.com/danvergara/dblab,"Interactive client for PostgreSQL, MySQL, SQLite3, Oracle and SQL Server."
+productivity,DDQA,,https://github.com/DataDog/ddqa,Jira TUI to help with software releasestool for users of Jira to perform QA of anticipated releases of code on GitHub.
+git,Froggit,,https://github.com/thewizardshell/froggit,Minimalist Git TUI with GitHub CLI integration.
+programming,Euporie,,https://github.com/joouha/euporie,"Allows you to interact with Jupyter kernels, and run Jupyter notebooks - entirely from the terminal."
+git,git-crecord,,https://github.com/andrewshadura/git-crecord,Git subcommand to interactively select changes to commit or stage.
