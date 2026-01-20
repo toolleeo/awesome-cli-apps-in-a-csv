@@ -1924,5 +1924,5 @@ git,Froggit,,https://github.com/thewizardshell/froggit,Minimalist Git TUI with G
 programming,Euporie,,https://github.com/joouha/euporie,"Allows you to interact with Jupyter kernels, and run Jupyter notebooks - entirely from the terminal."
 git,git-crecord,,https://github.com/andrewshadura/git-crecord,Git subcommand to interactively select changes to commit or stage.
 graphics,heroshot,https://heroshot.sh,https://github.com/omachala/heroshot,Screenshot automation CLI for documentation. Visual element picker to define captures and config-driven regeneration with one command.
-graphics,figma-use,https://github.com/dannote/figma-use,https://github.com/dannote/figma-use,Control Figma from the command line with full read/write access for AI agents.
+graphics,figma-use,,https://github.com/dannote/figma-use,Control Figma from the command line with full read/write access for AI agents.
 financial,rustledger,https://rustledger.github.io,https://github.com/rustledger/rustledger,"Pure Rust implementation of Beancount, a drop-in replacement that is 10x faster with a single binary and no dependencies."
