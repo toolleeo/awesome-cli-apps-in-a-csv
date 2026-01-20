@@ -1927,3 +1927,4 @@ graphics,heroshot,https://heroshot.sh,https://github.com/omachala/heroshot,Scree
 graphics,figma-use,,https://github.com/dannote/figma-use,Control Figma from the command line with full read/write access for AI agents.
 financial,rustledger,https://rustledger.github.io,https://github.com/rustledger/rustledger,"Pure Rust implementation of Beancount, a drop-in replacement that is 10x faster with a single binary and no dependencies."
 science,oeis-tui,,https://github.com/hako/oeis-tui,A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
+programming,Lazymake,https://lazymake.vercel.app/,https://github.com/rshelekhov/lazymake,"Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis."

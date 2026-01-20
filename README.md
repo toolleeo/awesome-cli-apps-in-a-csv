@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1928**
+* Apps/tools: **1929**
 * Categories: **81**
 
 # Contents
@@ -27,7 +27,7 @@ Summary:
 * [Markdown](#markdown) (10)
 * [Networking](#networking) (88), [Note taking](#note-taking) (30)
 * [Office tools](#office) (21), [Online search and resources](#online) (28), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (27), [Productivity](#productivity) (13), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (59), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (27), [Productivity](#productivity) (13), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (60), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (21), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (53), [System tools](#system) (46)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (39), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
@@ -1547,6 +1547,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 * [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
 * [lab](https://github.com/lugenx/lab) - Lab helps you experiment with code without friction. Type `lab` with any extension and start coding - it handles files, organization, and cleanup automatically.
+* [Lazymake](https://lazymake.vercel.app/) - Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
 * [Leetcode-go](https://github.com/Manan-Prakash-Singh/leetcode-go) - A simple CLI tool for searching, downloading and submitting problems to LeetCode.
 * [llm-fuse](https://github.com/antonbelev/llm-fuse) - A tool designed to quickly generate an aggregated text file, or multiple files when chunking is enabled, from numerous files within a repository that can then be pasted into a LLM prompt to provide context from multiple source files.
 * [minify.js](https://minify-js.org) - Recursively minify all JavaScript files.
