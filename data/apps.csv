@@ -1923,3 +1923,4 @@ productivity,DDQA,,https://github.com/DataDog/ddqa,Jira TUI to help with softwar
 git,Froggit,,https://github.com/thewizardshell/froggit,Minimalist Git TUI with GitHub CLI integration.
 programming,Euporie,,https://github.com/joouha/euporie,"Allows you to interact with Jupyter kernels, and run Jupyter notebooks - entirely from the terminal."
 git,git-crecord,,https://github.com/andrewshadura/git-crecord,Git subcommand to interactively select changes to commit or stage.
+financial,rustledger,https://rustledger.github.io,https://github.com/rustledger/rustledger,"Pure Rust implementation of Beancount, a drop-in replacement that is 10x faster with a single binary and no dependencies."
