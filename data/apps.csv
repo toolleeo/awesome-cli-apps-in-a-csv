@@ -1928,4 +1928,5 @@ graphics,figma-use,,https://github.com/dannote/figma-use,Control Figma from the 
 financial,rustledger,https://rustledger.github.io,https://github.com/rustledger/rustledger,"Pure Rust implementation of Beancount, a drop-in replacement that is 10x faster with a single binary and no dependencies."
 science,oeis-tui,,https://github.com/hako/oeis-tui,A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 programming,Lazymake,https://lazymake.vercel.app/,https://github.com/rshelekhov/lazymake,"Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis."
+package-manager,lastversion,https://lastversion.getpagespeed.com,https://github.com/dvershinin/lastversion,"Find the latest stable version and download assets of any project from GitHub, GitLab, PyPI, and other sources."
 productivity,try-rs,https://try-rs.org,https://github.com/tassiovirginio/try-rs,"Temporary workspace manager with a TUI to organize, navigate, and manage experiments and throwaway projects."
