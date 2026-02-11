@@ -1463,6 +1463,7 @@ vm,decompose,,https://github.com/s0rg/decompose,Reverse-engineering tool for doc
 vm,dry,,https://github.com/moncho/dry,A Docker manager for the terminal.
 vm,Waydroid,https://waydro.id,https://github.com/waydroid/waydroid,A container-based approach to boot a full Android system on a regular Linux distribution.
 vm,virsh,https://libvirt.org/index.html,https://gitlab.com/libvirt/libvirt,"An interactive shell, and batch scriptable tool for performing management tasks on all libvirt managed domains, networks, and storage. A part of the libvirt core distribution."
+ai,vibebox,https://vibebox.robcholz.com,https://github.com/robcholz/vibebox,"Per-project micro-VM sandbox for running coding agents on macOS with fast re-entry and explicit mounts."
 prompt,synth-shell-prompt,,https://github.com/andresgongora/synth-shell-prompt,"A small eye-candy shell prompt with Git status displaying, a clock, intelligent $PWD shortening, and much more."
 prompt,Liquid Prompt,,https://github.com/liquidprompt/liquidprompt,"Carefully designed prompt with useful information to show changes when it changes, saving time and frustration, and to show meaningful information with minimal visual clutter."
 prompt,Pure,,https://github.com/sindresorhus/pure,"Pretty, minimal, and fast ZSH prompt."
