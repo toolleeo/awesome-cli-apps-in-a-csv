@@ -1937,3 +1937,4 @@ git,nodebro,,https://github.com/jonaburg/nodebro,Easily view most recent Github 
 ai-cli-commands,OpenCode,https://opencode.ai/download,https://github.com/sst/opencode,"AI coding agent, built for the terminal."
 monitor-top,pproftui,,https://github.com/Oloruntobi1/pproftui,"TUI for Go's pprof that makes profiling interactive, intuitive, and fast. "
 networking,Proxymock,https://proxymock.io,,A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
+programming,PuDB,,https://github.com/inducer/pudb,Allows you to debug code right where you write and test it in a terminal.
