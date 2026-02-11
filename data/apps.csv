@@ -1940,3 +1940,4 @@ networking,Proxymock,https://proxymock.io,,A network recorder that shows API pay
 programming,PuDB,,https://github.com/inducer/pudb,Allows you to debug code right where you write and test it in a terminal.
 git,pyautogit,,https://github.com/jwlodek/pyautogit,A TUI for working with git written in python.
 programming,sls-dev-tools,,https://github.com/Theodo-UK/sls-dev-tools,Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
+online,STU,,https://github.com/lusingander/stu,"S3 Terminal UI, is a interactive terminal-based explorer for Amazon S3 (AWS S3)."
