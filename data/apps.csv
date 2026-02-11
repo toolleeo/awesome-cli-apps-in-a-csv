@@ -1932,3 +1932,4 @@ programming,Lazymake,https://lazymake.vercel.app/,https://github.com/rshelekhov/
 package-manager,lastversion,https://lastversion.getpagespeed.com,https://github.com/dvershinin/lastversion,"Find the latest stable version and download assets of any project from GitHub, GitLab, PyPI, and other sources."
 productivity,try-rs,https://try-rs.org,https://github.com/tassiovirginio/try-rs,"Temporary workspace manager with a TUI to organize, navigate, and manage experiments and throwaway projects."
 data-management-tabular,LAZYSQL,,https://github.com/jorgerojas26/lazysql,A cross-platform TUI database management tool written in Go.
+devops,lazyjournal,,https://github.com/Lifailon/lazyjournal,"Terminal user interface for reading logs from journald, auditd, file system, Docker (including Swarm) containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes."
