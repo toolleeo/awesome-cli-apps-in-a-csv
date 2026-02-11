@@ -1938,3 +1938,4 @@ ai-cli-commands,OpenCode,https://opencode.ai/download,https://github.com/sst/ope
 monitor-top,pproftui,,https://github.com/Oloruntobi1/pproftui,"TUI for Go's pprof that makes profiling interactive, intuitive, and fast. "
 networking,Proxymock,https://proxymock.io,,A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
 programming,PuDB,,https://github.com/inducer/pudb,Allows you to debug code right where you write and test it in a terminal.
+git,pyautogit,,https://github.com/jwlodek/pyautogit,A TUI for working with git written in python.
