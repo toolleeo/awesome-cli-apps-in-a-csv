@@ -1934,3 +1934,4 @@ productivity,try-rs,https://try-rs.org,https://github.com/tassiovirginio/try-rs,
 data-management-tabular,LAZYSQL,,https://github.com/jorgerojas26/lazysql,A cross-platform TUI database management tool written in Go.
 devops,lazyjournal,,https://github.com/Lifailon/lazyjournal,"Terminal user interface for reading logs from journald, auditd, file system, Docker (including Swarm) containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes."
 git,nodebro,,https://github.com/jonaburg/nodebro,Easily view most recent Github releases/tags and release notes from the terminal.
+ai-cli-commands,OpenCode,https://opencode.ai/download,https://github.com/sst/opencode,"AI coding agent, built for the terminal."
