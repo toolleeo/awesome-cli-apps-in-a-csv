@@ -10,24 +10,24 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1932**
+* Apps/tools: **1942**
 * Categories: **81**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (37), [AI terminal command generator](#ai-cli-commands) (11), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (37), [AI terminal command generator](#ai-cli-commands) (12), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
 * [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (23), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
-* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (35), [Data transfer](#transfer) (43), [DevOps](#devops) (9), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (36), [Data transfer](#transfer) (43), [DevOps](#devops) (10), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (27), [Email](#email) (18)
 * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (63), [Git and accessories](#git) (67), [Graphics](#graphics) (50)
+* [Games](#games) (63), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
 * [History management](#history) (5)
 * [Learning and didactic tools](#learning) (5)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (88), [Note taking](#note-taking) (30)
-* [Office tools](#office) (21), [Online search and resources](#online) (28), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (21), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (27), [Productivity](#productivity) (14), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (60), [Prompts](#prompt) (13)
+* [Networking](#networking) (89), [Note taking](#note-taking) (30)
+* [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#organizers) (22)
+* [Package managers](#package-manager) (21), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (28), [Productivity](#productivity) (14), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (62), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (21), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (53), [System tools](#system) (46)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (39), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
@@ -85,6 +85,7 @@ Generates or explains commands for the command line using AI.
 * [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Natural language shell command generator and executor powered by AI.
 * [ht](https://github.com/catallo/ht) - A shell command that answers your questions about shell commands using OpenAI GPT.
 * [llm-term](https://github.com/dh1011/llm-term) - A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
+* [OpenCode](https://opencode.ai/download) - AI coding agent, built for the terminal.
 * [osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
 * [py-ai-shell](https://github.com/cheney-yan/py-ai-shell) - AI-powered shell for command line users.
 * [reTermAI](https://github.com/pie0902/reTermAI) - Smart command assistant for your terminal, using LLM.
@@ -488,6 +489,7 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 * [Dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust.
 * [harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+* [LAZYSQL](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 * [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with autocompletion and syntax highlighting.
 * [Miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do autocompletion and syntax highlighting.
@@ -568,6 +570,7 @@ Applications for supporting DevOps tasks, such as containers or cloud systems ma
 * [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [kubectx](https://kubectx.dev/) - Quickly switch between clusters and namespaces in kubectl.
 * [kubefwd](https://kubefwd.com) - Bulk port forwarding Kubernetes services to localhost with unique IPs per service and interactive TUI.
+* [lazyjournal](https://github.com/Lifailon/lazyjournal) - Terminal user interface for reading logs from journald, auditd, file system, Docker (including Swarm) containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Super small and powerful framework for build CI pipeline, scripted with Makefile and isolated with docker.
 * [OPS](https://github.com/nanovms/ops) - Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance.
 * [planor](https://github.com/mrusme/planor) - The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...).
@@ -1066,9 +1069,11 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [mamediff](https://github.com/sile/mamediff) - A TUI editor for managing unstaged and staged Git diffs.
 * [mergestat-lite](https://github.com/mergestat/mergestat-lite) - A command-line tool for running SQL queries on git repositories and related data sources.
 * [mkgit](https://github.com/cosmicwanderer7/mkgit) - This Bash script automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository. The script prompts the user for a repository name and utilizes the GitHub API to create a new public repository.
+* [nodebro](https://github.com/jonaburg/nodebro) - Easily view most recent Github releases/tags and release notes from the terminal.
 * [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
 * [patchy](https://github.com/NikitaRevenco/patchy) - A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests.
 * [prs](https://github.com/dhth/prs) - Stay updated on PRs without leaving the terminal.
+* [pyautogit](https://github.com/jwlodek/pyautogit) - A TUI for working with git written in python.
 * [rcz](https://github.com/Cassin01/rcz) - A tool to write a commit message based on “Conventional Commits”.
 * [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 * [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages. With emoji support.
@@ -1219,6 +1224,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [oryx](https://github.com/pythops/oryx) - TUI for sniffing network traffic using eBPF on Linux.
 * [packemon](https://github.com/ddddddO/packemon) - TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 * [Prosody](https://prosody.im/) - Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources.
+* [Proxymock](https://proxymock.io) - A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
 * [PSSH](https://code.google.com/archive/p/parallel-ssh/) - Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
 * [quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 * [quickserve](https://github.com/haileys/quickserve) - Very simple HTTP server written in Python for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, it requires no setup and should work with no hassle.
@@ -1350,6 +1356,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
 * [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
 * [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal
+* [STU](https://github.com/lusingander/stu) - S3 Terminal UI, is a interactive terminal-based explorer for Amazon S3 (AWS S3).
 * [subs](https://github.com/0x4f53/subs) - Grab valid subdomains, resolve them, split them and more.
 * [tuir](https://gitlab.com/Chocimier/tuir) - Browse Reddit from your terminal.
 * [wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface.
@@ -1464,6 +1471,7 @@ Programs to list and monitor currently running processes; alternatives to the `t
 * [nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 * [nvtop](https://github.com/Syllo/nvtop) - A top like task monitor for AMD, Intel and NVIDIA GPUs, that can handle multiple GPUs and print information about them in a htop-familiar way.
 * [PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) - Robust, featureful, easy-to-use and powerful process manager.
+* [pproftui](https://github.com/Oloruntobi1/pproftui) - TUI for Go's pprof that makes profiling interactive, intuitive, and fast.
 * [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
 * [radeontop](https://github.com/clbr/radeontop) - View your AMD GPU utilization, both for the total activity percent and individual blocks.
 * [s-tui](https://github.com/amanusk/s-tui) - Stress-Terminal UI, s-tui, monitors CPU temperature, frequency, power, and utilization in a graphical way from the terminal.
@@ -1561,6 +1569,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [nsh](https://github.com/theHamdiz/nsh) - A powerful renaming utility for developers, used to rename Symbols, Phrases in File contents, file names, directory names, recursively, useful specially when you find a better name for your app.
 * [o](https://github.com/rev-dot-now/o) - Agentic Design Framework, automate with natural language, build agents in seconds, self-generate new features.
 * [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
+* [PuDB](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
 * [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
 * [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Go, and Java.
 * [release-it](https://github.com/release-it/release-it) - Automate releases for Git repositories and/or Node.js packages.
@@ -1570,6 +1579,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 * [semantic-release](https://github.com/semantic-release/semantic-release) - Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package.
 * [sidem](https://github.com/taha-yassine/sidem) - TUI app that helps simplifying the management of .env configuration files.
+* [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
 * [stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance.
 * [suss](https://github.com/shobrook/suss) - AI-powered bug finder that knows your codebase.
 * [temci](https://github.com/parttimenerd/temci) - Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
