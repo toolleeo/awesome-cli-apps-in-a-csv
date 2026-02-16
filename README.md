@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1953**
+* Apps/tools: **1954**
 * Categories: **81**
 
 # Contents
@@ -29,7 +29,7 @@ Summary:
 * [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (22), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (28), [Productivity](#productivity) (14), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (63), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (21), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (6), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (53), [System tools](#system) (46)
+* [Science](#science) (21), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (7), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (53), [System tools](#system) (46)
 * [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (39), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (47)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (47)
@@ -1689,6 +1689,7 @@ Screen savers with animations for the idle times of the computer.
 
 * [ASCII Saver](https://gitlab.com/mezantrop/ascsaver) - Screensaver for terminals.
 * [conway-screensaver](https://github.com/cdkw2/conway-screensaver) - A Conways game of life screensaver for the terminal.
+* [gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 * [lifecycler](https://github.com/cxreiff/lifecycler) - An aquarium that runs in your terminal.
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
 * [sclocka](https://github.com/mezantrop/sclocka) - The real screensaver/lock for terminals.
