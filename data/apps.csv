@@ -1313,7 +1313,7 @@ online,pure-recipe,,https://github.com/atiumcache/pure-recipe,"Input a recipe UR
 versioning,Jujutsu,,https://github.com/martinvonz/jj,A Git-compatible VCS that is both simple and powerful.
 text-search-replace,Rep,,https://github.com/robenkleene/rep-grep,"Rep is a command-line utility that takes grep-formatted lines via standard input, and performs a find-and-replace on them."
 file-renamer,Ren,,https://github.com/robenkleene/ren-find,"Ren is a command-line utility that takes find-formatted lines via standard input, and batch renames them."
-file-renamer,renamed.to,https://www.renamed.to/cli,https://github.com/upspawn/cli.renamed.to,AI-powered file renamer that analyzes document content (PDFs, scans, images) and generates descriptive filenames in bulk.
+file-renamer,renamed.to,https://www.renamed.to/cli,https://github.com/upspawn/cli.renamed.to,"AI-powered file renamer that analyzes document content (PDFs, scans, images) and generates descriptive filenames in bulk."
 conversion,transflac,,https://bitbucket.org/gbcox/transflac.git/,A repository containing a series of utilities to assist in the maintenance and organization of FLAC based music collections.
 programming,scriptisto,,https://github.com/igor-petruk/scriptisto,"A language-agnostic ""shebang interpreter"" that enables you to write scripts in compiled languages."
 utility,gentoo-install,,https://github.com/oddlama/gentoo-install,"This project aspires to be your favorite way to install gentoo. It aims to provide a smooth installation experience, both for beginners and experts. You may configure it by using a menuconfig-inspired interface or simply via a config file."
