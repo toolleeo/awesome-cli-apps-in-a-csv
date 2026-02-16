@@ -1943,3 +1943,4 @@ programming,sls-dev-tools,,https://github.com/Theodo-UK/sls-dev-tools,Interactiv
 online,STU,,https://github.com/lusingander/stu,"S3 Terminal UI, is a interactive terminal-based explorer for Amazon S3 (AWS S3)."
 devops,TFTUI,,https://github.com/idoavrah/terraform-tui,TUI to view and interact with Terraform state.
 package-manager,ToolUI,,https://github.com/jinek/ToolUI,TUI to manage dotnet tools.
+programming,Tokui,,https://github.com/zdyxry/tokui,An interactive TUI for visualizing code statistics from tockei.
