@@ -1944,3 +1944,4 @@ online,STU,,https://github.com/lusingander/stu,"S3 Terminal UI, is a interactive
 devops,TFTUI,,https://github.com/idoavrah/terraform-tui,TUI to view and interact with Terraform state.
 package-manager,ToolUI,,https://github.com/jinek/ToolUI,TUI to manage dotnet tools.
 programming,Tokui,,https://github.com/zdyxry/tokui,An interactive TUI for visualizing code statistics from tockei.
+vm,VCTUI,,https://github.com/thebsdbox/vctui,"Console interface for vCenter: create, delete and search virtual machines and power management."
