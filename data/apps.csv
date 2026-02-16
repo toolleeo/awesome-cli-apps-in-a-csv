@@ -1957,3 +1957,4 @@ devops,lazycontainer,,https://github.com/andreybleme/lazycontainer,TUI for manag
 devops,podman-tui,,https://github.com/containers/podman-tui,TUI for Podman environment.
 devops,sen,,https://github.com/TomasTomecek/sen,"TUI for containers (manages interactively and inspects containers, dashboard view for containers and images, searching and filtering, real-time updates, tree view of all images)."
 editors,Amp,,https://github.com/jmacdonald/amp,A complete text editor for your terminal.
+editors,C-EDIT,,https://github.com/velorek1/c-edit,A text editor in C with drop down menus in the style of MS-DOS Editor.
