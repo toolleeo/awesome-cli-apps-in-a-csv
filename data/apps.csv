@@ -1942,6 +1942,7 @@ programming,PuDB,,https://github.com/inducer/pudb,Allows you to debug code right
 git,pyautogit,,https://github.com/jwlodek/pyautogit,A TUI for working with git written in python.
 programming,sls-dev-tools,,https://github.com/Theodo-UK/sls-dev-tools,Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
 online,STU,,https://github.com/lusingander/stu,"S3 Terminal UI, is a interactive terminal-based explorer for Amazon S3 (AWS S3)."
+screensaver,gitlogue,,https://github.com/unhappychoice/gitlogue,"A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story."
 devops,TFTUI,,https://github.com/idoavrah/terraform-tui,TUI to view and interact with Terraform state.
 package-manager,ToolUI,,https://github.com/jinek/ToolUI,TUI to manage dotnet tools.
 programming,Tokui,,https://github.com/zdyxry/tokui,An interactive TUI for visualizing code statistics from tockei.
