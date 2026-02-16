@@ -1953,3 +1953,4 @@ devops,eks-node-viewer,,https://github.com/awslabs/eks-node-viewer/,Tool for vis
 devops,KDash,,https://github.com/kdash-rs/kdash,A simple and fast terminal dashboard for Kubernetes.
 devops,ktop,,https://github.com/vladimirvivien/ktop,"Tool that displays useful metrics information about nodes, pods, and other workload."
 devops,kubetui,,https://github.com/sarub0b0/kubetui,A TUI tool designed for monitoring Kubernetes resources.
+devops,lazycontainer,,https://github.com/andreybleme/lazycontainer,TUI for managing Apple containers.
