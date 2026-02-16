@@ -1961,3 +1961,4 @@ editors,C-EDIT,,https://github.com/velorek1/c-edit,A text editor in C with drop 
 editors,Helix,https://helix-editor.com/,https://github.com/helix-editor/helix,"A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features."
 editors,maki,https://sr.ht/~bscit/maki/,,A simple text editor with file navigation and an emphasis on preserving battery life.
 networking,Thymus,,https://github.com/blademd/thymus,An interactive browser & editor for network configuration files.
+editors,Turbo,,https://github.com/magiblot/turbo,"An experimental text editor for the terminal, based on Scintilla and Turbo Vision."
