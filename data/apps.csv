@@ -1945,3 +1945,4 @@ devops,TFTUI,,https://github.com/idoavrah/terraform-tui,TUI to view and interact
 package-manager,ToolUI,,https://github.com/jinek/ToolUI,TUI to manage dotnet tools.
 programming,Tokui,,https://github.com/zdyxry/tokui,An interactive TUI for visualizing code statistics from tockei.
 vm,VCTUI,,https://github.com/thebsdbox/vctui,"Console interface for vCenter: create, delete and search virtual machines and power management."
+devops,Ducker,,https://github.com/robertpsoane/ducker,TUI for managing docker containers.
