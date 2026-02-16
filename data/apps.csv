@@ -1959,3 +1959,4 @@ devops,sen,,https://github.com/TomasTomecek/sen,"TUI for containers (manages int
 editors,Amp,,https://github.com/jmacdonald/amp,A complete text editor for your terminal.
 editors,C-EDIT,,https://github.com/velorek1/c-edit,A text editor in C with drop down menus in the style of MS-DOS Editor.
 editors,Helix,https://helix-editor.com/,https://github.com/helix-editor/helix,"A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features."
+editors,maki,https://sr.ht/~bscit/maki/,,A simple text editor with file navigation and an emphasis on preserving battery life.
