@@ -1948,3 +1948,4 @@ vm,VCTUI,,https://github.com/thebsdbox/vctui,"Console interface for vCenter: cre
 devops,Ducker,,https://github.com/robertpsoane/ducker,TUI for managing docker containers.
 devops,E1S,,https://github.com/keidarcy/e1s,TUI for browsing and managing AWS ECS resources.
 devops,eks-node-viewer,,https://github.com/awslabs/eks-node-viewer/,Tool for visualizing dynamic node usage within a kubernetes cluster.
+devops,KDash,,https://github.com/kdash-rs/kdash,A simple and fast terminal dashboard for Kubernetes.
