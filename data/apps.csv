@@ -1956,3 +1956,4 @@ devops,kubetui,,https://github.com/sarub0b0/kubetui,A TUI tool designed for moni
 devops,lazycontainer,,https://github.com/andreybleme/lazycontainer,TUI for managing Apple containers.
 devops,podman-tui,,https://github.com/containers/podman-tui,TUI for Podman environment.
 devops,sen,,https://github.com/TomasTomecek/sen,"TUI for containers (manages interactively and inspects containers, dashboard view for containers and images, searching and filtering, real-time updates, tree view of all images)."
+editors,Amp,,https://github.com/jmacdonald/amp,A complete text editor for your terminal.
