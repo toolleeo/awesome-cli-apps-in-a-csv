@@ -1953,3 +1953,13 @@ devops,eks-node-viewer,,https://github.com/awslabs/eks-node-viewer/,Tool for vis
 devops,KDash,,https://github.com/kdash-rs/kdash,A simple and fast terminal dashboard for Kubernetes.
 devops,ktop,,https://github.com/vladimirvivien/ktop,"Tool that displays useful metrics information about nodes, pods, and other workload."
 devops,kubetui,,https://github.com/sarub0b0/kubetui,A TUI tool designed for monitoring Kubernetes resources.
+devops,lazycontainer,,https://github.com/andreybleme/lazycontainer,TUI for managing Apple containers.
+devops,podman-tui,,https://github.com/containers/podman-tui,TUI for Podman environment.
+devops,sen,,https://github.com/TomasTomecek/sen,"TUI for containers (manages interactively and inspects containers, dashboard view for containers and images, searching and filtering, real-time updates, tree view of all images)."
+editors,Amp,,https://github.com/jmacdonald/amp,A complete text editor for your terminal.
+editors,C-EDIT,,https://github.com/velorek1/c-edit,A text editor in C with drop down menus in the style of MS-DOS Editor.
+editors,Helix,https://helix-editor.com/,https://github.com/helix-editor/helix,"A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features."
+editors,maki,https://sr.ht/~bscit/maki/,,A simple text editor with file navigation and an emphasis on preserving battery life.
+networking,Thymus,,https://github.com/blademd/thymus,An interactive browser & editor for network configuration files.
+editors,Turbo,,https://github.com/magiblot/turbo,"An experimental text editor for the terminal, based on Scintilla and Turbo Vision."
+file-manager,adbtuifm,,https://github.com/darkhz/adbtuifm,"A TUI file manager for the Android Debug Bridge, to make transfers between the device and client easier."
