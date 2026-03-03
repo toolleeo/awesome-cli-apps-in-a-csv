@@ -1964,3 +1964,4 @@ networking,Thymus,,https://github.com/blademd/thymus,An interactive browser & ed
 editors,Turbo,,https://github.com/magiblot/turbo,"An experimental text editor for the terminal, based on Scintilla and Turbo Vision."
 file-manager,adbtuifm,,https://github.com/darkhz/adbtuifm,"A TUI file manager for the Android Debug Bridge, to make transfers between the device and client easier."
 file-manager,Far2l,,https://github.com/elfmz/far2l,Linux port of Far v2 file manager.
+file-manager,fml,,https://github.com/wick3dr0se/fml,Simple and fast file manager written in BASH.
