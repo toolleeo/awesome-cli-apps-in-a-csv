@@ -1970,3 +1970,4 @@ file-manager,sfm,,https://github.com/afify/sfm,"Simple file manager for unix-lik
 games,awkaster,,https://github.com/TheMozg/awk-raycaster,Pseudo-3D shooter written completely in gawk using raycasting technique.
 games,Balatro TUI ,,https://github.com/Passeriform/BalatroTUI,A minimal TUI clone of Balatro built in Rust.
 games,botany,,https://github.com/jifunks/botany/,"A command line, realtime, virtual plant buddy."
+games,Brick Game emulator,,https://github.com/ilyakurdyukov/brickgame-4bit,Brick Game emulator that uses 4-bit microcontroller from Holtek.
