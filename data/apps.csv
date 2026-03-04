@@ -1963,3 +1963,4 @@ editors,maki,https://sr.ht/~bscit/maki/,,A simple text editor with file navigati
 networking,Thymus,,https://github.com/blademd/thymus,An interactive browser & editor for network configuration files.
 editors,Turbo,,https://github.com/magiblot/turbo,"An experimental text editor for the terminal, based on Scintilla and Turbo Vision."
 file-manager,adbtuifm,,https://github.com/darkhz/adbtuifm,"A TUI file manager for the Android Debug Bridge, to make transfers between the device and client easier."
+ai,LynxPrompt,https://lynxprompt.com,https://github.com/GeiserX/LynxPrompt,CLI for managing AI IDE configuration files across 30+ coding assistants.
