@@ -10,22 +10,22 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1954**
+* Apps/tools: **1974**
 * Categories: **81**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (37), [AI terminal command generator](#ai-cli-commands) (12), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (13), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (24), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
-* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (36), [Data transfer](#transfer) (43), [DevOps](#devops) (17), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
-* [Editors](#editors) (27), [Email](#email) (18)
-* [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (63), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
+* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (14), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (24), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (36), [Data transfer](#transfer) (43), [DevOps](#devops) (20), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
+* [Editors](#editors) (32), [Email](#email) (18)
+* [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (26), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
+* [Games](#games) (69), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
 * [History management](#history) (5)
 * [Learning and didactic tools](#learning) (5)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (89), [Note taking](#note-taking) (30)
+* [Networking](#networking) (90), [Note taking](#note-taking) (30)
 * [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (22), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (28), [Productivity](#productivity) (14), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (63), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -253,6 +253,7 @@ Find/remove duplicate files, automatically organize files, etc..
 * [Framed](https://github.com/mactat/framed) - A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
 * [inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
 * [mat2](https://0xacab.org/jvoisin/mat2.git) - Metadata removal tool, supporting a wide range of commonly used file formats.
+* [NTC](https://codeberg.org/ItsZariep/ntc) - A program that, based on the contents of a folder, create tabs (subfolders inside the selected folder) and displays their contents.
 * [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 * [rmlint](https://github.com/sahib/rmlint) - Recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format and produces a shell script that can be inspected before running it to delete the desire files.
 * [smash](https://github.com/thushan/smash) - Smash through to find duplicate files super fast by slicing files intelligently.
@@ -577,11 +578,14 @@ Applications for supporting DevOps tasks, such as containers or cloud systems ma
 * [kubectx](https://kubectx.dev/) - Quickly switch between clusters and namespaces in kubectl.
 * [kubefwd](https://kubefwd.com) - Bulk port forwarding Kubernetes services to localhost with unique IPs per service and interactive TUI.
 * [kubetui](https://github.com/sarub0b0/kubetui) - A TUI tool designed for monitoring Kubernetes resources.
+* [lazycontainer](https://github.com/andreybleme/lazycontainer) - TUI for managing Apple containers.
 * [lazyjournal](https://github.com/Lifailon/lazyjournal) - Terminal user interface for reading logs from journald, auditd, file system, Docker (including Swarm) containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Super small and powerful framework for build CI pipeline, scripted with Makefile and isolated with docker.
 * [OPS](https://github.com/nanovms/ops) - Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance.
 * [planor](https://github.com/mrusme/planor) - The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...).
+* [podman-tui](https://github.com/containers/podman-tui) - TUI for Podman environment.
 * [SAWS](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
+* [sen](https://github.com/TomasTomecek/sen) - TUI for containers (manages interactively and inspects containers, dashboard view for containers and images, searching and filtering, real-time updates, tree view of all images).
 * [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes.
 * [TFTUI](https://github.com/idoavrah/terraform-tui) - TUI to view and interact with Terraform state.
 
@@ -651,9 +655,11 @@ Programs to analyze and summarize the usage of disks, visualize and report the s
 
 Text editors.
 
+* [Amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 * [aretext](https://github.com/aretext/aretext) - Minimalist text editor with vim-compatible key bindings.
 * [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
 * [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
+* [C-EDIT](https://github.com/velorek1/c-edit) - A text editor in C with drop down menus in the style of MS-DOS Editor.
 * [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard" keybindings and several advanced features; written in Ruby.
 * [ed](https://www.gnu.org/software/ed/) - GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts.
 * [edit](https://github.com/microsoft/edit) - This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code.
@@ -661,9 +667,11 @@ Text editors.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
 * [Feather](https://www.feathereditor.com/) - The only terminal based text editor designed to work with BIG files.
 * [Helix](https://github.com/helix-editor/helix) - A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune.
+* [Helix](https://helix-editor.com/) - A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features.
 * [jed](http://www.jedsoft.org/jed/index.html) - A text editor with a drop-down menu facility that make it especially user-friendly.
 * [joe](http://joe-editor.sourceforge.net/) - (Joe's Own Editor) - a compact text editor written in C, a detailed list of features and missing ones is explicitly reported on the website. This editor is mentioned in several web sources for its capability in handling large files.
 * [Kakoune](http://kakoune.org/) - Modal editor, faster as in less keystrokes, multiple selections, orthogonal design.
+* [maki](https://sr.ht/~bscit/maki/) - A simple text editor with file navigation and an emphasis on preserving battery life.
 * [micro](https://github.com/zyedidia/micro) - Aims to be a successor to [`nano`](https://www.nano-editor.org/). Aiming to be easy to use, it has a nano-like keybindings menu; also takes advantage of the full capabilities of modern terminals, supports mutiple cursors, and has a plugin system. Written in Go.
 * [nano](https://www.nano-editor.org/) - Easy to use, lightweight text editor; no complex keybindings to remember; the main ones are shown in the main menu.
 * [neovim](https://neovim.io/) - A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity, and maintainability; it has chances to become the next choice of vim users.
@@ -671,6 +679,7 @@ Text editors.
 * [ox](https://github.com/curlpipe/ox) - An independent Rust text editor.
 * [slap](https://github.com/slap-editor/slap) - Text editor inspired by [Sublime Text](https://www.sublimetext.com/) written in NodeJS, extendable in JavaScript.
 * [Tilde](https://os.ghalkes.nl/tilde/) - Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc.
+* [Turbo](https://github.com/magiblot/turbo) - An experimental text editor for the terminal, based on Scintilla and Turbo Vision.
 * [vai](https://github.com/stefanoborini/vai) - Text editor similar to `vim` written in Python; many features are nicely replicated, some are still missing; however, the advantage of this implementation is its simplicity, maintainability and extensibility, thanks to the Python implementation.
 * [VE](http://www.inverary.net/ve/ve.html) - Lean, fast and feature rich text editor.
 * [vim](http://www.vim.org/) - Historically one of the preferred text editors, behavior based on editing modes, plenty of plugins and tips to address every possible editing problem.
@@ -805,11 +814,14 @@ List directory content and files, with colors or icons; alternatives to `ls`.
 
 Applications for interactively managing files and directories.
 
+* [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI file manager for the Android Debug Bridge, to make transfers between the device and client easier.
 * [cfiles](https://github.com/mananapr/cfiles) - ncurses file manager written in C with vim like keybindings
 * [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
+* [Far2l](https://github.com/elfmz/far2l) - Linux port of Far v2 file manager.
 * [felix](https://github.com/kyoheiu/felix) - TUI file manager with vim-like key mapping
 * [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager written in bash.
 * [fman](https://github.com/nore-dev/fman) - TUI File Manager
+* [fml](https://github.com/wick3dr0se/fml) - Simple and fast file manager written in BASH.
 * [fzfm](https://github.com/ashish0kumar/fzfm) - A command-line fuzzy finder file manager.
 * [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
 * [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
@@ -822,6 +834,7 @@ Applications for interactively managing files and directories.
 * [projectable](https://github.com/dzfrias/projectable) - A TUI file manager built for projects.
 * [ranger](https://ranger.github.io/) - File manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type.
 * [rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
+* [sfm](https://github.com/afify/sfm) - Simple file manager for unix-like systems with kernel event notifications, monitoring filesystem events, dual pane and more.
 * [superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern file manager.
 * [TUIFI Manager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
 * [vifm](https://vifm.info/) - "ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt" (cit.).
@@ -959,8 +972,13 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [Angband](https://rephial.org/) - Angband is a free, single-player dungeon exploration game.
 * [anonymine](https://oskog97.com/projects/anonymine/) - Curses mode minesweeper without guessing and other original features.
 * [asterion](https://github.com/ricott1/asterion) - Find your way through an inifinite maze in this multiplayer ssh game. Beware of the minotaurs!
+* [awkaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique.
+* [Balatro TUI ](https://github.com/Passeriform/BalatroTUI) - A minimal TUI clone of Balatro built in Rust.
 * [bastet](http://fph.altervista.org/prog/bastet.html) - (Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.
 * [blackjack](https://github.com/acidvegas/blackjack) - IRC bot to play blackjack.
+* [botany](https://github.com/jifunks/botany/) - A command line, realtime, virtual plant buddy.
+* [Brick Game emulator](https://github.com/ilyakurdyukov/brickgame-4bit) - Brick Game emulator that uses 4-bit microcontroller from Holtek.
+* [Brogue CE](https://sites.google.com/site/broguegame/) - Single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Open source turn-based survival RPG development project.
 * [Cemetery Escape](https://github.com/tom-on-the-internet/cemetery-escape) - A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts.
 * [cheezee](https://github.com/detectivekaktus/cheezee) - Chess TUI client built for Linux.
@@ -969,6 +987,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [cli-chess](https://github.com/trevorbayless/cli-chess) - A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 * [clidle](https://github.com/ajeetdsouza/clidle) - Wordle, now over SSH.
 * [crappybird-py](https://github.com/JonPizza/crappybird-py) - Flappy bird.
+* [csol](https://github.com/nielssp/csol) - Collection of solitaire/patience games, such as Klondike, FreeCell, Spider, and Yukon.
 * [dans-dungeon](https://github.com/ruscoe/dans-dungeon) - A dungeon crawler engine written in Python.
 * [Dino](https://github.com/wldfngrs/chrome-dinosaur-terminal) - A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
 * [Durak](https://github.com/levkush/durak) - Durak card game for two in a terminal.
@@ -1258,6 +1277,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [termishare](https://github.com/qnkhuat/termishare) - Peer to peer terminal sharing.
 * [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
 * [TGORQ](https://github.com/vitor-augusto1/tgorq) - Terminal GO ReQuest (TGORQ) is a Vim-like lightweight CLI tool for performing HTTP requests.
+* [Thymus](https://github.com/blademd/thymus) - An interactive browser & editor for network configuration files.
 * [tproxy](https://github.com/kevwan/tproxy) - A CLI tool to proxy and analyze TCP connections.
 * [TReq](https://github.com/talis-fb/TReq) - A CLI tool for effortless HTTP requests.
 * [trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool.
