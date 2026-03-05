@@ -1963,3 +1963,13 @@ editors,maki,https://sr.ht/~bscit/maki/,,A simple text editor with file navigati
 networking,Thymus,,https://github.com/blademd/thymus,An interactive browser & editor for network configuration files.
 editors,Turbo,,https://github.com/magiblot/turbo,"An experimental text editor for the terminal, based on Scintilla and Turbo Vision."
 file-manager,adbtuifm,,https://github.com/darkhz/adbtuifm,"A TUI file manager for the Android Debug Bridge, to make transfers between the device and client easier."
+file-manager,Far2l,,https://github.com/elfmz/far2l,Linux port of Far v2 file manager.
+file-manager,fml,,https://github.com/wick3dr0se/fml,Simple and fast file manager written in BASH.
+file-dir-cleanup,NTC,https://codeberg.org/ItsZariep/ntc,,"A program that, based on the contents of a folder, create tabs (subfolders inside the selected folder) and displays their contents."
+file-manager,sfm,,https://github.com/afify/sfm,"Simple file manager for unix-like systems with kernel event notifications, monitoring filesystem events, dual pane and more."
+games,awkaster,,https://github.com/TheMozg/awk-raycaster,Pseudo-3D shooter written completely in gawk using raycasting technique.
+games,Balatro TUI ,,https://github.com/Passeriform/BalatroTUI,A minimal TUI clone of Balatro built in Rust.
+games,botany,,https://github.com/jifunks/botany/,"A command line, realtime, virtual plant buddy."
+games,Brick Game emulator,,https://github.com/ilyakurdyukov/brickgame-4bit,Brick Game emulator that uses 4-bit microcontroller from Holtek.
+games,Brogue CE,https://sites.google.com/site/broguegame/,https://github.com/tmewett/BrogueCE,Single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.
+games,csol,,https://github.com/nielssp/csol,"Collection of solitaire/patience games, such as Klondike, FreeCell, Spider, and Yukon."
