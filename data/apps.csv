@@ -1993,3 +1993,13 @@ games,SSHTron,,https://github.com/zachlatta/sshtron,Multiplayer lightcycle game 
 launcher,Steam TUI,,https://github.com/dmadisetti/steam-tui,"A simple TUI client for steamcmd, allows for the graphical launching, updating, and downloading of steam games through a simple terminal client."
 games,sudoku-rs,,https://github.com/MitchelPaulin/sudoku-rs,"Sudoku game for the terminal, built with tui-rs."
 games,Sweeper,,https://github.com/igor47/sweeper,"Basic ncurses Minesweeper game, wirtten in python, using curtsies library."
+games,tty-solitaire,,https://github.com/mpereira/tty-solitaire,Solitaire game for the terminal ncurses based.
+games,Wocogo,https://codeberg.org/kedlubnowski/wocogo,,"Terminal word game that challenges players to combine given segments into existing words, uses rich library."
+games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Terminal tetris game.
+games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game.
+ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi purpose personal AI TUI.
+note-taking,Diary,,https://github.com/actuday6418/Diary,"A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required."
+chat,Endcord,,https://github.com/mzivic7/endcord,Discord TUI client.
+chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,A command line Mastodon client.
+chat,gurk,,https://github.com/boxdot/gurk-rs,Signal Messenger client for terminal.
+games,Wordle,,https://github.com/m-dango/raku-wordle/,"Wordle game, written in Raku."
