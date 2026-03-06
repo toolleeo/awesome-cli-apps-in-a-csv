@@ -1997,3 +1997,4 @@ games,tty-solitaire,,https://github.com/mpereira/tty-solitaire,Solitaire game fo
 games,Wocogo,https://codeberg.org/kedlubnowski/wocogo,,"Terminal word game that challenges players to combine given segments into existing words, uses rich library."
 games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Terminal tetris game.
 games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game.
+ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi purpose personal AI TUI.
