@@ -2005,3 +2005,4 @@ chat,gurk,,https://github.com/boxdot/gurk-rs,Signal Messenger client for termina
 games,Wordle,,https://github.com/m-dango/raku-wordle/,"Wordle game, written in Raku."
 chat,Instagram CLI,,https://github.com/supreme-gg-gg/instagram-cli,Instagram from your terminal.
 chat,nchat,,https://github.com/d99kris/nchat,Terminal Telegram/WhatsApp client.
+chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
