@@ -1983,3 +1983,13 @@ games,Micro Tetris,,https://github.com/troglobit/tetris,"One of the smallest Tet
 games,Moon-Buggy,,https://github.com/seehuhn/moon-buggy,Game where you drive a car across the moon and jump over craters.
 games,MyMan,https://sourceforge.net/projects/myman/,,Video game for color and monochrome text terminals in the genre of Namco's Pac-Man.
 games,nchess,,https://github.com/billyvinning/nchess,"Chess in the terminal, written in C (player vs player in the same terminal)."
+games,nInvaders,http://ninvaders.sourceforge.net/,,Game of Space Invaders for terminal.
+games,nSnake,,https://github.com/alexdantas/nSnake,The classic snake game in terminal with textual interface.
+games,nudoku,,https://github.com/jubalh/nudoku,ncurses based sudoku game.
+games,Noughts & Crosses (Tic Tac Toe),,https://github.com/vyalovvldmr/onx,Noughts & Crosses client-server online game with your partner through websockets.
+games,snake,,https://github.com/wick3dr0se/snake,A minimal TUI snake game written in pure BASH v5_1+.
+games,Square Tic Tac Toe,,https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe,"A game like Tic Tac Toe, but you have to form a square with 4 corners instead of a line."
+games,SSHTron,,https://github.com/zachlatta/sshtron,Multiplayer lightcycle game that runs through SSH.
+launcher,Steam TUI,,https://github.com/dmadisetti/steam-tui,"A simple TUI client for steamcmd, allows for the graphical launching, updating, and downloading of steam games through a simple terminal client."
+games,sudoku-rs,,https://github.com/MitchelPaulin/sudoku-rs,"Sudoku game for the terminal, built with tui-rs."
+games,Sweeper,,https://github.com/igor47/sweeper,"Basic ncurses Minesweeper game, wirtten in python, using curtsies library."
