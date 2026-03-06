@@ -10,23 +10,23 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1974**
+* Apps/tools: **2004**
 * Categories: **81**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (37), [AI terminal command generator](#ai-cli-commands) (12), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (37), [AI terminal command generator](#ai-cli-commands) (13), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (37), [Clean up of files and directories](#file-dir-cleanup) (14), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (26), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (24), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
+* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (40), [Clean up of files and directories](#file-dir-cleanup) (14), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (27), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (24), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (36), [Data transfer](#transfer) (43), [DevOps](#devops) (20), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (32), [Email](#email) (18)
 * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (26), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (69), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
+* [Games](#games) (91), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
 * [History management](#history) (5)
-* [Learning and didactic tools](#learning) (5)
+* [Learning and didactic tools](#learning) (6)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (90), [Note taking](#note-taking) (30)
-* [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#organizers) (22)
+* [Networking](#networking) (90), [Note taking](#note-taking) (31)
+* [Office tools](#office) (21), [Online search and resources](#online) (30), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (22), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (28), [Productivity](#productivity) (14), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (63), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (21), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (7), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (53), [System tools](#system) (46)
@@ -81,6 +81,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 
 Generates or explains commands for the command line using AI.
 
+* [Blitzdenk](https://github.com/Lommix/blitzdenk) - A minimal multi purpose personal AI TUI.
 * [c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
 * [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Natural language shell command generator and executor powered by AI.
 * [ht](https://github.com/catallo/ht) - A shell command that answers your questions about shell commands using OpenAI GPT.
@@ -204,9 +205,12 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [cli_chat_app](https://github.com/Johnkhk/cli_chat_app) - A end-to-end encrypted chat application.
 * [devzat](https://github.com/quackduck/devzat) - Custom SSH server that takes you to a chat instead of a shell prompt.
 * [Discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
+* [Endcord](https://github.com/mzivic7/endcord) - Discord TUI client.
 * [finch](http://www.pidgin.im/) - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
 * [GNU Freetalk](https://www.gnu.org/software/freetalk/) - A console based chat client for Jabber and other XMPP servers. It has context-sensitive autocompletion for buddy names, commands, and even ordinary English words.
+* [Gomphotherium](https://github.com/mrusme/gomphotherium) - A command line Mastodon client.
 * [gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
+* [gurk](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal.
 * [iamb](https://iamb.chat/) - A Matrix client for the terminal that uses Vim keybindings.
 * [icy_tools](https://github.com/mkrueger/icy_term) - Icy Term a terminal program for legacy BBS systems, Icy Draw a drawing tool supporting almost all ANSI formats, Icy View a viewer to browse/view Ansi screens, Icy Play a tool that shows icy draw animations on cmd line/bbs.
 * [irssi](http://www.irssi.org) - The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols.
@@ -298,6 +302,7 @@ Applications to launch/execute programs, either interactively, automatically, in
 * [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
 * [sake](https://github.com/alajmo/sake) - A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
 * [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server.
+* [Steam TUI](https://github.com/dmadisetti/steam-tui) - A simple TUI client for steamcmd, allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
 * [sunbeam](https://github.com/pomdtr/sunbeam) - General purpose command-line launcher that defines UIs composed of a succession of views from simple scripts written in any language; a mix between an application launcher like `raycast` or `rofi` and a fuzzy-finder like `fzf` or `telescope`.
 * [Sway-Talisman](https://github.com/sebastiancarlos/sway-talisman) - Terminal application launcher in scratchpad, minimalist and native.
 * [Task](https://taskfile.dev/) - A task runner / simpler Make alternative written in Go.
@@ -990,6 +995,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [csol](https://github.com/nielssp/csol) - Collection of solitaire/patience games, such as Klondike, FreeCell, Spider, and Yukon.
 * [dans-dungeon](https://github.com/ruscoe/dans-dungeon) - A dungeon crawler engine written in Python.
 * [Dino](https://github.com/wldfngrs/chrome-dinosaur-terminal) - A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
+* [DOOM-ASCII](https://github.com/wojciech-graj/doom-ascii) - Text-based DOOM running in terminal without sound.
 * [Durak](https://github.com/levkush/durak) - Durak card game for two in a terminal.
 * [Dwarf fortress](http://www.bay12games.com/dwarves/) - A fantasy game using ASCII art graphical representation of the game environment, it features a rich environment with many options and possibilities.
 * [escaping-figures-game-cli](https://github.com/akgondber/escaping-figures-game-cli) - Count figure's occurrences in the escaping figures matrix.
@@ -997,7 +1003,9 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [freesweep](http://www.upl.cs.wisc.edu/~hartmann/sweep/) - A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors, and also has a high scores table.
 * [Frotz](https://davidgriffith.gitlab.io/frotz/) - Frotz is an interpreter for Infocom games and other Z-machine games.
 * [gambit](https://github.com/maaslalani/gambit) - Chess board in your terminal.
+* [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - A PHP Terminal GameBoy Emulator.
 * [gg](https://github.com/Kaamkiya/gg) - A collection of games you can play in your terminal; written in Go.
+* [go-life](https://github.com/sachaos/go-life) - Terminal based Conway's Game of Life, implemented in Go.
 * [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper game in the command line programmed in Go.
 * [greed](http://www.catb.org/~esr/greed/) - A game in which the goal is to move and consume all the numbers in a table.
 * [guess-word-cli](https://github.com/akgondber/guess-word-cli) - Find out a source word which characters was shuffled and moreover an extra character was added to bring some complexity.
@@ -1005,10 +1013,19 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [Language-games](https://github.com/Hellisotherpeople/Language-games) - Dead simple games made with word vectors.
 * [Maze of Me](https://github.com/bakill3/maze-of-me) - A deeply personal psychological game powered by AI and real user data.
 * [mazter](https://github.com/Canop/mazter) - A maze in your terminal.
+* [Micro Snake](https://github.com/troglobit/snake) - A small snake game, utilizing ANSI escape sequences to draw the board.
+* [Micro Tetris](https://github.com/troglobit/tetris) - One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
 * [minesweeper](https://github.com/gazpachoking/minesweeper) - Cross-platform terminal based minesweeper.
 * [Minesweeper Game](https://github.com/omerkarabacak/minesweeper) - A small command line Minesweeper Game.
+* [Moon-Buggy](https://github.com/seehuhn/moon-buggy) - Game where you drive a car across the moon and jump over craters.
+* [MyMan](https://sourceforge.net/projects/myman/) - Video game for color and monochrome text terminals in the genre of Namco's Pac-Man.
 * [nc2048](https://github.com/t0xk/nc2048) - A ncurses 2048 game that can be played in the terminal.
+* [nchess](https://github.com/billyvinning/nchess) - Chess in the terminal, written in C (player vs player in the same terminal).
 * [Nethack](http://nethack.org/) - Single player rogue-like dungeon exploration game.
+* [nInvaders](http://ninvaders.sourceforge.net/) - Game of Space Invaders for terminal.
+* [Noughts & Crosses (Tic Tac Toe)](https://github.com/vyalovvldmr/onx) - Noughts & Crosses client-server online game with your partner through websockets.
+* [nSnake](https://github.com/alexdantas/nSnake) - The classic snake game in terminal with textual interface.
+* [nudoku](https://github.com/jubalh/nudoku) - ncurses based sudoku game.
 * [Oldrunner](http://culot.org/public/Code/oldrunner.html) - Character-based remake of Lode Runner, includes all the original 150 levels.
 * [othello-cli](https://github.com/LelsersLasers/othello-cli) - othello-cli is a CLI version of Othello (Reversi) written in Rust. You can play against another player, the AI, or watch two AIs play each other.
 * [Pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game.
@@ -1019,9 +1036,14 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [shellphone](https://github.com/kokasmark/shellphone) - Terminal based Terraria player file editor.
 * [sku](https://github.com/fedeztk/sku) - Simple TUI written in go to play sudoku in the terminal.
 * [Slash'EM](http://slashem.sourceforge.net/) - Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version.
+* [snake](https://github.com/wick3dr0se/snake) - A minimal TUI snake game written in pure BASH v5_1+.
 * [Solitaire TUI](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal.
+* [Square Tic Tac Toe](https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe) - A game like Tic Tac Toe, but you have to form a square with 4 corners instead of a line.
 * [sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
+* [SSHTron](https://github.com/zachlatta/sshtron) - Multiplayer lightcycle game that runs through SSH.
 * [sssnake](https://github.com/AngelJumbo/sssnake) - (Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.
+* [sudoku-rs](https://github.com/MitchelPaulin/sudoku-rs) - Sudoku game for the terminal, built with tui-rs.
+* [Sweeper](https://github.com/igor47/sweeper) - Basic ncurses Minesweeper game, wirtten in python, using curtsies library.
 * [T-RexC](https://github.com/StiveMan1/T-RexC) - Simple Console Google T-Rex Game.
 * [terdle](https://github.com/neelkarma/terdle) - Wordle implemented in Rust.
 * [term-asteroids](https://github.com/NoiseByNorthwest/term-asteroids) - An Asteroids-like game, running in a terminal, written in PHP.
@@ -1031,12 +1053,17 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [terminal_board_games](https://github.com/salt-die/terminally_bored_terminal_board_games) - Board games for the terminal.
 * [terminordle](https://github.com/HP4k1h5/terminordle) - Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.
 * [tetrs](https://github.com/Strophox/tetrs) - Tetromino game engine and terminal application to play Tetris, written in Rust.
+* [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Solitaire game for the terminal ncurses based.
 * [tui-sudoku](https://gitlab.com/christosangel/tui-sudoku) - tui-sudoku is a configurable terminal interface sudoku game, with quite a few features.
 * [tuifoop](https://gitlab.com/christosangel/tuifoop) - Terminal puzzle game with the goal of removing as many cells as possible (or even all cells) from a grid. A terminal clone of Swell Foop.
 * [usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal.
+* [Wocogo](https://codeberg.org/kedlubnowski/wocogo) - Terminal word game that challenges players to combine given segments into existing words, uses rich library.
+* [Wordle](https://github.com/m-dango/raku-wordle/) - Wordle game, written in Raku.
 * [Wordle Solver](https://gitlab.com/christosangel/wordle-solver) - A bash script that can solve wordle riddles.
 * [wordle-curses](https://github.com/knosmos/wordle-curses) - A simple TUI wordle game with curses.
 * [Words](https://github.com/ludovicianul/words) - A set of word-based puzzle games for the CLI while you wait for the build to run.
+* [Zigtris](https://github.com/ringtailsoftware/zigtris) - Terminal tetris game.
+* [Zoridor](https://github.com/ringtailsoftware/zoridor) - Terminal and web version of the Quoridor board game.
 
 ## <a name="git"></a>Git and accessories
 
@@ -1184,6 +1211,7 @@ Programs that help learning or teaching about some argument.
 * [bashmate](https://github.com/algobuddha/bashmate) - CLI tool to learn bash command with your natural language.
 * [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
+* [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Build mazes, solve them with various algorithms and visualize them.
 * [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
 * [TUI apps](https://github.com/learnbyexample/TUI-apps) - A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc.
 
@@ -1303,6 +1331,7 @@ Tools to take, organize and manage notes.
 
 * [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
 * [Clipboard](https://getclipboard.app/) - An easy-to-use information management tool that acts like an external brain.
+* [Diary](https://github.com/actuday6418/Diary) - A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 * [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
 * [dnote](https://github.com/dnote/dnote) - A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
 * [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
@@ -1376,6 +1405,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [is-fast](https://github.com/Magic-JD/is-fast) - A TUI tool designed for quick and efficient internet searches directly from the terminal, ideal for environments where you don't have easy access to a browser.
 * [jira-cli](https://github.com/ankitpokhrel/jira-cli) - Feature-rich interactive Jira command line.
 * [magic-tape](https://gitlab.com/christosangel/magic-tape) - Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
+* [MAL-Cli](https://github.com/L4z3x/mal-cli) - A terminal interface for the official myanimelist api written in Rust and Ratatui.
 * [monolith](https://github.com/Y2Z/monolith) - Tool and library for saving complete web pages as a single HTML file.
 * [par_scrape](https://github.com/paulrobello/par_scrape) - PAR Scrape is a versatile web scraping tool with options for Selenium or Playwright, featuring AI-powered data extraction and formatting.
 * [pockyt](https://github.com/achembarpu/pockyt) - Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet.
