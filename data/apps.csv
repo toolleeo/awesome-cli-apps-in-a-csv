@@ -2010,3 +2010,4 @@ chat,nostratui,,https://github.com/adamm-xyz/nostratui,"TUI for browsing Nostr p
 chat,Sclack,,https://github.com/haskellcamargo/sclack,CLI client for Slack.
 chat,siggo,,https://github.com/derricw/siggo,"TUI for signal-cli, written in Go."
 chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for the  terminal.
+games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
