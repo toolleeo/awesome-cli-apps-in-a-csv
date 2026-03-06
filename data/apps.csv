@@ -1988,3 +1988,4 @@ games,nSnake,,https://github.com/alexdantas/nSnake,The classic snake game in ter
 games,nudoku,,https://github.com/jubalh/nudoku,ncurses based sudoku game.
 games,Noughts & Crosses (Tic Tac Toe),,https://github.com/vyalovvldmr/onx,Noughts & Crosses client-server online game with your partner through websockets.
 games,snake,,https://github.com/wick3dr0se/snake,A minimal TUI snake game written in pure BASH v5_1+.
+games,Square Tic Tac Toe,,https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe,"A game like Tic Tac Toe, but you have to form a square with 4 corners instead of a line."
