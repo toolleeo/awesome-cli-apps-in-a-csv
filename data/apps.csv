@@ -1980,3 +1980,4 @@ online,MAL-Cli,,https://github.com/L4z3x/mal-cli,A terminal interface for the of
 learning,Maze TUI,,https://github.com/agl-alexglopez/maze-tui,"Build mazes, solve them with various algorithms and visualize them."
 games,Micro Snake,,https://github.com/troglobit/snake,"A small snake game, utilizing ANSI escape sequences to draw the board."
 games,Micro Tetris,,https://github.com/troglobit/tetris,"One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board."
+games,Moon-Buggy,,https://github.com/seehuhn/moon-buggy,Game where you drive a car across the moon and jump over craters.
