@@ -2001,3 +2001,4 @@ ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi p
 note-taking,Diary,,https://github.com/actuday6418/Diary,"A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required."
 chat,Endcord,,https://github.com/mzivic7/endcord,Discord TUI client.
 chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,A command line Mastodon client.
+chat,gurk,,https://github.com/boxdot/gurk-rs,Signal Messenger client for terminal.
