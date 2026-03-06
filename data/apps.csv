@@ -1984,3 +1984,4 @@ games,Moon-Buggy,,https://github.com/seehuhn/moon-buggy,Game where you drive a c
 games,MyMan,https://sourceforge.net/projects/myman/,,Video game for color and monochrome text terminals in the genre of Namco's Pac-Man.
 games,nchess,,https://github.com/billyvinning/nchess,"Chess in the terminal, written in C (player vs player in the same terminal)."
 games,nInvaders,http://ninvaders.sourceforge.net/,,Game of Space Invaders for terminal.
+games,nSnake,,https://github.com/alexdantas/nSnake,The classic snake game in terminal with textual interface.
