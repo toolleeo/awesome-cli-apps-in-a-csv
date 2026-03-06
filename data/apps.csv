@@ -1991,3 +1991,4 @@ games,snake,,https://github.com/wick3dr0se/snake,A minimal TUI snake game writte
 games,Square Tic Tac Toe,,https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe,"A game like Tic Tac Toe, but you have to form a square with 4 corners instead of a line."
 games,SSHTron,,https://github.com/zachlatta/sshtron,Multiplayer lightcycle game that runs through SSH.
 launcher,Steam TUI,,https://github.com/dmadisetti/steam-tui,"A simple TUI client for steamcmd, allows for the graphical launching, updating, and downloading of steam games through a simple terminal client."
+games,sudoku-rs,,https://github.com/MitchelPaulin/sudoku-rs,"Sudoku game for the terminal, built with tui-rs."
