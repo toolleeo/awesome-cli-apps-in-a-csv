@@ -2008,3 +2008,4 @@ chat,nchat,,https://github.com/d99kris/nchat,Terminal Telegram/WhatsApp client.
 chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
 chat,nostratui,,https://github.com/adamm-xyz/nostratui,"TUI for browsing Nostr posts, written in Rust."
 chat,Sclack,,https://github.com/haskellcamargo/sclack,CLI client for Slack.
+chat,siggo,,https://github.com/derricw/siggo,"TUI for signal-cli, written in Go."
