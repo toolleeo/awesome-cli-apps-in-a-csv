@@ -1998,3 +1998,4 @@ games,Wocogo,https://codeberg.org/kedlubnowski/wocogo,,"Terminal word game that 
 games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Terminal tetris game.
 games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game.
 ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi purpose personal AI TUI.
+note-taking,Diary,,https://github.com/actuday6418/Diary,"A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required."
