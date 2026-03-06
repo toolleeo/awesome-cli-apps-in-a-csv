@@ -1985,3 +1985,4 @@ games,MyMan,https://sourceforge.net/projects/myman/,,Video game for color and mo
 games,nchess,,https://github.com/billyvinning/nchess,"Chess in the terminal, written in C (player vs player in the same terminal)."
 games,nInvaders,http://ninvaders.sourceforge.net/,,Game of Space Invaders for terminal.
 games,nSnake,,https://github.com/alexdantas/nSnake,The classic snake game in terminal with textual interface.
+games,nudoku,,https://github.com/jubalh/nudoku,ncurses based sudoku game.
