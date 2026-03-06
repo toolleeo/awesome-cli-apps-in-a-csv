@@ -1987,3 +1987,4 @@ games,nInvaders,http://ninvaders.sourceforge.net/,,Game of Space Invaders for te
 games,nSnake,,https://github.com/alexdantas/nSnake,The classic snake game in terminal with textual interface.
 games,nudoku,,https://github.com/jubalh/nudoku,ncurses based sudoku game.
 games,Noughts & Crosses (Tic Tac Toe),,https://github.com/vyalovvldmr/onx,Noughts & Crosses client-server online game with your partner through websockets.
+games,snake,,https://github.com/wick3dr0se/snake,A minimal TUI snake game written in pure BASH v5_1+.
