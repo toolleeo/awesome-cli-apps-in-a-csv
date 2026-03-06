@@ -2006,3 +2006,4 @@ games,Wordle,,https://github.com/m-dango/raku-wordle/,"Wordle game, written in R
 chat,Instagram CLI,,https://github.com/supreme-gg-gg/instagram-cli,Instagram from your terminal.
 chat,nchat,,https://github.com/d99kris/nchat,Terminal Telegram/WhatsApp client.
 chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
+chat,nostratui,,https://github.com/adamm-xyz/nostratui,"TUI for browsing Nostr posts, written in Rust."
