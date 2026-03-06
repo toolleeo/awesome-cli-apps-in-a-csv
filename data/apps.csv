@@ -1992,3 +1992,4 @@ games,Square Tic Tac Toe,,https://github.com/learnbyexample/TUI-apps/tree/main/S
 games,SSHTron,,https://github.com/zachlatta/sshtron,Multiplayer lightcycle game that runs through SSH.
 launcher,Steam TUI,,https://github.com/dmadisetti/steam-tui,"A simple TUI client for steamcmd, allows for the graphical launching, updating, and downloading of steam games through a simple terminal client."
 games,sudoku-rs,,https://github.com/MitchelPaulin/sudoku-rs,"Sudoku game for the terminal, built with tui-rs."
+games,Sweeper,,https://github.com/igor47/sweeper,"Basic ncurses Minesweeper game, wirtten in python, using curtsies library."
