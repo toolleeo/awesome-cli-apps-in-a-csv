@@ -1975,3 +1975,4 @@ games,Brogue CE,https://sites.google.com/site/broguegame/,https://github.com/tme
 games,csol,,https://github.com/nielssp/csol,"Collection of solitaire/patience games, such as Klondike, FreeCell, Spider, and Yukon."
 games,DOOM-ASCII,,https://github.com/wojciech-graj/doom-ascii,Text-based DOOM running in terminal without sound.
 games,Gameboy Emulator,,https://github.com/gabrielrcouto/php-terminal-gameboy-emulator,A PHP Terminal GameBoy Emulator.
+games,go-life,,https://github.com/sachaos/go-life,"Terminal based Conway's Game of Life, implemented in Go."
