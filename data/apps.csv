@@ -1996,3 +1996,4 @@ games,Sweeper,,https://github.com/igor47/sweeper,"Basic ncurses Minesweeper game
 games,tty-solitaire,,https://github.com/mpereira/tty-solitaire,Solitaire game for the terminal ncurses based.
 games,Wocogo,https://codeberg.org/kedlubnowski/wocogo,,"Terminal word game that challenges players to combine given segments into existing words, uses rich library."
 games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Terminal tetris game.
+games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game.
