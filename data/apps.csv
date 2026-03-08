@@ -1433,6 +1433,7 @@ git,mkgit,,https://github.com/cosmicwanderer7/mkgit,"This Bash script automates 
 chat,icy_tools,,https://github.com/mkrueger/icy_term,"Icy Term a terminal program for legacy BBS systems, Icy Draw a drawing tool supporting almost all ANSI formats, Icy View a viewer to browse/view Ansi screens, Icy Play a tool that shows icy draw animations on cmd line/bbs."
 text-processing,toolong,,https://github.com/Textualize/toolong,"A terminal application to view, tail, merge, and search log files (plus JSONL)."
 torrent,toru,,https://github.com/sweetbbak/toru,BitTorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
+torrent,qbittorrent-orphaned,,https://github.com/GeiserX/qbittorrent-orphaned,Find and remove orphaned files from qBittorrent downloads — files on disk no longer tracked by any torrent. Connects via qBittorrent Web API.
 option-picker,fuzzysh,,https://github.com/yazgoo/fuzzysh,"Minimalist selector in shell, inspired by fzf."
 networking,TReq,,https://github.com/talis-fb/TReq,A CLI tool for effortless HTTP requests.
 git,gacp,,https://github.com/anhsirk0/gacp,"git add, commit and push in one go."
