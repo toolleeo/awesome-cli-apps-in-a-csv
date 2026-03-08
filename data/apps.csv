@@ -2013,3 +2013,5 @@ chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for th
 games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
 chat,tuisky,,https://github.com/sugyan/tuisky,TUI client for Bluesky.
+backup,duplicacy-cli-cron,,https://github.com/GeiserX/duplicacy-cli-cron,Docker container that runs Duplicacy CLI backups on a cron schedule.
+monitor,duplicacy-exporter,,https://github.com/GeiserX/duplicacy-exporter,Prometheus exporter for Duplicacy backup statistics.
