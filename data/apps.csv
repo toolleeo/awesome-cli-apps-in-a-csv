@@ -2031,3 +2031,4 @@ networking,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtu
 programming,PesterExplorer,,https://github.com/HeyItsGilbert/PesterExplorer,A TUI to explore Pester results (prints tests results as they're running).
 online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin."
 devops,PUG,,https://github.com/leg100/pug,"TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files)."
+learning,Physics TUI,,https://github.com/ClaudioRMalvino/physics_TUI,"TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter."
