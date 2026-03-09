@@ -2018,3 +2018,4 @@ chat,Zulip Terminal,,https://github.com/zulip/zulip-terminal,Official Zulip term
 time-tracker,arttime,,https://github.com/reportaman/arttime,A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
 graphics,asciiMOL,,https://github.com/dewberryants/asciiMol,Curses based ASCII molecule viewer for terminals.
 networking,bluetui,,https://github.com/pythops/bluetui,A TUI for managing bluetooth devices on Linux.
+note-taking,Captain's Log,,https://github.com/NikolaDucak/caps-log,"A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository)."
