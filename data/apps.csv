@@ -1999,7 +1999,7 @@ games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Minimal terminal tetr
 games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game for terminal and web.
 ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi provider coding agent and personal AI TUI; Similar to tools like opencode or claudecode; Written in Rust.
 note-taking,Diary,,https://github.com/actuday6418/Diary,"A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required."
-chat,Endcord,,https://github.com/mzivic7/endcord,Discord TUI client.
+chat,Endcord,,https://github.com/mzivic7/endcord,"Lightweight and feature rich Discord TUI client, running entirely in terminal, built with python and ncurses library."
 chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,A command line Mastodon client.
 chat,gurk,,https://github.com/boxdot/gurk-rs,Signal Messenger client for terminal.
 games,Wordle,,https://github.com/m-dango/raku-wordle/,"Implementation of Wordle game hosted by The New York Times, written in Raku."
