@@ -2029,3 +2029,4 @@ networking,MQTT TUI,,https://github.com/EdJoPaTo/mqttui,MQTT Client written in r
 music,MOC,https://moc.daper.net/download,,Console audio player for LINUX/UNIX.
 networking,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtui.html,,"Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices)."
 programming,PesterExplorer,,https://github.com/HeyItsGilbert/PesterExplorer,A TUI to explore Pester results (prints tests results as they're running).
+online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin."
