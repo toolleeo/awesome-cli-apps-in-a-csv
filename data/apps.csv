@@ -2002,7 +2002,7 @@ note-taking,Diary,,https://github.com/actuday6418/Diary,"A diary app written in 
 chat,Endcord,,https://github.com/mzivic7/endcord,Discord TUI client.
 chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,A command line Mastodon client.
 chat,gurk,,https://github.com/boxdot/gurk-rs,Signal Messenger client for terminal.
-games,Wordle,,https://github.com/m-dango/raku-wordle/,"Wordle game, written in Raku."
+games,Wordle,,https://github.com/m-dango/raku-wordle/,"Implementation of Wordle game hosted by The New York Times, written in Raku."
 chat,Instagram CLI,,https://github.com/supreme-gg-gg/instagram-cli,Instagram from your terminal.
 chat,nchat,,https://github.com/d99kris/nchat,Terminal Telegram/WhatsApp client.
 chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
