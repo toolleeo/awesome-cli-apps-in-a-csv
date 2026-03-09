@@ -2013,3 +2013,13 @@ chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for th
 games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
 chat,tuisky,,https://github.com/sugyan/tuisky,TUI client for Bluesky.
+chat,WeeChat,https://weechat.org/,https://github.com/weechat/weechat,"Fast and light chat client, customizable and extensible with scripts."
+chat,Zulip Terminal,,https://github.com/zulip/zulip-terminal,Official Zulip terminal client with TUI.
+time-tracker,arttime,,https://github.com/reportaman/arttime,A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
+graphics,asciiMOL,,https://github.com/dewberryants/asciiMol,Curses based ASCII molecule viewer for terminals.
+networking,bluetui,,https://github.com/pythops/bluetui,A TUI for managing bluetooth devices on Linux.
+note-taking,Captain's Log,,https://github.com/NikolaDucak/caps-log,"A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository)."
+devops,Amazon EC2 Instance Selector,,https://github.com/aws/amazon-ec2-instance-selector,A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
+vm,EMU2,,https://github.com/dmsc/emu2,"A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O."
+option-picker,Fnf,,https://github.com/leo-arch/fnf,"An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list."
+graphics,GiF for CLI,,https://github.com/google/gif-for-cli,"Convert a GIF, short video or a query into ASCII art."
