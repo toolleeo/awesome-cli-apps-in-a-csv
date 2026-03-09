@@ -1997,7 +1997,7 @@ games,tty-solitaire,,https://github.com/mpereira/tty-solitaire,Solitaire game fo
 games,Wocogo,https://codeberg.org/kedlubnowski/wocogo,,"Terminal word game that challenges players to combine given segments into existing words, uses rich library."
 games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Minimal terminal tetris game written in Zig.
 games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game for terminal and web.
-ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi purpose personal AI TUI.
+ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi provider coding agent and personal AI TUI; Similar to tools like opencode or claudecode; Written in Rust.
 note-taking,Diary,,https://github.com/actuday6418/Diary,"A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required."
 chat,Endcord,,https://github.com/mzivic7/endcord,Discord TUI client.
 chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,A command line Mastodon client.
