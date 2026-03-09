@@ -10,27 +10,27 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2014**
+* Apps/tools: **2024**
 * Categories: **81**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (37), [AI terminal command generator](#ai-cli-commands) (13), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (49), [Clean up of files and directories](#file-dir-cleanup) (14), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (27), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (24), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
-* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (36), [Data transfer](#transfer) (43), [DevOps](#devops) (20), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
+* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (51), [Clean up of files and directories](#file-dir-cleanup) (14), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (27), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (36), [Data transfer](#transfer) (43), [DevOps](#devops) (21), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (32), [Email](#email) (18)
-* [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (26), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (92), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
+* [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (26), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (18)
+* [Games](#games) (92), [Git and accessories](#git) (69), [Graphics](#graphics) (52)
 * [History management](#history) (5)
 * [Learning and didactic tools](#learning) (6)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (90), [Note taking](#note-taking) (31)
+* [Networking](#networking) (91), [Note taking](#note-taking) (32)
 * [Office tools](#office) (21), [Online search and resources](#online) (30), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (22), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (28), [Productivity](#productivity) (14), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (63), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (21), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (7), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (53), [System tools](#system) (46)
-* [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (24), [Todo managers](#todo-manager) (39), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
+* [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (25), [Todo managers](#todo-manager) (39), [Torrent](#torrent) (8), [Typing test and practice](#typing) (16)
 * [Utilities](#utility) (47)
 * [Versioning](#versioning) (9), [Video](#video) (14), [Viewers](#viewers) (47)
 * [Web browser](#browser) (19), [Web development](#webdev) (33), [Writing](#writing) (11)
@@ -250,7 +250,9 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 * [twterm](https://github.com/ryota-ka/twterm) - A full-featured TUI Twitter client.
 * [WeeChat](http://weechat.org/) - WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins.
+* [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
 * [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
+* [Zulip Terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
 
 ## <a name="file-dir-cleanup"></a>Clean up of files and directories
 
@@ -367,6 +369,7 @@ Tools to manage virtual machines and/or containers and related utilities.
 * [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for Docker.
 * [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers, services, and images.
 * [dry](https://github.com/moncho/dry) - A Docker manager for the terminal.
+* [EMU2](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
 * [Incus](https://linuxcontainers.org/lxc) - A manager/hypervisor for containers (via LXC) and virtual-machines (via QEMU).
 * [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 * [lxc](https://linuxcontainers.org/lxc) - A userspace interface for the Linux kernel containment features.
@@ -582,6 +585,7 @@ Programs for transferring files and data between different machines.
 
 Applications for supporting DevOps tasks, such as containers or cloud systems management.
 
+* [Amazon EC2 Instance Selector](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
 * [Devbox](https://github.com/jetpack-io/devbox) - Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.
 * [Ducker](https://github.com/robertpsoane/ducker) - TUI for managing docker containers.
 * [E1S](https://github.com/keidarcy/e1s) - TUI for browsing and managing AWS ECS resources.
@@ -962,6 +966,7 @@ Fuzzy finders and generic option pickers in lists of strings.
 
 * [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 * [cmenu](https://github.com/10xJSChad/cmenu) - Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout.
+* [Fnf](https://github.com/leo-arch/fnf) - An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list.
 * [fss](https://github.com/5n00py/fss) - User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.
 * [fuzzysh](https://github.com/yazgoo/fuzzysh) - Minimalist selector in shell, inspired by fzf.
 * [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) - a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
@@ -1157,6 +1162,7 @@ Applications to process images, colors, and ASCII art.
 * [Aewan](http://aewan.sourceforge.net/) - Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 * [Artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (JPG, PNG, WEBP, etc.) to ASCII art, written in Rust.
 * [ArTTY](https://github.com/mjwhitta/artty) - Pixel art with optional system info, similar to Neofetch.
+* [asciiMOL](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for terminals.
 * [astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal. Explore stars, planets, constellations, and more!
 * [BlockPaint](https://github.com/wooster0/blockpaint) - BlockPaint is a painting program that allows you to draw pixel graphics in the terminal using the mouse.
 * [catnip](https://github.com/sweetbbak/catnip) - An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
@@ -1168,6 +1174,7 @@ Applications to process images, colors, and ASCII art.
 * [durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes.
 * [figma-use](https://github.com/dannote/figma-use) - Control Figma from the command line with full read/write access for AI agents.
 * [ghost-image-cleaner](https://github.com/DeadSwitch404/ghost-image-cleaner) - If you share, do it like a Ghost... No metadata, no filename fingerprint, no trace.
+* [GiF for CLI](https://github.com/google/gif-for-cli) - Convert a GIF, short video or a query into ASCII art.
 * [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 * [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 * [givegif](https://github.com/passy/givegif) - GIFs on the command line.
@@ -1248,6 +1255,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [asn](https://github.com/nitefood/asn) - Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server.
 * [ATAC](https://github.com/Julien-cpsn/ATAC) - Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever.
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
+* [bluetui](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 * [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - TUI for Mac to interact with bluetooth devices via blueutil.
 * [bmon](https://github.com/tgraf/bmon) - A monitoring and debugging tool to capture networking related statistics and prepare them visually in a human friendly way.
@@ -1340,6 +1348,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 Tools to take, organize and manage notes.
 
 * [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
+* [Captain's Log](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository).
 * [Clipboard](https://getclipboard.app/) - An easy-to-use information management tool that acts like an external brain.
 * [Diary](https://github.com/actuday6418/Diary) - A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 * [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
@@ -2138,6 +2147,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 
 * [aimssh](https://github.com/sairash/aimssh) - SSH Pomodoro app.
 * [arbtt](http://arbtt.nomeata.de/) - (automatic, rule-based time tracker) runs in the background, collecting information regarding open windows, focused ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window.
+* [arttime](https://github.com/reportaman/arttime) - A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
 * [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plain-text file and allows you to create flexible reports.
 * [cations](https://github.com/Alcryst/cations) - Lightweight, user-friendly habit tracker and productivity tool; terminal-based CLI application.
 * [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
