@@ -2013,3 +2013,4 @@ chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for th
 games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
 chat,tuisky,,https://github.com/sugyan/tuisky,TUI client for Bluesky.
+torrent,qbittorrent-orphaned,https://github.com/GeiserX/qbittorrent-orphaned,https://github.com/GeiserX/qbittorrent-orphaned,"Find disk files not tracked by any qBittorrent torrent, helping reclaim storage and clean media libraries."
