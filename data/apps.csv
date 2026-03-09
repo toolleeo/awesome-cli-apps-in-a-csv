@@ -2014,3 +2014,4 @@ games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetri
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
 chat,tuisky,,https://github.com/sugyan/tuisky,TUI client for Bluesky.
 chat,WeeChat,https://weechat.org/,https://github.com/weechat/weechat,"Fast and light chat client, customizable and extensible with scripts."
+chat,Zulip Terminal,,https://github.com/zulip/zulip-terminal,Official Zulip terminal client with TUI.
