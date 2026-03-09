@@ -2013,3 +2013,4 @@ chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for th
 games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
 chat,tuisky,,https://github.com/sugyan/tuisky,TUI client for Bluesky.
+conversion,ePubLangMerger,,https://github.com/GeiserX/ePubLangMerger,"Merges two ePub files in different languages into a single bilingual ebook for parallel reading."
