@@ -2004,7 +2004,7 @@ chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,"A command line Mast
 chat,gurk,,https://github.com/boxdot/gurk-rs,Signal Messenger client for terminal.
 games,Wordle,,https://github.com/m-dango/raku-wordle/,"Implementation of Wordle game hosted by The New York Times, written in Raku."
 chat,Instagram CLI,,https://github.com/supreme-gg-gg/instagram-cli,"Instagram from your terminal; It allows you to use social media more intentionally (chat, stay updated with post and stories without falling into endless brainrot)."
-chat,nchat,,https://github.com/d99kris/nchat,Terminal Telegram/WhatsApp client.
+chat,nchat,,https://github.com/d99kris/nchat,"Terminal Telegram, WhatsApp and Signal client for LInux and macOS."
 chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
 chat,nostratui,,https://github.com/adamm-xyz/nostratui,"TUI for browsing Nostr posts, written in Rust."
 chat,Sclack,,https://github.com/haskellcamargo/sclack,CLI client for Slack.
