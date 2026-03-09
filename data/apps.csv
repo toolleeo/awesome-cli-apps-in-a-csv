@@ -2022,3 +2022,4 @@ note-taking,Captain's Log,,https://github.com/NikolaDucak/caps-log,"A small TUI 
 devops,Amazon EC2 Instance Selector,,https://github.com/aws/amazon-ec2-instance-selector,A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
 vm,EMU2,,https://github.com/dmsc/emu2,"A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O."
 option-picker,Fnf,,https://github.com/leo-arch/fnf,"An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list."
+graphics,GiF for CLI,,https://github.com/google/gif-for-cli,"Convert a GIF, short video or a query into ASCII art."
