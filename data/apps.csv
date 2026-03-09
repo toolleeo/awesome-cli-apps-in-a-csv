@@ -2023,3 +2023,4 @@ devops,Amazon EC2 Instance Selector,,https://github.com/aws/amazon-ec2-instance-
 vm,EMU2,,https://github.com/dmsc/emu2,"A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O."
 option-picker,Fnf,,https://github.com/leo-arch/fnf,"An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list."
 graphics,GiF for CLI,,https://github.com/google/gif-for-cli,"Convert a GIF, short video or a query into ASCII art."
+ai,Dorothy,,https://github.com/Charlie85270/Dorothy,"Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations and Kanban management."
