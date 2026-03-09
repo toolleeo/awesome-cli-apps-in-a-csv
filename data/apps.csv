@@ -2027,3 +2027,4 @@ font,Iconic Fonts,,https://github.com/iconicFonts/iconic-fonts,"A collection of 
 time-tracker,isw,https://gitlab.com/thom-cameron/isw,,A simple terminal stopwatch application for pomodoro etc.
 networking,MQTT TUI,,https://github.com/EdJoPaTo/mqttui,MQTT Client written in rust (Subscribe to a MQTT topic or publish something quickly).
 music,MOC,https://moc.daper.net/download,,Console audio player for LINUX/UNIX.
+networking,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtui.html,,"Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices)."
