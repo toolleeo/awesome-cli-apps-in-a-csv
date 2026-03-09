@@ -1995,20 +1995,20 @@ games,sudoku-rs,,https://github.com/MitchelPaulin/sudoku-rs,"Sudoku game for the
 games,Sweeper,,https://github.com/igor47/sweeper,"Basic ncurses Minesweeper game, wirtten in python, using curtsies library."
 games,tty-solitaire,,https://github.com/mpereira/tty-solitaire,Solitaire game for the terminal ncurses based.
 games,Wocogo,https://codeberg.org/kedlubnowski/wocogo,,"Terminal word game that challenges players to combine given segments into existing words, uses rich library."
-games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Terminal tetris game.
-games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game.
-ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi purpose personal AI TUI.
+games,Zigtris,,https://github.com/ringtailsoftware/zigtris,Minimal terminal tetris game written in Zig.
+games,Zoridor,,https://github.com/ringtailsoftware/zoridor,Terminal and web version of the Quoridor board game for terminal and web.
+ai-cli-commands,Blitzdenk,,https://github.com/Lommix/blitzdenk,A minimal multi provider coding agent and personal AI TUI; Similar to tools like opencode or claudecode; Written in Rust.
 note-taking,Diary,,https://github.com/actuday6418/Diary,"A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required."
-chat,Endcord,,https://github.com/mzivic7/endcord,Discord TUI client.
-chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,A command line Mastodon client.
+chat,Endcord,,https://github.com/mzivic7/endcord,"Lightweight and feature rich Discord TUI client, running entirely in terminal, built with python and ncurses library."
+chat,Gomphotherium,,https://github.com/mrusme/gomphotherium,"A command line Mastodon client, offering a CLI and TUI with usage similar to rainbowstream; Intended to be used at 80 characters width maximum, ideally inside tmux as a sidebar-style program."
 chat,gurk,,https://github.com/boxdot/gurk-rs,Signal Messenger client for terminal.
-games,Wordle,,https://github.com/m-dango/raku-wordle/,"Wordle game, written in Raku."
-chat,Instagram CLI,,https://github.com/supreme-gg-gg/instagram-cli,Instagram from your terminal.
-chat,nchat,,https://github.com/d99kris/nchat,Terminal Telegram/WhatsApp client.
+games,Wordle,,https://github.com/m-dango/raku-wordle/,"Implementation of Wordle game hosted by The New York Times, written in Raku."
+chat,Instagram CLI,,https://github.com/supreme-gg-gg/instagram-cli,"Instagram from your terminal; It allows you to use social media more intentionally (chat, stay updated with post and stories without falling into endless brainrot)."
+chat,nchat,,https://github.com/d99kris/nchat,"Terminal Telegram, WhatsApp and Signal client for LInux and macOS."
 chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
 chat,nostratui,,https://github.com/adamm-xyz/nostratui,"TUI for browsing Nostr posts, written in Rust."
 chat,Sclack,,https://github.com/haskellcamargo/sclack,CLI client for Slack.
-chat,siggo,,https://github.com/derricw/siggo,"TUI for signal-cli, written in Go."
+chat,siggo,,https://github.com/derricw/siggo,"TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages)."
 chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for the  terminal.
 games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
