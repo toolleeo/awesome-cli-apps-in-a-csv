@@ -2008,7 +2008,7 @@ chat,nchat,,https://github.com/d99kris/nchat,"Terminal Telegram, WhatsApp and Si
 chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
 chat,nostratui,,https://github.com/adamm-xyz/nostratui,"TUI for browsing Nostr posts, written in Rust."
 chat,Sclack,,https://github.com/haskellcamargo/sclack,CLI client for Slack.
-chat,siggo,,https://github.com/derricw/siggo,"TUI for signal-cli, written in Go."
+chat,siggo,,https://github.com/derricw/siggo,"TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages)."
 chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for the  terminal.
 games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
