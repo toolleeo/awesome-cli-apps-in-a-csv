@@ -2023,3 +2023,13 @@ devops,Amazon EC2 Instance Selector,,https://github.com/aws/amazon-ec2-instance-
 vm,EMU2,,https://github.com/dmsc/emu2,"A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O."
 option-picker,Fnf,,https://github.com/leo-arch/fnf,"An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list."
 graphics,GiF for CLI,,https://github.com/google/gif-for-cli,"Convert a GIF, short video or a query into ASCII art."
+font,Iconic Fonts,,https://github.com/iconicFonts/iconic-fonts,"A collection of over 50 patched fonts featuring over 60,000 icons, tailored specifically for TUIs."
+time-tracker,isw,https://gitlab.com/thom-cameron/isw,,A simple terminal stopwatch application for pomodoro etc.
+networking,MQTT TUI,,https://github.com/EdJoPaTo/mqttui,MQTT Client written in rust (Subscribe to a MQTT topic or publish something quickly).
+music,MOC,https://moc.daper.net/download,,Console audio player for LINUX/UNIX.
+networking,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtui.html,,"Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices)."
+programming,PesterExplorer,,https://github.com/HeyItsGilbert/PesterExplorer,A TUI to explore Pester results (prints tests results as they're running).
+online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin."
+devops,PUG,,https://github.com/leg100/pug,"TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files)."
+learning,Physics TUI,,https://github.com/ClaudioRMalvino/physics_TUI,"TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter."
+rm,RecoverPy,,https://github.com/PabloLec/recoverpy,A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
