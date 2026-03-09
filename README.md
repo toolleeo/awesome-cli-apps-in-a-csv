@@ -10,18 +10,18 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2004**
+* Apps/tools: **2014**
 * Categories: **81**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (37), [AI terminal command generator](#ai-cli-commands) (13), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (40), [Clean up of files and directories](#file-dir-cleanup) (14), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (27), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (24), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
+* [Calculators](#calc) (19), [Chat and instant messaging](#chat) (49), [Clean up of files and directories](#file-dir-cleanup) (14), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (27), [Commands cheatsheet and snippets](#cheatsheet) (29), [Containerization and virtualization](#vm) (24), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (9)
 * [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (45), [Data management - Tabular data](#data-management-tabular) (36), [Data transfer](#transfer) (43), [DevOps](#devops) (20), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (32), [Email](#email) (18)
 * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (26), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)
-* [Games](#games) (91), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
+* [Games](#games) (92), [Git and accessories](#git) (69), [Graphics](#graphics) (50)
 * [History management](#history) (5)
 * [Learning and didactic tools](#learning) (6)
 * [Markdown](#markdown) (10)
@@ -81,7 +81,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 
 Generates or explains commands for the command line using AI.
 
-* [Blitzdenk](https://github.com/Lommix/blitzdenk) - A minimal multi purpose personal AI TUI.
+* [Blitzdenk](https://github.com/Lommix/blitzdenk) - A minimal multi provider coding agent and personal AI TUI; Similar to tools like opencode or claudecode; Written in Rust.
 * [c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
 * [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Natural language shell command generator and executor powered by AI.
 * [ht](https://github.com/catallo/ht) - A shell command that answers your questions about shell commands using OpenAI GPT.
@@ -205,37 +205,46 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [cli_chat_app](https://github.com/Johnkhk/cli_chat_app) - A end-to-end encrypted chat application.
 * [devzat](https://github.com/quackduck/devzat) - Custom SSH server that takes you to a chat instead of a shell prompt.
 * [Discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
-* [Endcord](https://github.com/mzivic7/endcord) - Discord TUI client.
+* [Endcord](https://github.com/mzivic7/endcord) - Lightweight and feature rich Discord TUI client, running entirely in terminal, built with python and ncurses library.
 * [finch](http://www.pidgin.im/) - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
 * [GNU Freetalk](https://www.gnu.org/software/freetalk/) - A console based chat client for Jabber and other XMPP servers. It has context-sensitive autocompletion for buddy names, commands, and even ordinary English words.
-* [Gomphotherium](https://github.com/mrusme/gomphotherium) - A command line Mastodon client.
+* [Gomphotherium](https://github.com/mrusme/gomphotherium) - A command line Mastodon client, offering a CLI and TUI with usage similar to rainbowstream; Intended to be used at 80 characters width maximum, ideally inside tmux as a sidebar-style program.
 * [gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 * [gurk](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal.
 * [iamb](https://iamb.chat/) - A Matrix client for the terminal that uses Vim keybindings.
 * [icy_tools](https://github.com/mkrueger/icy_term) - Icy Term a terminal program for legacy BBS systems, Icy Draw a drawing tool supporting almost all ANSI formats, Icy View a viewer to browse/view Ansi screens, Icy Play a tool that shows icy draw animations on cmd line/bbs.
+* [Instagram CLI](https://github.com/supreme-gg-gg/instagram-cli) - Instagram from your terminal; It allows you to use social media more intentionally (chat, stay updated with post and stories without falling into endless brainrot).
 * [irssi](http://www.irssi.org) - The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols.
 * [kirc](http://kirc.io/) - A tiny IRC client written in POSIX C99.
 * [matrix-commander](https://github.com/8go/matrix-commander) - Simple but convenient CLI-based Matrix client app for sending and receiving.
 * [matrixcli](https://github.com/saadjsct/matrixcli) - A minimal command line matrix client.
 * [matterhorn](https://github.com/matterhorn-chat/matterhorn) - A terminal client for the Mattermost chat system.
 * [MCABBER](https://mcabber.com/) - A small XMPP (Jabber) console client including features such as SASL/SSL/TLS support, MUC (Multi-User Chat) support, history logging, command completion, OpenPGP encryption and more.
+* [nchat](https://github.com/d99kris/nchat) - Terminal Telegram, WhatsApp and Signal client for LInux and macOS.
+* [nostratui](https://github.com/adamm-xyz/nostratui) - TUI for browsing Nostr posts, written in Rust.
+* [nostui](https://github.com/akiomik/nostui) - TUI client for Nostr.
 * [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat, and others.
 * [Poezio](https://poez.io/en/) - Poezio is a free console XMPP client. It lets you connect very easily (no account creation needed) to the network and join various chatrooms. Many commands are identical to common IRC clients. Configuration can be made in a configuration file or directly from the client.
 * [Profanity](https://profanity-im.github.io/) - Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi.
 * [RainbowStream](http://www.rainbowstream.org/) - Twitter client for the terminal allows almost all the operations that can be done from GUI and Web clients.
+* [Sclack](https://github.com/haskellcamargo/sclack) - CLI client for Slack.
 * [scli](https://github.com/isamert/scli) - A simple terminal user interface for signal messenger.
 * [senpai](https://git.sr.ht/~delthas/senpai/) - A modern terminal IRC client.
 * [Servitor](https://github.com/bentonedmondson/servitor) - A command-line Fediverse client that doesn’t require a server.
 * [sic](https://tools.suckless.org/sic/) - sic is an extremely simple IRC client. It consists of less than 250 lines of code.
+* [siggo](https://github.com/derricw/siggo) - TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages).
 * [signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial command-line, dbus and JSON-RPC interface for the Signal messenger.
+* [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for the  terminal.
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
 * [Telegram messenger CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram using the readline interface.
 * [tgbounce](https://github.com/azhuchkov/tgbounce) - Simple Telegram Assistant that allows replying to messages, clicking buttons from bots, marking messages as read, logging notable messages, and providing desktop notifications, among other features.
+* [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 * [tiny](https://github.com/osa1/tiny) - tiny is an IRC client written in Rust.
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI.
 * [toxic](https://github.com/Jfreegman/toxic) - A Tox-based instant messaging and video chat client.
 * [ttchat](https://github.com/atye/ttchat) - Twitch chats in the terminal.
 * [TUIR](https://gitlab.com/ajak/tuir) - Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and themes.
+* [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
 * [tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys.
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to Twitter that uses git as support tool to manage the tweets.
 * [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
@@ -1053,17 +1062,18 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [terminal_board_games](https://github.com/salt-die/terminally_bored_terminal_board_games) - Board games for the terminal.
 * [terminordle](https://github.com/HP4k1h5/terminordle) - Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.
 * [tetrs](https://github.com/Strophox/tetrs) - Tetromino game engine and terminal application to play Tetris, written in Rust.
+* [tinytetris](https://github.com/taylorconor/tinytetris) - 80x23 terminal tetris game.
 * [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Solitaire game for the terminal ncurses based.
 * [tui-sudoku](https://gitlab.com/christosangel/tui-sudoku) - tui-sudoku is a configurable terminal interface sudoku game, with quite a few features.
 * [tuifoop](https://gitlab.com/christosangel/tuifoop) - Terminal puzzle game with the goal of removing as many cells as possible (or even all cells) from a grid. A terminal clone of Swell Foop.
 * [usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal.
 * [Wocogo](https://codeberg.org/kedlubnowski/wocogo) - Terminal word game that challenges players to combine given segments into existing words, uses rich library.
-* [Wordle](https://github.com/m-dango/raku-wordle/) - Wordle game, written in Raku.
+* [Wordle](https://github.com/m-dango/raku-wordle/) - Implementation of Wordle game hosted by The New York Times, written in Raku.
 * [Wordle Solver](https://gitlab.com/christosangel/wordle-solver) - A bash script that can solve wordle riddles.
 * [wordle-curses](https://github.com/knosmos/wordle-curses) - A simple TUI wordle game with curses.
 * [Words](https://github.com/ludovicianul/words) - A set of word-based puzzle games for the CLI while you wait for the build to run.
-* [Zigtris](https://github.com/ringtailsoftware/zigtris) - Terminal tetris game.
-* [Zoridor](https://github.com/ringtailsoftware/zoridor) - Terminal and web version of the Quoridor board game.
+* [Zigtris](https://github.com/ringtailsoftware/zigtris) - Minimal terminal tetris game written in Zig.
+* [Zoridor](https://github.com/ringtailsoftware/zoridor) - Terminal and web version of the Quoridor board game for terminal and web.
 
 ## <a name="git"></a>Git and accessories
 
