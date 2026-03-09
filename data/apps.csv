@@ -2033,3 +2033,4 @@ online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching s
 devops,PUG,,https://github.com/leg100/pug,"TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files)."
 learning,Physics TUI,,https://github.com/ClaudioRMalvino/physics_TUI,"TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter."
 rm,RecoverPy,,https://github.com/PabloLec/recoverpy,A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
+ai,models,,https://github.com/arimxyer/models,A TUI for browsing AI models, benchmarks, and coding agents.
