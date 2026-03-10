@@ -2035,3 +2035,4 @@ learning,Physics TUI,,https://github.com/ClaudioRMalvino/physics_TUI,"TUI for ph
 rm,RecoverPy,,https://github.com/PabloLec/recoverpy,A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
 graphics,Favicon Editor,,https://github.com/xyproto/favicon-editor,Minimalist grayscale favicon editor for the terminal.
 online,sftui,,https://github.com/AdamWHY2K/steam_friends_list_tui,"Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen)."
+science,terminalperiodictable,,https://github.com/velorek1/terminalperiodictable,Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
