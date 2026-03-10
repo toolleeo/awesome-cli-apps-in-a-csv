@@ -2049,3 +2049,4 @@ music,jellyfin-tui,,https://github.com/dhonus/jellyfin-tui,Jellyfin client (musi
 transfer,Managarr,,https://github.com/Dark-Alex-17/managarr,A TUI and CLI for managing your arr servers.
 package-manager,pkm,,https://github.com/wick3dr0se/pkm,A super minimal TUI package manager wrapper written in BASH v4-2+.
 system,Marstui-rustio,,https://github.com/schooldanlp6/marstui-rustio,"A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything."
+music,nap,https://nap.sourceforge.net/,,Linux napster client.
