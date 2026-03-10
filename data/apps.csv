@@ -2052,3 +2052,4 @@ system,Marstui-rustio,,https://github.com/schooldanlp6/marstui-rustio,"A nice au
 music,nap,https://nap.sourceforge.net/,,Linux napster client.
 music,RadioGoGo,,https://github.com/Zi0P4tch0/RadioGoGo,Go-powered CLI to surf global radio waves with TUI.
 utility,Roku-tui,,https://github.com/winsbe01/roku-cli,A command line TUI remote for Roku.
+music,soundcloud2000,,https://github.com/grobie/soundcloud2000,A terminal client for soundcloud.
