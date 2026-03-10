@@ -2048,3 +2048,4 @@ file-dir-cleanup,image-sorter,,https://github.com/jgalat/image-sorter,Terminal u
 music,jellyfin-tui,,https://github.com/dhonus/jellyfin-tui,Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
 transfer,Managarr,,https://github.com/Dark-Alex-17/managarr,A TUI and CLI for managing your arr servers.
 package-manager,pkm,,https://github.com/wick3dr0se/pkm,A super minimal TUI package manager wrapper written in BASH v4-2+.
+system,Marstui-rustio,,https://github.com/schooldanlp6/marstui-rustio,"A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything."
