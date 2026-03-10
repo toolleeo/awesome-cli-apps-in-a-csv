@@ -2038,3 +2038,4 @@ online,sftui,,https://github.com/AdamWHY2K/steam_friends_list_tui,"Real-time com
 science,terminalperiodictable,,https://github.com/velorek1/terminalperiodictable,Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
 password-manager,Tlock,,https://github.com/eklairs/tlock,"Two-Factor Authentication Tokens Manager in Terminal (Windows, Linux and MacOS)."
 graphics,cmdpxl,,https://github.com/knosmos/cmdpxl,"Command-line image editor (edit pixels, save images, undo function, fill tool and filters)."
+package-manager,TUI-SHOP,,https://github.com/Gcat101/tui-shop,TUI-SHOP allows you to browse and install apps directly
