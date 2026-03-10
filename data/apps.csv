@@ -2046,3 +2046,4 @@ music,asak,,https://github.com/chaosprint/asak,A cross-platform audio recording/
 viewer,GopherTube,,https://github.com/krishnassh/gophertube,A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback.
 file-dir-cleanup,image-sorter,,https://github.com/jgalat/image-sorter,Terminal user interface for sorting images using key bindings written in Rust; It requires w3m to render the images.
 music,jellyfin-tui,,https://github.com/dhonus/jellyfin-tui,Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
+transfer,Managarr,,https://github.com/Dark-Alex-17/managarr,A TUI and CLI for managing your arr servers.
