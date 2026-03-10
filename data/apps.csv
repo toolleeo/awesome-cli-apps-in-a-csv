@@ -2042,3 +2042,4 @@ package-manager,TUI-SHOP,,https://github.com/Gcat101/tui-shop,TUI-SHOP allows yo
 learning,wb,,https://github.com/MertGunduz/wb,A TUI vocabulary notebook app for Linux based devices.
 utility,wego,,https://github.com/schachmat/wego,Weather app for the terminal.
 music,gadacz,,https://github.com/rareitems/gadacz,Audiobook player (and other audio files) TUI.
+music,asak,,https://github.com/chaosprint/asak,A cross-platform audio recording/playback TUI written in Rust.
