@@ -2051,3 +2051,4 @@ package-manager,pkm,,https://github.com/wick3dr0se/pkm,A super minimal TUI packa
 system,Marstui-rustio,,https://github.com/schooldanlp6/marstui-rustio,"A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything."
 music,nap,https://nap.sourceforge.net/,,Linux napster client.
 music,RadioGoGo,,https://github.com/Zi0P4tch0/RadioGoGo,Go-powered CLI to surf global radio waves with TUI.
+utility,Roku-tui,,https://github.com/winsbe01/roku-cli,A command line TUI remote for Roku.
