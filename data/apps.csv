@@ -2070,3 +2070,4 @@ note-taking,pdiary,,https://github.com/manipuladordedados/pdiary,A simple termin
 git,PReam-Team,,https://github.com/nikoladucak/pream-team/,A TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories.
 office,SSH-Slides,,https://github.com/ivantsepp/ssh-slides,SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
 todo-manager,Taskline,,https://github.com/perryrh0dan/taskline,"Tasks, boards & notes for the command-line habitat."
+ai,tenere,,https://github.com/pythops/tenere,"A TUI for LLMs (ChatGPT, llama_cpp, ollama) written in Rust."
