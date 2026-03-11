@@ -2059,3 +2059,4 @@ video,VLC,https://code.videolan.org/videolan/vlc,https://github.com/videolan/vlc
 transfer,ytdl-tui,,https://github.com/darky/ytdl-tui,TUI for downloading Youtube videos.
 email,abook,https://abook.sourceforge.io/,,"TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes)."
 financial,Bagels,,https://github.com/EnhancedJax/Bagels,TUI application where you  can track and analyse your money flow.
+copy-paste,clipse,,https://github.com/savedra1/clipse,TUI-based clipboard manager application written in Go.
