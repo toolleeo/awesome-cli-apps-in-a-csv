@@ -1472,7 +1472,7 @@ prompt,Polyglot Prompt,,https://github.com/agkozak/polyglot,"A dynamic prompt fo
 prompt,Powerlevel10k,,https://github.com/romkatv/powerlevel10k,"A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience."
 prompt,geometry,,https://github.com/geometry-zsh/geometry,"A minimalistic, fully customizable Zsh prompt theme with support for asynchronous functions."
 prompt,Oh My Posh,https://ohmyposh.dev,https://github.com/jandedobbeleer/oh-my-posh,"From their README: ""The most customizable and low-latency cross-platform/shell prompt renderer""."
-conversion,scss-to-css,https://scsstocss.org,https://github.com/adamlui/scss-to-css,Recursively compile all SCSS files into minified CSS.
+conversion,scss-to-css,https://github.com/adamlui/scss-to-css,https://github.com/adamlui/scss-to-css,Recursively compile all SCSS files into minified CSS.
 package-manager,pmt,,https://github.com/olexij-christian/pmt,Translator of package names between different package managers of Linux distributions.
 programming,minify.js,https://minify-js.org,https://github.com/adamlui/minify.js,Recursively minify all JavaScript files.
 rm,extundelete,https://extundelete.sourceforge.net/,https://sourceforge.net/p/extundelete/code/ci/master/tree/,Recover deleted files from an ext3 or ext4 partition through its journal.
