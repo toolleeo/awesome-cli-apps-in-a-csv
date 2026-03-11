@@ -2069,3 +2069,4 @@ online,PagerDuty TUI,,https://github.com/Mk555/pagerduty-tui,Minimalistic termin
 note-taking,pdiary,,https://github.com/manipuladordedados/pdiary,A simple terminal diary journal application written in Python with encryption support.
 git,PReam-Team,,https://github.com/nikoladucak/pream-team/,A TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories.
 office,SSH-Slides,,https://github.com/ivantsepp/ssh-slides,SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
+todo-manager,Taskline,,https://github.com/perryrh0dan/taskline,"Tasks, boards & notes for the command-line habitat."
