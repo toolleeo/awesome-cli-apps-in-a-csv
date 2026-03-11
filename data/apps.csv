@@ -2067,3 +2067,4 @@ data-management-tabular,levite,,https://github.com/RauliL/levite,A TUI spreadshe
 productivity,multranslate,,https://github.com/Lifailon/multranslate,"A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection."
 online,PagerDuty TUI,,https://github.com/Mk555/pagerduty-tui,Minimalistic terminal UI to manage triggered incidents.
 note-taking,pdiary,,https://github.com/manipuladordedados/pdiary,A simple terminal diary journal application written in Python with encryption support.
+git,PReam-Team,,https://github.com/nikoladucak/pream-team/,A TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories.
