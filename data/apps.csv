@@ -2065,3 +2065,4 @@ productivity,hnjobs,,https://github.com/mwinters0/hnjobs,Console tool to find th
 viewers,hygg,,https://github.com/kruserr/hygg,Minimalistic Vim-like TUI document reader.
 data-management-tabular,levite,,https://github.com/RauliL/levite,A TUI spreadsheet application that uses an RPN formulas and features a Vi-friendly interface.
 productivity,multranslate,,https://github.com/Lifailon/multranslate,"A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection."
+online,PagerDuty TUI,,https://github.com/Mk555/pagerduty-tui,Minimalistic terminal UI to manage triggered incidents.
