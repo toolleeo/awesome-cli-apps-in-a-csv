@@ -2072,3 +2072,4 @@ office,SSH-Slides,,https://github.com/ivantsepp/ssh-slides,SSH server that hosts
 todo-manager,Taskline,,https://github.com/perryrh0dan/taskline,"Tasks, boards & notes for the command-line habitat."
 ai,tenere,,https://github.com/pythops/tenere,"A TUI for LLMs (ChatGPT, llama_cpp, ollama) written in Rust."
 transfer,termscp,,https://github.com/veeso/termscp,"A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3."
+data-management,ttyplot,,https://github.com/tenox7/ttyplot,A realtime plotting utility for terminals with data input from stdin/pipe.
