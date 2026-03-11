@@ -2054,3 +2054,4 @@ music,RadioGoGo,,https://github.com/Zi0P4tch0/RadioGoGo,Go-powered CLI to surf g
 utility,Roku-tui,,https://github.com/winsbe01/roku-cli,A command line TUI remote for Roku.
 music,soundcloud2000,,https://github.com/grobie/soundcloud2000,A terminal client for soundcloud.
 rss,Terminal-yt,,https://github.com/jooooscha/terminal-yt,"A small newsboat-inspired terminal youtube manager written in Rust; (fetches video from atom and RSS feeds, opens them in a video player)"
+music,Toutui,,https://github.com/AlbanDAVID/Toutui,"A TUI Audiobookshelf Client for Linux and macOS (supports audiobooks and podcasts, play directly without downloading)."
