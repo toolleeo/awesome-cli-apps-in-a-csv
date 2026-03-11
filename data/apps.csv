@@ -2062,3 +2062,4 @@ financial,Bagels,,https://github.com/EnhancedJax/Bagels,TUI application where yo
 copy-paste,clipse,,https://github.com/savedra1/clipse,TUI-based clipboard manager application written in Go.
 cheatsheet,gocheat,,https://github.com/Achno/gocheat,"Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases."
 productivity,hnjobs,,https://github.com/mwinters0/hnjobs,Console tool to find the best match on Who's Hiring.
+viewers,hygg,,https://github.com/kruserr/hygg,Minimalistic Vim-like TUI document reader.
