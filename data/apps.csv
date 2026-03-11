@@ -2058,3 +2058,4 @@ music,Toutui,,https://github.com/AlbanDAVID/Toutui,"A TUI Audiobookshelf Client 
 video,VLC,https://code.videolan.org/videolan/vlc,https://github.com/videolan/vlc,"VLC media player and multimedia engine; Can play most multimedia files: files, discs, streams, devices; It's also able to convert, encode, stream and manipulate streams into numerous formats."
 transfer,ytdl-tui,,https://github.com/darky/ytdl-tui,TUI for downloading Youtube videos.
 email,abook,https://abook.sourceforge.io/,,"TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes)."
+financial,Bagels,,https://github.com/EnhancedJax/Bagels,TUI application where you  can track and analyse your money flow.
