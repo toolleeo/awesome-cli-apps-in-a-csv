@@ -2033,3 +2033,23 @@ online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching s
 devops,PUG,,https://github.com/leg100/pug,"TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files)."
 learning,Physics TUI,,https://github.com/ClaudioRMalvino/physics_TUI,"TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter."
 rm,RecoverPy,,https://github.com/PabloLec/recoverpy,A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
+graphics,Favicon Editor,,https://github.com/xyproto/favicon-editor,Minimalist grayscale favicon editor for the terminal.
+online,sftui,,https://github.com/AdamWHY2K/steam_friends_list_tui,"Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen)."
+science,terminalperiodictable,,https://github.com/velorek1/terminalperiodictable,Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
+password-manager,Tlock,,https://github.com/eklairs/tlock,"Two-Factor Authentication Tokens Manager in Terminal (Windows, Linux and MacOS)."
+graphics,cmdpxl,,https://github.com/knosmos/cmdpxl,"Command-line image editor (edit pixels, save images, undo function, fill tool and filters)."
+package-manager,TUI-SHOP,,https://github.com/Gcat101/tui-shop,TUI-SHOP allows you to browse and install apps directly
+learning,wb,,https://github.com/MertGunduz/wb,A TUI vocabulary notebook app for Linux based devices.
+utility,wego,,https://github.com/schachmat/wego,Weather app for the terminal.
+music,gadacz,,https://github.com/rareitems/gadacz,Audiobook player (and other audio files) TUI.
+music,asak,,https://github.com/chaosprint/asak,A cross-platform audio recording/playback TUI written in Rust.
+viewer,GopherTube,,https://github.com/krishnassh/gophertube,A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback.
+file-dir-cleanup,image-sorter,,https://github.com/jgalat/image-sorter,Terminal user interface for sorting images using key bindings written in Rust; It requires w3m to render the images.
+music,jellyfin-tui,,https://github.com/dhonus/jellyfin-tui,Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
+transfer,Managarr,,https://github.com/Dark-Alex-17/managarr,A TUI and CLI for managing your arr servers.
+package-manager,pkm,,https://github.com/wick3dr0se/pkm,A super minimal TUI package manager wrapper written in BASH v4-2+.
+system,Marstui-rustio,,https://github.com/schooldanlp6/marstui-rustio,"A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything."
+music,nap,https://nap.sourceforge.net/,,Linux napster client.
+music,RadioGoGo,,https://github.com/Zi0P4tch0/RadioGoGo,Go-powered CLI to surf global radio waves with TUI.
+utility,Roku-tui,,https://github.com/winsbe01/roku-cli,A command line TUI remote for Roku.
+music,soundcloud2000,,https://github.com/grobie/soundcloud2000,A terminal client for soundcloud.
