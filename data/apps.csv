@@ -2053,3 +2053,23 @@ music,nap,https://nap.sourceforge.net/,,Linux napster client.
 music,RadioGoGo,,https://github.com/Zi0P4tch0/RadioGoGo,Go-powered CLI to surf global radio waves with TUI.
 utility,Roku-tui,,https://github.com/winsbe01/roku-cli,A command line TUI remote for Roku.
 music,soundcloud2000,,https://github.com/grobie/soundcloud2000,A terminal client for soundcloud.
+rss,Terminal-yt,,https://github.com/jooooscha/terminal-yt,"A small newsboat-inspired terminal youtube manager written in Rust; (fetches video from atom and RSS feeds, opens them in a video player)"
+music,Toutui,,https://github.com/AlbanDAVID/Toutui,"A TUI Audiobookshelf Client for Linux and macOS (supports audiobooks and podcasts, play directly without downloading)."
+video,VLC,https://code.videolan.org/videolan/vlc,https://github.com/videolan/vlc,"VLC media player and multimedia engine; Can play most multimedia files: files, discs, streams, devices; It's also able to convert, encode, stream and manipulate streams into numerous formats."
+transfer,ytdl-tui,,https://github.com/darky/ytdl-tui,TUI for downloading Youtube videos.
+email,abook,https://abook.sourceforge.io/,,"TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes)."
+financial,Bagels,,https://github.com/EnhancedJax/Bagels,TUI application where you  can track and analyse your money flow.
+copy-paste,clipse,,https://github.com/savedra1/clipse,TUI-based clipboard manager application written in Go.
+cheatsheet,gocheat,,https://github.com/Achno/gocheat,"Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases."
+productivity,hnjobs,,https://github.com/mwinters0/hnjobs,Console tool to find the best match on Who's Hiring.
+viewers,hygg,,https://github.com/kruserr/hygg,Minimalistic Vim-like TUI document reader.
+data-management-tabular,levite,,https://github.com/RauliL/levite,A TUI spreadsheet application that uses an RPN formulas and features a Vi-friendly interface.
+productivity,multranslate,,https://github.com/Lifailon/multranslate,"A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection."
+online,PagerDuty TUI,,https://github.com/Mk555/pagerduty-tui,Minimalistic terminal UI to manage triggered incidents.
+note-taking,pdiary,,https://github.com/manipuladordedados/pdiary,A simple terminal diary journal application written in Python with encryption support.
+git,PReam-Team,,https://github.com/nikoladucak/pream-team/,A TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories.
+office,SSH-Slides,,https://github.com/ivantsepp/ssh-slides,SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
+todo-manager,Taskline,,https://github.com/perryrh0dan/taskline,"Tasks, boards & notes for the command-line habitat."
+ai,tenere,,https://github.com/pythops/tenere,"A TUI for LLMs (ChatGPT, llama_cpp, ollama) written in Rust."
+transfer,termscp,,https://github.com/veeso/termscp,"A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3."
+data-management,ttyplot,,https://github.com/tenox7/ttyplot,A realtime plotting utility for terminals with data input from stdin/pipe.
