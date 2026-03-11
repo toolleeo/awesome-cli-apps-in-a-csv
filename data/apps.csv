@@ -2060,3 +2060,4 @@ transfer,ytdl-tui,,https://github.com/darky/ytdl-tui,TUI for downloading Youtube
 email,abook,https://abook.sourceforge.io/,,"TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes)."
 financial,Bagels,,https://github.com/EnhancedJax/Bagels,TUI application where you  can track and analyse your money flow.
 copy-paste,clipse,,https://github.com/savedra1/clipse,TUI-based clipboard manager application written in Go.
+cheatsheet,gocheat,,https://github.com/Achno/gocheat,"Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases."
