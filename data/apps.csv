@@ -2090,3 +2090,4 @@ git,Smart Commit,,https://github.com/eL1fe/smart-commit,"Customizable CLI tool f
 games,Par Infinite Minesweeper,,https://github.com/paulrobello/par_infini_sweeper,Minesweeper TUI.
 online,Reddittui,,https://github.com/tonymajestro/reddit-tui,Terminal UI for reddit.
 file-manager,Better tree,,https://github.com/LeperGnome/bt,Interactive tree-like terminal file manager.
+science,Bibiman,https://codeberg.org/lukeflo/bibiman,,A TUI for fast and simple interacting with your BibLaTeX database.
