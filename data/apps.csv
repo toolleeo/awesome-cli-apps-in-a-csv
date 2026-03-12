@@ -2095,3 +2095,4 @@ science,Bibiman,https://codeberg.org/lukeflo/bibiman,,A TUI for fast and simple 
 calc,TuringTape,,https://github.com/cmspeedrunner/TuringTape,Turing machine.
 calc,Vectro,,https://github.com/gurgeous/vectro,RPN (reversible polish notation) calculator for your terminal.
 networking,fwtui,,https://github.com/Beny406/fwtui,TUI built in Go to help you manage UFW rules with ease.
+system,fyora,,https://github.com/wenbang24/fyora,Intuitive declarative dotfile management.
