@@ -2103,3 +2103,4 @@ git,repo-verify-utils,,https://github.com/jaggzh/repo-verify-utils,Utility colle
 typing,typtea,,https://github.com/ashish0kumar/typtea,Minimal terminal-based typing speed tester with support for dozens of programming languages.
 text-processing,xcut,,https://github.com/kyotalab/xcut,A flexible field extractor and filter tool for the command line (extended version of the Unix cut command).
 terminal,vtm,,https://github.com/directvt/vtm,"Virtual terminal multiplexer delivered as a single executable; It runs in native Windows or standard consoles, wraps any CLI app and supports infinite nesting to create a text-based desktop that bridges the gap between TUI and GUI."
+games,what-is-sequence-game,,https://github.com/akgondber/what-is-sequence-game,Game consisting in remembering sequence of appearing items and try to restore them in right order.
