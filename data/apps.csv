@@ -2112,3 +2112,4 @@ writing,sdcv,,https://github.com/Dushistov/sdcv,"Simple, cross-platform, text-ba
 learning,Countryfetch,,https://github.com/nik-rev/countryfetch,A Command-line tool similar to Neofetch for obtaining information about your country.
 utility,gust,,https://github.com/josephburgess/gust,Command line weather app written in Go.
 monitor-top,vitals,,https://github.com/AngelJumbo/vitals,System usage visualizer and top replacement for Linux.
+ai,Ferrules,,https://github.com/aminediro/ferrules,"Modern, fast, document parser written in Rust designed to generate LLM-ready documents."
