@@ -1474,7 +1474,7 @@ prompt,geometry,,https://github.com/geometry-zsh/geometry,"A minimalistic, fully
 prompt,Oh My Posh,https://ohmyposh.dev,https://github.com/jandedobbeleer/oh-my-posh,"From their README: ""The most customizable and low-latency cross-platform/shell prompt renderer""."
 conversion,scss-to-css,https://scsstocss.org,https://github.com/adamlui/scss-to-css,Recursively compile all SCSS files into minified CSS.
 package-manager,pmt,,https://github.com/olexij-christian/pmt,Translator of package names between different package managers of Linux distributions.
-programming,minify.js,https://minify-js.org,https://github.com/adamlui/minify.js,Recursively minify all JavaScript files.
+programming,minify.js,https://github.com/adamlui/minify.js/#readme,https://github.com/adamlui/minify.js,Recursively minify all JavaScript files.
 rm,extundelete,https://extundelete.sourceforge.net/,https://sourceforge.net/p/extundelete/code/ci/master/tree/,Recover deleted files from an ext3 or ext4 partition through its journal.
 rm,undelete-btrfs,,https://github.com/danthem/undelete-btrfs,"Automate the generation of path regex for BTRFS restore and attempt the restore for you in 3 levels. The longer a file has existed prior to being deleted, the more likely it is to be recovered."
 rm,testdisk,https://www.cgsecurity.org/wiki/TestDisk,https://git.cgsecurity.org/cgit/testdisk/tree/,"Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions."
