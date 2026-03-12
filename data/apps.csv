@@ -2094,3 +2094,23 @@ file-manager,Better tree,,https://github.com/LeperGnome/bt,Interactive tree-like
 science,Bibiman,https://codeberg.org/lukeflo/bibiman,,A TUI for fast and simple interacting with your BibLaTeX database.
 calc,TuringTape,,https://github.com/cmspeedrunner/TuringTape,Turing machine.
 calc,Vectro,,https://github.com/gurgeous/vectro,RPN (reversible polish notation) calculator for your terminal.
+networking,fwtui,,https://github.com/Beny406/fwtui,TUI built in Go to help you manage UFW rules with ease.
+system,fyora,,https://github.com/wenbang24/fyora,Intuitive declarative dotfile management.
+webdev,tldx,,https://github.com/brandonyoungdev/tldx,Domain Availability Research Tool.
+git,Git Activity Visualization,,https://github.com/dakennedyd/activity,Creates a git activity heat map in the command line.
+ai-cli-commands,LazyShell,,https://github.com/bernoussama/lazyshell,AI CLI tool that generates and executes shell commands using AI.
+git,repo-verify-utils,,https://github.com/jaggzh/repo-verify-utils,Utility collection to help examine what repositories and scopes yout GitHub identity has access to.
+typing,typtea,,https://github.com/ashish0kumar/typtea,Minimal terminal-based typing speed tester with support for dozens of programming languages.
+text-processing,xcut,,https://github.com/kyotalab/xcut,A flexible field extractor and filter tool for the command line (extended version of the Unix cut command).
+terminal,vtm,,https://github.com/directvt/vtm,"Virtual terminal multiplexer delivered as a single executable; It runs in native Windows or standard consoles, wraps any CLI app and supports infinite nesting to create a text-based desktop that bridges the gap between TUI and GUI."
+games,what-is-sequence-game,,https://github.com/akgondber/what-is-sequence-game,Game consisting in remembering sequence of appearing items and try to restore them in right order.
+financial,Finance Tracker,,https://github.com/shen-kit/finance-tracker-tui/,"TUI financial tracker written in Go, using sqlite database."
+git,mamegrep,,https://github.com/sile/mamegrep,An interactive terminal interface for 'git grep' to easily edit search patterns and view results.
+productivity,Profile Fox,,https://github.com/talwrii/profile-fox,Opens new tabs in a specific firefox profile.
+games,word-blazer,,https://github.com/mmed-hajnasr/word-blazer,TUI labyrinth game that takes advantage of multiple graph algortihms.
+writing,sdcv,,https://github.com/Dushistov/sdcv,"Simple, cross-platform, text-based utility for working with dictionaries in StarDict format."
+learning,Countryfetch,,https://github.com/nik-rev/countryfetch,A Command-line tool similar to Neofetch for obtaining information about your country.
+utility,gust,,https://github.com/josephburgess/gust,Command line weather app written in Go.
+monitor-top,vitals,,https://github.com/AngelJumbo/vitals,System usage visualizer and top replacement for Linux.
+ai,Ferrules,,https://github.com/aminediro/ferrules,"Modern, fast, document parser written in Rust designed to generate LLM-ready documents."
+games,Bashtaker,,https://github.com/EC2854/bashtaker,Demake of Helltaker (videogame) written in bash.
