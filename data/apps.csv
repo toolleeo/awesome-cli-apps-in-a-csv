@@ -2105,3 +2105,4 @@ text-processing,xcut,,https://github.com/kyotalab/xcut,A flexible field extracto
 terminal,vtm,,https://github.com/directvt/vtm,"Virtual terminal multiplexer delivered as a single executable; It runs in native Windows or standard consoles, wraps any CLI app and supports infinite nesting to create a text-based desktop that bridges the gap between TUI and GUI."
 games,what-is-sequence-game,,https://github.com/akgondber/what-is-sequence-game,Game consisting in remembering sequence of appearing items and try to restore them in right order.
 financial,Finance Tracker,,https://github.com/shen-kit/finance-tracker-tui/,"TUI financial tracker written in Go, using sqlite database."
+git,mamegrep,,https://github.com/sile/mamegrep,An interactive terminal interface for 'git grep' to easily edit search patterns and view results.
