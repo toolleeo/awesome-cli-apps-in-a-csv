@@ -2120,3 +2120,4 @@ music,Mplay,,https://github.com/unpythonic-coder/mplay,"Full featured music play
 games,CTetris++,,https://github.com/Jejis06/CTetris/tree/master,Feature-rich Tetris game written in C++ that runs in terminal with customizable visual styles and smooth gameplay.
 monitor,Bashmark,,https://github.com/Samrat079/Bashmark,Terminal based benchmarking utility for testing CPU and GPU performance.
 git,AI Git Narrator,,https://github.com/pmusolino/AI-Git-Narrator,Command-line tool for generating Git commit messages and PR descriptions with AI based on Git diffs and commits. Supports staged/unstaged changes and customizable AI parameters.
+ai-cli-commands,Octomind,,https://github.com/muvon/octomind,"Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in."
