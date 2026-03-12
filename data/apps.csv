@@ -2124,3 +2124,4 @@ ai-cli-commands,Octomind,,https://github.com/muvon/octomind,"Sessions-based AI c
 financial,gocost,,https://github.com/madalinpopa/gocost,Simple TUI application to manage monthly expenses; Built with Go and Bubble Tea framework.
 networking,AutoRecon,,https://github.com/Tib3rius/AutoRecon,AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 editors,vicut,,https://github.com/km-clay/vicut,"Vim-based, scriptable and headless text editor for the command line, it can be used to extract fields, edit text files in-place and apply global substitutions and more."
+package-manager,godyl,https://idelchi.github.io/godyl/,https://github.com/idelchi/godyl,"Helps with batch-downloading, checksum verifying and installing statically compiled binaries from GitHub, GitLab, URLs, Go projects."
