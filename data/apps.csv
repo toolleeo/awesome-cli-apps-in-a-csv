@@ -2153,3 +2153,4 @@ programming,pwgo,,https://github.com/dennisbergevin/pwgo,Interactive local run r
 ai,codepack v4,,https://github.com/w3spi5/codepack,CLI tool to extract folder structure and file contents with advanced minification for AI processing.
 diff,LLM Prompt Semantic Diff,,https://github.com/aatakansalar/llm-prompt-semantic-diff,A CLI tool for managing and comparing LLM prompts using semantic diffing instead of traditional text-based comparison.
 games,DUNGEN!,,https://github.com/derekburgess/dungen,"Creates dynamically a world of mistery, peril and unexpected discoveries (LLM generated labyrinths: your choices shape the story, the dangers you face and the secrets you uncover)."
+learning,ShellKit,,https://github.com/pokeyaro/shellkit,"Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell)."
