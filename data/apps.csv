@@ -2126,3 +2126,4 @@ networking,AutoRecon,,https://github.com/Tib3rius/AutoRecon,AutoRecon is a multi
 editors,vicut,,https://github.com/km-clay/vicut,"Vim-based, scriptable and headless text editor for the command line, it can be used to extract fields, edit text files in-place and apply global substitutions and more."
 package-manager,godyl,https://idelchi.github.io/godyl/,https://github.com/idelchi/godyl,"Helps with batch-downloading, checksum verifying and installing statically compiled binaries from GitHub, GitLab, URLs, Go projects."
 text-search-replace,frep,,https://github.com/thomasschafer/frep,Fast find-and-replace tool; search and replace in files in directories or process stdin.
+find,crtag,,https://github.com/CarrotyLemons/crtag,CLI for searching directories by tag (UNIX and OS).
