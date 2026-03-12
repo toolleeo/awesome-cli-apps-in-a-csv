@@ -2148,3 +2148,4 @@ online,leetfetch,,https://github.com/Rage997/leetfetch,A commandline python tool
 programming,Scrut,,https://github.com/facebookincubator/scrut,"A testing toolkit for CLI applications designed to rigorously test terminal programs, inspired by Cram and focuses on providing a straightforward way to validate CLI behaviour."
 ai,Gemini CLI,,https://github.com/google-gemini/gemini-cli,It provides lightweight access to Gemini from the terminal.
 religion,Bible TUI,,https://github.com/terroo/bible-tui,Displays dynamic or selected verses from the Bible with different frames and colore themes.
+monitor-top,pshunt,,https://github.com/jamesma100/pshunt,"Process viewer similar to htop (view, search and kill processes and vi keybindings)."
