@@ -2134,3 +2134,23 @@ time-tracker,MyDoro,,https://github.com/Balaji01-4D/my-doro,"Modern Pomodoro tim
 git,pomodev,,https://github.com/dhruv1710/pomodev,CLI for Pomodoro timer with built-in Git integration (auot git commit prompt after each work sessions).
 typing,LEARNTYPE,,https://github.com/harkaitz/tcl-learntype,Small CLI program for children (4/5 years old) to learn typing.
 networking,goto,,https://github.com/grafviktor/goto,"A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included."
+animation,gostty,,https://github.com/ashish0kumar/gostty,Animation of a ghost for the terminal.
+launcher,mash,,https://github.com/dennisbergevin/mash,A customizable command launcher for storing and executing commands with a tree view of commands and filterable list tagging.
+networking,sshsync,,https://github.com/Blackmamoth/sshsync,Fast and minimal CLI tool to run shell commands across multiple remote servers via SSH.
+funny,bucklespring,,https://github.com/zevv/bucklespring,Emulates the sound of the old IBM Model-M space saver bucklespring keyboard while typing.
+video,ytsurf,,https://github.com/Stan-breaks/ytsurf,"Youtube in the terminal (syncplay support, audio-only playback and downloads, download videos, history)."
+ai,Context Extractor,,https://github.com/vaibhav-mattoo/cxt,"Command line tool that aggregates file and directory contents into the clipboard, for providing project context to AI chatbots in the browser like ChatGPT and Perplexity."
+online,mufetch,,https://github.com/ashish0kumar/mufetch,"CLI for music display (album covers and artist information) with comprehensive metadata, clickable links, responsive sizing and cross-platform support."
+typing,Typ0,,https://github.com/TusharIbtekar/go-typ0,Interactive CLI tool for typing practice and speed tests built with Go and Bubble Tea.
+todo-manager,FlowStateCLI,,https://github.com/sundanc/flowstatecli,"Command-line productivity tool for developers to track work sessions, manage tasks, and set goals + Pomodoro timer (online and offline)."
+disk-analyzer,diskroaster,,https://github.com/favoritelotus/diskroaster,"Multi-threaded disk testing utility that writes and verifies data on a raw disk device (designed to stress-test hard drives and SSDs by dividing the disk into sections, writing data in parallel using multiple threads and verifying the written content)."
+online,leetfetch,,https://github.com/Rage997/leetfetch,A commandline python tool to fetch and organize all leetcode submissions and problem description locally.
+programming,Scrut,,https://github.com/facebookincubator/scrut,"A testing toolkit for CLI applications designed to rigorously test terminal programs, inspired by Cram and focuses on providing a straightforward way to validate CLI behaviour."
+ai,Gemini CLI,,https://github.com/google-gemini/gemini-cli,It provides lightweight access to Gemini from the terminal.
+religion,Bible TUI,,https://github.com/terroo/bible-tui,Displays dynamic or selected verses from the Bible with different frames and colore themes.
+monitor-top,pshunt,,https://github.com/jamesma100/pshunt,"Process viewer similar to htop (view, search and kill processes and vi keybindings)."
+programming,pwgo,,https://github.com/dennisbergevin/pwgo,Interactive local run replament command for npx playwright test.
+ai,codepack v4,,https://github.com/w3spi5/codepack,CLI tool to extract folder structure and file contents with advanced minification for AI processing.
+diff,LLM Prompt Semantic Diff,,https://github.com/aatakansalar/llm-prompt-semantic-diff,A CLI tool for managing and comparing LLM prompts using semantic diffing instead of traditional text-based comparison.
+games,DUNGEN!,,https://github.com/derekburgess/dungen,"Creates dynamically a world of mistery, peril and unexpected discoveries (LLM generated labyrinths: your choices shape the story, the dangers you face and the secrets you uncover)."
+learning,ShellKit,,https://github.com/pokeyaro/shellkit,"Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell)."
