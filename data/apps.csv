@@ -2117,3 +2117,4 @@ games,Bashtaker,,https://github.com/EC2854/bashtaker,Demake of Helltaker (videog
 shells,SSHop,,https://github.com/Skullsneeze/sshop,An SSH connection helper that let's you hop to a server with ease.
 data-management-json,Frontmatter CLI Tool,,https://github.com/marad/frontmatter,CLI tool for managing YAML frontmatter in text files; Built with Go and optimized for performance with large files.
 music,Mplay,,https://github.com/unpythonic-coder/mplay,"Full featured music player for the command line, inspired by cplay."
+games,CTetris++,,https://github.com/Jejis06/CTetris/tree/master,Feature-rich Tetris game written in C++ that runs in terminal with customizable visual styles and smooth gameplay.
