@@ -2092,3 +2092,4 @@ online,Reddittui,,https://github.com/tonymajestro/reddit-tui,Terminal UI for red
 file-manager,Better tree,,https://github.com/LeperGnome/bt,Interactive tree-like terminal file manager.
 science,Bibiman,https://codeberg.org/lukeflo/bibiman,,A TUI for fast and simple interacting with your BibLaTeX database.
 calc,TuringTape,,https://github.com/cmspeedrunner/TuringTape,Turing machine.
+calc,Vectro,,https://github.com/gurgeous/vectro,RPN (reversible polish notation) calculator for your terminal.
