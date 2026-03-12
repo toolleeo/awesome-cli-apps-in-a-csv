@@ -2136,3 +2136,4 @@ typing,LEARNTYPE,,https://github.com/harkaitz/tcl-learntype,Small CLI program fo
 networking,goto,,https://github.com/grafviktor/goto,"A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included."
 animation,gostty,,https://github.com/ashish0kumar/gostty,Animation of a ghost for the terminal.
 launcher,mash,,https://github.com/dennisbergevin/mash,A customizable command launcher for storing and executing commands with a tree view of commands and filterable list tagging.
+networking,sshsync,,https://github.com/Blackmamoth/sshsync,Fast and minimal CLI tool to run shell commands across multiple remote servers via SSH.
