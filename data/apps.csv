@@ -2133,3 +2133,4 @@ programming,Rusty Forge,,https://github.com/konni332/rustyforge,"Minimal build m
 time-tracker,MyDoro,,https://github.com/Balaji01-4D/my-doro,"Modern Pomodoro timer for the terminal (work/break intervals, different themes, and a distraction-free CLI experience)."
 git,pomodev,,https://github.com/dhruv1710/pomodev,CLI for Pomodoro timer with built-in Git integration (auot git commit prompt after each work sessions).
 typing,LEARNTYPE,,https://github.com/harkaitz/tcl-learntype,Small CLI program for children (4/5 years old) to learn typing.
+networking,goto,,https://github.com/grafviktor/goto,"A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included."
