@@ -2101,3 +2101,4 @@ git,Git Activity Visualization,,https://github.com/dakennedyd/activity,Creates a
 ai-cli-commands,LazyShell,,https://github.com/bernoussama/lazyshell,AI CLI tool that generates and executes shell commands using AI.
 git,repo-verify-utils,,https://github.com/jaggzh/repo-verify-utils,Utility collection to help examine what repositories and scopes yout GitHub identity has access to.
 typing,typtea,,https://github.com/ashish0kumar/typtea,Minimal terminal-based typing speed tester with support for dozens of programming languages.
+text-processing,xcut,,https://github.com/kyotalab/xcut,A flexible field extractor and filter tool for the command line (extended version of the Unix cut command).
