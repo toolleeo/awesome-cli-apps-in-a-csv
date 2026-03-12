@@ -2076,3 +2076,4 @@ data-management,ttyplot,,https://github.com/tenox7/ttyplot,A realtime plotting u
 todo-manager,TUI Project Manager,,https://github.com/NicoDblc/TUI_ProjectManager,Simple TUI todo list written in Rust.
 monitor,tuihub,,https://github.com/ashis0013/tuihub,TUI to manage todos and getting handy information on machine usage and time.
 terminal,tvterm,,https://github.com/magiblot/tvterm,A terminal emulator that runs in your terminal (Unix and Windows).
+note-taking,Toney,,https://github.com/SourcewareLab/Toney,"A fast, lightweight, terminal-based note-taking TUI app built with Bubbletea; Offers markdown rendering, file navigation and native Neovim editing."
