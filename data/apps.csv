@@ -2151,3 +2151,4 @@ religion,Bible TUI,,https://github.com/terroo/bible-tui,Displays dynamic or sele
 monitor-top,pshunt,,https://github.com/jamesma100/pshunt,"Process viewer similar to htop (view, search and kill processes and vi keybindings)."
 programming,pwgo,,https://github.com/dennisbergevin/pwgo,Interactive local run replament command for npx playwright test.
 ai,codepack v4,,https://github.com/w3spi5/codepack,CLI tool to extract folder structure and file contents with advanced minification for AI processing.
+diff,LLM Prompt Semantic Diff,,https://github.com/aatakansalar/llm-prompt-semantic-diff,A CLI tool for managing and comparing LLM prompts using semantic diffing instead of traditional text-based comparison.
