@@ -2084,3 +2084,4 @@ torrent,nyaa,,https://github.com/Beastwick18/nyaa,A nyaa TUI for browsing and do
 online,tblogs,,https://github.com/ezeoleaf/tblogs,Read and browse development blogs with this TUI from your terminal.
 terminal,Textual Web,,https://github.com/Textualize/textual-web,Run TUIs and terminals in your browser.
 data-management,chndlr,,https://github.com/bharatvaj/chndlr,Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
+ai,Elroy,,https://github.com/elroy-bot/elroy,AI personal assistant that remembers and sets goals.
