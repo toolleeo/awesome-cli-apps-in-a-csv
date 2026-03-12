@@ -1484,6 +1484,7 @@ data-management-tabular,csvlens,,https://github.com/YS-L/csvlens,CSV file viewer
 financial,budget-cli,https://www.joshcanhelp.com/budget-cli/,https://github.com/joshcanhelp/budget-cli,"Import, de-dupe, categorize, and report on financial transactions."
 password-manager,generate-pw,https://generatepw.org,https://github.com/adamlui/js-utils,Randomly generate cryptographically-secure passwords.
 networking,generate-ip,https://github.com/adamlui/js-utils/tree/main/generate-ip/#readme,https://github.com/adamlui/js-utils,"Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses."
+networking,generate-ip,https://generate-ip.org,https://github.com/adamlui/js-utils,"Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses."
 financial,abandon,,https://github.com/hrj/abandon,"A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI."
 transfer,osync,http://www.netpower.fr/osync,https://github.com/deajan/osync,"A robust two-way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near real-time sync."
 email,mailsy,,https://github.com/BalliAsghar/Mailsy.git,Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
@@ -1502,7 +1503,7 @@ cheatsheet,tlrc,https://tldr.sh/tlrc/,https://github.com/tldr-pages/tlrc,Officia
 networking,netscanner,,https://github.com/Chleba/netscanner,All-in-one network scanning tool.
 video,Pyutube,,https://github.com/Hetari/pyutube,A simple tool to download YouTube video shorts and playlist in just one click.
 networking,ATAC,,https://github.com/Julien-cpsn/ATAC,"Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever."
-networking,geolocate,https://geolocatejs.org,https://github.com/adamlui/js-utils,Fetch IP geolocation data.
+networking,geolocate,https://github.com/adamlui/js-utils/tree/main/geolocate/#readme,https://github.com/adamlui/js-utils,Fetch IP geolocation data.
 system,auto-cpufreq,,https://github.com/AdnanHodzic/auto-cpufreq,"Automatic CPU speed and power optimizer for Linux, which allows to dynamically change the settings of the CPU to save energy and extend the battery life on laptops."
 networking,packemon,,https://github.com/ddddddO/packemon,TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 typing,neotype,,https://github.com/tteeoo/neotype,A terminal-based typing game powered by classic ANSI escape codes.
@@ -2073,3 +2074,23 @@ todo-manager,Taskline,,https://github.com/perryrh0dan/taskline,"Tasks, boards & 
 ai,tenere,,https://github.com/pythops/tenere,"A TUI for LLMs (ChatGPT, llama_cpp, ollama) written in Rust."
 transfer,termscp,,https://github.com/veeso/termscp,"A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3."
 data-management,ttyplot,,https://github.com/tenox7/ttyplot,A realtime plotting utility for terminals with data input from stdin/pipe.
+todo-manager,TUI Project Manager,,https://github.com/NicoDblc/TUI_ProjectManager,Simple TUI todo list written in Rust.
+monitor,tuihub,,https://github.com/ashis0013/tuihub,TUI to manage todos and getting handy information on machine usage and time.
+terminal,tvterm,,https://github.com/magiblot/tvterm,A terminal emulator that runs in your terminal (Unix and Windows).
+note-taking,Toney,,https://github.com/SourcewareLab/Toney,"A fast, lightweight, terminal-based note-taking TUI app built with Bubbletea; Offers markdown rendering, file navigation and native Neovim editing."
+rss,Canard,,https://github.com/mrusme/canard,A command line TUI client for the Journalist RSS aggregator.
+religion,CatenaVetus,,https://github.com/jimbob88/CatenaVetus,A TUI for reading the Church Fathers.
+browser,ELinks,,https://github.com/rkd77/elinks,"Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts."
+torrent,nyaa,,https://github.com/Beastwick18/nyaa,A nyaa TUI for browsing and downloading torrents.
+online,tblogs,,https://github.com/ezeoleaf/tblogs,Read and browse development blogs with this TUI from your terminal.
+terminal,Textual Web,,https://github.com/Textualize/textual-web,Run TUIs and terminals in your browser.
+data-management,chndlr,,https://github.com/bharatvaj/chndlr,Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
+ai,Elroy,,https://github.com/elroy-bot/elroy,AI personal assistant that remembers and sets goals.
+programming,QuickStart,,https://github.com/squach90/homebrew-quickstart,"CLI to quickly create projects in HTML, Python, Node_js, Bash and more."
+git,Smart Commit,,https://github.com/eL1fe/smart-commit,"Customizable CLI tool for creating consistent Git commits using interactive prompts (automatic commit type suggestions, CI integration, GPG signing, push support, and local configuration for a streamlined commit workflow)."
+games,Par Infinite Minesweeper,,https://github.com/paulrobello/par_infini_sweeper,Minesweeper TUI.
+online,Reddittui,,https://github.com/tonymajestro/reddit-tui,Terminal UI for reddit.
+file-manager,Better tree,,https://github.com/LeperGnome/bt,Interactive tree-like terminal file manager.
+science,Bibiman,https://codeberg.org/lukeflo/bibiman,,A TUI for fast and simple interacting with your BibLaTeX database.
+calc,TuringTape,,https://github.com/cmspeedrunner/TuringTape,Turing machine.
+calc,Vectro,,https://github.com/gurgeous/vectro,RPN (reversible polish notation) calculator for your terminal.
