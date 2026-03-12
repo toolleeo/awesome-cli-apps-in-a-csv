@@ -2097,3 +2097,4 @@ calc,Vectro,,https://github.com/gurgeous/vectro,RPN (reversible polish notation)
 networking,fwtui,,https://github.com/Beny406/fwtui,TUI built in Go to help you manage UFW rules with ease.
 system,fyora,,https://github.com/wenbang24/fyora,Intuitive declarative dotfile management.
 webdev,tldx,,https://github.com/brandonyoungdev/tldx,Domain Availability Research Tool.
+git,Git Activity Visualization,,https://github.com/dakennedyd/activity,Creates a git activity heat map in the command line.
