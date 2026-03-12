@@ -2128,3 +2128,4 @@ package-manager,godyl,https://idelchi.github.io/godyl/,https://github.com/idelch
 text-search-replace,frep,,https://github.com/thomasschafer/frep,Fast find-and-replace tool; search and replace in files in directories or process stdin.
 find,crtag,,https://github.com/CarrotyLemons/crtag,CLI for searching directories by tag (UNIX and OS).
 data-management-json,jf,,https://github.com/sayanarijit/jf,A small utility to safely format and print JSON objects in the commandline.
+programming,DevTUI,,https://github.com/skatkov/devtui,All-in-one terminal toolkit that consolidates everyday developer utilities into a unified TUI and CLI.
