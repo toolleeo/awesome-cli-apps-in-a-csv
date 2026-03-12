@@ -2114,3 +2114,23 @@ utility,gust,,https://github.com/josephburgess/gust,Command line weather app wri
 monitor-top,vitals,,https://github.com/AngelJumbo/vitals,System usage visualizer and top replacement for Linux.
 ai,Ferrules,,https://github.com/aminediro/ferrules,"Modern, fast, document parser written in Rust designed to generate LLM-ready documents."
 games,Bashtaker,,https://github.com/EC2854/bashtaker,Demake of Helltaker (videogame) written in bash.
+shells,SSHop,,https://github.com/Skullsneeze/sshop,An SSH connection helper that let's you hop to a server with ease.
+data-management-json,Frontmatter CLI Tool,,https://github.com/marad/frontmatter,CLI tool for managing YAML frontmatter in text files; Built with Go and optimized for performance with large files.
+music,Mplay,,https://github.com/unpythonic-coder/mplay,"Full featured music player for the command line, inspired by cplay."
+games,CTetris++,,https://github.com/Jejis06/CTetris/tree/master,Feature-rich Tetris game written in C++ that runs in terminal with customizable visual styles and smooth gameplay.
+monitor,Bashmark,,https://github.com/Samrat079/Bashmark,Terminal based benchmarking utility for testing CPU and GPU performance.
+git,AI Git Narrator,,https://github.com/pmusolino/AI-Git-Narrator,Command-line tool for generating Git commit messages and PR descriptions with AI based on Git diffs and commits. Supports staged/unstaged changes and customizable AI parameters.
+ai-cli-commands,Octomind,,https://github.com/muvon/octomind,"Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in."
+financial,gocost,,https://github.com/madalinpopa/gocost,Simple TUI application to manage monthly expenses; Built with Go and Bubble Tea framework.
+networking,AutoRecon,,https://github.com/Tib3rius/AutoRecon,AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+editors,vicut,,https://github.com/km-clay/vicut,"Vim-based, scriptable and headless text editor for the command line, it can be used to extract fields, edit text files in-place and apply global substitutions and more."
+package-manager,godyl,https://idelchi.github.io/godyl/,https://github.com/idelchi/godyl,"Helps with batch-downloading, checksum verifying and installing statically compiled binaries from GitHub, GitLab, URLs, Go projects."
+text-search-replace,frep,,https://github.com/thomasschafer/frep,Fast find-and-replace tool; search and replace in files in directories or process stdin.
+find,crtag,,https://github.com/CarrotyLemons/crtag,CLI for searching directories by tag (UNIX and OS).
+data-management-json,jf,,https://github.com/sayanarijit/jf,A small utility to safely format and print JSON objects in the commandline.
+programming,DevTUI,,https://github.com/skatkov/devtui,All-in-one terminal toolkit that consolidates everyday developer utilities into a unified TUI and CLI.
+programming,Rusty Forge,,https://github.com/konni332/rustyforge,"Minimal build manager for C/C++ projects written in Rust; It automates compiling binaries and libraries, sopports parallel builds, profiles, features and manages a build cache."
+time-tracker,MyDoro,,https://github.com/Balaji01-4D/my-doro,"Modern Pomodoro timer for the terminal (work/break intervals, different themes, and a distraction-free CLI experience)."
+git,pomodev,,https://github.com/dhruv1710/pomodev,CLI for Pomodoro timer with built-in Git integration (auot git commit prompt after each work sessions).
+typing,LEARNTYPE,,https://github.com/harkaitz/tcl-learntype,Small CLI program for children (4/5 years old) to learn typing.
+networking,goto,,https://github.com/grafviktor/goto,"A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included."
