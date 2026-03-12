@@ -2111,3 +2111,4 @@ games,word-blazer,,https://github.com/mmed-hajnasr/word-blazer,TUI labyrinth gam
 writing,sdcv,,https://github.com/Dushistov/sdcv,"Simple, cross-platform, text-based utility for working with dictionaries in StarDict format."
 learning,Countryfetch,,https://github.com/nik-rev/countryfetch,A Command-line tool similar to Neofetch for obtaining information about your country.
 utility,gust,,https://github.com/josephburgess/gust,Command line weather app written in Go.
+monitor-top,vitals,,https://github.com/AngelJumbo/vitals,System usage visualizer and top replacement for Linux.
