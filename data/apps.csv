@@ -2127,3 +2127,4 @@ editors,vicut,,https://github.com/km-clay/vicut,"Vim-based, scriptable and headl
 package-manager,godyl,https://idelchi.github.io/godyl/,https://github.com/idelchi/godyl,"Helps with batch-downloading, checksum verifying and installing statically compiled binaries from GitHub, GitLab, URLs, Go projects."
 text-search-replace,frep,,https://github.com/thomasschafer/frep,Fast find-and-replace tool; search and replace in files in directories or process stdin.
 find,crtag,,https://github.com/CarrotyLemons/crtag,CLI for searching directories by tag (UNIX and OS).
+data-management-json,jf,,https://github.com/sayanarijit/jf,A small utility to safely format and print JSON objects in the commandline.
