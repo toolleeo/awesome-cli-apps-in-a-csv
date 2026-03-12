@@ -2135,3 +2135,4 @@ git,pomodev,,https://github.com/dhruv1710/pomodev,CLI for Pomodoro timer with bu
 typing,LEARNTYPE,,https://github.com/harkaitz/tcl-learntype,Small CLI program for children (4/5 years old) to learn typing.
 networking,goto,,https://github.com/grafviktor/goto,"A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included."
 animation,gostty,,https://github.com/ashish0kumar/gostty,Animation of a ghost for the terminal.
+launcher,mash,,https://github.com/dennisbergevin/mash,A customizable command launcher for storing and executing commands with a tree view of commands and filterable list tagging.
