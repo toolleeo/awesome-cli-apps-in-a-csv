@@ -2110,3 +2110,4 @@ productivity,Profile Fox,,https://github.com/talwrii/profile-fox,Opens new tabs 
 games,word-blazer,,https://github.com/mmed-hajnasr/word-blazer,TUI labyrinth game that takes advantage of multiple graph algortihms.
 writing,sdcv,,https://github.com/Dushistov/sdcv,"Simple, cross-platform, text-based utility for working with dictionaries in StarDict format."
 learning,Countryfetch,,https://github.com/nik-rev/countryfetch,A Command-line tool similar to Neofetch for obtaining information about your country.
+utility,gust,,https://github.com/josephburgess/gust,Command line weather app written in Go.
