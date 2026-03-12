@@ -2085,3 +2085,4 @@ online,tblogs,,https://github.com/ezeoleaf/tblogs,Read and browse development bl
 terminal,Textual Web,,https://github.com/Textualize/textual-web,Run TUIs and terminals in your browser.
 data-management,chndlr,,https://github.com/bharatvaj/chndlr,Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
 ai,Elroy,,https://github.com/elroy-bot/elroy,AI personal assistant that remembers and sets goals.
+programming,QuickStart,,https://github.com/squach90/homebrew-quickstart,"CLI to quickly create projects in HTML, Python, Node_js, Bash and more."
