@@ -2074,3 +2074,4 @@ ai,tenere,,https://github.com/pythops/tenere,"A TUI for LLMs (ChatGPT, llama_cpp
 transfer,termscp,,https://github.com/veeso/termscp,"A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3."
 data-management,ttyplot,,https://github.com/tenox7/ttyplot,A realtime plotting utility for terminals with data input from stdin/pipe.
 todo-manager,TUI Project Manager,,https://github.com/NicoDblc/TUI_ProjectManager,Simple TUI todo list written in Rust.
+monitor,tuihub,,https://github.com/ashis0013/tuihub,TUI to manage todos and getting handy information on machine usage and time.
