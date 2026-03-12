@@ -2115,3 +2115,4 @@ monitor-top,vitals,,https://github.com/AngelJumbo/vitals,System usage visualizer
 ai,Ferrules,,https://github.com/aminediro/ferrules,"Modern, fast, document parser written in Rust designed to generate LLM-ready documents."
 games,Bashtaker,,https://github.com/EC2854/bashtaker,Demake of Helltaker (videogame) written in bash.
 shells,SSHop,,https://github.com/Skullsneeze/sshop,An SSH connection helper that let's you hop to a server with ease.
+data-management-json,Frontmatter CLI Tool,,https://github.com/marad/frontmatter,CLI tool for managing YAML frontmatter in text files; Built with Go and optimized for performance with large files.
