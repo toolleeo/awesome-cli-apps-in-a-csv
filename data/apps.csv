@@ -2081,3 +2081,4 @@ rss,Canard,,https://github.com/mrusme/canard,A command line TUI client for the J
 religion,CatenaVetus,,https://github.com/jimbob88/CatenaVetus,A TUI for reading the Church Fathers.
 browser,ELinks,,https://github.com/rkd77/elinks,"Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts."
 torrent,nyaa,,https://github.com/Beastwick18/nyaa,A nyaa TUI for browsing and downloading torrents.
+online,tblogs,,https://github.com/ezeoleaf/tblogs,Read and browse development blogs with this TUI from your terminal.
