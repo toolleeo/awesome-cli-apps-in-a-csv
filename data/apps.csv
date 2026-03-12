@@ -2149,3 +2149,4 @@ programming,Scrut,,https://github.com/facebookincubator/scrut,"A testing toolkit
 ai,Gemini CLI,,https://github.com/google-gemini/gemini-cli,It provides lightweight access to Gemini from the terminal.
 religion,Bible TUI,,https://github.com/terroo/bible-tui,Displays dynamic or selected verses from the Bible with different frames and colore themes.
 monitor-top,pshunt,,https://github.com/jamesma100/pshunt,"Process viewer similar to htop (view, search and kill processes and vi keybindings)."
+programming,pwgo,,https://github.com/dennisbergevin/pwgo,Interactive local run replament command for npx playwright test.
