@@ -2146,3 +2146,4 @@ todo-manager,FlowStateCLI,,https://github.com/sundanc/flowstatecli,"Command-line
 disk-analyzer,diskroaster,,https://github.com/favoritelotus/diskroaster,"Multi-threaded disk testing utility that writes and verifies data on a raw disk device (designed to stress-test hard drives and SSDs by dividing the disk into sections, writing data in parallel using multiple threads and verifying the written content)."
 online,leetfetch,,https://github.com/Rage997/leetfetch,A commandline python tool to fetch and organize all leetcode submissions and problem description locally.
 programming,Scrut,,https://github.com/facebookincubator/scrut,"A testing toolkit for CLI applications designed to rigorously test terminal programs, inspired by Cram and focuses on providing a straightforward way to validate CLI behaviour."
+ai,Gemini CLI,,https://github.com/google-gemini/gemini-cli,It provides lightweight access to Gemini from the terminal.
