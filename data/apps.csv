@@ -2086,3 +2086,4 @@ terminal,Textual Web,,https://github.com/Textualize/textual-web,Run TUIs and ter
 data-management,chndlr,,https://github.com/bharatvaj/chndlr,Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
 ai,Elroy,,https://github.com/elroy-bot/elroy,AI personal assistant that remembers and sets goals.
 programming,QuickStart,,https://github.com/squach90/homebrew-quickstart,"CLI to quickly create projects in HTML, Python, Node_js, Bash and more."
+git,Smart Commit,,https://github.com/eL1fe/smart-commit,"Customizable CLI tool for creating consistent Git commits using interactive prompts (automatic commit type suggestions, CI integration, GPG signing, push support, and local configuration for a streamlined commit workflow)."
