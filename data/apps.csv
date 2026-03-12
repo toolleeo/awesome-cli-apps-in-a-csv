@@ -2121,3 +2121,4 @@ games,CTetris++,,https://github.com/Jejis06/CTetris/tree/master,Feature-rich Tet
 monitor,Bashmark,,https://github.com/Samrat079/Bashmark,Terminal based benchmarking utility for testing CPU and GPU performance.
 git,AI Git Narrator,,https://github.com/pmusolino/AI-Git-Narrator,Command-line tool for generating Git commit messages and PR descriptions with AI based on Git diffs and commits. Supports staged/unstaged changes and customizable AI parameters.
 ai-cli-commands,Octomind,,https://github.com/muvon/octomind,"Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in."
+financial,gocost,,https://github.com/madalinpopa/gocost,Simple TUI application to manage monthly expenses; Built with Go and Bubble Tea framework.
