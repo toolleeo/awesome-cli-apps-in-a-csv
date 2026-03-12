@@ -2130,3 +2130,4 @@ find,crtag,,https://github.com/CarrotyLemons/crtag,CLI for searching directories
 data-management-json,jf,,https://github.com/sayanarijit/jf,A small utility to safely format and print JSON objects in the commandline.
 programming,DevTUI,,https://github.com/skatkov/devtui,All-in-one terminal toolkit that consolidates everyday developer utilities into a unified TUI and CLI.
 programming,Rusty Forge,,https://github.com/konni332/rustyforge,"Minimal build manager for C/C++ projects written in Rust; It automates compiling binaries and libraries, sopports parallel builds, profiles, features and manages a build cache."
+time-tracker,MyDoro,,https://github.com/Balaji01-4D/my-doro,"Modern Pomodoro timer for the terminal (work/break intervals, different themes, and a distraction-free CLI experience)."
