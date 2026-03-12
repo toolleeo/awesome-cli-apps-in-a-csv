@@ -2107,3 +2107,4 @@ games,what-is-sequence-game,,https://github.com/akgondber/what-is-sequence-game,
 financial,Finance Tracker,,https://github.com/shen-kit/finance-tracker-tui/,"TUI financial tracker written in Go, using sqlite database."
 git,mamegrep,,https://github.com/sile/mamegrep,An interactive terminal interface for 'git grep' to easily edit search patterns and view results.
 productivity,Profile Fox,,https://github.com/talwrii/profile-fox,Opens new tabs in a specific firefox profile.
+games,word-blazer,,https://github.com/mmed-hajnasr/word-blazer,TUI labyrinth game that takes advantage of multiple graph algortihms.
