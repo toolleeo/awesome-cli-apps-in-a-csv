@@ -2088,3 +2088,4 @@ ai,Elroy,,https://github.com/elroy-bot/elroy,AI personal assistant that remember
 programming,QuickStart,,https://github.com/squach90/homebrew-quickstart,"CLI to quickly create projects in HTML, Python, Node_js, Bash and more."
 git,Smart Commit,,https://github.com/eL1fe/smart-commit,"Customizable CLI tool for creating consistent Git commits using interactive prompts (automatic commit type suggestions, CI integration, GPG signing, push support, and local configuration for a streamlined commit workflow)."
 games,Par Infinite Minesweeper,,https://github.com/paulrobello/par_infini_sweeper,Minesweeper TUI.
+online,Reddittui,,https://github.com/tonymajestro/reddit-tui,Terminal UI for reddit.
