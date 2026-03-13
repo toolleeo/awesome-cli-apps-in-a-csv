@@ -2203,3 +2203,4 @@ chat,ZUSE,,https://github.com/babycommando/zuse,Minimal IRC client for the termi
 transfer,Filebin cli,,https://github.com/mshirazkamran/filebin-api,CLI tool to share files temporarily from the terminal (share short code to download on the other machine).
 screen-recorder,rewindtty,,https://github.com/debba/rewindtty,A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.
 copy-paste,clipboard-viewer,,https://github.com/jaggzh/xclipview-tui,Terminal-based clipboard browser.
+utility,loopctl,,https://github.com/Karvy-Singh/loopctl,The program allows you to repeat a media/section of media x number of times and to repeat a certain part of media.
