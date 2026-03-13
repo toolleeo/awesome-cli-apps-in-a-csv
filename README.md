@@ -8,6 +8,7 @@ Read the instructions before rushing at changing the README file: you must edit 
 
 Some links are available to [related resources](#resources).
 
+
 Summary:
 
 * Apps/tools: **2135**
@@ -17,7 +18,7 @@ Summary:
 
 * [AI / ChatGPT](#ai) (40), [AI terminal command generator](#ai-cli-commands) (15), [Animation](#animation) (35), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (19)
-* [Calculators](#calc) (21), [Chat and instant messaging](#chat) (51), [Clean up of files and directories](#file-dir-cleanup) (15), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (27), [Commands cheatsheet and snippets](#cheatsheet) (30), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (10)
+* [Calculators](#calc) (21), [Chat and instant messaging](#chat) (52), [Clean up of files and directories](#file-dir-cleanup) (15), [Co-pilot](#copilot) (11), [Command launchers](#launcher) (27), [Commands cheatsheet and snippets](#cheatsheet) (30), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (10)
 * [Data management](#data-management) (18), [Data management - JSON/YAML/etc.](#data-management-json) (47), [Data management - Tabular data](#data-management-tabular) (37), [Data transfer](#transfer) (46), [DevOps](#devops) (22), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (13)
 * [Editors](#editors) (33), [Email](#email) (19)
 * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (15), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (10), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (27), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (24), [Font management](#font) (5), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (18)
@@ -234,6 +235,7 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [Poezio](https://poez.io/en/) - Poezio is a free console XMPP client. It lets you connect very easily (no account creation needed) to the network and join various chatrooms. Many commands are identical to common IRC clients. Configuration can be made in a configuration file or directly from the client.
 * [Profanity](https://profanity-im.github.io/) - Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi.
 * [RainbowStream](http://www.rainbowstream.org/) - Twitter client for the terminal allows almost all the operations that can be done from GUI and Web clients.
+* [rvIRV](https://github.com/KaraZajac/rvIRC) - An TUI IRC Client.
 * [Sclack](https://github.com/haskellcamargo/sclack) - CLI client for Slack.
 * [scli](https://github.com/isamert/scli) - A simple terminal user interface for signal messenger.
 * [senpai](https://git.sr.ht/~delthas/senpai/) - A modern terminal IRC client.
@@ -260,6 +262,7 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
 * [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 * [Zulip Terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
+
 
 ## <a name="file-dir-cleanup"></a>Clean up of files and directories
 
