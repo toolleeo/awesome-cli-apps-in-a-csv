@@ -2154,3 +2154,23 @@ ai,codepack v4,,https://github.com/w3spi5/codepack,CLI tool to extract folder st
 diff,LLM Prompt Semantic Diff,,https://github.com/aatakansalar/llm-prompt-semantic-diff,A CLI tool for managing and comparing LLM prompts using semantic diffing instead of traditional text-based comparison.
 games,DUNGEN!,,https://github.com/derekburgess/dungen,"Creates dynamically a world of mistery, peril and unexpected discoveries (LLM generated labyrinths: your choices shape the story, the dangers you face and the secrets you uncover)."
 learning,ShellKit,,https://github.com/pokeyaro/shellkit,"Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell)."
+file-manager,veld,,https://github.com/BranBushes/veld-fm,"A modern, tileable, terminal-based file manager built with Python and Textual."
+file-dir-cleanup,doggo,,https://github.com/0nsh/doggo,"CLI tool that uses AI to help you search for and organize images using natural language queries (instead of remembering filenames, you can describe what you're looking for)."
+time-tracker,Hammerclock,,https://github.com/itworks99/hammerclock,TUI chess clock and phase tracker application for tabletop games.
+ai,CarthageAI,,https://github.com/alaadotcom/CarthageAI,Multi-provider AI terminal assistant for developers and AI enthusiasts.
+data-management-json,Konfigo,,https://github.com/ebogdum/konfigo,"Command-line tool designed to work with multiple configuration file formats like JSON, YAML, TOML."
+ai,Browser CLI,,https://github.com/browsemake/browser-cli,AI agent browser automation tool.
+copilot,Smart-Shell,,https://github.com/Lusan-sapkota/smart-shell,Intelligent terminal assistant that converts natural language into executable Bash or Zsh commands using Gemini AI model via google-genai SDK.
+email,gmailtail,,https://github.com/c4pt0r/gmailtail,"Command-line tool to monitor Gmail messages and output the as JSON; The program in designed for automation, monitoring and integration with other tools."
+file-dir-cleanup,Duplito,,https://github.com/ftarlao/duplito,Command-line tool designed to help you identify duplicate file on your system by listing the files in folders like ls does and highlighting what is duplicate.
+animation,cellscape,,https://github.com/ashish0kumar/cellscape,TUI simulator for eight classic cellular automata.
+music,Detify,,https://github.com/omenmn/detify,"CLI tool that automatically downloads your currently playing Spotify track using spotdl, with both manual and auto-download modes."
+animation,cpond,,https://github.com/ayuzur/cpond,The program creates procedurally animated fish to swim around your terminal.
+programming,Bump-Setup,,https://github.com/talwrii/bump-setup,Command-line utility designed to automatically update versione numbers in Pyhton project configuration files.
+git,gits-statuses,,https://github.com/nicolgit/gits-statuses,"A python/powershell command-line tool to display the status of multiple Git repositories in a clear, tabular format."
+utility,gtime,,https://github.com/savitojs/gtime,"Python CLI utility for global time zone lookup, comparison, and management; The program supports fuzzy search, favorites, city comparison, meeting time conversion, and a live/watch mode."
+webdev,domain-check,,https://github.com/saidutt46/domain-check,Universal domain exploration engine: fast domain availability checks across the internet.
+typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli/,Command line game to practice typing speed by competing against typer-robot or against your best result.
+financial,stocksTUI,,https://github.com/andriy-git/stocksTUI,StocksTUI: Real-time stock market data in your terminal.
+games,Terminal Ping Pong,,https://github.com/IshmamR/terminal.pong,A ping pong game in your terminal (play against AI opponent or a friend locally).
+cheatsheet,Subshella,,https://github.com/danpizz/subshella,"The program helps you manage groups of Bash environment variables with an interactive menu, making it quick to activate different configurations."
