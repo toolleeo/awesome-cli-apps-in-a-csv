@@ -2175,3 +2175,4 @@ financial,stocksTUI,,https://github.com/andriy-git/stocksTUI,StocksTUI: Real-tim
 games,Terminal Ping Pong,,https://github.com/IshmamR/terminal.pong,A ping pong game in your terminal (play against AI opponent or a friend locally).
 cheatsheet,Subshella,,https://github.com/danpizz/subshella,"The program helps you manage groups of Bash environment variables with an interactive menu, making it quick to activate different configurations."
 animation,The Cognitive Sandbox,,https://github.com/sylcrala/cognitive_sandbox,The project is a local simulation environment that allows individual agents (particles) to interact with and remeber each other across sessions.
+programming,Repomix,,https://github.com/yamadashy/repomix,"Tool that packs your entire repository into a single, AI-friendly file; Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools."
