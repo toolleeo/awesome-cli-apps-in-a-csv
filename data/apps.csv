@@ -2184,3 +2184,4 @@ email,Himalaya,,https://github.com/pimalaya/himalaya,CLI to manage emails.
 package-manager,autoupd,,https://github.com/2SSK/autoupd,"A simple CLI too to automatically update system packages using your Linux distro's package manager, with daily logs and systemd integration."
 ai,LamaCLI,,https://github.com/hariharen9/lamacli,AI assistante in both interactive mode and command-line mode in the terminal.
 programming,Locus,,https://github.com/tesso57/locus,"Locus is a Git-aware, local-first task management CLI, designed to streamline your development workflow, especially when working with AI coding assistants."
+programming,dfft,,https://github.com/dhth/dfft,The program monitors changes as AI agents modify your codebase.
