@@ -2200,3 +2200,4 @@ online,flashback,,https://github.com/cachebag/flashback,Find old YouTube content
 online,YouTube TUI,,https://github.com/Siriusmart/youtube-tui/tree/master,An aesthetically pleasing YouTube TUI written in Rust.
 programming,PAR MCP Inspector TUI,,https://github.com/paulrobello/par-mcp-inspector-tui,TUI to inspect and test MCP (model context protocol) servers.
 chat,ZUSE,,https://github.com/babycommando/zuse,Minimal IRC client for the terminal written in Go with Bubbletea.
+transfer,Filebin cli,,https://github.com/mshirazkamran/filebin-api,CLI tool to share files temporarily from the terminal (share short code to download on the other machine).
