@@ -2206,3 +2206,4 @@ copy-paste,clipboard-viewer,,https://github.com/jaggzh/xclipview-tui,Terminal-ba
 utility,loopctl,,https://github.com/Karvy-Singh/loopctl,The program allows you to repeat a media/section of media x number of times and to repeat a certain part of media.
 ai-cli-commands,Ollamacode CLI,,https://github.com/tooyipjee/ollamacode,The program creates a Python script from natural language and execute it automatically.
 git,gh-repo-man,,https://github.com/2KAbhishek/gh-repo-man,"GitHub CLI extension that allows developers to browse, clone and work with multiple repositories interactively."
+music,Podcli,,https://github.com/Air08/Podcli,"Terminal Based Podcast Client with search, subscription management, and playback features."
