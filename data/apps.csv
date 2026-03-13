@@ -2163,3 +2163,4 @@ ai,Browser CLI,,https://github.com/browsemake/browser-cli,AI agent browser autom
 copilot,Smart-Shell,,https://github.com/Lusan-sapkota/smart-shell,Intelligent terminal assistant that converts natural language into executable Bash or Zsh commands using Gemini AI model via google-genai SDK.
 email,gmailtail,,https://github.com/c4pt0r/gmailtail,"Command-line tool to monitor Gmail messages and output the as JSON; The program in designed for automation, monitoring and integration with other tools."
 file-dir-cleanup,Duplito,,https://github.com/ftarlao/duplito,Command-line tool designed to help you identify duplicate file on your system by listing the files in folders like ls does and highlighting what is duplicate.
+animation,cellscape,,https://github.com/ashish0kumar/cellscape,TUI simulator for eight classic cellular automata.
