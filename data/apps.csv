@@ -2160,3 +2160,4 @@ time-tracker,Hammerclock,,https://github.com/itworks99/hammerclock,TUI chess clo
 ai,CarthageAI,,https://github.com/alaadotcom/CarthageAI,Multi-provider AI terminal assistant for developers and AI enthusiasts.
 data-management-json,Konfigo,,https://github.com/ebogdum/konfigo,"Command-line tool designed to work with multiple configuration file formats like JSON, YAML, TOML."
 ai,Browser CLI,,https://github.com/browsemake/browser-cli,AI agent browser automation tool.
+copilot,Smart-Shell,,https://github.com/Lusan-sapkota/smart-shell,Intelligent terminal assistant that converts natural language into executable Bash or Zsh commands using Gemini AI model via google-genai SDK.
