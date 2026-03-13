@@ -2212,3 +2212,4 @@ git,GiTerm,,https://github.com/isene/GiTerm,"Git and GitHub TUI application (bro
 funny,Splash,,https://github.com/joshi4/splash,Program that adds color to your logs to make them easier to read.
 backup,qbak,,https://github.com/andreas-glaser/qbak,A single-command backup helper for Linux and POSIX systems written in Rust; The program creates timestamped backup copies of files and directories with zero configuration.
 file-handling,CHMpy-sp,,https://github.com/AmmarSyamil/CHMpy,TUI made from Textual for changing file/folder permission in Linux. 
+text-search-replace,scooter,,https://github.com/thomasschafer/scooter,Interactive find-and-replace TUI app; By default the program recursively searches through files in the current directory and can also be used to process text from stdin.
