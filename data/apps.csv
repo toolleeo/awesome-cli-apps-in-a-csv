@@ -2161,3 +2161,4 @@ ai,CarthageAI,,https://github.com/alaadotcom/CarthageAI,Multi-provider AI termin
 data-management-json,Konfigo,,https://github.com/ebogdum/konfigo,"Command-line tool designed to work with multiple configuration file formats like JSON, YAML, TOML."
 ai,Browser CLI,,https://github.com/browsemake/browser-cli,AI agent browser automation tool.
 copilot,Smart-Shell,,https://github.com/Lusan-sapkota/smart-shell,Intelligent terminal assistant that converts natural language into executable Bash or Zsh commands using Gemini AI model via google-genai SDK.
+email,gmailtail,,https://github.com/c4pt0r/gmailtail,"Command-line tool to monitor Gmail messages and output the as JSON; The program in designed for automation, monitoring and integration with other tools."
