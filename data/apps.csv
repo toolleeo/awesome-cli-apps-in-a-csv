@@ -2154,3 +2154,4 @@ ai,codepack v4,,https://github.com/w3spi5/codepack,CLI tool to extract folder st
 diff,LLM Prompt Semantic Diff,,https://github.com/aatakansalar/llm-prompt-semantic-diff,A CLI tool for managing and comparing LLM prompts using semantic diffing instead of traditional text-based comparison.
 games,DUNGEN!,,https://github.com/derekburgess/dungen,"Creates dynamically a world of mistery, peril and unexpected discoveries (LLM generated labyrinths: your choices shape the story, the dangers you face and the secrets you uncover)."
 learning,ShellKit,,https://github.com/pokeyaro/shellkit,"Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell)."
+file-manager,veld,,https://github.com/BranBushes/veld-fm,"A modern, tileable, terminal-based file manager built with Python and Textual."
