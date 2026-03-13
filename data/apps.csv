@@ -2190,3 +2190,4 @@ password-manager,VaultX,,https://github.com/rhjddjdbc/vaultx,"Minimal script-bas
 torrent,Torrra,,https://github.com/stabldev/torrra,A Python tool that lets you find and download torrents without leaving your CLI.
 online,Ozeki,,https://github.com/fuzzy/ozeki,Ozeki is a TUI for browsing data from sumo-api and for basho data going back to 1960.
 git,gmap,,https://github.com/seeyebe/gmap,Command-line tool for visualizing Git activity.
+history,his,,https://github.com/terroo/his,A command history utility with icons and colors that works on Windows and GNU/Linux.
