@@ -2187,3 +2187,4 @@ programming,Locus,,https://github.com/tesso57/locus,"Locus is a Git-aware, local
 programming,dfft,,https://github.com/dhth/dfft,The program monitors changes as AI agents modify your codebase.
 prompt,bashorg-motd,,https://github.com/graydot/bashorg-motd,More than 10 thousand quotes from the legendary bash_org archives to see when you open a new terminal.
 password-manager,VaultX,,https://github.com/rhjddjdbc/vaultx,"Minimal script-based password manager for the command line; The program allows yout to manage multiple isolated vaults, use strong encryption, perform password breach checks, export QR codes."
+torrent,Torrra,,https://github.com/stabldev/torrra,A Python tool that lets you find and download torrents without leaving your CLI.
