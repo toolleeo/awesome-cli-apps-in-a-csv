@@ -2171,3 +2171,4 @@ git,gits-statuses,,https://github.com/nicolgit/gits-statuses,"A python/powershel
 utility,gtime,,https://github.com/savitojs/gtime,"Python CLI utility for global time zone lookup, comparison, and management; The program supports fuzzy search, favorites, city comparison, meeting time conversion, and a live/watch mode."
 webdev,domain-check,,https://github.com/saidutt46/domain-check,Universal domain exploration engine: fast domain availability checks across the internet.
 typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli/,Command line game to practice typing speed by competing against typer-robot or against your best result.
+financial,stocksTUI,,https://github.com/andriy-git/stocksTUI,StocksTUI: Real-time stock market data in your terminal.
