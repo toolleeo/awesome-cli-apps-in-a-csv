@@ -2182,3 +2182,4 @@ typing,termitype,,https://github.com/emanuel2718/termitype,TUI typing game.
 email,Mailtide,,https://github.com/LandonH2007/mailtide,Lightweight Python-based CLI email client that allows you to browse and manage IMAP inboxes via terminal and send emails.
 email,Himalaya,,https://github.com/pimalaya/himalaya,CLI to manage emails.
 package-manager,autoupd,,https://github.com/2SSK/autoupd,"A simple CLI too to automatically update system packages using your Linux distro's package manager, with daily logs and systemd integration."
+ai,LamaCLI,,https://github.com/hariharen9/lamacli,AI assistante in both interactive mode and command-line mode in the terminal.
