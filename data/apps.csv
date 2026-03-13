@@ -2159,3 +2159,4 @@ file-dir-cleanup,doggo,,https://github.com/0nsh/doggo,"CLI tool that uses AI to 
 time-tracker,Hammerclock,,https://github.com/itworks99/hammerclock,TUI chess clock and phase tracker application for tabletop games.
 ai,CarthageAI,,https://github.com/alaadotcom/CarthageAI,Multi-provider AI terminal assistant for developers and AI enthusiasts.
 data-management-json,Konfigo,,https://github.com/ebogdum/konfigo,"Command-line tool designed to work with multiple configuration file formats like JSON, YAML, TOML."
+ai,Browser CLI,,https://github.com/browsemake/browser-cli,AI agent browser automation tool.
