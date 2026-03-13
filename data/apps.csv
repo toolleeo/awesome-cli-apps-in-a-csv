@@ -2207,3 +2207,4 @@ utility,loopctl,,https://github.com/Karvy-Singh/loopctl,The program allows you t
 ai-cli-commands,Ollamacode CLI,,https://github.com/tooyipjee/ollamacode,The program creates a Python script from natural language and execute it automatically.
 git,gh-repo-man,,https://github.com/2KAbhishek/gh-repo-man,"GitHub CLI extension that allows developers to browse, clone and work with multiple repositories interactively."
 music,Podcli,,https://github.com/Air08/Podcli,"Terminal Based Podcast Client with search, subscription management, and playback features."
+cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,Command template and snippet manager for the shell.
