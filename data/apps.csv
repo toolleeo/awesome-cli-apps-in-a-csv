@@ -2197,3 +2197,4 @@ games,NCurses Pacman,,https://github.com/woodrowb96/ncurses-pacman,Terminal-base
 funny,ting,,https://github.com/dhth/ting,The program provides audio feedback on the command line.
 editors,Erys,,https://github.com/natibek/erys,Terminal Interface for Jupyter Notebooks.
 online,flashback,,https://github.com/cachebag/flashback,Find old YouTube content that the algorithm hides by searching videos from specific years.
+online,YouTube TUI,,https://github.com/Siriusmart/youtube-tui/tree/master,An aesthetically pleasing YouTube TUI written in Rust.
