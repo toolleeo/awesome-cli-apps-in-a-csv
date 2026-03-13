@@ -2169,3 +2169,4 @@ animation,cpond,,https://github.com/ayuzur/cpond,The program creates procedurall
 programming,Bump-Setup,,https://github.com/talwrii/bump-setup,Command-line utility designed to automatically update versione numbers in Pyhton project configuration files.
 git,gits-statuses,,https://github.com/nicolgit/gits-statuses,"A python/powershell command-line tool to display the status of multiple Git repositories in a clear, tabular format."
 utility,gtime,,https://github.com/savitojs/gtime,"Python CLI utility for global time zone lookup, comparison, and management; The program supports fuzzy search, favorites, city comparison, meeting time conversion, and a live/watch mode."
+webdev,domain-check,,https://github.com/saidutt46/domain-check,Universal domain exploration engine: fast domain availability checks across the internet.
