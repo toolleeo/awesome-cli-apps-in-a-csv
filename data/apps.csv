@@ -2156,3 +2156,4 @@ games,DUNGEN!,,https://github.com/derekburgess/dungen,"Creates dynamically a wor
 learning,ShellKit,,https://github.com/pokeyaro/shellkit,"Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell)."
 file-manager,veld,,https://github.com/BranBushes/veld-fm,"A modern, tileable, terminal-based file manager built with Python and Textual."
 file-dir-cleanup,doggo,,https://github.com/0nsh/doggo,"CLI tool that uses AI to help you search for and organize images using natural language queries (instead of remembering filenames, you can describe what you're looking for)."
+time-tracker,Hammerclock,,https://github.com/itworks99/hammerclock,TUI chess clock and phase tracker application for tabletop games.
