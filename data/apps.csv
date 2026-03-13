@@ -2174,3 +2174,23 @@ typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli/,Command li
 financial,stocksTUI,,https://github.com/andriy-git/stocksTUI,StocksTUI: Real-time stock market data in your terminal.
 games,Terminal Ping Pong,,https://github.com/IshmamR/terminal.pong,A ping pong game in your terminal (play against AI opponent or a friend locally).
 cheatsheet,Subshella,,https://github.com/danpizz/subshella,"The program helps you manage groups of Bash environment variables with an interactive menu, making it quick to activate different configurations."
+animation,The Cognitive Sandbox,,https://github.com/sylcrala/cognitive_sandbox,The project is a local simulation environment that allows individual agents (particles) to interact with and remeber each other across sessions.
+programming,Repomix,,https://github.com/yamadashy/repomix,"Tool that packs your entire repository into a single, AI-friendly file; Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools."
+cheatsheet,alman,,https://github.com/vaibhav-mattoo/alman,"TUI for managing shell aliases with intelligent suggestions based on you command history (organize, create and manage aliases across multiple files and shells)."
+online,RIFT,,https://github.com/matthieugusmini/rift,League of Legends Esports in the terminal.
+typing,termitype,,https://github.com/emanuel2718/termitype,TUI typing game.
+email,Mailtide,,https://github.com/LandonH2007/mailtide,Lightweight Python-based CLI email client that allows you to browse and manage IMAP inboxes via terminal and send emails.
+email,Himalaya,,https://github.com/pimalaya/himalaya,CLI to manage emails.
+package-manager,autoupd,,https://github.com/2SSK/autoupd,"A simple CLI too to automatically update system packages using your Linux distro's package manager, with daily logs and systemd integration."
+ai,LamaCLI,,https://github.com/hariharen9/lamacli,AI assistante in both interactive mode and command-line mode in the terminal.
+programming,Locus,,https://github.com/tesso57/locus,"Locus is a Git-aware, local-first task management CLI, designed to streamline your development workflow, especially when working with AI coding assistants."
+programming,dfft,,https://github.com/dhth/dfft,The program monitors changes as AI agents modify your codebase.
+prompt,bashorg-motd,,https://github.com/graydot/bashorg-motd,More than 10 thousand quotes from the legendary bash_org archives to see when you open a new terminal.
+password-manager,VaultX,,https://github.com/rhjddjdbc/vaultx,"Minimal script-based password manager for the command line; The program allows yout to manage multiple isolated vaults, use strong encryption, perform password breach checks, export QR codes."
+torrent,Torrra,,https://github.com/stabldev/torrra,A Python tool that lets you find and download torrents without leaving your CLI.
+online,Ozeki,,https://github.com/fuzzy/ozeki,Ozeki is a TUI for browsing data from sumo-api and for basho data going back to 1960.
+git,gmap,,https://github.com/seeyebe/gmap,Command-line tool for visualizing Git activity.
+history,his,,https://github.com/terroo/his,A command history utility with icons and colors that works on Windows and GNU/Linux.
+typing,ttypr,,https://github.com/hotellogical05/ttypr,Terminal typing practice application.
+productivity,Git-Gamify,,https://github.com/DeerYang/git-gamify,"A command-line tool that turns your Git workflow into a fun RPG loop where you cand earn XP, level up and unlock achievements from real Git usage."
+games,NCurses Pacman,,https://github.com/woodrowb96/ncurses-pacman,Terminal-based Pac Man game written in c++.
