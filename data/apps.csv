@@ -2166,3 +2166,4 @@ file-dir-cleanup,Duplito,,https://github.com/ftarlao/duplito,Command-line tool d
 animation,cellscape,,https://github.com/ashish0kumar/cellscape,TUI simulator for eight classic cellular automata.
 music,Detify,,https://github.com/omenmn/detify,"CLI tool that automatically downloads your currently playing Spotify track using spotdl, with both manual and auto-download modes."
 animation,cpond,,https://github.com/ayuzur/cpond,The program creates procedurally animated fish to swim around your terminal.
+programming,Bump-Setup,,https://github.com/talwrii/bump-setup,Command-line utility designed to automatically update versione numbers in Pyhton project configuration files.
