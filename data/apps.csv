@@ -2214,3 +2214,17 @@ backup,qbak,,https://github.com/andreas-glaser/qbak,A single-command backup help
 file-handling,CHMpy-sp,,https://github.com/AmmarSyamil/CHMpy,TUI made from Textual for changing file/folder permission in Linux. 
 text-search-replace,scooter,,https://github.com/thomasschafer/scooter,Interactive find-and-replace TUI app; By default the program recursively searches through files in the current directory and can also be used to process text from stdin.
 productivity,Sinkzone,,https://github.com/berbyte/sinkzone,"Application that blocks everything by default unless you explicitly allow it; A DNS tool for productivity, focus, and child safety."
+networking,portfinder,,https://github.com/doganarif/portfinder,"Modern CLI tool to identify and manage processes using network ports; Built with GO, featuring project awareness, Docker support and an interactive terminal UI."
+file-manager,RTFM,,https://github.com/isene/RTFM,Feature-rich Terminal File Manager written in Ruby.
+email,Open Archiver,,https://github.com/LogicLabs-OU/OpenArchiver,"The program provides a solution for archiving, storing, indexing and searching emails from major platforms."
+ls,lsnotes,,https://github.com/aeilot/lsnotes,The program lets you add a description to your directories.
+git,WRKFLW,,https://github.com/bahdotsh/wrkflw,"Command-line tool for validating and executing GitHub actions workflows locally, without a full GitHub environment."
+security,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
+shells,sshrc,,https://github.com/cdown/sshrc,The program works just like ssh while also sourcing your local sshrc configuration file upon logging in remotely.
+ai,AskOra,,https://github.com/rosettadb/askora,"Unified Python CLI interacting with multiple AI providers sending prompts and getting structured AI responses, all from your terminal."
+todo-manager,Togo,,https://github.com/prime-run/togo,A fast and simple terminal-based task and todo manager built in go.
+security,keeenv,,https://github.com/scross01/keeenv,Command-line tool that populates environment variables from a local configuration file with encrypted Keepass database to dynamically fetch sensitive data.
+todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform terminal task manager.
+file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document viewer for Word files (view, search and export documents)."
+online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
+online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
