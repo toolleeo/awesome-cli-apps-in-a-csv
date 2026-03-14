@@ -2222,3 +2222,4 @@ git,WRKFLW,,https://github.com/bahdotsh/wrkflw,"Command-line tool for validating
 security,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
 shells,sshrc,,https://github.com/cdown/sshrc,The program works just like ssh while also sourcing your local sshrc configuration file upon logging in remotely.
 ai,AskOra,,https://github.com/rosettadb/askora,"Unified Python CLI interacting with multiple AI providers sending prompts and getting structured AI responses, all from your terminal."
+todo-manager,Togo,,https://github.com/prime-run/togo,A fast and simple terminal-based task and todo manager built in go.
