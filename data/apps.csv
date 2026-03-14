@@ -2217,3 +2217,4 @@ productivity,Sinkzone,,https://github.com/berbyte/sinkzone,"Application that blo
 networking,portfinder,,https://github.com/doganarif/portfinder,"Modern CLI tool to identify and manage processes using network ports; Built with GO, featuring project awareness, Docker support and an interactive terminal UI."
 file-manager,RTFM,,https://github.com/isene/RTFM,Feature-rich Terminal File Manager written in Ruby.
 email,Open Archiver,,https://github.com/LogicLabs-OU/OpenArchiver,"The program provides a solution for archiving, storing, indexing and searching emails from major platforms."
+ls,lsnotes,,https://github.com/aeilot/lsnotes,The program lets you add a description to your directories.
