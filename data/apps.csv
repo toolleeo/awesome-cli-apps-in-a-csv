@@ -2219,3 +2219,4 @@ file-manager,RTFM,,https://github.com/isene/RTFM,Feature-rich Terminal File Mana
 email,Open Archiver,,https://github.com/LogicLabs-OU/OpenArchiver,"The program provides a solution for archiving, storing, indexing and searching emails from major platforms."
 ls,lsnotes,,https://github.com/aeilot/lsnotes,The program lets you add a description to your directories.
 git,WRKFLW,,https://github.com/bahdotsh/wrkflw,"Command-line tool for validating and executing GitHub actions workflows locally, without a full GitHub environment."
+security,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
