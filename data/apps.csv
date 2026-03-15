@@ -2214,3 +2214,4 @@ backup,qbak,,https://github.com/andreas-glaser/qbak,A single-command backup help
 file-handling,CHMpy-sp,,https://github.com/AmmarSyamil/CHMpy,TUI made from Textual for changing file/folder permission in Linux. 
 text-search-replace,scooter,,https://github.com/thomasschafer/scooter,Interactive find-and-replace TUI app; By default the program recursively searches through files in the current directory and can also be used to process text from stdin.
 productivity,Sinkzone,,https://github.com/berbyte/sinkzone,"Application that blocks everything by default unless you explicitly allow it; A DNS tool for productivity, focus, and child safety."
+monitor,onWatch,https://onwatch.onllm.dev,https://github.com/onllm-dev/onwatch,"Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI Codex, GitHub Copilot, Synthetic, Z.ai, MiniMax, Antigravity); background daemon with <50MB RAM, Material Design 3 web dashboard, zero telemetry."
