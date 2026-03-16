@@ -10,30 +10,30 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2195**
+* Apps/tools: **2228**
 * Categories: **81**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (46), [AI terminal command generator](#ai-cli-commands) (15), [Animation](#animation) (39), [Anki, decks and flashcards](#flashcard) (10)
-* [Backup](#backup) (19)
-* [Calculators](#calc) (21), [Chat and instant messaging](#chat) (51), [Clean up of files and directories](#file-dir-cleanup) (17), [Co-pilot](#copilot) (12), [Command launchers](#launcher) (28), [Commands cheatsheet and snippets](#cheatsheet) (32), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (10)
-* [Data management](#data-management) (18), [Data management - JSON/YAML/etc.](#data-management-json) (48), [Data management - Tabular data](#data-management-tabular) (37), [Data transfer](#transfer) (46), [DevOps](#devops) (22), [Diff](#diff) (12), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (14)
-* [Editors](#editors) (33), [Email](#email) (22)
-* [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (15), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (10), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (28), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (25), [Font management](#font) (5), [Funny tools](#funny) (20), [Fuzzy finders and option pickers](#option-picker) (18)
-* [Games](#games) (100), [Git and accessories](#git) (78), [Graphics](#graphics) (54)
+* [AI / ChatGPT](#ai) (47), [AI terminal command generator](#ai-cli-commands) (16), [Animation](#animation) (39), [Anki, decks and flashcards](#flashcard) (10)
+* [Backup](#backup) (20)
+* [Calculators](#calc) (21), [Chat and instant messaging](#chat) (52), [Clean up of files and directories](#file-dir-cleanup) (17), [Co-pilot](#copilot) (12), [Command launchers](#launcher) (28), [Commands cheatsheet and snippets](#cheatsheet) (33), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (11)
+* [Data management](#data-management) (18), [Data management - JSON/YAML/etc.](#data-management-json) (48), [Data management - Tabular data](#data-management-tabular) (37), [Data transfer](#transfer) (47), [DevOps](#devops) (22), [Diff](#diff) (12), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (14)
+* [Editors](#editors) (34), [Email](#email) (23)
+* [File and file system handling](#file-handling) (31), [File deletion and trash bin (alternatives to rm)](#rm) (15), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (10), [File listing (alternatives to ls)](#ls) (12), [File manager](#file-manager) (29), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (25), [Font management](#font) (5), [Funny tools](#funny) (22), [Fuzzy finders and option pickers](#option-picker) (18)
+* [Games](#games) (100), [Git and accessories](#git) (81), [Graphics](#graphics) (54)
 * [History management](#history) (6)
 * [Learning and didactic tools](#learning) (10)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (98), [Note taking](#note-taking) (34)
-* [Office tools](#office) (22), [Online search and resources](#online) (39), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (26), [Password managers](#password-manager) (24), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (30), [Productivity](#productivity) (18), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (73), [Prompts](#prompt) (14)
+* [Networking](#networking) (99), [Note taking](#note-taking) (34)
+* [Office tools](#office) (22), [Online search and resources](#online) (43), [Organizers and calendars](#organizers) (22)
+* [Package managers](#package-manager) (26), [Password managers](#password-manager) (24), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (30), [Productivity](#productivity) (19), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (74), [Prompts](#prompt) (14)
 * [RSS](#rss) (12), [Religion](#religion) (6)
-* [Science](#science) (23), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (7), [Security and encryption](#security) (40), [Shells](#shells) (26), [Sound and music](#music) (72), [System monitoring](#monitor) (55), [System tools](#system) (48)
-* [Terminals](#terminal) (27), [Text processing](#text-processing) (59), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (7), [Time trackers](#time-tracker) (28), [Todo managers](#todo-manager) (42), [Torrent](#torrent) (10), [Typing test and practice](#typing) (22)
-* [Utilities](#utility) (51)
-* [Versioning](#versioning) (9), [Video](#video) (16), [Viewers](#viewers) (48)
-* [Web browser](#browser) (20), [Web development](#webdev) (35), [Writing](#writing) (12)
+* [Science](#science) (23), [Screen recorder](#screen-recorder) (12), [Screen savers](#screensaver) (7), [Security and encryption](#security) (42), [Shells](#shells) (27), [Sound and music](#music) (73), [System monitoring](#monitor) (55), [System tools](#system) (48)
+* [Terminals](#terminal) (27), [Text processing](#text-processing) (59), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (8), [Time trackers](#time-tracker) (28), [Todo managers](#todo-manager) (44), [Torrent](#torrent) (10), [Typing test and practice](#typing) (22)
+* [Utilities](#utility) (52)
+* [Versioning](#versioning) (9), [Video](#video) (16), [Viewers](#viewers) (49)
+* [Web browser](#browser) (19), [Web development](#webdev) (35), [Writing](#writing) (12)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -42,6 +42,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [AI](https://github.com/nitefood/ai-bash-gpt) - A command-line ChatGPT client in BASH with conversation/completion support.
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 * [Alibaba-CLI-Scraper](https://github.com/poneoneo/Alibaba-CLI-Scraper) - Create your own Alibaba dataset and interact with it in plain English.
+* [AskOra](https://github.com/rosettadb/askora) - Unified Python CLI interacting with multiple AI providers sending prompts and getting structured AI responses, all from your terminal.
 * [ata](https://github.com/transformrs/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
 * [Browser CLI](https://github.com/browsemake/browser-cli) - AI agent browser automation tool.
 * [cai](https://github.com/ad-si/cai) - The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
@@ -97,6 +98,7 @@ Generates or explains commands for the command line using AI.
 * [LazyShell](https://github.com/bernoussama/lazyshell) - AI CLI tool that generates and executes shell commands using AI.
 * [llm-term](https://github.com/dh1011/llm-term) - A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
 * [Octomind](https://github.com/muvon/octomind) - Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in.
+* [Ollamacode CLI](https://github.com/tooyipjee/ollamacode) - The program creates a Python script from natural language and execute it automatically.
 * [OpenCode](https://opencode.ai/download) - AI coding agent, built for the terminal.
 * [osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
 * [py-ai-shell](https://github.com/cheney-yan/py-ai-shell) - AI-powered shell for command line users.
@@ -180,6 +182,7 @@ Tools to manage the backup of files and directories.
 * [gwbackupy](https://github.com/smartondev/gwbackupy) - Open source Google Workspace™ backup solution.
 * [Kopia](https://kopia.io/) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression, and data deduplication. CLI and GUI included.
 * [paperbackup](https://github.com/intra2net/paperbackup) - Create a PDF with barcodes to backup text files on paper.
+* [qbak](https://github.com/andreas-glaser/qbak) - A single-command backup helper for Linux and POSIX systems written in Rust; The program creates timestamped backup copies of files and directories with zero configuration.
 * [rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally, using the same protocol as rsync to transfer and store data.
 * [Restic](https://restic.net/) - A backup program that is fast, efficient, and secure.
 * [rsnapshot](https://rsnapshot.org) -  A filesystem snapshot utility based on rsync. It manages a rotation schedule when to discard older backup, e.g. from hourly to yearly. The Perl code makes extensive use of hard links and greatly reduces the disk space required.
@@ -270,6 +273,7 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
 * [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 * [Zulip Terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
+* [ZUSE](https://github.com/babycommando/zuse) - Minimal IRC client for the terminal written in Go with Bubbletea.
 
 ## <a name="file-dir-cleanup"></a>Clean up of files and directories
 
@@ -360,6 +364,7 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [gocheat](https://github.com/Achno/gocheat) - Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases.
 * [halp](https://github.com/orhun/halp) - halp aims to help find the correct arguments for command-line tools by checking the predefined list of commonly used options/flags.
 * [IntelliShell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells, acting like a bookmark store for commands.
+* [IntelliShell](https://github.com/lasantosr/intelli-shell) - Command template and snippet manager for the shell.
 * [kmdr-cli](https://github.com/ediardo/kmdr-cli) - The CLI tool for explaining commands from your terminal.
 * [ManPDF & ManWEB](https://github.com/sebastiancarlos/manpdf) - Read your Man pages in PDF format. Even online!
 * [MUC](https://github.com/nate-sys/muc) - Visualize your most used commands.
@@ -436,6 +441,7 @@ File format converters.
 
 Clipboard managers and text copy/paste tools.
 
+* [clipboard-viewer](https://github.com/jaggzh/xclipview-tui) - Terminal-based clipboard browser.
 * [clipper](https://github.com/supitsdu/clipper) - Seamlessly copy file contents to clipboard from command line. Lightweight, cross-platform tool for instant text transfers.
 * [clipse](https://github.com/savedra1/clipse) - TUI-based clipboard manager application written in Go.
 * [Clipsync](https://github.com/marcopaganini/clipsync) - Share your clipboard across multiple machines using an MQTT service.
@@ -576,6 +582,7 @@ Programs for transferring files and data between different machines.
 * [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 * [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progress bar.
 * [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
+* [Filebin cli](https://github.com/mshirazkamran/filebin-api) - CLI tool to share files temporarily from the terminal (share short code to download on the other machine).
 * [Froop](https://github.com/happer64bit/froop) - Share file across network seamlessly and securely.
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Gallery-dl is a command-line program to download image galleries and collections from several image hosting sites.
 * [github-dlr](https://github.com/rocktimsaikia/github-dlr) - Download individual files and folders from Github recursively.
@@ -721,6 +728,7 @@ Text editors.
 * [edit](https://github.com/microsoft/edit) - This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code.
 * [Emacs](https://www.gnu.org/software/emacs/) - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
+* [Erys](https://github.com/natibek/erys) - Terminal Interface for Jupyter Notebooks.
 * [Feather](https://www.feathereditor.com/) - The only terminal based text editor designed to work with BIG files.
 * [Helix](https://github.com/helix-editor/helix) - A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune.
 * [Helix](https://helix-editor.com/) - A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features.
@@ -765,6 +773,7 @@ Email clients (MUA - Mail User Agents), mail synchronization, generation indexin
 * [NeoMutt](https://neomutt.org/) - Patched and up-to-dated mutt fork.
 * [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
 * [Notmuch](https://git.notmuchmail.org/git/notmuch) - Notmuch is a command-line based program for indexing, searching, reading, and tagging large collections of email messages.
+* [Open Archiver](https://github.com/LogicLabs-OU/OpenArchiver) - The program provides a solution for archiving, storing, indexing and searching emails from major platforms.
 * [paws](https://github.com/tomhrr/paws) - sendmail/maildir interface to Slack.
 * [pop](https://github.com/charmbracelet/pop) - Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
 * [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
@@ -777,12 +786,14 @@ Email clients (MUA - Mail User Agents), mail synchronization, generation indexin
 Tools for managing files and directories (copy, move, extraction from compressed archives, change permissions, etc.).
 
 * [burf](https://github.com/razeghi71/burf) - TUI for Google Cloud Storage (GCS).
+* [CHMpy-sp](https://github.com/AmmarSyamil/CHMpy) - TUI made from Textual for changing file/folder permission in Linux. 
 * [choof](https://github.com/elParadigm/choof) - Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux.
 * [compsize](https://github.com/kilobyte/compsize) - Find compression type/ratio on a file or set of files on a btrfs file system.
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 * [dlorg](https://github.com/deepspeccode/dlorg) - Powerful and intuitive that automatically organizes your cluttered Downloads folder into a neatly structured directory system.
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
 * [dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles.
+* [doxx](https://github.com/bgreenwell/doxx) - Terminal native document viewer for Word files (view, search and export documents).
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows using one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
 * [Fast Files](https://github.com/mintycube/fast-files) - ff is a bash script which is a combination of `mkdir` and `touch`. It can create directory structures and files simultaneously and lists the created objects using `eza`, `lsd`, or `ls`.
 * [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
@@ -868,6 +879,7 @@ List directory content and files, with colors or icons; alternatives to `ls`.
 * [ll](https://github.com/antonmedv/ll) - ls with git status.
 * [lscoltui](https://github.com/breynard0/lscoltui) - A TUI tool for changing the colours of ls.
 * [lsd](https://github.com/lsd-rs/lsd) - This project is a rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
+* [lsnotes](https://github.com/aeilot/lsnotes) - The program lets you add a description to your directories.
 * [nat](https://github.com/willdoescode/nat) - Complete replacement for the `ls` command.
 * [pretty-ls](https://github.com/ix/pretty-ls) - Rust ls clone with pretty colors.
 * [stree](https://github.com/orangekame3/stree) - A CLI tool designed to visualize the directory tree structure of an S3 bucket.
@@ -898,8 +910,9 @@ Applications for interactively managing files and directories.
 * [projectable](https://github.com/dzfrias/projectable) - A TUI file manager built for projects.
 * [ranger](https://ranger.github.io/) - File manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type.
 * [rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
+* [RTFM](https://github.com/isene/RTFM) - Feature-rich Terminal File Manager written in Ruby.
 * [sfm](https://github.com/afify/sfm) - Simple file manager for unix-like systems with kernel event notifications, monitoring filesystem events, dual pane and more.
-* [superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern file manager.
+* [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern file manager.
 * [TUIFI Manager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
 * [veld](https://github.com/BranBushes/veld-fm) - A modern, tileable, terminal-based file manager built with Python and Textual.
 * [vifm](https://vifm.info/) - "ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt" (cit.).
@@ -1011,6 +1024,8 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 * [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 * [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
 * [Russhian Roulette](https://github.com/cyradotpink/russhian-roulette) - 1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
+* [Splash](https://github.com/joshi4/splash) - Program that adds color to your logs to make them easier to read.
+* [ting](https://github.com/dhth/ting) - The program provides audio feedback on the command line.
 * [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 
 ## <a name="option-picker"></a>Fuzzy finders and option pickers
@@ -1034,7 +1049,7 @@ Fuzzy finders and generic option pickers in lists of strings.
 * [smenu](https://github.com/p-gen/smenu) - Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 * [television](https://github.com/alexpasmantier/television) - Blazing fast general purpose fuzzy finder TUI.
 * [tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
-* [tui-datepicker](https://github.com/maraloon/tui-datepicker) - Select date in terminal with vim-motions and copy to buffer.
+* [tui-datepicker](https://github.com/maraloon/pickdate) - Select date in terminal with vim-motions and copy to buffer.
 
 ## <a name="games"></a>Games
 
@@ -1159,6 +1174,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [gh](https://cli.github.com/) - GitHub's official tool to manage repos, issues, projects, gists and much more.
 * [gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh CLI.
+* [gh-repo-man](https://github.com/2KAbhishek/gh-repo-man) - GitHub CLI extension that allows developers to browse, clone and work with multiple repositories interactively.
 * [gh-s](https://github.com/gennaro-tedesco/gh-s) - Search GitHub repositories interactively.
 * [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
 * [giq](https://github.com/doganarif/giq) - Git CLI with AI-powered commit messages and insights; it is a drop-in replacement for git with the same commands.
@@ -1188,6 +1204,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [git-stats](https://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars.
 * [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repositories.
 * [Gitea](https://gitea.com/) - Single binary self-hosted Git service.
+* [GiTerm](https://github.com/isene/GiTerm) - Git and GitHub TUI application (browse repositories, manage issues and pull requests and perform Git operations from the terminal).
 * [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 * [gitleaks](https://github.com/gitleaks/gitleaks) - Tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos.
 * [gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection.
@@ -1223,6 +1240,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [travelgrunt](https://github.com/ivanilves/travelgrunt) - cd inside [mono]repos without fatigue.
 * [unreal-git-hook](https://github.com/dmayboroda/unreal-git-hook) - Mix of git-hook and Unreal Tournament announcer.
 * [ur-commit-mentor](https://github.com/ddoemonn/ur-commit-mentor) - A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API).
+* [WRKFLW](https://github.com/bahdotsh/wrkflw) - Command-line tool for validating and executing GitHub actions workflows locally, without a full GitHub environment.
 
 ## <a name="graphics"></a>Graphics
 
@@ -1380,6 +1398,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 * [oryx](https://github.com/pythops/oryx) - TUI for sniffing network traffic using eBPF on Linux.
 * [packemon](https://github.com/ddddddO/packemon) - TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
+* [portfinder](https://github.com/doganarif/portfinder) - Modern CLI tool to identify and manage processes using network ports; Built with GO, featuring project awareness, Docker support and an interactive terminal UI.
 * [Prosody](https://prosody.im/) - Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources.
 * [Proxymock](https://proxymock.io) - A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
 * [PSSH](https://code.google.com/archive/p/parallel-ssh/) - Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
@@ -1505,9 +1524,11 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [dawson](https://github.com/will-moss/dawson) - Track your project's statistics on Hacker News and Github, and get notified on every new interaction.
 * [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (HTML version) from the terminal.
 * [Fjira](https://github.com/mk-5/fjira) - The fuzziest Jira command line tool in the world.
+* [flashback](https://github.com/cachebag/flashback) - Find old YouTube content that the algorithm hides by searching videos from specific years.
 * [gh-star-timeline](https://github.com/talwrii/gh-star-timeline) - Command-line tool to keep track of historic stars on github. Machine-useable output.
 * [ghfetch](https://github.com/orangekame3/ghfetch) - ghfetch is a CLI tool to fetch GitHub user information and show like Neofetch.
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
+* [IMDb Terminal Browser](https://github.com/isene/IMDB) - Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 * [is-fast](https://github.com/Magic-JD/is-fast) - A TUI tool designed for quick and efficient internet searches directly from the terminal, ideal for environments where you don't have easy access to a browser.
 * [jira-cli](https://github.com/ankitpokhrel/jira-cli) - Feature-rich interactive Jira command line.
 * [leetfetch](https://github.com/Rage997/leetfetch) - A commandline python tool to fetch and organize all leetcode submissions and problem description locally.
@@ -1515,6 +1536,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [MAL-Cli](https://github.com/L4z3x/mal-cli) - A terminal interface for the official myanimelist api written in Rust and Ratatui.
 * [monolith](https://github.com/Y2Z/monolith) - Tool and library for saving complete web pages as a single HTML file.
 * [mufetch](https://github.com/ashish0kumar/mufetch) - CLI for music display (album covers and artist information) with comprehensive metadata, clickable links, responsive sizing and cross-platform support.
+* [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) - The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 * [Ozeki](https://github.com/fuzzy/ozeki) - Ozeki is a TUI for browsing data from sumo-api and for basho data going back to 1960.
 * [PagerDuty TUI](https://github.com/Mk555/pagerduty-tui) - Minimalistic terminal UI to manage triggered incidents.
 * [par_scrape](https://github.com/paulrobello/par_scrape) - PAR Scrape is a versatile web scraping tool with options for Selenium or Playwright, featuring AI-powered data extraction and formatting.
@@ -1536,6 +1558,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface.
 * [Wikipedia-Command-Line-Interface](https://github.com/DaDevMikey/Wikipedia-Command-Line-Interface) - Use wikipedia in your command prompt.
 * [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
+* [YouTube TUI](https://github.com/Siriusmart/youtube-tui/tree/master) - An aesthetically pleasing YouTube TUI written in Rust.
 
 ## <a name="organizers"></a>Organizers and calendars
 
@@ -1683,6 +1706,7 @@ Applications for improving own productivity that do not deserve (at the moment) 
 * [hnjobs](https://github.com/mwinters0/hnjobs) - Console tool to find the best match on Who's Hiring.
 * [multranslate](https://github.com/Lifailon/multranslate) - A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection.
 * [Profile Fox](https://github.com/talwrii/profile-fox) - Opens new tabs in a specific firefox profile.
+* [Sinkzone](https://github.com/berbyte/sinkzone) - Application that blocks everything by default unless you explicitly allow it; A DNS tool for productivity, focus, and child safety.
 * [speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
 * [telert](https://github.com/navig-me/telert) - Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete.
 * [try-rs](https://try-rs.org) - Temporary workspace manager with a TUI to organize, navigate, and manage experiments and throwaway projects.
@@ -1759,6 +1783,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 * [nsh](https://github.com/theHamdiz/nsh) - A powerful renaming utility for developers, used to rename Symbols, Phrases in File contents, file names, directory names, recursively, useful specially when you find a better name for your app.
 * [o](https://github.com/rev-dot-now/o) - Agentic Design Framework, automate with natural language, build agents in seconds, self-generate new features.
+* [PAR MCP Inspector TUI](https://github.com/paulrobello/par-mcp-inspector-tui) - TUI to inspect and test MCP (model context protocol) servers.
 * [PesterExplorer](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
 * [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 * [PuDB](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
@@ -1868,6 +1893,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 * [agg](https://github.com/asciinema/agg) - agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [goscript](https://github.com/elisescu/goscript) - Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained HTML file that can be run in the browser, to playback the session.
+* [rewindtty](https://github.com/debba/rewindtty) - A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.
 * [t-rec](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated GIF images for the web written in rust.
 * [terminal-recorder](https://github.com/cortezcristian/terminal-recorder) - Terminal recorder allows you to record your bash session, and export it to HTML so then you can share it with your friends.
 * [terminal-svg-screenshot](https://github.com/suin/terminal-svg-screenshot) - A tool for creating beautiful SVG screenshots of terminal output, perfect for documentation and blog posts.
@@ -1913,6 +1939,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [hashcat](https://hashcat.net/hashcat/) - A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash.
 * [Image Steganography Tool](https://github.com/7thSamurai/steganography) - Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
 * [jdvrif](https://github.com/CleasbyCode/jdvrif) - CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
+* [keeenv](https://github.com/scross01/keeenv) - Command-line tool that populates environment variables from a local configuration file with encrypted Keepass database to dynamically fetch sensitive data.
 * [Minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 * [OAuth2c](https://github.com/cloudentity/oauth2c) - A command-line tool for interacting with OAuth 2.0 authorization servers.
 * [ots](https://github.com/sniptt-official/ots) - Share end-to-end encrypted secrets with others via a one-time URL.
@@ -1923,6 +1950,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [quill](https://anchore.com/opensource/) - Simple mac binary signing from any platform.
 * [safe](https://z3bra.org/safe/) - Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
 * [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer.
+* [secret_share](https://github.com/scosman/secret_share) - The program allows you to share messages (secrets and passwords) securely with a CLI.
 * [securo](https://github.com/iunary/securo) - Encrypt and descrypt files and folders using a symmetric encryption.
 * [SOPS](https://github.com/getsops/sops) - SOPS (Secrets OPerationS) is a simple and flexible tool for managing secrets, sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats, encrypting the values but not the keys.
 * [SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
@@ -1959,6 +1987,7 @@ Shell programs that enable the interaction through the terminal.
 * [Rash](https://rash-lang.org) - A shell language, library, and REPL for Racket.
 * [Reptyl](https://github.com/0ut0flin3/Reptyl) - A cross-platform command line shell that supports execution of commands in natural language.
 * [SSHop](https://github.com/Skullsneeze/sshop) - An SSH connection helper that let's you hop to a server with ease.
+* [sshrc](https://github.com/cdown/sshrc) - The program works just like ssh while also sourcing your local sshrc configuration file upon logging in remotely.
 * [Tcsh](https://www.tcsh.org) - A shell that, at the time of creation, introduced command completion and command line editing.
 * [Twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server.
 * [xonsh](https://xon.sh/) - The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
@@ -2019,6 +2048,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (UNIX fork) is a music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene.
 * [podbit](https://github.com/ejv2/podbit) - Podbit is a replacement for newsboat's standard podboat tool for listening to podcasts. It is minimal, performant and tries to focus just on being a podcast client, rather than an RSS reader.
 * [podboat](https://newsboat.org/) - A podcast download manager for text terminals, a companion for the newsboat RSS-reader.
+* [Podcli](https://github.com/Air08/Podcli) - Terminal Based Podcast Client with search, subscription management, and playback features.
 * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio.
 * [PyRadio](https://github.com/coderholic/pyradio) - Curses based internet radio player.
 * [pytunes](https://github.com/bernhardfritz/pytunes) - Self-hosted music streaming service.
@@ -2282,6 +2312,7 @@ Tools to search text within files and perform operations on it, such as text rep
 * [frep](https://github.com/thomasschafer/frep) - Fast find-and-replace tool; search and replace in files in directories or process stdin.
 * [Rep](https://github.com/robenkleene/rep-grep) - Rep is a command-line utility that takes grep-formatted lines via standard input, and performs a find-and-replace on them.
 * [repgrep](https://github.com/acheronfail/repgrep) - A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
+* [scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace TUI app; By default the program recursively searches through files in the current directory and can also be used to process text from stdin.
 * [sd](https://github.com/chmln/sd) - s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
 * [srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
 * [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
@@ -2341,6 +2372,7 @@ Todo list and task managers.
 * [memo](https://www.byteptr.com/memo/) - Memo is a Unix-style note-taking software for POSIX compatible systems.
 * [omm](https://github.com/dhth/omm) - "on-my-mind" is a keyboard-driven task manager for the command line.
 * [Redo.vc](https://redo.vc) - Redo.vc is a tool for command line fans that allows you to track your tasks. It is a full-featured todo manager with tagging, projects, recurring tasks and much more, all stored in a JSON file so it is super portable and tooling new apps for the data format is super easy.
+* [rusk](https://github.com/tagirov/rusk) - A minimal cross-platform terminal task manager.
 * [t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.
 * [tascli](https://github.com/Aperocky/tascli) - A simple, fast, local task and record manager in CLI.
 * [taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat.
@@ -2357,6 +2389,7 @@ Todo list and task managers.
 * [todoclist](https://github.com/RuslanGagushin/todoclist) - Simple CLI app for check your tasks from todoist.
 * [Todoman](https://github.com/pimutils/todoman) - A simple, standards-based, CLI todo (aka: task) manager.
 * [todotxt-machine](https://pypi.org/project/todotxt-machine/) - Interface for todo.txt.
+* [Togo](https://github.com/prime-run/togo) - A fast and simple terminal-based task and todo manager built in go.
 * [topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 * [tsk](https://github.com/kakengloh/tsk) - Terminal task management app with an emphasis on simplicity, efficiency and ease of use.
 * [TuDu](https://code.meskio.net/tudu/) - Manage hierarchical todos. Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities.
@@ -2432,6 +2465,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [guesswidth](https://github.com/noborus/guesswidth) - Guess the width output without delimiters in commands that output to the terminal.
 * [gust](https://github.com/josephburgess/gust) - Command line weather app written in Go.
 * [Keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
+* [loopctl](https://github.com/Karvy-Singh/loopctl) - The program allows you to repeat a media/section of media x number of times and to repeat a certain part of media.
 * [mkdesk](https://gitlab.com/mr-draxs/mkdesk) - A program/command to create .desktop files (program launchers) using the terminal.
 * [movie](https://github.com/mayankchd/movie) - A CLI for getting information about a movie and comparing two movies.
 * [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
@@ -2514,6 +2548,7 @@ File viewers for images and other formats (e.g., e-books).
 * [dashbrew](https://github.com/rasjonell/dashbrew) - TUI dashboard builder that lets you visualize data from scripts and APIs.
 * [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader.
 * [fancy-cat](https://github.com/freref/fancy-cat) - CLI PDF reader with Vim keybindings.
+* [GopherTube](https://github.com/krishnassh/gophertube) - A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback.
 * [hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * [head-shoulders-knees-toes](https://github.com/jaggzh/head-shoulders-knees-toes) - Preview file contents by sampling from head, middle, and end.
@@ -2563,8 +2598,7 @@ Web browsers with textual interface.
 * [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal.
 * [Chawan](https://sr.ht/~bptato/chawan/) - A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.
 * [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
-* [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
-* [ELinks](https://github.com/rkd77/elinks) - Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts.
+* [ELinks](http://elinks.cz/) - Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts.
 * [gplaces](https://github.com/dimkr/gplaces) - Simple but powerful terminal Gemini client.
 * [Graphene](https://github.com/atsepkov/Graphene) - A text-based web browser that's a joy to use.
 * [Gremlin](https://github.com/actuday6418/gremlin) - Gemini browser for the terminal.
