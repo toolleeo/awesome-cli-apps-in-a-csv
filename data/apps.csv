@@ -113,7 +113,7 @@ file-manager,lfm,https://inigo.katxi.org/devel/lfm/,https://github.com/langner/l
 file-manager,Midnight Commander,http://www.midnight-commander.org/,https://github.com/MidnightCommander/mc,"A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor."
 file-manager,ncursesFM,,https://github.com/FedeDP/ncursesFM,"File manager written in C, rather complete in terms of features, especially lightweight and responsive."
 file-manager,ranger,https://ranger.github.io/,https://github.com/ranger/ranger,"File manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type."
-file-manager,superfile,,https://github.com/MHNightCat/superfile,Pretty fancy and modern file manager.
+file-manager,superfile,,https://github.com/yorukot/superfile,Pretty fancy and modern file manager.
 file-manager,vifm,https://vifm.info/,https://github.com/vifm/vifm,"""ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt"" (cit.)."
 conversion,catdoc,http://www.wagner.pp.ru/~vitus/software/catdoc/,http://www.wagner.pp.ru/git/oss/catdoc.git,Convert Microsoft Word files to plain text; output is sent to the standard output.
 conversion,Pandoc,http://pandoc.org/,https://github.com/jgm/pandoc,"Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, DOCX, ODT, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats."
@@ -163,7 +163,7 @@ webdev,Metalsmith,http://www.metalsmith.io/,https://github.com/metalsmith/metals
 webdev,nanoc,http://nanoc.ws/,https://github.com/nanoc/nanoc,"Static site generator written in Ruby, extremely powerful and customizable, support many formats to generate HTML content."
 webdev,Tsung,http://tsung.erlang-projects.org/,https://github.com/processone/tsung,"A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers."
 browser,Links,http://www.jikos.cz/~mikulas/links//,,A textual Web browser with tables and frames.
-browser,Elinks,http://elinks.cz/,https://repo.or.cz/elinks.git,"""Advanced and well-established feature-rich text mode web browser""; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor."
+,,,,
 browser,Lynx,http://lynx.invisible-island.net/,,"A highly configurable text-based web browser, one of the oldest CLI browser I'm aware of."
 browser,w3m,http://w3m.sourceforge.net/,https://sourceforge.net/projects/w3m/,"A text-based web browser as well as a pager like `less`, it can be used as a text formatting tool which typesets HTML into plain text."
 email,alpine,http://www.washington.edu/alpine/,,"Mail client which aims at being ""fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users""."
@@ -1647,7 +1647,7 @@ games,gg,,https://github.com/Kaamkiya/gg,A collection of games you can play in y
 file-handling,qcp,,https://github.com/crazyscot/qcp,Quick File Copy using QUIC.
 office,tui-slides,,https://github.com/Chleba/tui-slides,TerminalpPresentation program with modern TUI.
 office,tuitorial,,https://github.com/basnijholt/tuitorial,Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
-option-picker,tui-datepicker,,https://github.com/maraloon/tui-datepicker,Select date in terminal with vim-motions and copy to buffer.
+option-picker,tui-datepicker,,https://github.com/maraloon/pickdate,Select date in terminal with vim-motions and copy to buffer.
 git,patchy,,https://github.com/NikitaRevenco/patchy,A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests.
 text-search,bookworm,,https://github.com/kiran94/bookworm,LLM-powered bookmark search engine.
 webdev,qwicket,,https://github.com/hardfau1t/qwicket,Commandline API development ecosystem.
@@ -2044,7 +2044,7 @@ learning,wb,,https://github.com/MertGunduz/wb,A TUI vocabulary notebook app for 
 utility,wego,,https://github.com/schachmat/wego,Weather app for the terminal.
 music,gadacz,,https://github.com/rareitems/gadacz,Audiobook player (and other audio files) TUI.
 music,asak,,https://github.com/chaosprint/asak,A cross-platform audio recording/playback TUI written in Rust.
-viewer,GopherTube,,https://github.com/krishnassh/gophertube,A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback.
+viewers,GopherTube,,https://github.com/krishnassh/gophertube,A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback.
 file-dir-cleanup,image-sorter,,https://github.com/jgalat/image-sorter,Terminal user interface for sorting images using key bindings written in Rust; It requires w3m to render the images.
 music,jellyfin-tui,,https://github.com/dhonus/jellyfin-tui,Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
 transfer,Managarr,,https://github.com/Dark-Alex-17/managarr,A TUI and CLI for managing your arr servers.
@@ -2080,7 +2080,7 @@ terminal,tvterm,,https://github.com/magiblot/tvterm,A terminal emulator that run
 note-taking,Toney,,https://github.com/SourcewareLab/Toney,"A fast, lightweight, terminal-based note-taking TUI app built with Bubbletea; Offers markdown rendering, file navigation and native Neovim editing."
 rss,Canard,,https://github.com/mrusme/canard,A command line TUI client for the Journalist RSS aggregator.
 religion,CatenaVetus,,https://github.com/jimbob88/CatenaVetus,A TUI for reading the Church Fathers.
-browser,ELinks,,https://github.com/rkd77/elinks,"Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts."
+browser,ELinks,http://elinks.cz/,https://github.com/rkd77/elinks,"Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts."
 torrent,nyaa,,https://github.com/Beastwick18/nyaa,A nyaa TUI for browsing and downloading torrents.
 online,tblogs,,https://github.com/ezeoleaf/tblogs,Read and browse development blogs with this TUI from your terminal.
 terminal,Textual Web,,https://github.com/Textualize/textual-web,Run TUIs and terminals in your browser.
