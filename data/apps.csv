@@ -113,7 +113,7 @@ file-manager,lfm,https://inigo.katxi.org/devel/lfm/,https://github.com/langner/l
 file-manager,Midnight Commander,http://www.midnight-commander.org/,https://github.com/MidnightCommander/mc,"A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor."
 file-manager,ncursesFM,,https://github.com/FedeDP/ncursesFM,"File manager written in C, rather complete in terms of features, especially lightweight and responsive."
 file-manager,ranger,https://ranger.github.io/,https://github.com/ranger/ranger,"File manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type."
-file-manager,superfile,,https://github.com/MHNightCat/superfile,Pretty fancy and modern file manager.
+file-manager,superfile,,https://github.com/yorukot/superfile,Pretty fancy and modern file manager.
 file-manager,vifm,https://vifm.info/,https://github.com/vifm/vifm,"""ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt"" (cit.)."
 conversion,catdoc,http://www.wagner.pp.ru/~vitus/software/catdoc/,http://www.wagner.pp.ru/git/oss/catdoc.git,Convert Microsoft Word files to plain text; output is sent to the standard output.
 conversion,Pandoc,http://pandoc.org/,https://github.com/jgm/pandoc,"Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, DOCX, ODT, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats."
