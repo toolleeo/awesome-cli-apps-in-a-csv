@@ -2227,3 +2227,4 @@ todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform term
 file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document viewer for Word files (view, search and export documents)."
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
+git,gitsocial,,https://github.com/gitsocial-org/gitsocial,"Git-native cross-forge collaboration: posts, issues, PRs, releases, all in your repo."
