@@ -1723,6 +1723,7 @@ Utilities that generate licenses, documentation structure (README files), projec
 * [clog](https://github.com/clog-tool/clog-cli) - Creates a changelog automatically from local git metadata.
 * [contributing-generator](https://github.com/friedrith/contributing-generator) - A generator for the CONTRIBUTING.md, README.md, LICENSE, etc.
 * [Cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+* [forgekit](https://github.com/SubhanshuMG/ForgeKit) - Scaffold production-ready projects for AI, DevOps, and full-stack teams with CI/CD, Docker, and tests wired from the first run.
 * [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
 * [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 * [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
@@ -2756,4 +2757,3 @@ make
 ```
 
 `python3` is required for building. And `make`, of course. :-)
-
