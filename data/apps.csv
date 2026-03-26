@@ -2227,3 +2227,5 @@ todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform term
 file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document viewer for Word files (view, search and export documents)."
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
+financial,coinpaprika-cli,,https://github.com/coinpaprika/coinpaprika-cli,"Crypto market data from the terminal. 8,000+ coins, real-time prices, OHLCV, exchanges. Free tier included."
+financial,dexpaprika-cli,,https://github.com/coinpaprika/dexpaprika-cli,"Free DEX data from the terminal. 34 chains, 200+ DEXes, 27M+ tokens, 30M+ pools. No API key needed."
