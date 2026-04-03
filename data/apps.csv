@@ -2227,3 +2227,7 @@ todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform term
 file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document viewer for Word files (view, search and export documents)."
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
+terminal,zt,https://midasdf.github.io/,https://github.com/midasdf/zt.git,A blazing-fast terminal emulator written in Zig with quad backend support (framebuffer/X11/Wayland/macOS); 73 MB/s throughput and 5.6ms startup in a 2MB binary.
+terminal,zplit,https://midasdf.github.io/,https://github.com/midasdf/zplit.git,A lightweight terminal multiplexer written in Zig; 91KB static binary with session persistence and zellij-style modes.
+system,zephwm,https://midasdf.github.io/,https://github.com/midasdf/zephwm.git,An i3-compatible tiling window manager written in Zig; under 200KB with tree-based container model and multi-monitor support.
+networking,sshz,https://midasdf.github.io/,https://github.com/midasdf/sshz.git,A TUI-based SSH connection manager written in Zig; real-time host status monitoring and tag-based organization in a ~260KB static binary.
