@@ -13,6 +13,7 @@ Summary:
 * Apps/tools: **2228**
 * Categories: **81**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CLI application workflow orchestration, automated command-line tool management, and multi-agent coordination. MIT licensed.
 # Contents
 
 * [AI / ChatGPT](#ai) (47), [AI terminal command generator](#ai-cli-commands) (16), [Animation](#animation) (39), [Anki, decks and flashcards](#flashcard) (10)
