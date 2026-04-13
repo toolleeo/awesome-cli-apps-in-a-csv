@@ -1257,6 +1257,7 @@ music,pytunes,,https://github.com/bernhardfritz/pytunes,Self-hosted music stream
 utility,ps1palette,,https://github.com/WDoyle123/ps1palette,Streamline Bash PS1 customization through script automation for prompt color coding and .bashrc integration.
 transfer,downloader-cli,,https://github.com/deepjyoti30/downloader-cli,A simple downloader written in Python with an awesome customizable progress bar.
 todo-manager,kanban-python,,https://github.com/Zaloog/kanban-python,Kanban Terminal App written in Python.
+todo-manager,kanban,https://crates.io/crates/kanban-cli,https://github.com/fulsomenko/kanban,Keyboard-first kanban board for the terminal with TUI, CLI, and MCP server interfaces; supports JSON and SQLite backends, sprint planning, card dependencies, undo/redo, and LLM integration.
 games,go-sweep,,https://github.com/maxpaulus43/go-sweep,Minesweeper game in the command line programmed in Go.
 games,Cemetery Escape,,https://github.com/tom-on-the-internet/cemetery-escape,"A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts."
 rss,Newsraft,,https://codeberg.org/newsraft/newsraft,Newsraft is a feed reader with ncurses user interface. It is greatly inspired by Newsboat and tries to be its lightweight counterpart.
