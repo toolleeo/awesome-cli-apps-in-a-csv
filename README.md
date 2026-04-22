@@ -460,6 +460,7 @@ Tools to manage data files.
 
 * [chndlr](https://github.com/bharatvaj/chndlr) - Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
 * [crudini](https://github.com/pixelb/crudini) - A utility for manipulating .ini files.
+* [Shiplog](https://shiplog.page) - A tool to push changelog entries to your own public page via CLI (yourapp.shiplog.page)
 * [datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal.
 * [datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface and a Python library for inferencing Large Language Models to generate textual datasets.
 * [dateutils](http://www.fresse.org/dateutils/) - Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
