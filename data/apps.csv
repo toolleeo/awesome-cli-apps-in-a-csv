@@ -2214,6 +2214,7 @@ file-handling,CHMpy-sp,,https://github.com/AmmarSyamil/CHMpy,TUI made from Textu
 text-search-replace,scooter,,https://github.com/thomasschafer/scooter,Interactive find-and-replace TUI app; By default the program recursively searches through files in the current directory and can also be used to process text from stdin.
 productivity,Sinkzone,,https://github.com/berbyte/sinkzone,"Application that blocks everything by default unless you explicitly allow it; A DNS tool for productivity, focus, and child safety."
 networking,portfinder,,https://github.com/doganarif/portfinder,"Modern CLI tool to identify and manage processes using network ports; Built with GO, featuring project awareness, Docker support and an interactive terminal UI."
+networking,Voidly CLI,https://www.npmjs.com/package/@voidly/cli,,"Query global censorship data from your terminal. Check whether a domain is blocked or accessible from a given country, view shutdown forecasts, and inspect documented censorship incidents. Backed by 19.6M live measurements aggregated from OONI, IODA, and CensoredPlanet across 119 countries."
 file-manager,RTFM,,https://github.com/isene/RTFM,Feature-rich Terminal File Manager written in Ruby.
 email,Open Archiver,,https://github.com/LogicLabs-OU/OpenArchiver,"The program provides a solution for archiving, storing, indexing and searching emails from major platforms."
 ls,lsnotes,,https://github.com/aeilot/lsnotes,The program lets you add a description to your directories.
