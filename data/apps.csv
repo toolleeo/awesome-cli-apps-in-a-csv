@@ -1661,6 +1661,7 @@ programming,dotenvhub,,https://github.com/Zaloog/dotenvhub,Terminal App to centr
 music,kmp3,,https://github.com/korei999/kmp3,Little music player with some peculiar characteristics.
 text-processing,modo,,https://github.com/elliot40404/modo,A cross platform cli app to interact with markdown style checkboxes within any text file.
 ai,kwaak,,https://github.com/bosun-ai/kwaak,Run a team of autonomous AI agents on your code.
+ai,lean-ctx,https://leanctx.com,https://github.com/yvgude/lean-ctx,Context runtime for AI coding agents. MCP server + shell hook reducing LLM token costs by 60-99%. Single Rust binary.
 financial,ecb-rates,,https://github.com/lov3b/ecb-rates,Fetch exchage rates from the European Central Bank.
 data-management-tabular,rainfrog,,https://github.com/achristmascarl/rainfrog,A database management tui for PostGres.
 system,qman,,https://github.com/plp13/qman,A more modern man page viewer for our terminals.
