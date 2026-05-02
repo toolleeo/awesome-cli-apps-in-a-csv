@@ -823,6 +823,7 @@ email,Himalaya,,https://github.com/soywod/himalaya,Command-line interface for em
 todo-manager,Dooit,,https://github.com/kraanzu/dooit,"Todo manager with interactive and beautiful UI, and vim keybindings."
 copilot,Commandpilot,,https://github.com/barthr/commandpilot,An assistant which uses ChatGPT to aid in constructing commands for bash.
 ai,AI,,https://github.com/nitefood/ai-bash-gpt,A command-line ChatGPT client in BASH with conversation/completion support.
+ai,agenttrace,https://luoyuctl.github.io/agenttrace/,https://github.com/luoyuctl/agenttrace,"Local-first TUI observability for AI coding agent sessions, showing cost, tokens, tool failures, latency, anomalies, health scores, diffs, and CI gates."
 security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, recursive content discovery tool written in Rust."
 text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
 music,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
