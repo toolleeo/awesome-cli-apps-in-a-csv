@@ -10,14 +10,14 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2228**
+* Apps/tools: **2229**
 * Categories: **81**
 
 # Contents
 
 * [AI / ChatGPT](#ai) (47), [AI terminal command generator](#ai-cli-commands) (16), [Animation](#animation) (39), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (20)
-* [Calculators](#calc) (21), [Chat and instant messaging](#chat) (52), [Clean up of files and directories](#file-dir-cleanup) (17), [Co-pilot](#copilot) (12), [Command launchers](#launcher) (28), [Commands cheatsheet and snippets](#cheatsheet) (33), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (11)
+* [Calculators](#calc) (21), [Chat and instant messaging](#chat) (52), [Clean up of files and directories](#file-dir-cleanup) (17), [Co-pilot](#copilot) (12), [Command launchers](#launcher) (28), [Commands cheatsheet and snippets](#cheatsheet) (34), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (11)
 * [Data management](#data-management) (18), [Data management - JSON/YAML/etc.](#data-management-json) (48), [Data management - Tabular data](#data-management-tabular) (37), [Data transfer](#transfer) (47), [DevOps](#devops) (22), [Diff](#diff) (12), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (14)
 * [Editors](#editors) (34), [Email](#email) (23)
 * [File and file system handling](#file-handling) (31), [File deletion and trash bin (alternatives to rm)](#rm) (15), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (10), [File listing (alternatives to ls)](#ls) (12), [File manager](#file-manager) (29), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (25), [Font management](#font) (5), [Funny tools](#funny) (22), [Fuzzy finders and option pickers](#option-picker) (18)
@@ -367,6 +367,7 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [IntelliShell](https://github.com/lasantosr/intelli-shell) - Command template and snippet manager for the shell.
 * [kmdr-cli](https://github.com/ediardo/kmdr-cli) - The CLI tool for explaining commands from your terminal.
 * [ManPDF & ManWEB](https://github.com/sebastiancarlos/manpdf) - Read your Man pages in PDF format. Even online!
+* [mdpick](https://github.com/toolleeo/mdpick) - A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane.
 * [MUC](https://github.com/nate-sys/muc) - Visualize your most used commands.
 * [Nap](https://github.com/maaslalani/nap) - Code snippet manager that allows creating and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
@@ -2672,6 +2673,8 @@ Tools to assist the writing of text and documents, including translation, spell 
 # <a name="resources"></a>Related resources
 
 A list of some online resources that contribute interesting links to apps and info.
+
+[Awesome Modern CLI](https://github.com/thegdsks/awesome-modern-cli/) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 [Toolleeo’s CLIpedia](https://robot.unipv.it/clipedia/) - Blog with information on CLI apps, screenshots and other details (license, author, etc.).
 
