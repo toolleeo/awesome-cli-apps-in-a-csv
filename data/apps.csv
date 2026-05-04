@@ -663,6 +663,7 @@ shells,Cat9,,https://github.com/letoram/cat9,"Cat9 is a user shell script for LA
 productivity,speedread,,https://github.com/pasky/speedread,A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
 online,pockyt,,https://github.com/achembarpu/pockyt,"Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet."
 rss,Newsboat,https://newsboat.org/,https://github.com/newsboat/newsboat,An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
+rss,Tide,,https://github.com/allisonhere/tide,"Terminal RSS reader with feed management, themes, and AI summaries."
 viewers,medium-cli,,https://github.com/djadmin/medium-cli,Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 religion,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the command line.
 utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
