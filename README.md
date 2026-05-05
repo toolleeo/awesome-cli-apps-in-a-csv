@@ -1811,6 +1811,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
 * [Tokui](https://github.com/zdyxry/tokui) - An interactive TUI for visualizing code statistics from tockei.
 * [umake](https://github.com/mcandre/unmake) - Makefile linter emphasizing portability, targeting the POSIX make standard.
+* [KushoAI](https://kusho.ai) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 
 ## <a name="prompt"></a>Prompts
 
