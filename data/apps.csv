@@ -2216,6 +2216,7 @@ productivity,Sinkzone,,https://github.com/berbyte/sinkzone,"Application that blo
 networking,portfinder,,https://github.com/doganarif/portfinder,"Modern CLI tool to identify and manage processes using network ports; Built with GO, featuring project awareness, Docker support and an interactive terminal UI."
 file-manager,RTFM,,https://github.com/isene/RTFM,Feature-rich Terminal File Manager written in Ruby.
 email,Open Archiver,,https://github.com/LogicLabs-OU/OpenArchiver,"The program provides a solution for archiving, storing, indexing and searching emails from major platforms."
+email,nylas,https://cli.nylas.com,https://github.com/nylas/cli,"CLI for email, calendar, and contacts. One auth flow covers Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP. JSON output for scripting, built-in MCP server."
 ls,lsnotes,,https://github.com/aeilot/lsnotes,The program lets you add a description to your directories.
 git,WRKFLW,,https://github.com/bahdotsh/wrkflw,"Command-line tool for validating and executing GitHub actions workflows locally, without a full GitHub environment."
 security,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
