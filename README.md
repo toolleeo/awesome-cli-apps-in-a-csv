@@ -86,6 +86,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [unibear](https://github.com/kamilmac/unibear) - A lean TUI AI assistant.
 * [vibebox](https://vibebox.robcholz.com) - Per-project micro-VM sandbox for running coding agents on macOS with fast re-entry and explicit mounts.
 * [wtg](https://github.com/brylee10/wtg) - What The GPT (wtg), a CLI to chat with your program logs.
+* [lucinate](https://github.com/lucinate-ai/lucinate) - Terminal-native TUI chat client for AI agents. Connects to OpenClaw gateways, Hermes agent profiles, and any OpenAI-compatible endpoint (Ollama, vLLM, LM Studio, OpenAI). Features streaming responses, markdown rendering, tool call cards, local skills, cron management, and multi-agent support.
 
 ## <a name="ai-cli-commands"></a>AI terminal command generator
 
