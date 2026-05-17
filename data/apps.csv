@@ -1145,6 +1145,7 @@ networking,SMBScan,,https://github.com/jeffhacks/smbscan,SMBScan is a tool to en
 system,rs-env,,https://github.com/sysid/rs-env,"Hierarchical environment variable management, compiling the resulting set of from a hierarchical list of `<name>.env` files."
 browser,Litter,,https://github.com/tuxcanfly/litter,"Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers."
 system,YAS-BDSM,,https://github.com/sebastiancarlos/yas-bdsm,"YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager."
+system,pro-terminal-setup,,https://github.com/mathewjustin/pro-terminal-setup,"Portable Ghostty/zsh terminal setup with Homebrew install, backups, doctor/uninstall commands, and Kubernetes/tmux helpers."
 graphics,TermImg,,https://github.com/srlehn/termimg,termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
 programming,gup,,https://github.com/nao1215/gup,"Update binaries installed by ""go install"" with goroutines."
 ls,stree,,https://github.com/orangekame3/stree,A CLI tool designed to visualize the directory tree structure of an S3 bucket.
