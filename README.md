@@ -10,15 +10,15 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2229**
+* Apps/tools: **2237**
 * Categories: **81**
 
 # Contents
 
-* [AI / ChatGPT](#ai) (47), [AI terminal command generator](#ai-cli-commands) (16), [Animation](#animation) (39), [Anki, decks and flashcards](#flashcard) (10)
+* [AI / ChatGPT](#ai) (48), [AI terminal command generator](#ai-cli-commands) (16), [Animation](#animation) (39), [Anki, decks and flashcards](#flashcard) (10)
 * [Backup](#backup) (20)
 * [Calculators](#calc) (21), [Chat and instant messaging](#chat) (52), [Clean up of files and directories](#file-dir-cleanup) (17), [Co-pilot](#copilot) (12), [Command launchers](#launcher) (28), [Commands cheatsheet and snippets](#cheatsheet) (34), [Containerization and virtualization](#vm) (25), [Conversion](#conversion) (17), [Copy/paste and clipboard](#copy-paste) (11)
-* [Data management](#data-management) (18), [Data management - JSON/YAML/etc.](#data-management-json) (48), [Data management - Tabular data](#data-management-tabular) (37), [Data transfer](#transfer) (47), [DevOps](#devops) (22), [Diff](#diff) (12), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (14)
+* [Data management](#data-management) (18), [Data management - JSON/YAML/etc.](#data-management-json) (48), [Data management - Tabular data](#data-management-tabular) (37), [Data transfer](#transfer) (47), [DevOps](#devops) (29), [Diff](#diff) (12), [Directory changers (alternatives to cd)](#cd) (23), [Disk usage analyzers](#disk-analyzer) (14)
 * [Editors](#editors) (34), [Email](#email) (23)
 * [File and file system handling](#file-handling) (31), [File deletion and trash bin (alternatives to rm)](#rm) (15), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (10), [File listing (alternatives to ls)](#ls) (12), [File manager](#file-manager) (29), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (25), [Font management](#font) (5), [Funny tools](#funny) (22), [Fuzzy finders and option pickers](#option-picker) (18)
 * [Games](#games) (100), [Git and accessories](#git) (81), [Graphics](#graphics) (54)
@@ -54,6 +54,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [ChatGPTerminator](https://github.com/AineeJames/ChatGPTerminator) - GPTerminator provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
 * [clai](https://github.com/iivvoo/clai) - Command Line AI is a command line integration for openai. It's setup to help you learn new shell commands and construct more complex commands.
 * [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types.
+* [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any Click/typer CLI as an MCP server (Model Context Protocol) for AI coding agents.
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
 * [codepack v4](https://github.com/w3spi5/codepack) - CLI tool to extract folder structure and file contents with advanced minification for AI processing.
 * [Context Extractor](https://github.com/vaibhav-mattoo/cxt) - Command line tool that aggregates file and directory contents into the clipboard, for providing project context to AI chatbots in the browser like ChatGPT and Perplexity.
@@ -629,10 +630,17 @@ Programs for transferring files and data between different machines.
 Applications for supporting DevOps tasks, such as containers or cloud systems management.
 
 * [Amazon EC2 Instance Selector](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
+* [api-contract-guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - CLI tool that monitors OpenAPI schema diffs, detects breaking changes, generates migration guides, and blocks CI pipelines on contract violations.
+* [configdrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect and fix configuration file drift across environments (YAML, JSON, TOML, .env)
+* [datamorph](https://github.com/Coding-Dev-Tools/datamorph) - CLI tool for batch converting between data formats (CSV, JSON, YAML, Parquet, Avro, Protobuf) with streaming for large files
+* [deadcode](https://github.com/Coding-Dev-Tools/deadcode) - CLI tool to detect unused exports, dead routes, orphaned CSS and unreferenced components in TS/React/Next.js projects
+* [deploydiff](https://github.com/Coding-Dev-Tools/deploydiff) - Preview infrastructure changes (Terraform, CloudFormation, Pulumi) with cost impact and rollback commands
 * [Devbox](https://github.com/jetpack-io/devbox) - Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.
 * [Ducker](https://github.com/robertpsoane/ducker) - TUI for managing docker containers.
 * [E1S](https://github.com/keidarcy/e1s) - TUI for browsing and managing AWS ECS resources.
 * [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) - Tool for visualizing dynamic node usage within a kubernetes cluster.
+* [envault](https://github.com/Coding-Dev-Tools/envault) - Env variable syncing, diffing, and secret rotation CLI with secret-store integrations
+* [json2sql](https://github.com/Coding-Dev-Tools/json2sql) - Convert JSON files/datasets to SQL INSERT statements
 * [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [KDash](https://github.com/kdash-rs/kdash) - A simple and fast terminal dashboard for Kubernetes.
 * [ktop](https://github.com/vladimirvivien/ktop) - Tool that displays useful metrics information about nodes, pods, and other workload.
