@@ -2031,6 +2031,13 @@ networking,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtu
 programming,PesterExplorer,,https://github.com/HeyItsGilbert/PesterExplorer,A TUI to explore Pester results (prints tests results as they're running).
 online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin."
 devops,PUG,,https://github.com/leg100/pug,"TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files)."
+devops,api-contract-guardian,,https://github.com/Coding-Dev-Tools/api-contract-guardian,"CLI tool that monitors OpenAPI schema diffs, detects breaking changes, generates migration guides, and blocks CI pipelines on contract violations."
+devops,configdrift,,https://github.com/Coding-Dev-Tools/configdrift,"Detect and fix configuration file drift across environments (YAML, JSON, TOML, .env)"
+devops,datamorph,,https://github.com/Coding-Dev-Tools/datamorph,"CLI tool for batch converting between data formats (CSV, JSON, YAML, Parquet, Avro, Protobuf) with streaming for large files"
+devops,deadcode,,https://github.com/Coding-Dev-Tools/deadcode,"CLI tool to detect unused exports, dead routes, orphaned CSS and unreferenced components in TS/React/Next.js projects"
+devops,deploydiff,,https://github.com/Coding-Dev-Tools/deploydiff,"Preview infrastructure changes (Terraform, CloudFormation, Pulumi) with cost impact and rollback commands"
+devops,envault,,https://github.com/Coding-Dev-Tools/envault,"Env variable syncing, diffing, and secret rotation CLI with secret-store integrations"
+devops,json2sql,,https://github.com/Coding-Dev-Tools/json2sql,"Convert JSON files/datasets to SQL INSERT statements"
 learning,Physics TUI,,https://github.com/ClaudioRMalvino/physics_TUI,"TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter."
 rm,RecoverPy,,https://github.com/PabloLec/recoverpy,A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
 graphics,Favicon Editor,,https://github.com/xyproto/favicon-editor,Minimalist grayscale favicon editor for the terminal.
@@ -2221,6 +2228,7 @@ git,WRKFLW,,https://github.com/bahdotsh/wrkflw,"Command-line tool for validating
 security,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
 shells,sshrc,,https://github.com/cdown/sshrc,The program works just like ssh while also sourcing your local sshrc configuration file upon logging in remotely.
 ai,AskOra,,https://github.com/rosettadb/askora,"Unified Python CLI interacting with multiple AI providers sending prompts and getting structured AI responses, all from your terminal."
+ai,click-to-mcp,,https://github.com/Coding-Dev-Tools/click-to-mcp,"Auto-wrap any Click/typer CLI as an MCP server (Model Context Protocol) for AI coding agents."
 todo-manager,Togo,,https://github.com/prime-run/togo,A fast and simple terminal-based task and todo manager built in go.
 security,keeenv,,https://github.com/scross01/keeenv,Command-line tool that populates environment variables from a local configuration file with encrypted Keepass database to dynamically fetch sensitive data.
 todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform terminal task manager.
