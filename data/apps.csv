@@ -2228,3 +2228,12 @@ file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
+file-handling,dedup,https://github.com/milishiajay/dedup,https://github.com/milishiajay/dedup,Find and merge duplicate files with content-aware deduplication
+programming,quickbench,https://github.com/milishiajay/quickbench,https://github.com/milishiajay/quickbench,Shell command benchmarking with statistical analysis
+security,certlint,https://github.com/milishiajay/certlint,https://github.com/milishiajay/certlint,SSL/TLS certificate checker and linter for debugging certificate chains
+disk-analyzer,dirmap,https://github.com/milishiajay/dirmap,https://github.com/milishiajay/dirmap,Interactive directory size treemap for disk usage analysis
+diff,termdiff,https://github.com/milishiajay/termdiff,https://github.com/milishiajay/termdiff,Beautiful terminal side-by-side diff viewer with syntax highlighting
+git,gitpulse,https://github.com/milishiajay/gitpulse,https://github.com/milishiajay/gitpulse,Git productivity CLI with commit stats author leaderboards and activity sparklines
+devops,logsniff,https://github.com/milishiajay/logsniff,https://github.com/milishiajay/logsniff,Log analysis CLI with pattern detection error highlighting and frequency stats
+security,envault,https://github.com/milishiajay/envault,https://github.com/milishiajay/envault,Encrypt/decrypt .env files with AES-256-CTR and HMAC authentication
+networking,httpstat,https://github.com/milishiajay/httpstat,https://github.com/milishiajay/httpstat,HTTP benchmarking CLI with latency percentiles concurrency and JSON export
