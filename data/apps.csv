@@ -2221,6 +2221,7 @@ git,WRKFLW,,https://github.com/bahdotsh/wrkflw,"Command-line tool for validating
 security,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
 shells,sshrc,,https://github.com/cdown/sshrc,The program works just like ssh while also sourcing your local sshrc configuration file upon logging in remotely.
 ai,AskOra,,https://github.com/rosettadb/askora,"Unified Python CLI interacting with multiple AI providers sending prompts and getting structured AI responses, all from your terminal."
+ai,Bounty Sieve,https://github.com/junbuilds96/bounty-sieve,https://github.com/junbuilds96/bounty-sieve,"Read-only offline triage for bounty-like open-source opportunities with deterministic scoring and Markdown reports."
 todo-manager,Togo,,https://github.com/prime-run/togo,A fast and simple terminal-based task and todo manager built in go.
 security,keeenv,,https://github.com/scross01/keeenv,Command-line tool that populates environment variables from a local configuration file with encrypted Keepass database to dynamically fetch sensitive data.
 todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform terminal task manager.
