@@ -2226,5 +2226,6 @@ security,keeenv,,https://github.com/scross01/keeenv,Command-line tool that popul
 todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform terminal task manager.
 file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document viewer for Word files (view, search and export documents)."
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
+system,quokka,,https://github.com/dutradotdev/quokka,Inspect and clean up an iPhone over USB from the terminal. No jailbreak.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
