@@ -2228,3 +2228,4 @@ file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
+security,secret-stripper,,https://github.com/kalix127/secret-stripper,"A hotkey-driven Rust CLI that redacts API keys, passwords, and other secrets from the clipboard before you paste them. Detects 800+ patterns across 40+ categories"
