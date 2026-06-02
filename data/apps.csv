@@ -2228,3 +2228,5 @@ file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
+programming,checkyourself,,https://github.com/KyaniteLabs/checkyourself,Production-readiness audit for AI-built apps.
+versioning,devarch-framework,,https://github.com/KyaniteLabs/devarch-framework,Git repository archaeology / engineering reports.
