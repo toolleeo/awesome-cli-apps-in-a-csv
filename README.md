@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2229**
+* Apps/tools: **2230**
 * Categories: **81**
 
 # Contents
@@ -25,7 +25,7 @@ Summary:
 * [History management](#history) (6)
 * [Learning and didactic tools](#learning) (10)
 * [Markdown](#markdown) (10)
-* [Networking](#networking) (99), [Note taking](#note-taking) (34)
+* [Networking](#networking) (100), [Note taking](#note-taking) (34)
 * [Office tools](#office) (22), [Online search and resources](#online) (43), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (26), [Password managers](#password-manager) (24), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (30), [Productivity](#productivity) (19), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (74), [Prompts](#prompt) (14)
 * [RSS](#rss) (12), [Religion](#religion) (6)
@@ -1409,6 +1409,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [redive](https://github.com/neelkarma/redive) - Trace URL redirections in the terminal.
 * [rtop](http://www.rtop-monitor.org/) - Simple, agent-less, remote server monitoring tool that works over plain SSH. Written in Go, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
 * [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
+* [rustnet](https://github.com/domcyrus/rustnet) - Cross-platform network monitoring tool with a TUI displaying real-time information about network connections.
 * [serve](https://github.com/vercel/serve) - Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
 * [SMBScan](https://github.com/jeffhacks/smbscan) - SMBScan is a tool to enumerate file shares on an internal network.
 * [sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer.
