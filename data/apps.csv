@@ -272,6 +272,7 @@ games,usolitaire,,https://github.com/eliasdorneles/usolitaire,Solitaire in your 
 file-manager,rnr,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
 animation,cbonsai,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
 data-management-tabular,Dolt,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
+data-management-tabular,Omnigraph,,https://github.com/ModernRelay/omnigraph,"Typed property graph database CLI with Git-style branch and merge, local or S3 storage, typed queries, and traversal, BM25, and vector search."
 transfer,ytfzf,,https://github.com/pystardust/ytfzf,A POSIX script that helps you find YouTube videos (without API) and opens/downloads them using mpv/youtube-dl.
 data-management-json,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage is a command-line utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
 disk-analyzer,duf,,https://github.com/muesli/duf,Disk Usage/Free Utility.
