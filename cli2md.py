@@ -1,5 +1,9 @@
 import csv
+import sys
 import string
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 
 summary_template = """
@@ -23,7 +27,7 @@ A list of some online resources that contribute interesting links to apps and in
 
 
 def load_csv(file_name):
-    with open(file_name, 'r') as infile:
+    with open(file_name, 'r', encoding='utf-8') as infile:
         csv_reader = csv.DictReader(infile, delimiter=',')
         fields = csv_reader.fieldnames
         data = []
