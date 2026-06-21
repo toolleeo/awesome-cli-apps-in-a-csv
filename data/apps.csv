@@ -705,6 +705,7 @@ graphics,deviceframe,,https://github.com/c0bra/deviceframe,Put device frames aro
 programming-boilerplate,add-gitignore,,https://github.com/TejasQ/add-gitignore,Interactively generate a .gitignore for software projects.
 time-tracker,Timetrap,,https://github.com/samg/timetrap,A simple command line time tracker written in Ruby. It provides an easy-to-use command line interface for tracking what you spend your time on.
 time-tracker,Timewarrior,,https://github.com/GothenburgBitFactory/timewarrior,"A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting."
+time-tracker,HumbleBee,https://www.timeandbill.de/en/humblebee/,https://github.com/grobmeier/humblebee,"Privacy-first time tracking with local SQLite storage, reports, and a desktop GUI."
 graphics,MapSCII,,https://github.com/rastapasta/mapscii,A Braille & ASCII world map renderer for your console
 note-taking,idea,,https://github.com/IonicaBizau/idea,A lightweight tool for keeping ideas in a safe place quick and easy.
 todo-manager,td-cli,,https://github.com/darrikonn/td-cli,"A command line todo manager, where you can organize and manage your todos across multiple projects."
