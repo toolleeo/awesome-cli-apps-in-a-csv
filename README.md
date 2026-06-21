@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2230**
+* Apps/tools: **2231**
 * Categories: **81**
 
 # Contents
@@ -30,7 +30,7 @@ Summary:
 * [Package managers](#package-manager) (26), [Password managers](#password-manager) (24), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (30), [Productivity](#productivity) (19), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (74), [Prompts](#prompt) (14)
 * [RSS](#rss) (12), [Religion](#religion) (6)
 * [Science](#science) (23), [Screen recorder](#screen-recorder) (12), [Screen savers](#screensaver) (7), [Security and encryption](#security) (42), [Shells](#shells) (27), [Sound and music](#music) (73), [System monitoring](#monitor) (55), [System tools](#system) (48)
-* [Terminals](#terminal) (27), [Text processing](#text-processing) (59), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (8), [Time trackers](#time-tracker) (28), [Todo managers](#todo-manager) (44), [Torrent](#torrent) (10), [Typing test and practice](#typing) (22)
+* [Terminals](#terminal) (27), [Text processing](#text-processing) (59), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (8), [Time trackers](#time-tracker) (29), [Todo managers](#todo-manager) (44), [Torrent](#torrent) (10), [Typing test and practice](#typing) (22)
 * [Utilities](#utility) (52)
 * [Versioning](#versioning) (9), [Video](#video) (16), [Viewers](#viewers) (49)
 * [Web browser](#browser) (19), [Web development](#webdev) (35), [Writing](#writing) (12)
@@ -2334,6 +2334,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 * [habitmap](https://github.com/shuu-wasseo/habitmap) - A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 * [Hammerclock](https://github.com/itworks99/hammerclock) - TUI chess clock and phase tracker application for tabletop games.
 * [hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for command line nerds.
+* [HumbleBee](https://www.timeandbill.de/en/humblebee/) - Privacy-first time tracking with local SQLite storage, reports, and a desktop GUI.
 * [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 * [Moro](https://github.com/getmoro/moro) - A command line tool for tracking work hours, as simple as it can get.
 * [MyDoro](https://github.com/Balaji01-4D/my-doro) - Modern Pomodoro timer for the terminal (work/break intervals, different themes, and a distraction-free CLI experience).
