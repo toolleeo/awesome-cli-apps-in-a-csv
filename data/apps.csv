@@ -2079,6 +2079,7 @@ todo-manager,TUI Project Manager,,https://github.com/NicoDblc/TUI_ProjectManager
 monitor,tuihub,,https://github.com/ashis0013/tuihub,TUI to manage todos and getting handy information on machine usage and time.
 terminal,tvterm,,https://github.com/magiblot/tvterm,A terminal emulator that runs in your terminal (Unix and Windows).
 note-taking,Toney,,https://github.com/SourcewareLab/Toney,"A fast, lightweight, terminal-based note-taking TUI app built with Bubbletea; Offers markdown rendering, file navigation and native Neovim editing."
+note-taking,kaydet,,https://github.com/miratcan/kaydet,Queryable personal database and terminal diary with SQLite search tags metadata and MCP/AI integration.
 rss,Canard,,https://github.com/mrusme/canard,A command line TUI client for the Journalist RSS aggregator.
 religion,CatenaVetus,,https://github.com/jimbob88/CatenaVetus,A TUI for reading the Church Fathers.
 browser,ELinks,http://elinks.cz/,https://github.com/rkd77/elinks,"Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts."
