@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2231**
+* Apps/tools: **2232**
 * Categories: **81**
 
 # Contents
@@ -33,7 +33,7 @@ Summary:
 * [Terminals](#terminal) (27), [Text processing](#text-processing) (59), [Text search (alternatives to grep)](#text-search) (18), [Text search and replace (alternatives to sed)](#text-search-replace) (8), [Time trackers](#time-tracker) (28), [Todo managers](#todo-manager) (44), [Torrent](#torrent) (10), [Typing test and practice](#typing) (22)
 * [Utilities](#utility) (52)
 * [Versioning](#versioning) (9), [Video](#video) (16), [Viewers](#viewers) (49)
-* [Web browser](#browser) (19), [Web development](#webdev) (35), [Writing](#writing) (12)
+* [Web browser](#browser) (19), [Web development](#webdev) (36), [Writing](#writing) (12)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -2641,6 +2641,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby, extremely powerful and customizable, support many formats to generate HTML content.
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
 * [posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal, not unlike Postman and Insomnia.
+* [prerenderbuddy cli](https://www.prerenderbuddy.com) - CLI utilities for comparing raw and rendered website output to debug crawler and bot visibility issues.
 * [qwicket](https://github.com/hardfau1t/qwicket) - Commandline API development ecosystem.
 * [Reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 * [restbook](https://github.com/shalev007/restbook) - RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks.
