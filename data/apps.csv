@@ -2230,3 +2230,6 @@ file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
+ai,bride-cli,,https://github.com/cedendahlkim/bride-cli,"Cognitive AI from the terminal — compare texts with HDC similarity, analyze emotions, detect anomalies, and measure semantic compatibility."
+ai,outfit-gen,,https://github.com/cedendahlkim/outfit-gen,"AI-powered fashion design from the terminal — describe clothing and generate commercial e-commerce product images via STIL.AI."
+ai,semantic-similarity-cli,,https://github.com/cedendahlkim/semantic-similarity-cli,"Compare two texts semantically using HDC-powered Bride Cognitive API with automatic local word-overlap fallback when offline."
