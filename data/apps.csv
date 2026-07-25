@@ -121,6 +121,7 @@ backup,borg,https://www.borgbackup.org/,https://github.com/borgbackup/borg,"Encr
 backup,duplicity,http://duplicity.nongnu.org/,https://gitlab.com/duplicity/duplicity,"Creates GPG encrypted, compressed backups; client-side encryption allows uploading the backup onto untrusted servers."
 backup,Duply,http://duply.net/,https://sourceforge.net/projects/ftplicity,Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.
 backup,paperbackup,,https://github.com/intra2net/paperbackup,Create a PDF with barcodes to backup text files on paper.
+transfer,dlvr.sh,https://dlvr.sh/,https://github.com/dlvr-sh/packages,"CLI for temporary file delivery: upload local files, create controlled share links, download shares, and manage deliveries from scripts and automation."
 transfer,rclone,https://rclone.org/,https://github.com/rclone/rclone,Manage file synchronization on cloud storage.
 transfer,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,https://github.com/bcpierce00/unison,"File synchronizer. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other."
 backup,Zaloha.sh,,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories.
@@ -1953,6 +1954,7 @@ devops,eks-node-viewer,,https://github.com/awslabs/eks-node-viewer/,Tool for vis
 devops,KDash,,https://github.com/kdash-rs/kdash,A simple and fast terminal dashboard for Kubernetes.
 devops,ktop,,https://github.com/vladimirvivien/ktop,"Tool that displays useful metrics information about nodes, pods, and other workload."
 devops,kubetui,,https://github.com/sarub0b0/kubetui,A TUI tool designed for monitoring Kubernetes resources.
+networking,rustnet,,https://github.com/domcyrus/rustnet,Cross-platform network monitoring tool with a TUI displaying real-time information about network connections.
 devops,lazycontainer,,https://github.com/andreybleme/lazycontainer,TUI for managing Apple containers.
 devops,podman-tui,,https://github.com/containers/podman-tui,TUI for Podman environment.
 devops,sen,,https://github.com/TomasTomecek/sen,"TUI for containers (manages interactively and inspects containers, dashboard view for containers and images, searching and filtering, real-time updates, tree view of all images)."
