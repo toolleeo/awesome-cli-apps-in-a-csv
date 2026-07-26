@@ -1,4 +1,4 @@
-category,name,homepage,git,description
+﻿category,name,homepage,git,description
 programming,termfu,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.
 productivity,h-m-m,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
 productivity,telert,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete."
@@ -2206,3 +2206,5 @@ online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program all
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
+system,BluetoothHandsFreeToggle,https://github.com/Avazbek22/BluetoothHandsFreeToggle,https://github.com/Avazbek22/BluetoothHandsFreeToggle.git,Interactive Windows console utility that diagnoses and recovers Bluetooth headsets stuck in low-quality Hands-Free call audio.
+>>>>>>> 35fe99e (Add BluetoothHandsFreeToggle)
