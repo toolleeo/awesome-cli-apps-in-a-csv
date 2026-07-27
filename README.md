@@ -3,7 +3,7 @@
 This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
 With source information maintained in a handy CSV file.
 
-To contribute, see the [contribution section](#contribute).
+To contribute, see the [contribution section](CONTRIBUTING.md).
 Read the instructions before rushing at changing the README file: you must edit the CSV files, not the README!
 
 Some links are available to [related resources](#resources).
@@ -2678,8 +2678,6 @@ A list of some online resources that contribute interesting links to apps and in
 
 [Awesome Modern CLI](https://github.com/thegdsks/awesome-modern-cli/) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
-[Toolleeo’s CLIpedia](https://robot.unipv.it/clipedia/) - Blog with information on CLI apps, screenshots and other details (license, author, etc.).
-
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - A wonderful summary from Joshua Levy regarding command line (Bash in particular) tools, programs, tips, and tricks; contains many pointers to resources and repositories, in the form of "to do this you must know that", which gives great pointers but requires further investigation from different sources; translated in many languages.
 
 [Inconsolation blog](https://inconsolation.wordpress.com/) - "Adventures with lightweight and minimalist software for Linux": reviews of many command-line programs; many programs reviewed (400+, at least), with screenshots and animated GIFs; the style of presentation is ironic and funny, but requires some effort to figure out the real contribution of a program.
@@ -2717,48 +2715,4 @@ A list of some online resources that contribute interesting links to apps and in
 [Awesome TUIs](https://github.com/rothgar/awesome-tuis) - An awesome list dedicated to TUI programs.
 
 
-
-# <a name="contribute"></a>How to contribute
-
-If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
-
-As a follower of the 0-inbox approach for emails, I strive to maintain a 0-length list of pull requests for new contributions.
-
-## Open an issue
-
-To suggest a new program, check the existence of the program in the list.
-If it is not present, you can open an issue including the following items:
-
-- `name`: Name of the program
-- `homepage`: URL of the homepage (if it exists)
-- `git`: URL of a clonable git repository (if it exists)
-- `description`: Text with the description of the program
-
-At least one of the two items `homepage` and `git` must be present.
-
-## Pull request on `data/apps.csv`
-
-The peculiarity of this repository is that the source of information is structured into CSV files with a simple structure.
-See the `data/` directory.
-
-If you want to contribute using a pull request, add the new entry to `data/apps.csv`.
-In the CSV file, the `git` field refers to a **clonable git URL**.
-
-Please make changes **to the CSV file only**, **not to the README file**.
-I will review the request and, upon acceptance, I will take care of generating the README and updating the list.
-
-## Contribution via email
-
-If you prefer an email, contact me at `toolleeo@gmail.com` by sending the same information required for the "open an issue" method.
-
-# Generation of the README file
-
-If necessary, this `README` file can be (re-)generated from the CSV files.
-To build `README.md` run:
-
-```
-make
-```
-
-`python3` is required for building. And `make`, of course. :-)
 

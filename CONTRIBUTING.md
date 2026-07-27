@@ -1,4 +1,4 @@
-# <a name="contribute"></a>How to contribute
+# How to contribute
 
 If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
 
