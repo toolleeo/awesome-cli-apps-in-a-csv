@@ -44,7 +44,24 @@ def fmt_app(app):
     return st
 
 
+def print_grouped_apps(groups, cats, apps):
+    for group in groups:
+        label = group.replace(' ', '-')
+        print(f'# <a name="{label}"></a>{group}\n')
+        for c in groups[group]:
+            cat_item = cats[c]
+            print('## <a name="{}"></a>{}\n'.format(c, cat_item['name']))
+            if cat_item['description'] != '':
+                print(f"{cat_item['description']}.\n")
+            apps_in_cat = [a for a in apps if a['category'] == c]
+            apps_in_cat = sorted(apps_in_cat, key=lambda i: i['name'].upper())
+            for app in apps_in_cat:
+                print(fmt_app(app))
+            print()
+
+
 def print_apps(cats, apps):
+    """Old formatting with categories sorted by name."""
     for c in cats:
         cat_item = cats[c]
         print('## <a name="{}"></a>{}\n'.format(c, cat_item['name']))
@@ -57,33 +74,18 @@ def print_apps(cats, apps):
         print()
 
 
-def fmt_categories2(cats, groups):
+def fmt_grouped_categories(cats, groups):
     lines = []
     for group in groups:
-        lines.append(f'## {group}')
+        label = group.replace(' ', '-')
+        lines.append(f'## [{group}](#{label})')
         for c in groups[group]:
             lines.append(f"* [{cats[c]['name']}](#{c}) ({cats[c]['count']})")
     return '\n'.join(lines)
 
-    group_by_letters = {x: [] for x in string.ascii_uppercase}
-    for c in cats:
-        initial = cats[c]['name'][0].upper()
-        group_by_letters[initial].append(c)
-    # print(group_by_letters)
-    strings_by_letters = {x: [] for x in string.ascii_uppercase}
-    for g in group_by_letters:
-        strings_by_letters[g] = [f"[{cats[c]['name']}](#{c}) ({cats[c]['count']})" for c in group_by_letters[g]]
-    lines_by_letters = {x: [] for x in string.ascii_uppercase}
-    # print(strings_by_letters)
-    for g in group_by_letters:
-        lines_by_letters[g] = ', '.join(strings_by_letters[g])
-    lines_to_join = ['* ' + lines_by_letters[key] for key in lines_by_letters if len(lines_by_letters[key])]
-    # print(lines_by_letters)
-    # print(lines_to_join)
-    return '\n'.join(lines_to_join)
-
 
 def fmt_categories(cats):
+    """Old formatting with categories sorted by name and grouped in one line per letter."""
     group_by_letters = {x: [] for x in string.ascii_uppercase}
     for c in cats:
         initial = cats[c]['name'][0].upper()
@@ -100,13 +102,6 @@ def fmt_categories(cats):
     # print(lines_by_letters)
     # print(lines_to_join)
     return '\n'.join(lines_to_join)
-
-
-def fmt_categories_old(cats):
-    st = []
-    for c in cats:
-        st.append("[{}](#{}) ({})".format(cats[c]['name'], c, cats[c]['count']))
-    return ', '.join(st)
 
 
 def count_apps(apps, categories):
@@ -142,11 +137,9 @@ def main():
     for r in resources:
         md_res += '[{}]({}) - {}\n\n'.format(r['title'], r['url'], r['description'])
 
-    print(summary_template.format(n_apps=len(apps), n_cats=len(categories), cats=fmt_categories2(categories, groups)))
-    print_apps(categories, apps)
+    print(summary_template.format(n_apps=len(apps), n_cats=len(categories), cats=fmt_grouped_categories(categories, groups)))
+    print_grouped_apps(groups, categories, apps)
     print(resources_template.format(md_res))
-
-    print(groups)
 
 
 if __name__ == '__main__':
