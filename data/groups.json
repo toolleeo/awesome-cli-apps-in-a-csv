@@ -9,6 +9,6 @@
     "Productivity and Organization": ["ai", "productivity", "writing", "calc", "pastebin", "cheatsheet", "option-picker"],
     "Media and Creative": ["graphics", "video", "music", "animation", "viewers", "screensaver", "screen-recorder"],
     "Security and Package Management": ["security", "password-manager", "package-manager", "vm"],
-    "Utilities and Miscellaneous": ["utility"],
+    "Utilities and Miscellaneous": ["weather", "utility"],
     "Learning and Leisure": ["learning", "flashcard", "typing", "games", "funny", "religion", "science"]
 }

@@ -78,6 +78,7 @@ torrent,Torrent,Clients and download managers using the BitTorrent protocol
 utility,Utilities,Miscellaneous utilities that are not do not fit in other categories and they are not numerous enough that they do not require a dedicated category
 versioning,Versioning,Tools for file versioning that are not related to git
 viewers,Viewers,"File viewers for images and other formats (e.g., e-books)"
+weather,Weather,"Information about the weather, fetched from the Internet"
 browser,Web browser,Web browsers with textual interface
 webdev,Web development,"Web development tools, including load test tools, API clients and managers, link checkers and extractors, etc."
 writing,Writing,"Tools to assist the writing of text and documents, including translation, spell checking, etc."
