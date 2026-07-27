@@ -1,4 +1,5 @@
 import csv
+import json
 import string
 
 
@@ -56,6 +57,32 @@ def print_apps(cats, apps):
         print()
 
 
+def fmt_categories2(cats, groups):
+    lines = []
+    for group in groups:
+        lines.append(f'## {group}')
+        for c in groups[group]:
+            lines.append(f"* [{cats[c]['name']}](#{c}) ({cats[c]['count']})")
+    return '\n'.join(lines)
+
+    group_by_letters = {x: [] for x in string.ascii_uppercase}
+    for c in cats:
+        initial = cats[c]['name'][0].upper()
+        group_by_letters[initial].append(c)
+    # print(group_by_letters)
+    strings_by_letters = {x: [] for x in string.ascii_uppercase}
+    for g in group_by_letters:
+        strings_by_letters[g] = [f"[{cats[c]['name']}](#{c}) ({cats[c]['count']})" for c in group_by_letters[g]]
+    lines_by_letters = {x: [] for x in string.ascii_uppercase}
+    # print(strings_by_letters)
+    for g in group_by_letters:
+        lines_by_letters[g] = ', '.join(strings_by_letters[g])
+    lines_to_join = ['* ' + lines_by_letters[key] for key in lines_by_letters if len(lines_by_letters[key])]
+    # print(lines_by_letters)
+    # print(lines_to_join)
+    return '\n'.join(lines_to_join)
+
+
 def fmt_categories(cats):
     group_by_letters = {x: [] for x in string.ascii_uppercase}
     for c in cats:
@@ -106,6 +133,8 @@ def main():
     _, apps = load_csv('data/apps.csv')
     _, categories = load_csv('data/categories.csv')
     _, resources = load_csv('data/resources.csv')
+    with open('data/groups.json', 'r') as f:
+        groups = json.load(f)
     categories = categories_list_to_dict(categories)
     categories = count_apps(apps, categories)
 
@@ -113,9 +142,11 @@ def main():
     for r in resources:
         md_res += '[{}]({}) - {}\n\n'.format(r['title'], r['url'], r['description'])
 
-    print(summary_template.format(n_apps=len(apps), n_cats=len(categories), cats=fmt_categories(categories)))
+    print(summary_template.format(n_apps=len(apps), n_cats=len(categories), cats=fmt_categories2(categories, groups)))
     print_apps(categories, apps)
     print(resources_template.format(md_res))
+
+    print(groups)
 
 
 if __name__ == '__main__':
