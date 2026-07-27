@@ -571,7 +571,7 @@ option-picker,choose,,https://github.com/jagprog5/choose,NCurses based token sel
 video,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing YouTube audio and video."
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 financial,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
-networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
+connection-manager,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
 rm,Brash,,https://github.com/zakariagatter/brash,Move and restore items from the XDG trash. Written in pure Bash.
 torrent,torrentCLI,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
 prompt,Spaceship,https://spaceship-prompt.sh/,https://github.com/spaceship-prompt/spaceship-prompt,"Minimalistic, powerful and extremely customizable Zsh prompt."
@@ -786,7 +786,7 @@ organizers,caldr,,https://github.com/mrusme/caldr,A lightweight CLI / TUI calend
 cheatsheet,MUC,,https://github.com/nate-sys/muc,Visualize your most used commands.
 text-processing,pup,,https://github.com/ericchiang/pup,Parsing HTML at the command line.
 organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime."
-networking,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
+connection-manager,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
 security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QR code to print on paper."
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
 ai,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to ChatGPT.
@@ -1128,7 +1128,7 @@ data-management-json,YAML Paths,,https://github.com/wwkimball/yamlpath,"YAML/JSO
 data-management-json,jayin,,https://github.com/we-cli/jayin,Piping with js at terminal.
 data-management-json,jsongrep,,https://github.com/dsc/jsongrep,A shell tool to search and select bits out of JSON documents.
 data-management-json,jsongrep,,https://github.com/terrycojones/jsongrep,Python for extracting pieces of JSON objects
-networking,SSM,,https://github.com/elliot40404/ssm,A simple SSH manager.
+connection-manager,SSM,,https://github.com/elliot40404/ssm,A simple SSH manager.
 todo-manager,memo,https://www.byteptr.com/memo/,https://github.com/nrosvall/memo,Memo is a Unix-style note-taking software for POSIX compatible systems.
 security,SOPS,,https://github.com/getsops/sops,"SOPS (Secrets OPerationS) is a simple and flexible tool for managing secrets, sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats, encrypting the values but not the keys."
 networking,sshuttle,,https://github.com/sshuttle/sshuttle,Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and macOS. Supports DNS tunneling.
@@ -1264,7 +1264,7 @@ rss,Newsraft,,https://codeberg.org/newsraft/newsraft,Newsraft is a feed reader w
 password-manager,pash,,https://github.com/dylanaraps/pash,A simple password manager using GPG written in POSIX sh.
 password-manager,pass,,https://github.com/acidvegas/pass,POSIX password manager that keeps passwords inside GPG encrypted files inside a simple directory tree.
 networking,ssh-menu,,https://github.com/antonjah/ssh-menu,A very simple terminal tool that renders an interactive menu with your ssh profiles listed.
-networking,sshed,,https://github.com/trntv/sshed,sshed is a ssh config editor and bookmarks manager.
+connection-manager,sshed,,https://github.com/trntv/sshed,sshed is a ssh config editor and bookmarks manager.
 music,fme,,https://github.com/andreykaere/fme,Flexible metadata editor that allows editing the metadata of music files.
 security,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
 networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line frontend for Tunnelblick.
@@ -1527,7 +1527,7 @@ networking,trzsz-ssh,,https://github.com/trzsz/trzsz-ssh,"An ssh client designed
 games,tetrs,,https://github.com/Strophox/tetrs,"Tetromino game engine and terminal application to play Tetris, written in Rust."
 calc,DateTimeMate,,https://github.com/jftuga/DateTimeMate,"Golang package and CLI to compute the difference between date, time or duration."
 todo-manager,omm,,https://github.com/dhth/omm,"""on-my-mind"" is a keyboard-driven task manager for the command line."
-networking,impala,,https://github.com/pythops/impala,TUI for managing wifi networks and connections on Linux.
+connection-manager,impala,,https://github.com/pythops/impala,TUI for managing wifi networks and connections on Linux.
 networking,turl,,https://github.com/yilmaz08/turl,tURL is a command-line tool to make plain TCP-based requests.
 graphics,pik,,https://github.com/immanelg/pik,Color picker for terminal.
 launcher,mk,,https://github.com/orangekame3/mk,"Interactive task runner for Makefile or Taskfile.yml, designed to interactively execute make commands. It provides a user-friendly interface to select and run predefined commands, making it easier to manage and execute build tasks."
@@ -1700,7 +1700,7 @@ backup,ZnapZend,https://www.znapzend.org,https://github.com/oetiker/znapzend/,ZF
 games,tuifoop,,https://gitlab.com/christosangel/tuifoop,Terminal puzzle game with the goal of removing as many cells as possible (or even all cells) from a grid. A terminal clone of Swell Foop.
 games,shellphone,,https://github.com/kokasmark/shellphone,Terminal based Terraria player file editor.
 monitor,llmtop,,https://github.com/arinbjornk/llmtop,A system monitoring tool powered by LLMs that provides real-time insights about your system's performance.
-networking,blueutil-tui,,https://github.com/Zaloog/blueutil-tui,TUI for Mac to interact with bluetooth devices via blueutil.
+connection-manager,blueutil-tui,,https://github.com/Zaloog/blueutil-tui,TUI for Mac to interact with bluetooth devices via blueutil.
 git,ur-commit-mentor,,https://github.com/ddoemonn/ur-commit-mentor,A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API).
 text-processing,yek,,https://github.com/bodo-run/yek,A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption.
 note-taking,FuzPad,,https://github.com/JianZcar/FuzPad,"A minimalistic note management solution, powered by fzf."
@@ -1763,7 +1763,7 @@ file-handling,choof,,https://github.com/elParadigm/choof,"Choof is a fast and mi
 time-tracker,aimssh,,https://github.com/sairash/aimssh,SSH Pomodoro app.
 text-processing,seaq,,https://github.com/nt54hamnghi/seaq,"seaq (pronounced ""seek"") allows you to extract text data from the web and process it with your favorite prompt and LLM model, all from your terminal."
 programming,air,,https://github.com/air-verse/air,Live reload for Go apps.
-networking,oama,,https://github.com/pdobsan/oama,OAuth credential Manager.
+password-manager,oama,,https://github.com/pdobsan/oama,OAuth credential Manager.
 programming,mush,,https://github.com/javanile/mush,"Mush, a build system for shell."
 file-handling,dotbins,,https://github.com/basnijholt/dotbins,Keep updated binaries in your dotfiles.
 online,is-fast,,https://github.com/Magic-JD/is-fast,"A TUI tool designed for quick and efficient internet searches directly from the terminal, ideal for environments where you don't have easy access to a browser."
@@ -1805,7 +1805,7 @@ networking,dish,,https://github.com/thevxn/dish,"A lightweight, remotely configu
 animation,aclock,,https://github.com/tenox7/aclock,Ascii analog clock for text console displays and terminals and terminal emulators.
 ai-cli-commands,cmd-ai,,https://github.com/BrodaNoel/cmd-ai,Natural language shell command generator and executor powered by AI.
 productivity,floww,,https://github.com/dagimg-dot/floww,"Streamline your workflow setup on Linux desktops, defining workspace layouts and application sets in simple configuration files and automate the process of switching workspaces and launching applications."
-networking,ssm,,https://github.com/lfaoro/ssm,"SSH connection manager designed to connect, filter, tag, and much more from a simple terminal interface."
+connection-manager,ssm,,https://github.com/lfaoro/ssm,"SSH connection manager designed to connect, filter, tag, and much more from a simple terminal interface."
 text-processing,json-leaves,,https://github.com/talwrii/json-leaves,Extract the leaves from a JSON file and show the paths to said leaves.
 graphics,ghost-image-cleaner,,https://github.com/DeadSwitch404/ghost-image-cleaner,"If you share, do it like a Ghost... No metadata, no filename fingerprint, no trace."
 ai-cli-commands,py-ai-shell,,https://github.com/cheney-yan/py-ai-shell,AI-powered shell for command line users.
@@ -1813,7 +1813,7 @@ networking,netdump,,https://github.com/giorgiopapini/netdump,"A simple network p
 text-processing,catselector,,https://github.com/alexaldearroyo/catselector,Interactive file selector for concatenating and exporting text files.
 music,music,,https://github.com/kitesi/music,"Command line tool to help with music related tasks, such as querying songs, lastfm scrobbling, lastfm suggestions, spotify - local playlist sync."
 todo-manager,TODO-CLI-and-TUI,,https://github.com/Harsh-bin/TODO-CLI-and-TUI,"A small todo app which is both ""TUI"" and ""CLI"" based on gum with features like adding tasks for day, week or months, setting target date, adding notes, reward window and many more."
-networking,sshbook,,https://github.com/edavlis/sshbook,Minimal terminal-based SSH launcher for saving ssh entries.
+connection-manager,sshbook,,https://github.com/edavlis/sshbook,Minimal terminal-based SSH launcher for saving ssh entries.
 funny,chadsay,,https://github.com/agvxov/chadsay,"Like cowsay, but pronounced by GigaChad."
 text-processing,cho,,https://github.com/jaggzh/cho,"The safe echo & quoting utility you always knew you needed, but were too afraid to ask [for]."
 rm,gomi,,https://github.com/babarot/gomi,UNIX rm command with a safety net.
@@ -2018,7 +2018,7 @@ chat,WeeChat,https://weechat.org/,https://github.com/weechat/weechat,"Fast and l
 chat,Zulip Terminal,,https://github.com/zulip/zulip-terminal,Official Zulip terminal client with TUI.
 time-tracker,arttime,,https://github.com/reportaman/arttime,A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
 graphics,asciiMOL,,https://github.com/dewberryants/asciiMol,Curses based ASCII molecule viewer for terminals.
-networking,bluetui,,https://github.com/pythops/bluetui,A TUI for managing bluetooth devices on Linux.
+connection-manager,bluetui,,https://github.com/pythops/bluetui,A TUI for managing bluetooth devices on Linux.
 note-taking,Captain's Log,,https://github.com/NikolaDucak/caps-log,"A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository)."
 devops,Amazon EC2 Instance Selector,,https://github.com/aws/amazon-ec2-instance-selector,A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
 vm,EMU2,,https://github.com/dmsc/emu2,"A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O."
@@ -2028,7 +2028,7 @@ font,Iconic Fonts,,https://github.com/iconicFonts/iconic-fonts,"A collection of 
 time-tracker,isw,https://gitlab.com/thom-cameron/isw,,A simple terminal stopwatch application for pomodoro etc.
 networking,MQTT TUI,,https://github.com/EdJoPaTo/mqttui,MQTT Client written in rust (Subscribe to a MQTT topic or publish something quickly).
 music,MOC,https://moc.daper.net/download,,Console audio player for LINUX/UNIX.
-networking,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtui.html,,"Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices)."
+connection-manager,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtui.html,,"Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices)."
 programming,PesterExplorer,,https://github.com/HeyItsGilbert/PesterExplorer,A TUI to explore Pester results (prints tests results as they're running).
 online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin."
 devops,PUG,,https://github.com/leg100/pug,"TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files)."
@@ -2133,7 +2133,7 @@ programming,Rusty Forge,,https://github.com/konni332/rustyforge,"Minimal build m
 time-tracker,MyDoro,,https://github.com/Balaji01-4D/my-doro,"Modern Pomodoro timer for the terminal (work/break intervals, different themes, and a distraction-free CLI experience)."
 git,pomodev,,https://github.com/dhruv1710/pomodev,CLI for Pomodoro timer with built-in Git integration (auot git commit prompt after each work sessions).
 typing,LEARNTYPE,,https://github.com/harkaitz/tcl-learntype,Small CLI program for children (4/5 years old) to learn typing.
-networking,goto,,https://github.com/grafviktor/goto,"A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included."
+connection-manager,goto,,https://github.com/grafviktor/goto,"A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included."
 animation,gostty,,https://github.com/ashish0kumar/gostty,Animation of a ghost for the terminal.
 launcher,mash,,https://github.com/dennisbergevin/mash,A customizable command launcher for storing and executing commands with a tree view of commands and filterable list tagging.
 networking,sshsync,,https://github.com/Blackmamoth/sshsync,Fast and minimal CLI tool to run shell commands across multiple remote servers via SSH.
