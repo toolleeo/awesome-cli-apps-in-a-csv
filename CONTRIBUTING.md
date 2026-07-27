@@ -2,8 +2,6 @@
 
 If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
 
-As a follower of the 0-inbox approach for emails, I strive to maintain a 0-length list of pull requests for new contributions.
-
 ## Open an issue
 
 To suggest a new program, check the existence of the program in the list.
