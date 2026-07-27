@@ -31,7 +31,7 @@ Summary:
 * [File explorer and tree visualization](#file-explorer) (11)
 * [File and file system handling](#file-handling) (31)
 * [File watching for changes](#file-watch) (8)
-* [File manager](#file-manager) (29)
+* [File managers](#file-manager) (29)
 * [File renamers](#file-renamer) (15)
 * [File systems](#file-system) (4)
 * [Conversion](#conversion) (17)
@@ -398,7 +398,7 @@ Services that watch files for changes and perform actions when something happens
 * [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 * [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
 
-## <a name="file-manager"></a>File manager
+## <a name="file-manager"></a>File managers
 
 Applications for interactively managing files and directories.
 
