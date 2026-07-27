@@ -1,6 +1,8 @@
 import csv
 import json
 import string
+import re
+
 
 
 summary_template = """
@@ -74,11 +76,21 @@ def print_apps(cats, apps):
         print()
 
 
+def github_slug(text):
+    # 1. Lowercase
+    slug = text.lower()
+    # 2. Remove anything that's not a word char, space, or hyphen
+    slug = re.sub(r'[^\w\s-]', '', slug)
+    # 3. Replace spaces with dashes
+    slug = re.sub(r'\s+', '-', slug)
+    return slug
+
+
 def fmt_grouped_categories(cats, groups):
     lines = []
     for group in groups:
-        label = group.replace(' ', '-')
-        lines.append(f'## [{group}](#{label})')
+        label = github_slug(group)
+        lines.append(f'## [{group}](#{label}-1)')
         for c in groups[group]:
             lines.append(f"* [{cats[c]['name']}](#{c}) ({cats[c]['count']})")
     return '\n'.join(lines)
