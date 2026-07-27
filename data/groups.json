@@ -1,13 +1,14 @@
 {
-    "Core Utils": ["ls", "cd", "find", "rm", "diff", "text-search", "text-search-replace", "disk-analyzer", "monitor-top", "file-dir-cleanup"],
-    "File and Filesystem Management": ["file-explorer", "file-handling", "file-watch", "file-manager", "file-renamer", "file-system"],
+    "Core Utils": ["ls", "cd", "find", "rm", "history", "diff", "text-search", "text-search-replace", "disk-analyzer", "monitor-top", "file-dir-cleanup"],
+    "File and Filesystem Management": ["file-explorer", "file-handling", "file-watch", "file-manager", "file-renamer", "file-system", "conversion"],
     "Text and Data Processing": ["text-processing", "data-management", "data-management-json", "data-management-tabular", "markdown"],
-    "Development and Programming": ["programming", "programming-boilerplate", "git", "versioning", "devops", "webdev", "editors", "copilot", "ai", "ai-cli-commands", "prompt"],
-    "System and Terminal": ["system", "terminal", "shells", "monitor", "launcher", "screensaver", "screen-recorder", "font"],
+    "Development and Programming": ["programming", "programming-boilerplate", "git", "versioning", "devops", "webdev", "editors", "copilot", "ai-cli-commands"],
+    "System and Terminal": ["system", "terminal", "shells", "prompt", "copy-paste", "monitor", "launcher", "font"],
     "Communication and Networking": ["chat", "email", "networking", "connection-manager", "transfer", "torrent", "rss", "browser", "online"],
-    "Productivity and Organization": ["productivity", "todo-manager", "time-tracker", "note-taking", "organizers", "pastebin", "cheatsheet", "history", "option-picker"],
-    "Media and Creative": ["graphics", "video", "music", "animation", "viewers", "writing"],
+    "Personal Information Management": ["todo-manager", "time-tracker", "note-taking", "organizers", "financial"],
+    "Productivity and Organization": ["ai", "productivity", "writing", "calc", "pastebin", "cheatsheet", "option-picker"],
+    "Media and Creative": ["graphics", "video", "music", "animation", "viewers", "screensaver", "screen-recorder"],
     "Security and Package Management": ["security", "password-manager", "package-manager", "vm"],
-    "Utilities and Miscellaneous": ["calc", "conversion", "copy-paste", "financial", "utility"],
+    "Utilities and Miscellaneous": ["utility"],
     "Learning and Leisure": ["learning", "flashcard", "typing", "games", "funny", "religion", "science"]
 }
