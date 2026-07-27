@@ -27,7 +27,7 @@ find,File finding (alternatives to find),"Search the filesystem looking for file
 file-handling,File and file system handling,"Tools for managing files and directories (copy, move, extraction from compressed archives, change permissions, etc.)"
 file-watch,File watching for changes,Services that watch files for changes and perform actions when something happens
 ls,File listing (alternatives to ls),"List directory content and files, with colors or icons; alternatives to `ls`"
-file-manager,File manager,Applications for interactively managing files and directories
+file-manager,File managers,Applications for interactively managing files and directories
 file-renamer,File renamers,"Utilities to rename files and directories: address multiple items with one command, interactively edit the name within an editor, etc."
 file-system,File systems,"File systems with specific features; e.g., the possibility to add tags and labels to files"
 financial,Financial tools,"Personal ledger trackers, currency converters, and tools to manage and track cryptocurrencies"
