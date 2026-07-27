@@ -11,7 +11,7 @@ Some links are available to [related resources](#resources).
 Summary:
 
 * Apps/tools: **2230**
-* Categories: **82**
+* Categories: **83**
 
 # Contents
 
@@ -98,7 +98,8 @@ Summary:
 * [Package managers](#package-manager) (26)
 * [Containerization and virtualization](#vm) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
-* [Utilities](#utility) (52)
+* [Weather](#weather) (6)
+* [Utilities](#utility) (46)
 ## [Learning and Leisure](#learning-and-leisure-1)
 * [Learning and didactic tools](#learning) (10)
 * [Anki, decks and flashcards](#flashcard) (10)
@@ -2433,12 +2434,22 @@ Tools to manage virtual machines and/or containers and related utilities.
 
 # <a name="Utilities-and-Miscellaneous"></a>Utilities and Miscellaneous
 
+## <a name="weather"></a>Weather
+
+Information about the weather, fetched from the Internet.
+
+* [Aniweather](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
+* [gust](https://github.com/josephburgess/gust) - Command line weather app written in Go.
+* [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
+* [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
+* [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
+* [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
+
 ## <a name="utility"></a>Utilities
 
 Miscellaneous utilities that are not do not fit in other categories and they are not numerous enough that they do not require a dedicated category.
 
 * [anbu](https://github.com/tanq16/anbu) - A swiss army knife for CLI operations catered to devs and security professionals.
-* [Aniweather](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoization / caching library for bash scripts and shells
 * [bashtutor](https://github.com/agvxov/bashtutor) - Easily extendable utility to interactively showcase or teach CLIs, command line tasks, workflows and Bash itself.
@@ -2455,7 +2466,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [glyphs](https://github.com/maaslalani/glyphs) - Unicode symbols on the command line.
 * [gtime](https://github.com/savitojs/gtime) - Python CLI utility for global time zone lookup, comparison, and management; The program supports fuzzy search, favorites, city comparison, meeting time conversion, and a live/watch mode.
 * [guesswidth](https://github.com/noborus/guesswidth) - Guess the width output without delimiters in commands that output to the terminal.
-* [gust](https://github.com/josephburgess/gust) - Command line weather app written in Go.
 * [Keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
 * [loopctl](https://github.com/Karvy-Singh/loopctl) - The program allows you to repeat a media/section of media x number of times and to repeat a certain part of media.
 * [mkdesk](https://gitlab.com/mr-draxs/mkdesk) - A program/command to create .desktop files (program launchers) using the terminal.
@@ -2469,7 +2479,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [ProgressLine](https://github.com/kattouf/ProgressLine) - Track commands progress in a compact one-line format.
 * [ps1palette](https://github.com/WDoyle123/ps1palette) - Streamline Bash PS1 customization through script automation for prompt color coding and .bashrc integration.
 * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions there are more than 100 exercises covering both the builtin re and third-party regex module.
-* [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
 * [Roku-tui](https://github.com/winsbe01/roku-cli) - A command line TUI remote for Roku.
 * [sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command.
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
@@ -2479,15 +2488,12 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [sprinkles](https://github.com/KhalilOuali/sprinkles) - Randomly colors input text and outputs it to the terminal.
 * [tab-pal](https://github.com/ben-n93/tab-pal) - A command-line app that makes it easier to add and edit custom colour palettes in Tableau.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
-* [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 * [tickrs](https://github.com/tarkah/tickrs) - Real-time ticker data in your terminal.
 * [tmux-fingers](https://github.com/morantron/tmux-fingers) - Copy-pasting in terminal with vimium/vimperator like hints.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
 * [Various Scripts](https://github.com/xkcd386at/scripts) - Various script, mainly in shell and Perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf.
 * [volgo](https://github.com/elliot40404/volgo) - A cross-platform CLI app written in Go for controlling system volume from the terminal. Use simple commands or a beautiful interactive TUI—even over SSH.
 * [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
-* [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
-* [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
 * [Zsh Angel IQ System](https://github.com/psprint/zsh-angel-iq-system) - A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife.
 
 # <a name="Learning-and-Leisure"></a>Learning and Leisure
