@@ -7,7 +7,7 @@
     "Environment Management Tools": ["package-manager", "vm", "launcher", "font"],
     "Communication and Networking": ["email", "chat", "networking", "connection-manager", "transfer", "torrent", "rss", "browser", "online"],
     "Personal Information Management": ["todo-manager", "time-tracker", "note-taking", "organizers", "financial"],
-    "Productivity and Organization": ["ai", "productivity", "writing", "calc", "pastebin", "cheatsheet", "ai-cli-commands"],
+    "Productivity": ["ai", "productivity", "writing", "calc", "pastebin", "cheatsheet", "ai-cli-commands"],
     "Media and Creative": ["graphics", "video", "music", "animation", "viewers", "screensaver", "screen-recorder"],
     "Security and Package Management": ["security", "password-manager"],
     "Utilities and Miscellaneous": ["utility", "weather"],
