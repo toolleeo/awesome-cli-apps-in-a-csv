@@ -59,7 +59,8 @@ prompt,Prompts,Prompts and welcome messages at the command line
 religion,Religion,"Tools to handle religious material, e.g. reading the Holy Bible"
 rss,RSS,"RSS feed visualizers, converters, and managers"
 science,Science,"Packages for scientific research and science applications, e.g., bibliography and publication management"
-security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems"
+security,Security,Encrypted file-systems and cyber-security tools
+crypto,"Encryption, decryption and steganography tools","Programs to cipher data, streams and hide secrets in files"
 shells,Shells,Shell programs that enable the interaction through the terminal
 music,Sound and music,"Music players, podcast, synthesizers, downloaders, online radios"
 monitor,System monitoring,"Applications to display the usage of system resources: network, memory, power, etc."

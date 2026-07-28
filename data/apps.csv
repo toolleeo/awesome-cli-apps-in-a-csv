@@ -61,7 +61,7 @@ launcher,task-spooler,http://vicerveza.homeunix.net/~viric/soft/ts/,,"A Unix bat
 monitor,ttyload,http://www.daveltd.com/src/util/ttyload/,https://github.com/lindes/ttyload,"Lightweight utility that offers a color-coded graph of load averages over time, enabling a graphical tracking of system average load."
 history,hstr,,https://github.com/dvorka/hstr,"Manage the shell history. It has a powerful visual search and execution of previous commands, and history editing capabilities."
 launcher,parallel,https://www.gnu.org/software/parallel/,https://git.savannah.gnu.org/git/parallel.git,"A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel."
-security,cipher,,https://github.com/ash-shell/cipher,An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.
+crypto,cipher,,https://github.com/ash-shell/cipher,An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.
 security,hashcat,https://hashcat.net/hashcat/,https://github.com/hashcat/hashcat,"A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash."
 security,encfs,http://www.arg0.net/#!encfs/c1awt,https://github.com/vgough/encfs,"Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE), mounts an encrypted directory into a clear one."
 password-manager,safe.sh,,https://github.com/windowsrefund/safe,"Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html)."
@@ -316,7 +316,7 @@ email,nmail,,https://github.com/d99kris/nmail,nmail is a console-based email cli
 chat,matterhorn,,https://github.com/matterhorn-chat/matterhorn,A terminal client for the Mattermost chat system.
 organizers,calcurse,https://calcurse.org/,https://git.calcurse.org/calcurse.git,"A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks."
 music,castero,,https://github.com/xgi/castero,A TUI podcast client for the terminal.
-security,GnuPG,https://gnupg.org/,https://dev.gnupg.org/source/gnupg.git,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
+crypto,GnuPG,https://gnupg.org/,https://dev.gnupg.org/source/gnupg.git,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 chat,tiny,,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.
 note-taking,Standard Unix Notes,,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.
 monitor-top,below,,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
@@ -561,7 +561,7 @@ monitor-top,tiptop,,https://github.com/nschloe/tiptop,"A command-line system mon
 webdev,iola,,https://github.com/pvarentsov/iola,A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.
 data-management,lowcharts,,https://github.com/juan-leon/lowcharts,lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
 note-taking,nb,,https://github.com/xwmx/nb,"A command line and local web note-taking, bookmarking, archiving, and knowledge base application."
-security,ots,,https://github.com/sniptt-official/ots,Share end-to-end encrypted secrets with others via a one-time URL.
+crypto,ots,,https://github.com/sniptt-official/ots,Share end-to-end encrypted secrets with others via a one-time URL.
 text-processing,rare,,https://github.com/zix99/rare,"Real-time regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!"
 online,Awesome CLI,,https://github.com/umutphp/awesome-cli,Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 animation,ora,,https://github.com/sindresorhus/ora,Elegant terminal spinner.
@@ -604,7 +604,7 @@ todo-manager,t,,https://github.com/sjl/t,"A command-line todo list manager for p
 todo-manager,topydo,,https://github.com/topydo/topydo,"A powerful todo list application for the console, using the todo.txt format."
 todo-manager,Ultralist,https://ultralist.io/,https://github.com/gammons/ultralist,"A simple, powerful, open source task management system for the command line."
 todo-manager,devtodo,https://swapoff.org/devtodo.html,https://github.com/droundy/goopt,"A hierarchical command-line task manager, with data storage in JSON format."
-security,cream,https://z3bra.org/cream/,git://git.z3bra.org/cream.git,"Encrypt and decrypt streams of data with only a master password. The key is derivated from the password + salt combo, and used to encrypt data byte per byte."
+crypto,cream,https://z3bra.org/cream/,git://git.z3bra.org/cream.git,"Encrypt and decrypt streams of data with only a master password. The key is derivated from the password + salt combo, and used to encrypt data byte per byte."
 organizers,remint,https://sr.ht/~mlaparie/remint/,https://git.sr.ht/~mlaparie/remint,A simple terminal UI wrapper for D. Skoll's Remind calendar program
 email,tmpmail,,https://github.com/sdushantha/tmpmail,A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 games,Flapioca,,https://github.com/kbrgl/flapioca,A Flappy Bird-inspired terminal game written in Go.
@@ -621,7 +621,7 @@ data-management-tabular,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.co
 cheatsheet,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering Linux/terminal commands.
 financial,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.
 package-manager,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
-security,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.
+crypto,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.
 git,gitsummary,,https://github.com/glenreesor/gitsummary,"A better git status that lists stashes, file statuses, branch list, all nicely formatted with color."
 security,cotp,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
 cheatsheet,topalias,,https://github.com/meteoritt/topalias,"Linux alias generator from bash/zsh command history with statistics, written on Python."
@@ -654,7 +654,7 @@ screen-recorder,vhs,,https://github.com/charmbracelet/vhs,Write terminal GIFs as
 system,checksum.sh,https://checksum.sh/,https://github.com/gavinuhma/checksum.sh,"Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere."
 data-management,crudini,,https://github.com/pixelb/crudini,A utility for manipulating .ini files.
 writing,GTT - Google Translate TUI,,https://github.com/eeeXun/GTT,A TUI interface to bring Google Translation in the terminal.
-security,Image Steganography Tool,,https://github.com/7thSamurai/steganography,Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
+crypto,Image Steganography Tool,,https://github.com/7thSamurai/steganography,Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
 religion,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
 science,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
 time-tracker,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
@@ -682,7 +682,7 @@ text-processing,fullname-cli,,https://github.com/sindresorhus/fullname-cli,Get t
 graphics,gifgen,,https://github.com/lukechilds/gifgen,Simple high quality GIF encoding.
 graphics,gifsicle,,https://github.com/kohler/gifsicle,"Create, manipulate, and optimize GIF images and animations."
 programming-boilerplate,readme-md-generator,,https://github.com/kefranabg/readme-md-generator,CLI that generates beautiful README.md files.
-security,StegCloak,,https://github.com/kurolabs/stegcloak,Hide secrets with invisible characters in plain text securely using passwords
+crypto,StegCloak,,https://github.com/kurolabs/stegcloak,Hide secrets with invisible characters in plain text securely using passwords
 file-manager,fff,,https://github.com/dylanaraps/fff,"Fast, simple file manager written in bash."
 networking,mosh,https://mosh.org/,https://github.com/mobile-shell/mosh,Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 organizers,vdirsyncer,,https://github.com/pimutils/vdirsyncer,CalDAV synchronization program.
@@ -787,7 +787,7 @@ cheatsheet,MUC,,https://github.com/nate-sys/muc,Visualize your most used command
 text-processing,pup,,https://github.com/ericchiang/pup,Parsing HTML at the command line.
 organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime."
 connection-manager,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
-security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QR code to print on paper."
+crypto,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QR code to print on paper."
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
 ai,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to ChatGPT.
 organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
@@ -799,7 +799,7 @@ password-manager,keydex,,https://github.com/shikaan/keydex,Manage KeePass databa
 utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declarative syntax and builtin providers."
 video,lotc,,https://github.com/ranelpadon/lord-of-the-clips,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
 music,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
-security,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
+crypto,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
 note-taking,NoteSH,,https://github.com/Cvaniak/NoteSH,"Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!"
 ai,ata,,https://github.com/transformrs/ata,Ask the Terminal Anything: OpenAI GPT in the terminal.
 disk-analyzer,erdtree,,https://github.com/solidiquis/erdtree,A multithreaded file-tree visualizer and disk usage analyzer.
@@ -935,7 +935,7 @@ terminal,tmux-session,,https://github.com/BartSte/tmux-session,Manage tmux sessi
 games,Dino,,https://github.com/wldfngrs/chrome-dinosaur-terminal,A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
 find,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.
 launcher,taverner,,https://github.com/vagos/taverner,"CLI launcher menu for games (or anything), the UNIX way."
-security,securo,,https://github.com/iunary/securo,Encrypt and descrypt files and folders using a symmetric encryption.
+crypto,securo,,https://github.com/iunary/securo,Encrypt and decrypt files and folders using a symmetric encryption.
 graphics,catnip,,https://github.com/sweetbbak/catnip,An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 games,Wordle Solver,,https://gitlab.com/christosangel/wordle-solver,A bash script that can solve wordle riddles.
 utility,pangran,,https://github.com/BimoT/pangran,A simple TUI program that checks if you've typed a pangram.
@@ -1000,7 +1000,7 @@ graphics,rclip,,https://github.com/yurijmikhalevich/rclip,AI-Powered Command-Lin
 science,bibtools,,https://github.com/pkgw/bibtools,Command-line bibliography manager.
 monitor-top,TTV,,https://github.com/caio-ishikawa/term-task-viewer,terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.
 prompt,Basta!,https://www.kylheku.com/cgit/basta/about/,https://www.kylheku.com/git/basta,A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
-security,safe,https://z3bra.org/safe/,git://z3bra.org/safe.git,Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
+crypto,safe,https://z3bra.org/safe/,git://z3bra.org/safe.git,Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
 text-processing,skroll,https://z3bra.org/skroll/,git://z3bra.org/skroll.git,"A small utility that you can use to make a text scroll. Pipe text to it, and it will scroll a given number of letters from right to left."
 chat,sic,https://tools.suckless.org/sic/,https://git.suckless.org/sic,sic is an extremely simple IRC client. It consists of less than 250 lines of code.
 chat,Profanity,https://profanity-im.github.io/,https://github.com/profanity-im/profanity,"Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi."
@@ -1130,7 +1130,7 @@ data-management-json,jsongrep,,https://github.com/dsc/jsongrep,A shell tool to s
 data-management-json,jsongrep,,https://github.com/terrycojones/jsongrep,Python for extracting pieces of JSON objects
 connection-manager,SSM,,https://github.com/elliot40404/ssm,A simple SSH manager.
 todo-manager,memo,https://www.byteptr.com/memo/,https://github.com/nrosvall/memo,Memo is a Unix-style note-taking software for POSIX compatible systems.
-security,SOPS,,https://github.com/getsops/sops,"SOPS (Secrets OPerationS) is a simple and flexible tool for managing secrets, sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats, encrypting the values but not the keys."
+crypto,SOPS,,https://github.com/getsops/sops,"SOPS (Secrets OPerationS) is a simple and flexible tool for managing secrets, sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats, encrypting the values but not the keys."
 networking,sshuttle,,https://github.com/sshuttle/sshuttle,Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and macOS. Supports DNS tunneling.
 music,Gomu,,https://github.com/issadarkthing/gomu,"Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively."
 ls,eza,,https://github.com/eza-community/eza,"eza is a modern, _maintained_ replacement for `ls`, built on `exa`."
@@ -1251,7 +1251,7 @@ system,inshellisense,,https://github.com/microsoft/inshellisense,IDE style comma
 option-picker,lSel,,https://github.com/unsigned-enby/lSel,Simple no-fuss TUI selection menu for use in scripts.
 system,argc-completions,,https://github.com/sigoden/argc-completions,Autocompletion for any shell and any command.
 package-manager,hysp,,https://github.com/pwnwriter/hysp,An independent package manager that every hacker deserves.
-security,jdvrif,,https://github.com/CleasbyCode/jdvrif,CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
+crypto,jdvrif,,https://github.com/CleasbyCode/jdvrif,CLI tool to embed or extract files via a JPG image. Post and share your embedded JPG image on compatible sites.
 system,Kill,,https://github.com/unsigned-enby/Kill,Small bash-only script for killing processes/sending signals.
 organizers,plann,,https://github.com/tobixen/plann,Command-line interface to online calendars.
 music,pytunes,,https://github.com/bernhardfritz/pytunes,Self-hosted music streaming service.
@@ -1266,7 +1266,7 @@ password-manager,pass,,https://github.com/acidvegas/pass,POSIX password manager 
 networking,ssh-menu,,https://github.com/antonjah/ssh-menu,A very simple terminal tool that renders an interactive menu with your ssh profiles listed.
 connection-manager,sshed,,https://github.com/trntv/sshed,sshed is a ssh config editor and bookmarks manager.
 music,fme,,https://github.com/andreykaere/fme,Flexible metadata editor that allows editing the metadata of music files.
-security,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
+crypto,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
 networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line frontend for Tunnelblick.
 networking,sshx,,https://github.com/ekzhang/sshx,"Fast, collaborative live terminal sharing over the web."
 music,kew,,https://github.com/ravachol/kew,A command-line music player with gapless playback and simple playlist management.
@@ -1306,7 +1306,7 @@ package-manager,app,,https://github.com/hkdb/app,A cross-platform package manage
 monitor,GFetch,,https://github.com/tanaybhomia/GFetch,A simple fetch script written in Python.
 utility,chet-client,,https://github.com/Hillside-Labs/chet-client,Measure your commands to speed up your development.
 games,2048-cli,,https://github.com/Frost-Phoenix/2048-cli,A 2048 clone that run in the terminal.
-security,eddy,,https://github.com/70sh1/eddy,"Simple, fast CLI file encryption tool."
+crypto,eddy,,https://github.com/70sh1/eddy,"Simple, fast CLI file encryption tool."
 science,gol-tui,,https://github.com/MathiasSven/gol-tui,Conway's Game of Life TUI.
 office,gpa-calculator,,https://github.com/kitesi/gpa-calculator,GPA calculator CLI app that stores data in local files; written in Go.
 online,pure-recipe,,https://github.com/atiumcache/pure-recipe,"Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a Markdown file."
@@ -1487,7 +1487,7 @@ networking,generate-ip,https://generate-ip.org,https://github.com/adamlui/js-uti
 financial,abandon,,https://github.com/hrj/abandon,"A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI."
 transfer,osync,http://www.netpower.fr/osync,https://github.com/deajan/osync,"A robust two-way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near real-time sync."
 email,mailsy,,https://github.com/BalliAsghar/Mailsy.git,Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
-security,age,https://age-encryption.org/,https://github.com/FiloSottile/age,"A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability."
+crypto,age,https://age-encryption.org/,https://github.com/FiloSottile/age,"A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability."
 dotfiles,chezmoi,https://www.chezmoi.io/,https://github.com/twpayne/chezmoi,"Manage your dotfiles across multiple diverse machines, securely."
 text-processing,choose,,https://github.com/theryangeary/choose,A human-friendly and fast alternative to cut and (sometimes) awk.
 system,direnv,https://direnv.net/,https://github.com/direnv/direnv,Loads and unloads environment variables depending on the current directory.
@@ -1885,7 +1885,7 @@ music,spotui,,https://github.com/ceuk/spotui,TUI Spotify client written in Pytho
 music,rmpc,,https://mierak.github.io/rmpc/,A configurable TUI MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 monitor,chdig,,https://github.com/azat/chdig,Dig into ClickHouse with TUI interface.
 system,damon,,https://github.com/hashicorp/damon,"TUI interface for Hashicorp Nomad, it provides functionality to observe and interact with Nomad resources such as Jobs, Deployments, or Allocations."
-security,fubar,,https://github.com/irishmaestro/fubar,"Formidable Unix Binary Arsenal & Repository. TUI built for offline payload generation, retrieval, and exfiltration."
+security,fubar,,https://github.com/irishmaestro/fubar,"Formidable Unix Binary Arsenal and Repository. TUI built for offline payload generation, retrieval, and exfiltration."
 system,htui,,https://github.com/PierreKieffer/htui,"Heroku Terminal User Interface: manage your apps, scale your dynos, browse logs in real time..."
 monitor,kaskade,,https://github.com/sauljabin/kaskade,"TUI for kafka, which allows you to interact and consume topics from your terminal in style."
 networking,Kyanos,,https://github.com/hengyoush/kyanos,"Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient."
@@ -2219,7 +2219,7 @@ file-manager,RTFM,,https://github.com/isene/RTFM,Feature-rich Terminal File Mana
 email,Open Archiver,,https://github.com/LogicLabs-OU/OpenArchiver,"The program provides a solution for archiving, storing, indexing and searching emails from major platforms."
 ls,lsnotes,,https://github.com/aeilot/lsnotes,The program lets you add a description to your directories.
 git,WRKFLW,,https://github.com/bahdotsh/wrkflw,"Command-line tool for validating and executing GitHub actions workflows locally, without a full GitHub environment."
-security,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
+crypto,secret_share,,https://github.com/scosman/secret_share,The program allows you to share messages (secrets and passwords) securely with a CLI.
 shells,sshrc,,https://github.com/cdown/sshrc,The program works just like ssh while also sourcing your local sshrc configuration file upon logging in remotely.
 ai,AskOra,,https://github.com/rosettadb/askora,"Unified Python CLI interacting with multiple AI providers sending prompts and getting structured AI responses, all from your terminal."
 todo-manager,Togo,,https://github.com/prime-run/togo,A fast and simple terminal-based task and todo manager built in go.

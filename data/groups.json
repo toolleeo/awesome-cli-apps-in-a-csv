@@ -9,7 +9,7 @@
     "Personal Information Management": ["todo-manager", "time-tracker", "note-taking", "organizers", "financial"],
     "Productivity": ["ai", "productivity", "writing", "calc", "pastebin", "cheatsheet", "ai-cli-commands"],
     "Media and Creative": ["graphics", "video", "music", "animation", "viewers", "screensaver", "screen-recorder"],
-    "Security and Package Management": ["security", "password-manager"],
+    "Security and Package Management": ["crypto", "security", "password-manager"],
     "Utilities and Miscellaneous": ["utility", "weather"],
     "Learning and Leisure": ["learning", "flashcard", "typing", "games", "funny", "religion", "science"]
 }
