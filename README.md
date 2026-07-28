@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2230**
+* Apps/tools: **2231**
 * Categories: **85**
 
 # Contents
@@ -92,7 +92,7 @@ Summary:
 * [Graphics](#graphics) (54)
 * [Video](#video) (16)
 * [Sound and music](#music) (73)
-* [Animation](#animation) (39)
+* [Animation](#animation) (41)
 * [Viewers](#viewers) (49)
 * [Screen savers](#screensaver) (7)
 * [Screen recorder](#screen-recorder) (12)
@@ -104,13 +104,13 @@ Summary:
 * [Utilities](#utility) (46)
 * [Weather](#weather) (6)
 ## [Learning and Leisure](#learning-and-leisure-1)
-* [Learning and didactic tools](#learning) (10)
+* [Learning and didactic tools](#learning) (9)
 * [Anki, decks and flashcards](#flashcard) (10)
 * [Typing test and practice](#typing) (22)
-* [Games](#games) (100)
+* [Games](#games) (99)
 * [Funny tools](#funny) (22)
 * [Religion](#religion) (6)
-* [Science](#science) (23)
+* [Science](#science) (24)
 
 # <a name="Core-Utils"></a>Core Utils
 
@@ -2261,9 +2261,11 @@ Generate or display animated graphics and effects.
 * [cpond](https://github.com/ayuzur/cpond) - The program creates procedurally animated fish to swim around your terminal.
 * [ctree](https://github.com/gleich/ctree) - A Christmas tree right from your terminal.
 * [firew0rks](https://github.com/addyosmani/firew0rks) - Fireworks in your terminal.
+* [go-life](https://github.com/sachaos/go-life) - Terminal based Conway's Game of Life, implemented in Go.
 * [gostty](https://github.com/ashish0kumar/gostty) - Animation of a ghost for the terminal.
 * [LundukeHoliday](https://github.com/BryanLunduke/LundukeHoliday) - A simple Bash script that shows some animated, ASCII holiday decorations in your shell.
 * [Maze Solver](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
+* [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Build mazes, solve them with various algorithms and visualize them.
 * [neo](https://github.com/st3w/neo) - Recreates the digital rain effect from "The Matrix". Streams of random characters will endlessly scroll down your terminal screen.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences.
@@ -2515,15 +2517,14 @@ Information about the weather, fetched from the Internet.
 
 ## <a name="learning"></a>Learning and didactic tools
 
-Programs that help learning or teaching about some argument.
+Programs that support learning and teaching about an argument.
 
 * [bashmate](https://github.com/algobuddha/bashmate) - CLI tool to learn bash command with your natural language.
+* [bashquest](https://github.com/toolleeo/bashquest) - Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 * [Countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country.
 * [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
-* [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Build mazes, solve them with various algorithms and visualize them.
 * [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
-* [Physics TUI](https://github.com/ClaudioRMalvino/physics_TUI) - TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter.
 * [ShellKit](https://github.com/pokeyaro/shellkit) - Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell).
 * [TUI apps](https://github.com/learnbyexample/TUI-apps) - A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc.
 * [wb](https://github.com/MertGunduz/wb) - A TUI vocabulary notebook app for Linux based devices.
@@ -2609,7 +2610,6 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [gambit](https://github.com/maaslalani/gambit) - Chess board in your terminal.
 * [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - A PHP Terminal GameBoy Emulator.
 * [gg](https://github.com/Kaamkiya/gg) - A collection of games you can play in your terminal; written in Go.
-* [go-life](https://github.com/sachaos/go-life) - Terminal based Conway's Game of Life, implemented in Go.
 * [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper game in the command line programmed in Go.
 * [greed](http://www.catb.org/~esr/greed/) - A game in which the goal is to move and consume all the numbers in a table.
 * [guess-word-cli](https://github.com/akgondber/guess-word-cli) - Find out a source word which characters was shuffled and moreover an extra character was added to bring some complexity.
@@ -2733,6 +2733,7 @@ Packages for scientific research and science applications, e.g., bibliography an
 * [papis](https://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 * [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - An interactive Periodic Table of Elements app for the console!
 * [periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console.
+* [Physics TUI](https://github.com/ClaudioRMalvino/physics_TUI) - TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter.
 * [pt.sh](https://github.com/alexeytal/pt.sh) - CLI periodic table with search and many properties.
 * [ptable](https://github.com/velorek1/ptable) - A beautiful TUI periodic table for GNU/Linux terminals.
 * [Pubs](https://github.com/pubs/pubs) - Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
