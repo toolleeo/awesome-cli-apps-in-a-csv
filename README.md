@@ -97,7 +97,7 @@ Summary:
 * [Screen savers](#screensaver) (7)
 * [Screen recorder](#screen-recorder) (12)
 ## [Security and Package Management](#security-and-package-management-1)
-* [Encryption, decryption and steganography tools](#crypto) (17)
+* [Encryption, decryption and steganography](#crypto) (17)
 * [Security](#security) (25)
 * [Password managers](#password-manager) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
@@ -2365,7 +2365,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 
 # <a name="Security-and-Package-Management"></a>Security and Package Management
 
-## <a name="crypto"></a>Encryption, decryption and steganography tools
+## <a name="crypto"></a>Encryption, decryption and steganography
 
 Programs to cipher data, streams and hide secrets in files.
 
