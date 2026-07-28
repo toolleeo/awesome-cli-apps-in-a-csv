@@ -11,7 +11,7 @@ Some links are available to [related resources](#resources).
 Summary:
 
 * Apps/tools: **2230**
-* Categories: **83**
+* Categories: **84**
 
 # Contents
 
@@ -30,7 +30,7 @@ Summary:
 ## [File and Filesystem Management](#file-and-filesystem-management-1)
 * [File managers](#file-manager) (29)
 * [File explorer and tree visualization](#file-explorer) (11)
-* [File and file system handling](#file-handling) (31)
+* [File and file system handling](#file-handling) (30)
 * [File watching for changes](#file-watch) (8)
 * [File renamers](#file-renamer) (15)
 * [File systems](#file-system) (4)
@@ -52,7 +52,7 @@ Summary:
 * [Web development](#webdev) (35)
 * [Co-pilot](#copilot) (12)
 ## [System and Terminal](#system-and-terminal-1)
-* [System tools](#system) (48)
+* [System tools](#system) (44)
 * [Terminals](#terminal) (27)
 * [Shells](#shells) (27)
 * [Prompts](#prompt) (14)
@@ -62,6 +62,7 @@ Summary:
 * [Package managers](#package-manager) (26)
 * [Containerization and virtualization](#vm) (25)
 * [Command launchers](#launcher) (28)
+* [Dotfile managers](#dotfiles) (5)
 * [Font management](#font) (5)
 ## [Communication and Networking](#communication-and-networking-1)
 * [Email](#email) (23)
@@ -79,7 +80,7 @@ Summary:
 * [Note taking](#note-taking) (34)
 * [Organizers and calendars](#organizers) (22)
 * [Financial tools](#financial) (25)
-## [Productivity and Organization](#productivity-and-organization-1)
+## [Productivity](#productivity-1)
 * [AI / LLM integration](#ai) (47)
 * [Productivity](#productivity) (19)
 * [Writing](#writing) (12)
@@ -395,7 +396,6 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 * [dlorg](https://github.com/deepspeccode/dlorg) - Powerful and intuitive that automatically organizes your cluttered Downloads folder into a neatly structured directory system.
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
-* [dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles.
 * [doxx](https://github.com/bgreenwell/doxx) - Terminal native document viewer for Word files (view, search and export documents).
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows using one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
 * [Fast Files](https://github.com/mintycube/fast-files) - ff is a bash script which is a combination of `mkdir` and `touch`. It can create directory structures and files simultaneously and lists the created objects using `eza`, `lsd`, or `ls`.
@@ -1040,14 +1040,12 @@ System management tools, such as for brightness control, dotfile and environment
 * [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line with a nice interface to list the available options..
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl) - Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.
 * [checksum.sh](https://checksum.sh/) - Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere.
-* [chezmoi](https://www.chezmoi.io/) - Manage your dotfiles across multiple diverse machines, securely.
 * [conspy](http://conspy.sourceforge.net/) - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 * [damon](https://github.com/hashicorp/damon) - TUI interface for Hashicorp Nomad, it provides functionality to observe and interact with Nomad resources such as Jobs, Deployments, or Allocations.
 * [direnv](https://direnv.net/) - Loads and unloads environment variables depending on the current directory.
 * [dtui](https://github.com/Troels51/dtui) - Small TUI for introspecting the state of the system/session dbus.
 * [empiriqa](https://github.com/ynqa/empiriqa) - empiriqa (command name is epiq) is a tool for interactively manipulating UNIX pipelines.
 * [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-* [fyora](https://github.com/wenbang24/fyora) - Intuitive declarative dotfile management.
 * [fzf-kill](https://github.com/Zeioth/fzf-kill) - The no-nonsense task killer for your terminal.
 * [has](https://github.com/kdabir/has) - Checks presence of various command line tools on the PATH and reports their installed version.
 * [htui](https://github.com/PierreKieffer/htui) - Heroku Terminal User Interface: manage your apps, scale your dynos, browse logs in real time...
@@ -1080,8 +1078,6 @@ System management tools, such as for brightness control, dotfile and environment
 * [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 * [wander](https://github.com/robinovitch61/wander) - HashiCorp Nomad terminal client.
 * [x-cmd](https://www.x-cmd.com/) - A toolset implemented using posix shell and awk offering many interesting features and that is very small in size.
-* [YAS-BDSM](https://github.com/sebastiancarlos/yas-bdsm) - YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager.
-* [ydf](https://github.com/yunielrc/ydf) - A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
 
 ## <a name="terminal"></a>Terminals
 
@@ -1337,6 +1333,16 @@ Applications to launch/execute programs, either interactively, automatically, in
 * [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lot of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities.
 * [taverner](https://github.com/vagos/taverner) - CLI launcher menu for games (or anything), the UNIX way.
 * [Violet](https://github.com/braheezy/violet) - Colorful TUI frontend to run Vagrant commands.
+
+## <a name="dotfiles"></a>Dotfile managers
+
+Tools to handle, backup and share system dotfiles.
+
+* [chezmoi](https://www.chezmoi.io/) - Manage your dotfiles across multiple diverse machines, securely.
+* [dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles.
+* [fyora](https://github.com/wenbang24/fyora) - Intuitive declarative dotfile management.
+* [YAS-BDSM](https://github.com/sebastiancarlos/yas-bdsm) - YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager.
+* [ydf](https://github.com/yunielrc/ydf) - A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
 
 ## <a name="font"></a>Font management
 
@@ -1880,7 +1886,7 @@ Personal ledger trackers, currency converters, and tools to manage and track cry
 * [stocksTUI](https://github.com/andriy-git/stocksTUI) - StocksTUI: Real-time stock market data in your terminal.
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 
-# <a name="Productivity-and-Organization"></a>Productivity and Organization
+# <a name="Productivity"></a>Productivity
 
 ## <a name="ai"></a>AI / LLM integration
 
