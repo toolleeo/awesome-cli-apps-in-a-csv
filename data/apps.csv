@@ -1145,7 +1145,7 @@ ai,safespace,,https://github.com/danlou/safespace,Your local AI counselor. LLM a
 networking,SMBScan,,https://github.com/jeffhacks/smbscan,SMBScan is a tool to enumerate file shares on an internal network.
 system,rs-env,,https://github.com/sysid/rs-env,"Hierarchical environment variable management, compiling the resulting set of from a hierarchical list of `<name>.env` files."
 browser,Litter,,https://github.com/tuxcanfly/litter,"Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers."
-system,YAS-BDSM,,https://github.com/sebastiancarlos/yas-bdsm,"YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager."
+dotfiles,YAS-BDSM,,https://github.com/sebastiancarlos/yas-bdsm,"YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager."
 graphics,TermImg,,https://github.com/srlehn/termimg,termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
 programming,gup,,https://github.com/nao1215/gup,"Update binaries installed by ""go install"" with goroutines."
 ls,stree,,https://github.com/orangekame3/stree,A CLI tool designed to visualize the directory tree structure of an S3 bucket.
@@ -1182,7 +1182,7 @@ package-manager,Shell Bling Ubuntu,,https://github.com/hiAndrewQuinn/shell-bling
 system,rfsh,,https://github.com/docsion/rfsh,"Run shell scripts in batch, concurrently, fully customized with variable."
 transfer,tshare,,https://github.com/trikko/tshare,"The fastest way to share your files on the web, for free."
 launcher,climenu,,https://github.com/10xJSChad/climenu,Compact application for creating shell menus with executable entries. Use it to build straightforward static shortcut menus or dynamically generate advanced menus for more complex programs.
-system,ydf,,https://github.com/yunielrc/ydf,A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
+dotfiles,ydf,,https://github.com/yunielrc/ydf,A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
 online,ghfetch,,https://github.com/orangekame3/ghfetch,ghfetch is a CLI tool to fetch GitHub user information and show like Neofetch.
 religion,The Rock,,https://gitlab.com/NoahJelen/the-rock,"Command line King James bible viewer for Linux systems modeled after Debian's bible-kjv, but with extra features."
 terminal,wezterm,,https://github.com/wez/wezterm,A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust with tons of features.
@@ -1488,7 +1488,7 @@ financial,abandon,,https://github.com/hrj/abandon,"A text based, double-entry ac
 transfer,osync,http://www.netpower.fr/osync,https://github.com/deajan/osync,"A robust two-way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near real-time sync."
 email,mailsy,,https://github.com/BalliAsghar/Mailsy.git,Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
 security,age,https://age-encryption.org/,https://github.com/FiloSottile/age,"A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability."
-system,chezmoi,https://www.chezmoi.io/,https://github.com/twpayne/chezmoi,"Manage your dotfiles across multiple diverse machines, securely."
+dotfiles,chezmoi,https://www.chezmoi.io/,https://github.com/twpayne/chezmoi,"Manage your dotfiles across multiple diverse machines, securely."
 text-processing,choose,,https://github.com/theryangeary/choose,A human-friendly and fast alternative to cut and (sometimes) awk.
 system,direnv,https://direnv.net/,https://github.com/direnv/direnv,Loads and unloads environment variables depending on the current directory.
 networking,doggo,https://doggo.mrkaran.dev/,https://github.com/mr-karan/doggo,"DNS client for humans. Features include: colors, tabular and JSON formats, and reverse DNS lookup."
@@ -1765,7 +1765,7 @@ text-processing,seaq,,https://github.com/nt54hamnghi/seaq,"seaq (pronounced ""se
 programming,air,,https://github.com/air-verse/air,Live reload for Go apps.
 password-manager,oama,,https://github.com/pdobsan/oama,OAuth credential Manager.
 programming,mush,,https://github.com/javanile/mush,"Mush, a build system for shell."
-file-handling,dotbins,,https://github.com/basnijholt/dotbins,Keep updated binaries in your dotfiles.
+dotfiles,dotbins,,https://github.com/basnijholt/dotbins,Keep updated binaries in your dotfiles.
 online,is-fast,,https://github.com/Magic-JD/is-fast,"A TUI tool designed for quick and efficient internet searches directly from the terminal, ideal for environments where you don't have easy access to a browser."
 calc,ka,,https://github.com/Kevinpgalligan/ka,A calculator language.
 versioning,cocommit,,https://github.com/andrewromanenco/cocommit,Cocommit is a command-line tool that works with your HEAD commit and leverages an LLM of your choice to enhance commit quality.
@@ -2095,7 +2095,7 @@ science,Bibiman,https://codeberg.org/lukeflo/bibiman,,A TUI for fast and simple 
 calc,TuringTape,,https://github.com/cmspeedrunner/TuringTape,Turing machine.
 calc,Vectro,,https://github.com/gurgeous/vectro,RPN (reversible polish notation) calculator for your terminal.
 networking,fwtui,,https://github.com/Beny406/fwtui,TUI built in Go to help you manage UFW rules with ease.
-system,fyora,,https://github.com/wenbang24/fyora,Intuitive declarative dotfile management.
+dotfiles,fyora,,https://github.com/wenbang24/fyora,Intuitive declarative dotfile management.
 webdev,tldx,,https://github.com/brandonyoungdev/tldx,Domain Availability Research Tool.
 git,Git Activity Visualization,,https://github.com/dakennedyd/activity,Creates a git activity heat map in the command line.
 ai-cli-commands,LazyShell,,https://github.com/bernoussama/lazyshell,AI CLI tool that generates and executes shell commands using AI.

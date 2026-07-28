@@ -4,7 +4,7 @@
     "Text and Data Processing": ["text-processing", "data-management", "data-management-json", "data-management-tabular", "option-picker", "markdown"],
     "Development and Programming": ["editors", "git", "versioning", "programming", "programming-boilerplate", "devops", "webdev", "copilot"],
     "System and Terminal": ["system", "terminal", "shells", "prompt", "copy-paste", "monitor"],
-    "Environment Management Tools": ["package-manager", "vm", "launcher", "font"],
+    "Environment Management Tools": ["package-manager", "vm", "launcher", "dotfiles", "font"],
     "Communication and Networking": ["email", "chat", "networking", "connection-manager", "transfer", "torrent", "rss", "browser", "online"],
     "Personal Information Management": ["todo-manager", "time-tracker", "note-taking", "organizers", "financial"],
     "Productivity": ["ai", "productivity", "writing", "calc", "pastebin", "cheatsheet", "ai-cli-commands"],

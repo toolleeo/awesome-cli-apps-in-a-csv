@@ -13,6 +13,7 @@ data-management-json,Data management - JSON/YAML/etc.,"Tools to manage data file
 data-management-tabular,Data management - Tabular data,"Tools to manage tabular data files, such as CSV, spreadsheets, and database tables"
 transfer,Data transfer,Programs for transferring files and data between different machines
 cd,Directory changers (alternatives to cd),Programs for improving the efficiency of directory traversal by remembering common paths and other approaches; alternatives to the `cd` command
+dotfiles,Dotfile managers,"Tools to handle, backup and share system dotfiles"
 ai,AI / LLM integration,Interfaces and front-ends to LLM engines and other tools powered by artificial intelligence and Natural Language Processing
 ai-cli-commands,AI terminal command generator,Generates or explains commands for the command line using AI
 copilot,Co-pilot,Programs that use LLMs to generate commands at the command line or code in general from natural language
