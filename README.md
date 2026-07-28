@@ -28,29 +28,29 @@ Summary:
 * [Process viewers and monitoring (alternatives to top)](#monitor-top) (30)
 * [Clean up of files and directories](#file-dir-cleanup) (17)
 ## [File and Filesystem Management](#file-and-filesystem-management-1)
+* [File managers](#file-manager) (29)
 * [File explorer and tree visualization](#file-explorer) (11)
 * [File and file system handling](#file-handling) (31)
 * [File watching for changes](#file-watch) (8)
-* [File managers](#file-manager) (29)
 * [File renamers](#file-renamer) (15)
 * [File systems](#file-system) (4)
-* [Conversion](#conversion) (17)
+* [File format converters](#conversion) (17)
 ## [Text and Data Processing](#text-and-data-processing-1)
 * [Text processing](#text-processing) (59)
 * [Data management](#data-management) (18)
 * [Data management - JSON/YAML/etc.](#data-management-json) (48)
 * [Data management - Tabular data](#data-management-tabular) (37)
+* [Fuzzy finders and option pickers](#option-picker) (18)
 * [Markdown](#markdown) (10)
 ## [Development and Programming](#development-and-programming-1)
-* [Programming](#programming) (74)
-* [Program templates and boilerplate](#programming-boilerplate) (13)
+* [Editors](#editors) (34)
 * [Git and accessories](#git) (81)
 * [Versioning](#versioning) (9)
+* [Programming](#programming) (74)
+* [Program templates and boilerplate](#programming-boilerplate) (13)
 * [DevOps](#devops) (22)
 * [Web development](#webdev) (35)
-* [Editors](#editors) (34)
 * [Co-pilot](#copilot) (12)
-* [AI terminal command generator](#ai-cli-commands) (16)
 ## [System and Terminal](#system-and-terminal-1)
 * [System tools](#system) (48)
 * [Terminals](#terminal) (27)
@@ -58,11 +58,14 @@ Summary:
 * [Prompts](#prompt) (14)
 * [Copy/paste and clipboard](#copy-paste) (11)
 * [System monitoring](#monitor) (55)
+## [Environment Management Tools](#environment-management-tools-1)
+* [Package managers](#package-manager) (26)
+* [Containerization and virtualization](#vm) (25)
 * [Command launchers](#launcher) (28)
 * [Font management](#font) (5)
 ## [Communication and Networking](#communication-and-networking-1)
-* [Chat and instant messaging](#chat) (52)
 * [Email](#email) (23)
+* [Chat and instant messaging](#chat) (52)
 * [Networking](#networking) (87)
 * [Connection managers](#connection-manager) (11)
 * [Data transfer](#transfer) (48)
@@ -77,13 +80,13 @@ Summary:
 * [Organizers and calendars](#organizers) (22)
 * [Financial tools](#financial) (25)
 ## [Productivity and Organization](#productivity-and-organization-1)
-* [AI / ChatGPT](#ai) (47)
+* [AI / LLM integration](#ai) (47)
 * [Productivity](#productivity) (19)
 * [Writing](#writing) (12)
 * [Calculators](#calc) (21)
 * [Pastebin](#pastebin) (3)
 * [Commands cheatsheet and snippets](#cheatsheet) (34)
-* [Fuzzy finders and option pickers](#option-picker) (18)
+* [AI terminal command generator](#ai-cli-commands) (16)
 ## [Media and Creative](#media-and-creative-1)
 * [Graphics](#graphics) (54)
 * [Video](#video) (16)
@@ -95,11 +98,9 @@ Summary:
 ## [Security and Package Management](#security-and-package-management-1)
 * [Security and encryption](#security) (42)
 * [Password managers](#password-manager) (25)
-* [Package managers](#package-manager) (26)
-* [Containerization and virtualization](#vm) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
-* [Weather](#weather) (6)
 * [Utilities](#utility) (46)
+* [Weather](#weather) (6)
 ## [Learning and Leisure](#learning-and-leisure-1)
 * [Learning and didactic tools](#learning) (10)
 * [Anki, decks and flashcards](#flashcard) (10)
@@ -333,6 +334,40 @@ Find/remove duplicate files, automatically organize files, etc..
 
 # <a name="File-and-Filesystem-Management"></a>File and Filesystem Management
 
+## <a name="file-manager"></a>File managers
+
+Applications for interactively managing files and directories.
+
+* [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI file manager for the Android Debug Bridge, to make transfers between the device and client easier.
+* [Better tree](https://github.com/LeperGnome/bt) - Interactive tree-like terminal file manager.
+* [cfiles](https://github.com/mananapr/cfiles) - ncurses file manager written in C with vim like keybindings
+* [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
+* [Far2l](https://github.com/elfmz/far2l) - Linux port of Far v2 file manager.
+* [felix](https://github.com/kyoheiu/felix) - TUI file manager with vim-like key mapping
+* [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager written in bash.
+* [fman](https://github.com/nore-dev/fman) - TUI File Manager
+* [fml](https://github.com/wick3dr0se/fml) - Simple and fast file manager written in BASH.
+* [fzfm](https://github.com/ashish0kumar/fzfm) - A command-line fuzzy finder file manager.
+* [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
+* [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
+* [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
+* [lf](https://github.com/gokcehan/lf) - lf (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
+* [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) - a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
+* [Midnight Commander](http://www.midnight-commander.org/) - A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
+* [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C, rather complete in terms of features, especially lightweight and responsive.
+* [nnn](https://github.com/jarun/nnn) - "The unorthodox terminal file manager" - a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories.
+* [projectable](https://github.com/dzfrias/projectable) - A TUI file manager built for projects.
+* [ranger](https://ranger.github.io/) - File manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type.
+* [rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
+* [RTFM](https://github.com/isene/RTFM) - Feature-rich Terminal File Manager written in Ruby.
+* [sfm](https://github.com/afify/sfm) - Simple file manager for unix-like systems with kernel event notifications, monitoring filesystem events, dual pane and more.
+* [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern file manager.
+* [TUIFI Manager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
+* [veld](https://github.com/BranBushes/veld-fm) - A modern, tileable, terminal-based file manager built with Python and Textual.
+* [vifm](https://vifm.info/) - "ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt" (cit.).
+* [walk](https://github.com/antonmedv/walk) - Terminal file manager.
+* [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ## <a name="file-explorer"></a>File explorer and tree visualization
 
 Show directory trees and navigate through the file system (but not full-featured file managers).
@@ -398,40 +433,6 @@ Services that watch files for changes and perform actions when something happens
 * [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 * [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
 
-## <a name="file-manager"></a>File managers
-
-Applications for interactively managing files and directories.
-
-* [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI file manager for the Android Debug Bridge, to make transfers between the device and client easier.
-* [Better tree](https://github.com/LeperGnome/bt) - Interactive tree-like terminal file manager.
-* [cfiles](https://github.com/mananapr/cfiles) - ncurses file manager written in C with vim like keybindings
-* [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
-* [Far2l](https://github.com/elfmz/far2l) - Linux port of Far v2 file manager.
-* [felix](https://github.com/kyoheiu/felix) - TUI file manager with vim-like key mapping
-* [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager written in bash.
-* [fman](https://github.com/nore-dev/fman) - TUI File Manager
-* [fml](https://github.com/wick3dr0se/fml) - Simple and fast file manager written in BASH.
-* [fzfm](https://github.com/ashish0kumar/fzfm) - A command-line fuzzy finder file manager.
-* [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
-* [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
-* [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
-* [lf](https://github.com/gokcehan/lf) - lf (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
-* [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) - a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
-* [Midnight Commander](http://www.midnight-commander.org/) - A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
-* [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C, rather complete in terms of features, especially lightweight and responsive.
-* [nnn](https://github.com/jarun/nnn) - "The unorthodox terminal file manager" - a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories.
-* [projectable](https://github.com/dzfrias/projectable) - A TUI file manager built for projects.
-* [ranger](https://ranger.github.io/) - File manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type.
-* [rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
-* [RTFM](https://github.com/isene/RTFM) - Feature-rich Terminal File Manager written in Ruby.
-* [sfm](https://github.com/afify/sfm) - Simple file manager for unix-like systems with kernel event notifications, monitoring filesystem events, dual pane and more.
-* [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern file manager.
-* [TUIFI Manager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
-* [veld](https://github.com/BranBushes/veld-fm) - A modern, tileable, terminal-based file manager built with Python and Textual.
-* [vifm](https://vifm.info/) - "ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt" (cit.).
-* [walk](https://github.com/antonmedv/walk) - Terminal file manager.
-* [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
-
 ## <a name="file-renamer"></a>File renamers
 
 Utilities to rename files and directories: address multiple items with one command, interactively edit the name within an editor, etc..
@@ -461,9 +462,9 @@ File systems with specific features; e.g., the possibility to add tags and label
 * [TMSU](http://tmsu.org/) - A simple tool for tagging files, providing a virtual filesystem for a tag-based view of your files from within any other program.
 * [wutag](https://github.com/vv9k/wutag) - CLI Tool for tagging and organizing files by tags.
 
-## <a name="conversion"></a>Conversion
+## <a name="conversion"></a>File format converters
 
-File format converters.
+Utilities to convert different types of files.
 
 * [antiword](https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/) - Reader and converted for the proprietary MS .doc file format.
 * [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
@@ -667,6 +668,29 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 * [YAS-QWIN](https://github.com/sebastiancarlos/yas-qwin) - YAS-QWIN (Yet Another SQL-Query Writing Interface) is a CLI tool for building (and optionally running) SQL queries.
 * [zsv](https://github.com/liquidaty/zsv) - The world's fastest (simd) CSV parser, with an extensible, multi-purpose CLI.
 
+## <a name="option-picker"></a>Fuzzy finders and option pickers
+
+Fuzzy finders and generic option pickers in lists of strings.
+
+* [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
+* [cmenu](https://github.com/10xJSChad/cmenu) - Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout.
+* [Fnf](https://github.com/leo-arch/fnf) - An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list.
+* [fss](https://github.com/5n00py/fss) - User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.
+* [fuzzysh](https://github.com/yazgoo/fuzzysh) - Minimalist selector in shell, inspired by fzf.
+* [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) - a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
+* [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
+* [lSel](https://github.com/unsigned-enby/lSel) - Simple no-fuss TUI selection menu for use in scripts.
+* [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
+* [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
+* [pick](https://github.com/mptre/pick) - Choose one option from a set of choices using an interface with fuzzy search functionality.
+* [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
+* [shmenu](https://github.com/duclos-cavalcanti/shmenu) - Menu TUI tool written solely in bash.
+* [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
+* [smenu](https://github.com/p-gen/smenu) - Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
+* [television](https://github.com/alexpasmantier/television) - Blazing fast general purpose fuzzy finder TUI.
+* [tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
+* [tui-datepicker](https://github.com/maraloon/pickdate) - Select date in terminal with vim-motions and copy to buffer.
+
 ## <a name="markdown"></a>Markdown
 
 Utilities to display, convert and reformat Markdown files.
@@ -684,102 +708,44 @@ Utilities to display, convert and reformat Markdown files.
 
 # <a name="Development-and-Programming"></a>Development and Programming
 
-## <a name="programming"></a>Programming
+## <a name="editors"></a>Editors
 
-Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc..
+Text editors.
 
-* [air](https://github.com/air-verse/air) - Live reload for Go apps.
-* [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
-* [bashly](https://bashly.dannyb.co/) - Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools.
-* [bencher](https://github.com/bencherdev/bencher) - Continuous benchmarking, Bencher allows you to track the performance of your code or binary over time and catch performance regressions before you release.
-* [binsider](https://github.com/orhun/binsider) - A TUI for analyzing Linux binaries.
-* [blinkenlights](https://github.com/jart/blink) - TUI that may be used for debugging x86_64-linux or i8086 programs across platforms.
-* [Bump-Setup](https://github.com/talwrii/bump-setup) - Command-line utility designed to automatically update versione numbers in Pyhton project configuration files.
-* [cargo-seek](https://github.com/tareqimbasher/cargo-seek) - A TUI for searching, adding and installing cargo crates.
-* [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.
-* [cgdb](https://github.com/cgdb/cgdb) - Console front-end to the GNU debugger.
-* [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and Unicode) characters / code points.
-* [ChatDBG](https://github.com/plasma-umass/ChatDBG) - AI-assisted debugging. Uses AI to answer 'why'.
-* [cloc](https://github.com/AlDanial/cloc) - Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages.
-* [codegrab](https://github.com/epilande/codegrab) - Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file.
-* [CodeMark CLI](https://github.com/rootCircle/codemark-cli) - Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations.
-* [Cppcheck](http://cppcheck.net/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behavior and dangerous coding constructs.
-* [Crush](https://github.com/charmbracelet/crush) - Flexible AI coding agent with a wide range of LLMS, maintains multiple work sessions and contexts per project, works everywhere and extensible.
-* [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search in 200+ offline documentation sets API docs offline, in your terminal or browser.
-* [DEM](https://www.axemsolutions.io/dem_doc/index.html) - Containerized Development Environment Manager for embedded development.
-* [devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments.
-* [DevTUI](https://github.com/skatkov/devtui) - All-in-one terminal toolkit that consolidates everyday developer utilities into a unified TUI and CLI.
-* [dfft](https://github.com/dhth/dfft) - The program monitors changes as AI agents modify your codebase.
-* [dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to centrally manage .env files. Written in Python powered by Textual.
-* [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
-* [Euporie](https://github.com/joouha/euporie) - Allows you to interact with Jupyter kernels, and run Jupyter notebooks - entirely from the terminal.
-* [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
-* [Flox](https://github.com/flox/flox) - Developer environments you can take with you.
-* [fmake](https://github.com/bharatvaj/fmake) - Brings `make`s interface to almost any build system.
-* [Frama-C](https://frama-c.com/) - Open source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
-* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
-* [grex](https://github.com/pemistahl/grex) - A command-line tool for generating regular expressions from user-provided test cases.
-* [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install" with goroutines.
-* [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
-* [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-* [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
-* [lab](https://github.com/lugenx/lab) - Lab helps you experiment with code without friction. Type `lab` with any extension and start coding - it handles files, organization, and cleanup automatically.
-* [Lazymake](https://lazymake.vercel.app/) - Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
-* [Leetcode-go](https://github.com/Manan-Prakash-Singh/leetcode-go) - A simple CLI tool for searching, downloading and submitting problems to LeetCode.
-* [llm-fuse](https://github.com/antonbelev/llm-fuse) - A tool designed to quickly generate an aggregated text file, or multiple files when chunking is enabled, from numerous files within a repository that can then be pasted into a LLM prompt to provide context from multiple source files.
-* [Locus](https://github.com/tesso57/locus) - Locus is a Git-aware, local-first task management CLI, designed to streamline your development workflow, especially when working with AI coding assistants.
-* [minify.js](https://github.com/adamlui/minify.js/#readme) - Recursively minify all JavaScript files.
-* [mk](https://github.com/pycontribs/mk) - mk is a CLI tool that aims to ease contribution to any open source project by hiding repository implementation details from the casual contributor.
-* [mush](https://github.com/javanile/mush) - Mush, a build system for shell.
-* [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
-* [np](https://github.com/sindresorhus/np) - A better `npm publish`.
-* [nsh](https://github.com/theHamdiz/nsh) - A powerful renaming utility for developers, used to rename Symbols, Phrases in File contents, file names, directory names, recursively, useful specially when you find a better name for your app.
-* [o](https://github.com/rev-dot-now/o) - Agentic Design Framework, automate with natural language, build agents in seconds, self-generate new features.
-* [PAR MCP Inspector TUI](https://github.com/paulrobello/par-mcp-inspector-tui) - TUI to inspect and test MCP (model context protocol) servers.
-* [PesterExplorer](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
-* [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
-* [PuDB](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
-* [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
-* [pwgo](https://github.com/dennisbergevin/pwgo) - Interactive local run replament command for npx playwright test.
-* [QuickStart](https://github.com/squach90/homebrew-quickstart) - CLI to quickly create projects in HTML, Python, Node_js, Bash and more.
-* [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Go, and Java.
-* [release-it](https://github.com/release-it/release-it) - Automate releases for Git repositories and/or Node.js packages.
-* [Repomix](https://github.com/yamadashy/repomix) - Tool that packs your entire repository into a single, AI-friendly file; Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools.
-* [rr](https://rr-project.org/) - Debug the recording, deterministically, as many times as you want.
-* [Rusty Forge](https://github.com/konni332/rustyforge) - Minimal build manager for C/C++ projects written in Rust; It automates compiling binaries and libraries, sopports parallel builds, profiles, features and manages a build cache.
-* [scc](https://github.com/boyter/scc) - Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all.
-* [scons](https://github.com/SCons/scons) - Software construction tool.
-* [scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
-* [Scrut](https://github.com/facebookincubator/scrut) - A testing toolkit for CLI applications designed to rigorously test terminal programs, inspired by Cram and focuses on providing a straightforward way to validate CLI behaviour.
-* [semantic-release](https://github.com/semantic-release/semantic-release) - Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package.
-* [sidem](https://github.com/taha-yassine/sidem) - TUI app that helps simplifying the management of .env configuration files.
-* [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
-* [stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance.
-* [suss](https://github.com/shobrook/suss) - AI-powered bug finder that knows your codebase.
-* [temci](https://github.com/parttimenerd/temci) - Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
-* [termfu](https://github.com/jvalcher/termfu) - A multi-language debugger frontend that allows users to create and switch between custom layouts.
-* [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
-* [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
-* [Tokui](https://github.com/zdyxry/tokui) - An interactive TUI for visualizing code statistics from tockei.
-* [umake](https://github.com/mcandre/unmake) - Makefile linter emphasizing portability, targeting the POSIX make standard.
-
-## <a name="programming-boilerplate"></a>Program templates and boilerplate
-
-Utilities that generate licenses, documentation structure (README files), project directories and other boilerplate for software projects.
-
-* [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for software projects.
-* [boilr](https://github.com/tmrts/boilr) - Boilerplate template manager that generates files or directories from template repositories.
-* [clog](https://github.com/clog-tool/clog-cli) - Creates a changelog automatically from local git metadata.
-* [contributing-generator](https://github.com/friedrith/contributing-generator) - A generator for the CONTRIBUTING.md, README.md, LICENSE, etc.
-* [Cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-* [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
-* [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
-* [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
-* [lichen](https://github.com/philocalyst/lichen) - Lichen provides tools for producing and managing licenses both on the CLI and through a config file. Double license and only license particular parts of a codebase with regex.
-* [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
-* [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
-* [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
-* [upnup](https://github.com/tomit4/upnup) - A command line utility that generates a LICENSE file in the current working directory.
+* [Amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+* [aretext](https://github.com/aretext/aretext) - Minimalist text editor with vim-compatible key bindings.
+* [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
+* [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
+* [C-EDIT](https://github.com/velorek1/c-edit) - A text editor in C with drop down menus in the style of MS-DOS Editor.
+* [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard" keybindings and several advanced features; written in Ruby.
+* [ed](https://www.gnu.org/software/ed/) - GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts.
+* [edit](https://github.com/microsoft/edit) - This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code.
+* [Emacs](https://www.gnu.org/software/emacs/) - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
+* [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
+* [Erys](https://github.com/natibek/erys) - Terminal Interface for Jupyter Notebooks.
+* [Feather](https://www.feathereditor.com/) - The only terminal based text editor designed to work with BIG files.
+* [Helix](https://github.com/helix-editor/helix) - A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune.
+* [Helix](https://helix-editor.com/) - A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features.
+* [jed](http://www.jedsoft.org/jed/index.html) - A text editor with a drop-down menu facility that make it especially user-friendly.
+* [joe](http://joe-editor.sourceforge.net/) - (Joe's Own Editor) - a compact text editor written in C, a detailed list of features and missing ones is explicitly reported on the website. This editor is mentioned in several web sources for its capability in handling large files.
+* [Kakoune](http://kakoune.org/) - Modal editor, faster as in less keystrokes, multiple selections, orthogonal design.
+* [maki](https://sr.ht/~bscit/maki/) - A simple text editor with file navigation and an emphasis on preserving battery life.
+* [micro](https://github.com/zyedidia/micro) - Aims to be a successor to [`nano`](https://www.nano-editor.org/). Aiming to be easy to use, it has a nano-like keybindings menu; also takes advantage of the full capabilities of modern terminals, supports mutiple cursors, and has a plugin system. Written in Go.
+* [nano](https://www.nano-editor.org/) - Easy to use, lightweight text editor; no complex keybindings to remember; the main ones are shown in the main menu.
+* [neovim](https://neovim.io/) - A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity, and maintainability; it has chances to become the next choice of vim users.
+* [o](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming.
+* [ox](https://github.com/curlpipe/ox) - An independent Rust text editor.
+* [slap](https://github.com/slap-editor/slap) - Text editor inspired by [Sublime Text](https://www.sublimetext.com/) written in NodeJS, extendable in JavaScript.
+* [Tilde](https://os.ghalkes.nl/tilde/) - Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc.
+* [Turbo](https://github.com/magiblot/turbo) - An experimental text editor for the terminal, based on Scintilla and Turbo Vision.
+* [vai](https://github.com/stefanoborini/vai) - Text editor similar to `vim` written in Python; many features are nicely replicated, some are still missing; however, the advantage of this implementation is its simplicity, maintainability and extensibility, thanks to the Python implementation.
+* [VE](http://www.inverary.net/ve/ve.html) - Lean, fast and feature rich text editor.
+* [vicut](https://github.com/km-clay/vicut) - Vim-based, scriptable and headless text editor for the command line, it can be used to extract fields, edit text files in-place and apply global substitutions and more.
+* [vim](http://www.vim.org/) - Historically one of the preferred text editors, behavior based on editing modes, plenty of plugins and tips to address every possible editing problem.
+* [vis](https://github.com/martanne/vis) - "a modern, legacy free, simple yet efficient vim-like editor", and more: "The intention is not to be bug for bug compatible with vim, instead a similar editing experience should be provided. The goal could thus be summarized as 80% of vim's features implemented in roughly 1% of the code"; the editor is scriptable in LUA and supports editing large files.
+* [vy](https://github.com/vyapp/vy) - A vim-like in Python made from scratch.
+* [WordGrinder](https://cowlark.com/wordgrinder/) - From the website: "WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type." 
+* [zee](https://github.com/zee-editor/zee) - Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.
 
 ## <a name="git"></a>Git and accessories
 
@@ -881,6 +847,103 @@ Tools for file versioning that are not related to git.
 * [Mercurial](https://www.mercurial-scm.org/) - Free, distributed source control management tool.
 * [myrepo](https://myrepos.branchable.com/) - A repository management tool.
 
+## <a name="programming"></a>Programming
+
+Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc..
+
+* [air](https://github.com/air-verse/air) - Live reload for Go apps.
+* [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
+* [bashly](https://bashly.dannyb.co/) - Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools.
+* [bencher](https://github.com/bencherdev/bencher) - Continuous benchmarking, Bencher allows you to track the performance of your code or binary over time and catch performance regressions before you release.
+* [binsider](https://github.com/orhun/binsider) - A TUI for analyzing Linux binaries.
+* [blinkenlights](https://github.com/jart/blink) - TUI that may be used for debugging x86_64-linux or i8086 programs across platforms.
+* [Bump-Setup](https://github.com/talwrii/bump-setup) - Command-line utility designed to automatically update versione numbers in Pyhton project configuration files.
+* [cargo-seek](https://github.com/tareqimbasher/cargo-seek) - A TUI for searching, adding and installing cargo crates.
+* [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.
+* [cgdb](https://github.com/cgdb/cgdb) - Console front-end to the GNU debugger.
+* [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and Unicode) characters / code points.
+* [ChatDBG](https://github.com/plasma-umass/ChatDBG) - AI-assisted debugging. Uses AI to answer 'why'.
+* [cloc](https://github.com/AlDanial/cloc) - Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages.
+* [codegrab](https://github.com/epilande/codegrab) - Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file.
+* [CodeMark CLI](https://github.com/rootCircle/codemark-cli) - Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations.
+* [Cppcheck](http://cppcheck.net/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behavior and dangerous coding constructs.
+* [Crush](https://github.com/charmbracelet/crush) - Flexible AI coding agent with a wide range of LLMS, maintains multiple work sessions and contexts per project, works everywhere and extensible.
+* [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search in 200+ offline documentation sets API docs offline, in your terminal or browser.
+* [DEM](https://www.axemsolutions.io/dem_doc/index.html) - Containerized Development Environment Manager for embedded development.
+* [devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments.
+* [DevTUI](https://github.com/skatkov/devtui) - All-in-one terminal toolkit that consolidates everyday developer utilities into a unified TUI and CLI.
+* [dfft](https://github.com/dhth/dfft) - The program monitors changes as AI agents modify your codebase.
+* [dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to centrally manage .env files. Written in Python powered by Textual.
+* [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
+* [Euporie](https://github.com/joouha/euporie) - Allows you to interact with Jupyter kernels, and run Jupyter notebooks - entirely from the terminal.
+* [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
+* [Flox](https://github.com/flox/flox) - Developer environments you can take with you.
+* [fmake](https://github.com/bharatvaj/fmake) - Brings `make`s interface to almost any build system.
+* [Frama-C](https://frama-c.com/) - Open source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
+* [grex](https://github.com/pemistahl/grex) - A command-line tool for generating regular expressions from user-provided test cases.
+* [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install" with goroutines.
+* [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
+* [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
+* [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
+* [lab](https://github.com/lugenx/lab) - Lab helps you experiment with code without friction. Type `lab` with any extension and start coding - it handles files, organization, and cleanup automatically.
+* [Lazymake](https://lazymake.vercel.app/) - Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
+* [Leetcode-go](https://github.com/Manan-Prakash-Singh/leetcode-go) - A simple CLI tool for searching, downloading and submitting problems to LeetCode.
+* [llm-fuse](https://github.com/antonbelev/llm-fuse) - A tool designed to quickly generate an aggregated text file, or multiple files when chunking is enabled, from numerous files within a repository that can then be pasted into a LLM prompt to provide context from multiple source files.
+* [Locus](https://github.com/tesso57/locus) - Locus is a Git-aware, local-first task management CLI, designed to streamline your development workflow, especially when working with AI coding assistants.
+* [minify.js](https://github.com/adamlui/minify.js/#readme) - Recursively minify all JavaScript files.
+* [mk](https://github.com/pycontribs/mk) - mk is a CLI tool that aims to ease contribution to any open source project by hiding repository implementation details from the casual contributor.
+* [mush](https://github.com/javanile/mush) - Mush, a build system for shell.
+* [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
+* [np](https://github.com/sindresorhus/np) - A better `npm publish`.
+* [nsh](https://github.com/theHamdiz/nsh) - A powerful renaming utility for developers, used to rename Symbols, Phrases in File contents, file names, directory names, recursively, useful specially when you find a better name for your app.
+* [o](https://github.com/rev-dot-now/o) - Agentic Design Framework, automate with natural language, build agents in seconds, self-generate new features.
+* [PAR MCP Inspector TUI](https://github.com/paulrobello/par-mcp-inspector-tui) - TUI to inspect and test MCP (model context protocol) servers.
+* [PesterExplorer](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
+* [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
+* [PuDB](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
+* [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
+* [pwgo](https://github.com/dennisbergevin/pwgo) - Interactive local run replament command for npx playwright test.
+* [QuickStart](https://github.com/squach90/homebrew-quickstart) - CLI to quickly create projects in HTML, Python, Node_js, Bash and more.
+* [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Go, and Java.
+* [release-it](https://github.com/release-it/release-it) - Automate releases for Git repositories and/or Node.js packages.
+* [Repomix](https://github.com/yamadashy/repomix) - Tool that packs your entire repository into a single, AI-friendly file; Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools.
+* [rr](https://rr-project.org/) - Debug the recording, deterministically, as many times as you want.
+* [Rusty Forge](https://github.com/konni332/rustyforge) - Minimal build manager for C/C++ projects written in Rust; It automates compiling binaries and libraries, sopports parallel builds, profiles, features and manages a build cache.
+* [scc](https://github.com/boyter/scc) - Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all.
+* [scons](https://github.com/SCons/scons) - Software construction tool.
+* [scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
+* [Scrut](https://github.com/facebookincubator/scrut) - A testing toolkit for CLI applications designed to rigorously test terminal programs, inspired by Cram and focuses on providing a straightforward way to validate CLI behaviour.
+* [semantic-release](https://github.com/semantic-release/semantic-release) - Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package.
+* [sidem](https://github.com/taha-yassine/sidem) - TUI app that helps simplifying the management of .env configuration files.
+* [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
+* [stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance.
+* [suss](https://github.com/shobrook/suss) - AI-powered bug finder that knows your codebase.
+* [temci](https://github.com/parttimenerd/temci) - Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
+* [termfu](https://github.com/jvalcher/termfu) - A multi-language debugger frontend that allows users to create and switch between custom layouts.
+* [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
+* [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
+* [Tokui](https://github.com/zdyxry/tokui) - An interactive TUI for visualizing code statistics from tockei.
+* [umake](https://github.com/mcandre/unmake) - Makefile linter emphasizing portability, targeting the POSIX make standard.
+
+## <a name="programming-boilerplate"></a>Program templates and boilerplate
+
+Utilities that generate licenses, documentation structure (README files), project directories and other boilerplate for software projects.
+
+* [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for software projects.
+* [boilr](https://github.com/tmrts/boilr) - Boilerplate template manager that generates files or directories from template repositories.
+* [clog](https://github.com/clog-tool/clog-cli) - Creates a changelog automatically from local git metadata.
+* [contributing-generator](https://github.com/friedrith/contributing-generator) - A generator for the CONTRIBUTING.md, README.md, LICENSE, etc.
+* [Cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+* [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
+* [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
+* [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+* [lichen](https://github.com/philocalyst/lichen) - Lichen provides tools for producing and managing licenses both on the CLI and through a config file. Double license and only license particular parts of a codebase with regex.
+* [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
+* [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
+* [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
+* [upnup](https://github.com/tomit4/upnup) - A command line utility that generates a LICENSE file in the current working directory.
+
 ## <a name="devops"></a>DevOps
 
 Applications for supporting DevOps tasks, such as containers or cloud systems management.
@@ -948,48 +1011,9 @@ Web development tools, including load test tools, API clients and managers, link
 * [urlhunter](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
 * [xpe](https://github.com/charmparticle/xpe) - A command-line xpath tool that is easy to use.
 
-## <a name="editors"></a>Editors
-
-Text editors.
-
-* [Amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
-* [aretext](https://github.com/aretext/aretext) - Minimalist text editor with vim-compatible key bindings.
-* [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
-* [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
-* [C-EDIT](https://github.com/velorek1/c-edit) - A text editor in C with drop down menus in the style of MS-DOS Editor.
-* [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard" keybindings and several advanced features; written in Ruby.
-* [ed](https://www.gnu.org/software/ed/) - GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts.
-* [edit](https://github.com/microsoft/edit) - This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code.
-* [Emacs](https://www.gnu.org/software/emacs/) - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
-* [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
-* [Erys](https://github.com/natibek/erys) - Terminal Interface for Jupyter Notebooks.
-* [Feather](https://www.feathereditor.com/) - The only terminal based text editor designed to work with BIG files.
-* [Helix](https://github.com/helix-editor/helix) - A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune.
-* [Helix](https://helix-editor.com/) - A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features.
-* [jed](http://www.jedsoft.org/jed/index.html) - A text editor with a drop-down menu facility that make it especially user-friendly.
-* [joe](http://joe-editor.sourceforge.net/) - (Joe's Own Editor) - a compact text editor written in C, a detailed list of features and missing ones is explicitly reported on the website. This editor is mentioned in several web sources for its capability in handling large files.
-* [Kakoune](http://kakoune.org/) - Modal editor, faster as in less keystrokes, multiple selections, orthogonal design.
-* [maki](https://sr.ht/~bscit/maki/) - A simple text editor with file navigation and an emphasis on preserving battery life.
-* [micro](https://github.com/zyedidia/micro) - Aims to be a successor to [`nano`](https://www.nano-editor.org/). Aiming to be easy to use, it has a nano-like keybindings menu; also takes advantage of the full capabilities of modern terminals, supports mutiple cursors, and has a plugin system. Written in Go.
-* [nano](https://www.nano-editor.org/) - Easy to use, lightweight text editor; no complex keybindings to remember; the main ones are shown in the main menu.
-* [neovim](https://neovim.io/) - A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity, and maintainability; it has chances to become the next choice of vim users.
-* [o](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming.
-* [ox](https://github.com/curlpipe/ox) - An independent Rust text editor.
-* [slap](https://github.com/slap-editor/slap) - Text editor inspired by [Sublime Text](https://www.sublimetext.com/) written in NodeJS, extendable in JavaScript.
-* [Tilde](https://os.ghalkes.nl/tilde/) - Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc.
-* [Turbo](https://github.com/magiblot/turbo) - An experimental text editor for the terminal, based on Scintilla and Turbo Vision.
-* [vai](https://github.com/stefanoborini/vai) - Text editor similar to `vim` written in Python; many features are nicely replicated, some are still missing; however, the advantage of this implementation is its simplicity, maintainability and extensibility, thanks to the Python implementation.
-* [VE](http://www.inverary.net/ve/ve.html) - Lean, fast and feature rich text editor.
-* [vicut](https://github.com/km-clay/vicut) - Vim-based, scriptable and headless text editor for the command line, it can be used to extract fields, edit text files in-place and apply global substitutions and more.
-* [vim](http://www.vim.org/) - Historically one of the preferred text editors, behavior based on editing modes, plenty of plugins and tips to address every possible editing problem.
-* [vis](https://github.com/martanne/vis) - "a modern, legacy free, simple yet efficient vim-like editor", and more: "The intention is not to be bug for bug compatible with vim, instead a similar editing experience should be provided. The goal could thus be summarized as 80% of vim's features implemented in roughly 1% of the code"; the editor is scriptable in LUA and supports editing large files.
-* [vy](https://github.com/vyapp/vy) - A vim-like in Python made from scratch.
-* [WordGrinder](https://cowlark.com/wordgrinder/) - From the website: "WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type." 
-* [zee](https://github.com/zee-editor/zee) - Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.
-
 ## <a name="copilot"></a>Co-pilot
 
-Programs that use GPT and GPT-like engines to generate commands at the command line or code in general from natural language.
+Programs that use LLMs to generate commands at the command line or code in general from natural language.
 
 * [aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal.
 * [aido-cli](https://github.com/kris7ian/aido-cli) - Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though.
@@ -1003,27 +1027,6 @@ Programs that use GPT and GPT-like engines to generate commands at the command l
 * [shy-sh](https://github.com/mceck/shy-sh) - Shell AI copilot.
 * [Smart-Shell](https://github.com/Lusan-sapkota/smart-shell) - Intelligent terminal assistant that converts natural language into executable Bash or Zsh commands using Gemini AI model via google-genai SDK.
 * [Yai](https://github.com/ekkinox/yai) - Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you.
-
-## <a name="ai-cli-commands"></a>AI terminal command generator
-
-Generates or explains commands for the command line using AI.
-
-* [Blitzdenk](https://github.com/Lommix/blitzdenk) - A minimal multi provider coding agent and personal AI TUI; Similar to tools like opencode or claudecode; Written in Rust.
-* [c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
-* [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Natural language shell command generator and executor powered by AI.
-* [ht](https://github.com/catallo/ht) - A shell command that answers your questions about shell commands using OpenAI GPT.
-* [LazyShell](https://github.com/bernoussama/lazyshell) - AI CLI tool that generates and executes shell commands using AI.
-* [llm-term](https://github.com/dh1011/llm-term) - A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
-* [Octomind](https://github.com/muvon/octomind) - Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in.
-* [Ollamacode CLI](https://github.com/tooyipjee/ollamacode) - The program creates a Python script from natural language and execute it automatically.
-* [OpenCode](https://opencode.ai/download) - AI coding agent, built for the terminal.
-* [osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
-* [py-ai-shell](https://github.com/cheney-yan/py-ai-shell) - AI-powered shell for command line users.
-* [reTermAI](https://github.com/pie0902/reTermAI) - Smart command assistant for your terminal, using LLM.
-* [Spren](https://smadgulkar.github.io/spren/) - AI-powered terminal assistant that converts natural language to shell commands. Supports PowerShell, Bash, and CMD with intelligent command suggestions and safety checks.
-* [terminal-command](https://github.com/huss-mo/terminal-command) - A Python-based CLI tool for generating, and optionally executing, shell commands from natural language.
-* [wut](https://github.com/shobrook/wut) - An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
-* [zev](https://github.com/dtnewman/zev) - A simple CLI tool to generate terminal commands using AI.
 
 # <a name="System-and-Terminal"></a>System and Terminal
 
@@ -1239,6 +1242,69 @@ Applications to display the usage of system resources: network, memory, power, e
 * [WTF](https://github.com/senorprogrammer/wtf) - The personal information dashboard for your terminal.
 * [zfxtop](https://github.com/ssleert/zfxtop) - Self described as “fetch top written by bubbletea enjoyer”.
 
+# <a name="Environment-Management-Tools"></a>Environment Management Tools
+
+## <a name="package-manager"></a>Package managers
+
+Package managers to manage/install/uninstall software packages, as source code or binaries.
+
+* [app](https://github.com/hkdb/app) - A cross-platform package management assistant with super powers.
+* [aptitude](https://salsa.debian.org/apt-team/aptitude) - A TUI front-end to APT, the Debian package manager.
+* [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
+* [autoupd](https://github.com/2SSK/autoupd) - A simple CLI too to automatically update system packages using your Linux distro's package manager, with daily logs and systemd integration.
+* [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
+* [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
+* [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+* [flatpak-cli](https://github.com/sweetbbak/flatpak-cli) - A command line program to search and install flatpaks from the flathub repository using a fzf like interface.
+* [getghrel](https://github.com/kavishgr/getghrel) - A user-friendly command-line tool that fetches and installs the latest release assets from GitHub for macOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
+* [godyl](https://idelchi.github.io/godyl/) - Helps with batch-downloading, checksum verifying and installing statically compiled binaries from GitHub, GitLab, URLs, Go projects.
+* [hysp](https://github.com/pwnwriter/hysp) - An independent package manager that every hacker deserves.
+* [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
+* [krew](https://krew.sigs.k8s.io/) - Find and install kubectl plugins.
+* [lastversion](https://lastversion.getpagespeed.com) - Find the latest stable version and download assets of any project from GitHub, GitLab, PyPI, and other sources.
+* [mise](https://mise.jdx.dev/) - A development environment setup tool: dev tools, env vars, and task runner. Like `asdf` + `direnv` + `make`.
+* [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
+* [pkm](https://github.com/wick3dr0se/pkm) - A super minimal TUI package manager wrapper written in BASH v4-2+.
+* [pm-jesus](https://github.com/sebastiancarlos/pm-jesus) - Package manager front-end.
+* [pmt](https://github.com/olexij-christian/pmt) - Translator of package names between different package managers of Linux distributions.
+* [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
+* [Shell Bling Ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
+* [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
+* [ToolUI](https://github.com/jinek/ToolUI) - TUI to manage dotnet tools.
+* [topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things.
+* [TUI-SHOP](https://github.com/Gcat101/tui-shop) - TUI-SHOP allows you to browse and install apps directly
+* [upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
+
+## <a name="vm"></a>Containerization and virtualization
+
+Tools to manage virtual machines and/or containers and related utilities.
+
+* [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
+* [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
+* [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
+* [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
+* [distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal as docker or podman containers.
+* [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
+* [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
+* [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for Docker.
+* [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers, services, and images.
+* [dry](https://github.com/moncho/dry) - A Docker manager for the terminal.
+* [EMU2](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
+* [Incus](https://linuxcontainers.org/lxc) - A manager/hypervisor for containers (via LXC) and virtual-machines (via QEMU).
+* [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+* [lxc](https://linuxcontainers.org/lxc) - A userspace interface for the Linux kernel containment features.
+* [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU.
+* [ocui](https://github.com/fishinthecalculator/ocui) - Simple text based UI for managing containers.
+* [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control docker containers.
+* [Pocker](https://github.com/pommee/Pocker) - Pocker is a TUI tool to help with docker related tasks, such as view containers/images, manage status of containers, see logs, attributes, environment variables and container statistics, filter logs based on keywords, start shell inside a container.
+* [podman](https://podman.io/) - Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images.
+* [QEMU](https://qemu.org) - A generic machine & userspace emulator and virtualizer.
+* [quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimized Windows, macOS and Linux desktop virtual machines.
+* [toolbox](https://containertoolbx.org) - Use containerized environments where development tools and libraries can be easily installed and used.
+* [VCTUI](https://github.com/thebsdbox/vctui) - Console interface for vCenter: create, delete and search virtual machines and power management.
+* [virsh](https://libvirt.org/index.html) - An interactive shell, and batch scriptable tool for performing management tasks on all libvirt managed domains, networks, and storage. A part of the libvirt core distribution.
+* [Waydroid](https://waydro.id) - A container-based approach to boot a full Android system on a regular Linux distribution.
+
 ## <a name="launcher"></a>Command launchers
 
 Applications to launch/execute programs, either interactively, automatically, in parallel, etc..
@@ -1283,6 +1349,34 @@ Utilities to manage system fonts and to generate text using ASCII-art-like chara
 * [toilet](http://caca.zoy.org/wiki/toilet) - Tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, color fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
 
 # <a name="Communication-and-Networking"></a>Communication and Networking
+
+## <a name="email"></a>Email
+
+Email clients (MUA - Mail User Agents), mail synchronization, generation indexing and search.
+
+* [abook](https://abook.sourceforge.io/) - TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes).
+* [aerc](https://aerc-mail.org/) - A pretty good email client
+* [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.
+* [alpine](http://www.washington.edu/alpine/) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
+* [gmailtail](https://github.com/c4pt0r/gmailtail) - Command-line tool to monitor Gmail messages and output the as JSON; The program in designed for automation, monitoring and integration with other tools.
+* [Himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management.
+* [Himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails.
+* [maildir-rank-addr](https://github.com/ferdinandyb/maildir-rank-addr) - Creates a ranked list of email addresses from local email files, which can be used for address completion for example in aerc.
+* [mailsy](https://github.com/BalliAsghar/Mailsy.git) - Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
+* [Mailtide](https://github.com/LandonH2007/mailtide) - Lightweight Python-based CLI email client that allows you to browse and manage IMAP inboxes via terminal and send emails.
+* [mbsync](http://isync.sourceforge.net/mbsync.html) - Mailboxes synchronization tool, allows downloading email locally, MailDir format supported.
+* [meli](https://github.com/meli/meli) - Terminal mail client.
+* [Mutt](http://www.mutt.org/) - Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
+* [NeoMutt](https://neomutt.org/) - Patched and up-to-dated mutt fork.
+* [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
+* [Notmuch](https://git.notmuchmail.org/git/notmuch) - Notmuch is a command-line based program for indexing, searching, reading, and tagging large collections of email messages.
+* [Open Archiver](https://github.com/LogicLabs-OU/OpenArchiver) - The program provides a solution for archiving, storing, indexing and searching emails from major platforms.
+* [paws](https://github.com/tomhrr/paws) - sendmail/maildir interface to Slack.
+* [pop](https://github.com/charmbracelet/pop) - Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
+* [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
+* [quackalias-cli](https://github.com/Megane0103/quackalias-cli) - Scripts to generate DuckDuckGo email aliases and store the history of generated aliases.
+* [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
+* [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
 ## <a name="chat"></a>Chat and instant messaging
 
@@ -1340,34 +1434,6 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 * [Zulip Terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
 * [ZUSE](https://github.com/babycommando/zuse) - Minimal IRC client for the terminal written in Go with Bubbletea.
-
-## <a name="email"></a>Email
-
-Email clients (MUA - Mail User Agents), mail synchronization, generation indexing and search.
-
-* [abook](https://abook.sourceforge.io/) - TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes).
-* [aerc](https://aerc-mail.org/) - A pretty good email client
-* [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.
-* [alpine](http://www.washington.edu/alpine/) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
-* [gmailtail](https://github.com/c4pt0r/gmailtail) - Command-line tool to monitor Gmail messages and output the as JSON; The program in designed for automation, monitoring and integration with other tools.
-* [Himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management.
-* [Himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails.
-* [maildir-rank-addr](https://github.com/ferdinandyb/maildir-rank-addr) - Creates a ranked list of email addresses from local email files, which can be used for address completion for example in aerc.
-* [mailsy](https://github.com/BalliAsghar/Mailsy.git) - Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
-* [Mailtide](https://github.com/LandonH2007/mailtide) - Lightweight Python-based CLI email client that allows you to browse and manage IMAP inboxes via terminal and send emails.
-* [mbsync](http://isync.sourceforge.net/mbsync.html) - Mailboxes synchronization tool, allows downloading email locally, MailDir format supported.
-* [meli](https://github.com/meli/meli) - Terminal mail client.
-* [Mutt](http://www.mutt.org/) - Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
-* [NeoMutt](https://neomutt.org/) - Patched and up-to-dated mutt fork.
-* [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
-* [Notmuch](https://git.notmuchmail.org/git/notmuch) - Notmuch is a command-line based program for indexing, searching, reading, and tagging large collections of email messages.
-* [Open Archiver](https://github.com/LogicLabs-OU/OpenArchiver) - The program provides a solution for archiving, storing, indexing and searching emails from major platforms.
-* [paws](https://github.com/tomhrr/paws) - sendmail/maildir interface to Slack.
-* [pop](https://github.com/charmbracelet/pop) - Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
-* [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
-* [quackalias-cli](https://github.com/Megane0103/quackalias-cli) - Scripts to generate DuckDuckGo email aliases and store the history of generated aliases.
-* [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
-* [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
 ## <a name="networking"></a>Networking
 
@@ -1816,9 +1882,9 @@ Personal ledger trackers, currency converters, and tools to manage and track cry
 
 # <a name="Productivity-and-Organization"></a>Productivity and Organization
 
-## <a name="ai"></a>AI / ChatGPT
+## <a name="ai"></a>AI / LLM integration
 
-Interfaces and front-ends to GPT engines and other tools powered by artificial intelligence and Natural Language Processing.
+Interfaces and front-ends to LLM engines and other tools powered by artificial intelligence and Natural Language Processing.
 
 * [AI](https://github.com/nitefood/ai-bash-gpt) - A command-line ChatGPT client in BASH with conversation/completion support.
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
@@ -1982,28 +2048,26 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [topalias](https://github.com/meteoritt/topalias) - Linux alias generator from bash/zsh command history with statistics, written on Python.
 * [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
-## <a name="option-picker"></a>Fuzzy finders and option pickers
+## <a name="ai-cli-commands"></a>AI terminal command generator
 
-Fuzzy finders and generic option pickers in lists of strings.
+Generates or explains commands for the command line using AI.
 
-* [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
-* [cmenu](https://github.com/10xJSChad/cmenu) - Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout.
-* [Fnf](https://github.com/leo-arch/fnf) - An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list.
-* [fss](https://github.com/5n00py/fss) - User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.
-* [fuzzysh](https://github.com/yazgoo/fuzzysh) - Minimalist selector in shell, inspired by fzf.
-* [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) - a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
-* [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
-* [lSel](https://github.com/unsigned-enby/lSel) - Simple no-fuss TUI selection menu for use in scripts.
-* [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
-* [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
-* [pick](https://github.com/mptre/pick) - Choose one option from a set of choices using an interface with fuzzy search functionality.
-* [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
-* [shmenu](https://github.com/duclos-cavalcanti/shmenu) - Menu TUI tool written solely in bash.
-* [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
-* [smenu](https://github.com/p-gen/smenu) - Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
-* [television](https://github.com/alexpasmantier/television) - Blazing fast general purpose fuzzy finder TUI.
-* [tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
-* [tui-datepicker](https://github.com/maraloon/pickdate) - Select date in terminal with vim-motions and copy to buffer.
+* [Blitzdenk](https://github.com/Lommix/blitzdenk) - A minimal multi provider coding agent and personal AI TUI; Similar to tools like opencode or claudecode; Written in Rust.
+* [c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins. Uses the Gemini API.
+* [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Natural language shell command generator and executor powered by AI.
+* [ht](https://github.com/catallo/ht) - A shell command that answers your questions about shell commands using OpenAI GPT.
+* [LazyShell](https://github.com/bernoussama/lazyshell) - AI CLI tool that generates and executes shell commands using AI.
+* [llm-term](https://github.com/dh1011/llm-term) - A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
+* [Octomind](https://github.com/muvon/octomind) - Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in.
+* [Ollamacode CLI](https://github.com/tooyipjee/ollamacode) - The program creates a Python script from natural language and execute it automatically.
+* [OpenCode](https://opencode.ai/download) - AI coding agent, built for the terminal.
+* [osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
+* [py-ai-shell](https://github.com/cheney-yan/py-ai-shell) - AI-powered shell for command line users.
+* [reTermAI](https://github.com/pie0902/reTermAI) - Smart command assistant for your terminal, using LLM.
+* [Spren](https://smadgulkar.github.io/spren/) - AI-powered terminal assistant that converts natural language to shell commands. Supports PowerShell, Bash, and CMD with intelligent command suggestions and safety checks.
+* [terminal-command](https://github.com/huss-mo/terminal-command) - A Python-based CLI tool for generating, and optionally executing, shell commands from natural language.
+* [wut](https://github.com/shobrook/wut) - An terminal assistant for the hopelessly confused; it explains the meaning of the output from the last command.
+* [zev](https://github.com/dtnewman/zev) - A simple CLI tool to generate terminal commands using AI.
 
 # <a name="Media-and-Creative"></a>Media and Creative
 
@@ -2371,79 +2435,7 @@ Programs to store and manage collections of passwords and other login/authentica
 * [vault-crypt](https://github.com/DeadSwitch404/vault-crypt) - Minimalist GPG-powered vault encryption for KeePassXC. No cloud. No traces. Just your keys, your silence, and the seal.
 * [VaultX](https://github.com/rhjddjdbc/vaultx) - Minimal script-based password manager for the command line; The program allows yout to manage multiple isolated vaults, use strong encryption, perform password breach checks, export QR codes.
 
-## <a name="package-manager"></a>Package managers
-
-Package managers to manage/install/uninstall software packages, as source code or binaries.
-
-* [app](https://github.com/hkdb/app) - A cross-platform package management assistant with super powers.
-* [aptitude](https://salsa.debian.org/apt-team/aptitude) - A TUI front-end to APT, the Debian package manager.
-* [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
-* [autoupd](https://github.com/2SSK/autoupd) - A simple CLI too to automatically update system packages using your Linux distro's package manager, with daily logs and systemd integration.
-* [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
-* [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
-* [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-* [flatpak-cli](https://github.com/sweetbbak/flatpak-cli) - A command line program to search and install flatpaks from the flathub repository using a fzf like interface.
-* [getghrel](https://github.com/kavishgr/getghrel) - A user-friendly command-line tool that fetches and installs the latest release assets from GitHub for macOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
-* [godyl](https://idelchi.github.io/godyl/) - Helps with batch-downloading, checksum verifying and installing statically compiled binaries from GitHub, GitLab, URLs, Go projects.
-* [hysp](https://github.com/pwnwriter/hysp) - An independent package manager that every hacker deserves.
-* [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
-* [krew](https://krew.sigs.k8s.io/) - Find and install kubectl plugins.
-* [lastversion](https://lastversion.getpagespeed.com) - Find the latest stable version and download assets of any project from GitHub, GitLab, PyPI, and other sources.
-* [mise](https://mise.jdx.dev/) - A development environment setup tool: dev tools, env vars, and task runner. Like `asdf` + `direnv` + `make`.
-* [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
-* [pkm](https://github.com/wick3dr0se/pkm) - A super minimal TUI package manager wrapper written in BASH v4-2+.
-* [pm-jesus](https://github.com/sebastiancarlos/pm-jesus) - Package manager front-end.
-* [pmt](https://github.com/olexij-christian/pmt) - Translator of package names between different package managers of Linux distributions.
-* [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
-* [Shell Bling Ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
-* [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
-* [ToolUI](https://github.com/jinek/ToolUI) - TUI to manage dotnet tools.
-* [topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things.
-* [TUI-SHOP](https://github.com/Gcat101/tui-shop) - TUI-SHOP allows you to browse and install apps directly
-* [upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
-
-## <a name="vm"></a>Containerization and virtualization
-
-Tools to manage virtual machines and/or containers and related utilities.
-
-* [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
-* [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
-* [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
-* [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
-* [distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal as docker or podman containers.
-* [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
-* [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
-* [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for Docker.
-* [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers, services, and images.
-* [dry](https://github.com/moncho/dry) - A Docker manager for the terminal.
-* [EMU2](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
-* [Incus](https://linuxcontainers.org/lxc) - A manager/hypervisor for containers (via LXC) and virtual-machines (via QEMU).
-* [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
-* [lxc](https://linuxcontainers.org/lxc) - A userspace interface for the Linux kernel containment features.
-* [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU.
-* [ocui](https://github.com/fishinthecalculator/ocui) - Simple text based UI for managing containers.
-* [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control docker containers.
-* [Pocker](https://github.com/pommee/Pocker) - Pocker is a TUI tool to help with docker related tasks, such as view containers/images, manage status of containers, see logs, attributes, environment variables and container statistics, filter logs based on keywords, start shell inside a container.
-* [podman](https://podman.io/) - Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images.
-* [QEMU](https://qemu.org) - A generic machine & userspace emulator and virtualizer.
-* [quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimized Windows, macOS and Linux desktop virtual machines.
-* [toolbox](https://containertoolbx.org) - Use containerized environments where development tools and libraries can be easily installed and used.
-* [VCTUI](https://github.com/thebsdbox/vctui) - Console interface for vCenter: create, delete and search virtual machines and power management.
-* [virsh](https://libvirt.org/index.html) - An interactive shell, and batch scriptable tool for performing management tasks on all libvirt managed domains, networks, and storage. A part of the libvirt core distribution.
-* [Waydroid](https://waydro.id) - A container-based approach to boot a full Android system on a regular Linux distribution.
-
 # <a name="Utilities-and-Miscellaneous"></a>Utilities and Miscellaneous
-
-## <a name="weather"></a>Weather
-
-Information about the weather, fetched from the Internet.
-
-* [Aniweather](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
-* [gust](https://github.com/josephburgess/gust) - Command line weather app written in Go.
-* [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
-* [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
-* [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
-* [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
 
 ## <a name="utility"></a>Utilities
 
@@ -2495,6 +2487,17 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [volgo](https://github.com/elliot40404/volgo) - A cross-platform CLI app written in Go for controlling system volume from the terminal. Use simple commands or a beautiful interactive TUI—even over SSH.
 * [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
 * [Zsh Angel IQ System](https://github.com/psprint/zsh-angel-iq-system) - A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife.
+
+## <a name="weather"></a>Weather
+
+Information about the weather, fetched from the Internet.
+
+* [Aniweather](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
+* [gust](https://github.com/josephburgess/gust) - Command line weather app written in Go.
+* [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
+* [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
+* [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
+* [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
 
 # <a name="Learning-and-Leisure"></a>Learning and Leisure
 
