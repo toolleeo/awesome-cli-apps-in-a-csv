@@ -31,6 +31,7 @@ Summary:
 * [File managers](#file-manager) (29)
 * [File explorer and tree visualization](#file-explorer) (11)
 * [File and file system handling](#file-handling) (30)
+* [Backup](#backup) (20)
 * [File watching for changes](#file-watch) (8)
 * [File renamers](#file-renamer) (15)
 * [File systems](#file-system) (4)
@@ -83,6 +84,7 @@ Summary:
 ## [Productivity](#productivity-1)
 * [AI / LLM integration](#ai) (47)
 * [Productivity](#productivity) (19)
+* [Office tools](#office) (22)
 * [Writing](#writing) (12)
 * [Calculators](#calc) (21)
 * [Pastebin](#pastebin) (3)
@@ -420,6 +422,31 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
 * [xcp](https://github.com/tarka/xcp) - Extended cp.
 * [zip-stream-cli](https://github.com/alexandre-garrec/zip-stream-cli) - A tool that allows to stream and display the contents of various file types from a remote ZIP archive directly in your terminal. With support for images, audio files, text, PDFs, and more,
+
+## <a name="backup"></a>Backup
+
+Tools to manage the backup of files and directories.
+
+* [autorestic](https://autorestic.vercel.app/) - A wrapper around the [restic](https://restic.net/) backup tool, with the goal of simplifying the setup and usage through the use of config files.
+* [backhub](https://github.com/Tanq16/backhub) - Backhub helps maintain backups of multiple GitHub repos as full local mirrors.
+* [borg](https://www.borgbackup.org/) - Encrypted backups with a clean and simple interface, easy to use and set up, possibility to mount the backup archive with FUSE and inspect it as a regular file system.
+* [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
+* [bupstash](https://github.com/andrewchambers/bupstash) - Secure, encrypted backups with efficient deduplication, client-side encryption, offline decryption, search-tagged data protection, strong privacy, robust performance on slow networks, memory-safe security against attacks, incremental backups, and minimal RAM usage for production use.
+* [Crestic](https://nils-werner.github.io/crestic/) - Configurable Restic Wrapper.
+* [duplicity](http://duplicity.nongnu.org/) - Creates GPG encrypted, compressed backups; client-side encryption allows uploading the backup onto untrusted servers.
+* [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.
+* [gwbackupy](https://github.com/smartondev/gwbackupy) - Open source Google Workspace™ backup solution.
+* [Kopia](https://kopia.io/) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression, and data deduplication. CLI and GUI included.
+* [paperbackup](https://github.com/intra2net/paperbackup) - Create a PDF with barcodes to backup text files on paper.
+* [qbak](https://github.com/andreas-glaser/qbak) - A single-command backup helper for Linux and POSIX systems written in Rust; The program creates timestamped backup copies of files and directories with zero configuration.
+* [rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally, using the same protocol as rsync to transfer and store data.
+* [Restic](https://restic.net/) - A backup program that is fast, efficient, and secure.
+* [rsnapshot](https://rsnapshot.org) -  A filesystem snapshot utility based on rsync. It manages a rotation schedule when to discard older backup, e.g. from hourly to yearly. The Perl code makes extensive use of hard links and greatly reduces the disk space required.
+* [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+* [thread-safe](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy.
+* [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories.
+* [zbackup](http://zbackup.org/) - A globally-deduplicating backup tool, based on the ideas found in rsync.
+* [ZnapZend](https://www.znapzend.org) - ZFS centric backup tool creates snapshots and sends them to backup volumes. It manages local and remote copies by thinning them out as time progresses.
 
 ## <a name="file-watch"></a>File watching for changes
 
@@ -1964,6 +1991,33 @@ Applications for improving own productivity that do not deserve (at the moment) 
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal, including todos, calendar, JIRA, etc.
 * [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a Linux console.
+
+## <a name="office"></a>Office tools
+
+Programs to manage spreadsheets and to make presentations.
+
+* [bashform](https://github.com/devmegablaster/bashform) - Create and share forms in the terminal over SSH.
+* [DeckTape](https://github.com/astefanutti/decktape) - DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
+* [ggl](https://github.com/taraqfarhan/ggl) - Search the web (google, youtube, gmail, wiki, github, stackoverflow), prompt to send emails, prompt chatGPT, Gemini right from the terminal (command line).
+* [gpa-calculator](https://github.com/kitesi/gpa-calculator) - GPA calculator CLI app that stores data in local files; written in Go.
+* [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
+* [mdp](https://github.com/visit1985/mdp) - A command-line based Markdown presentation tool.
+* [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
+* [PDFjuicer](https://github.com/dmikhr/pdfjuicer) - CLI tool for converting PDF pages to high-quality images. It features custom image sizing, scaling options, thumbnail generation, and batch processing.
+* [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - PDFtk is a simple tool for doing everyday things with PDF documents.
+* [presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool.
+* [pysentation](https://github.com/mimseyedi/pysentation) - pysentation is a CLI for displaying Python presentations.
+* [qpdf](https://github.com/qpdf/qpdf) - QPDF: A content-preserving PDF document transformer that allows performing several types of operations on PDF files, such as splitting, merging, etc.
+* [sc-im](https://github.com/andmarti1424/sc-im) - (Spreadsheet Calculator Improvised) - an `ncurses` spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Nevertheless, a nice piece of software."
+* [sent](https://tools.suckless.org/sent/) - Simple plain-text presentation tool.
+* [SheetsUI](https://github.com/zaphar/sheetsui) - A console based (TUI) spreadsheet application.
+* [Slideck](https://github.com/piotrmurach/slideck) - Present Markdown-powered slide decks in the terminal.
+* [Slides](https://github.com/maaslalani/slides) - Terminal based presentation tool.
+* [SSH-Slides](https://github.com/ivantsepp/ssh-slides) - SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
+* [Teapot](https://www.syntax-k.de/projekte/teapot/) - Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
+* [tpp](http://www.ngolde.de/tpp.html) - (text presentation program) - a ncurses Ruby program that allows producing nice text-based presentation with simple markup language.
+* [tui-slides](https://github.com/Chleba/tui-slides) - TerminalpPresentation program with modern TUI.
+* [tuitorial](https://github.com/basnijholt/tuitorial) - Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
 
 ## <a name="writing"></a>Writing
 
