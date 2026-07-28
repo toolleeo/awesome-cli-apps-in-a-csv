@@ -4,7 +4,7 @@ backup,Backup,Tools to manage the backup of files and directories
 calc,Calculators,"Calculators for mathematical operations among numbers, dates, base conversions, etc."
 chat,Chat and instant messaging,"Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Mattermost, Matrix, Slack, Telegram, Reddit"
 cheatsheet,Commands cheatsheet and snippets,"Tools to manage often used commands, code snippets, and alternative manual pages"
-conversion,Conversion,File format converters
+conversion,File format converters,Utilities to convert different types of files
 copy-paste,Copy/paste and clipboard,Clipboard managers and text copy/paste tools
 connection-manager,Connection managers,"Manage Bluetooth and Wifi networks, and SSH connections"
 vm,Containerization and virtualization,Tools to manage virtual machines and/or containers and related utilities
