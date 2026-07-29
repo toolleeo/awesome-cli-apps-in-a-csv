@@ -11,7 +11,7 @@ Some links are available to [related resources](#resources).
 Summary:
 
 * Apps/tools: **2231**
-* Categories: **85**
+* Categories: **86**
 
 # Contents
 
@@ -54,7 +54,8 @@ Summary:
 * [Co-pilot](#copilot) (12)
 ## [System and Terminal](#system-and-terminal-1)
 * [System tools](#system) (44)
-* [Terminals](#terminal) (27)
+* [Terminals](#terminal) (14)
+* [Terminal multiplexers and accessories](#terminal-mux) (13)
 * [Shells](#shells) (27)
 * [Prompts](#prompt) (14)
 * [Copy/paste and clipboard](#copy-paste) (11)
@@ -1110,34 +1111,39 @@ System management tools, such as for brightness control, dotfile and environment
 
 ## <a name="terminal"></a>Terminals
 
-Terminal and terminal multiplexers.
+Terminal emulators and related tools.
 
 * [abduco](https://www.brain-dump.org/projects/abduco) - abduco provides session management i.e. it allows programs to be run independently of their controlling terminal.
 * [alacritty](https://alacritty.org) - A GPU-Accelerated terminal emulator that comes with sensible defaults, but allows for extensive configuration.
-* [byobu](http://byobu.co/) - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 * [dtach](https://github.com/crigler/dtach) - A program written in C that emulates the detach feature of screen.
 * [dvtm](https://www.brain-dump.org/projects/dvtm) - Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
 * [extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators.
 * [ghostty](https://github.com/ghostty-org/ghostty/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * [kitty](https://sw.kovidgoyal.net/kitty/) - A fast, feature-rich, GPU based terminal emulator.
 * [mlterm](https://mlterm.sourceforge.net/) - A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency.
+* [st](https://st.suckless.org/) - A simple terminal implementation for X.
+* [Textual Web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser.
+* [tvterm](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal (Unix and Windows).
+* [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+* [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust with tons of features.
+* [wterm](https://github.com/TornadoCookie/wterm) - A native Wayland terminal emulator based on an st fork using wld.
+
+## <a name="terminal-mux"></a>Terminal multiplexers and accessories
+
+Terminal multiplexers and tools or plugin for multiplexers.
+
+* [byobu](http://byobu.co/) - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 * [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
 * [mx](https://gitlab.com/lpireyn/mx) - A tmux session manager written as a single Bash script.
 * [mynav](https://github.com/GianlucaP106/mynav) - A powerful terminal-based workspace navigator and session manager built in Go, MyNav helps developers organize and manage multiple projects through an intuitive interface, seamlessly integrating with tmux sessions.
 * [peaches](https://github.com/KCaverly/peaches) - A smart switcher for the terminal. Based on tmux.
 * [screen](https://www.gnu.org/software/screen/) - Terminal multiplexer that split a physical terminal between several processes, typically interactive shells.
-* [st](https://st.suckless.org/) - A simple terminal implementation for X.
-* [Textual Web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser.
 * [Tmate](https://tmate.io/) - A fork of tmux that allows sharing the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more.
 * [tmux-nested](https://github.com/niqodea/tmux-nested) - Plugin for nested tmux workflows.
 * [tmux-session](https://github.com/BartSte/tmux-session) - Manage tmux sessions using fzf.
-* [tvterm](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal (Unix and Windows).
 * [vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with window manager and session sharing.
 * [vtm](https://github.com/directvt/vtm) - Virtual terminal multiplexer delivered as a single executable; It runs in native Windows or standard consoles, wraps any CLI app and supports infinite nesting to create a text-based desktop that bridges the gap between TUI and GUI.
-* [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
-* [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust with tons of features.
-* [wterm](https://github.com/TornadoCookie/wterm) - A native Wayland terminal emulator based on an st fork using wld.
 * [Zellij](https://github.com/zellij-org/zellij) - A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer.
 
 ## <a name="shells"></a>Shells
