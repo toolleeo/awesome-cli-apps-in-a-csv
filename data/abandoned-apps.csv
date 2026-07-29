@@ -1,0 +1,18 @@
+category,name,homepage,git,description,motivation
+monitor,neofetch,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice. Currently abandoned.",archived on github
+file-manager,fff,,https://github.com/dylanaraps/fff,"Fast, simple file manager written in bash.",archived on github
+online,googler,,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal.",archived on github
+markdown,mdcat,,https://github.com/swsnr/mdcat,cat for Markdown,archived on github
+todo-manager,taskell,,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.,archived on github
+cd,SmartCd,,https://github.com/CodesOfRishi/smartcd,"A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching.",archived on github
+file-manager,rnr,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.,archived on github
+data-management-json,jiq,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.,archived on github
+versioning,Gistup,,https://github.com/mbostock/gistup,"Create a gist from terminal, then use git to update it.",archived on github
+cd,fasd,,https://github.com/clvv/fasd,"It offers quick access to files and directories for POSIX shells by keeping track of files and directories you have accessed, so that you can quickly reference them in the command line.",archived on github
+package-manager,hysp,,https://github.com/pwnwriter/hysp,An independent package manager that every hacker deserves.,archived on github
+video,yt-splitter,,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.,archived on github
+monitor-top,ytop,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.,archived on github
+graphics,svgcleaner,,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG files from the unnecessary data.,archived on github
+find,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.,archived on github
+data-management-tabular,pykli,,https://github.com/eshepelyuk/pykli,Interactive ksqlDB command line client with autocompletion and syntax highlighting written in Python.,archived on github
+pastebin,paste69,,https://github.com/watzon/paste69,Simple CURL-able pastebin.,archived on github
