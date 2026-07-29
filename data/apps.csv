@@ -666,7 +666,7 @@ online,pockyt,,https://github.com/achembarpu/pockyt,"Read, manage, and automate 
 rss,Newsboat,https://newsboat.org/,https://github.com/newsboat/newsboat,An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
 viewers,medium-cli,,https://github.com/djadmin/medium-cli,Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 religion,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the command line.
-utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
+online,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
 programming-boilerplate,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 utility,oji,,https://github.com/xxczaki/oji,Interactive text emoji creator.
 conversion,hget,,https://github.com/bevacqua/hget,"A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically."
@@ -747,7 +747,7 @@ cd,z.lua,,https://github.com/skywind3000/z.lua,Directory changer that learns you
 cd,fz,,https://github.com/changyuheng/fz.sh,Fuzzy tab completion for z.
 find,happyfinder,,https://github.com/hugows/hf,(another) Fuzzy file finder for the command line.
 online,Awesome Finder,,https://github.com/mingrammer/awesome-finder,Search the awesome lists from the command line.
-online,Seashells,https://seashells.io/,https://github.com/anishathalye/seashells,Pipe output to the web.
+networking,Seashells,https://seashells.io/,https://github.com/anishathalye/seashells,Pipe output to the web.
 utility,movie,,https://github.com/mayankchd/movie,A CLI for getting information about a movie and comparing two movies.
 diff,diff2html-cli,,https://github.com/rtfpessoa/diff2html-cli,Parse git diffs as JSON and generate pretty HTML.
 webdev,HTTPie,,https://github.com/httpie/httpie,HTTPie for Terminal: human-friendly CLI HTTP client for the API era.
@@ -1751,7 +1751,7 @@ animation,animatrix,,https://gitlab.com/christosangel/animatrix,"C program that 
 animation,chaftrix,,https://gitlab.com/christosangel/chaftrix,"C program that will render the matrix effect in the terminal window in the background, while rendering an image in the foreground, allowing animation of this image in one or two dimensions."
 financial,beancount,https://beancount.github.io/,https://github.com/beancount/beancount,"Double-entry bookkeeping computer language that lets you define financial transaction records in a text file, read them in memory, generate a variety of reports from them, and provides a web interface."
 file-dir-cleanup,duple,,https://github.com/dbruce-ae05/duple,Find and remove duplicate files.
-online,chuckle-cli,,https://github.com/seburbandev/chuckle-cli,An application that utilises an API in order to print out jokes in your terminal.
+funny,chuckle-cli,,https://github.com/seburbandev/chuckle-cli,An application that utilises an API in order to print out jokes in your terminal.
 text-processing,neospeller,,https://github.com/richardhapb/neospeller,Spell checking for different languages comments.
 writing,storycraftr,,https://github.com/raestrada/storycraftr,"StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI."
 music,cli-viz,,https://github.com/sam1am/cli-viz,An audio visualizer that runs in the linux terminal and reacts to the microphone.
@@ -1850,7 +1850,7 @@ disk-analyzer,mac-storage-manager,,https://github.com/NarekMosisian/mac-storage-
 learning,bashmate,,https://github.com/algobuddha/bashmate,CLI tool to learn bash command with your natural language.
 ai-cli-commands,terminal-command,,https://github.com/huss-mo/terminal-command,"A Python-based CLI tool for generating, and optionally executing, shell commands from natural language."
 text-search,brave-bookmarks,,https://github.com/talwrii/brave-bookmarks,Command-line script to query Brave's bookmark.
-online,monolith,,https://github.com/Y2Z/monolith,Tool and library for saving complete web pages as a single HTML file.
+webdev,monolith,,https://github.com/Y2Z/monolith,Tool and library for saving complete web pages as a single HTML file.
 ai-cli-commands,reTermAI,,https://github.com/pie0902/reTermAI,"Smart command assistant for your terminal, using LLM."
 file-handling,fstk,,https://github.com/archsyscall/fstk,"Stack-based file & directory manager: modern ""cut/paste"" alternative to mv."
 ai,OrChat,,https://github.com/oop7/OrChat,"A powerful, feature-rich command-line interface for interacting with AI models through OpenRouter."
@@ -2140,7 +2140,7 @@ networking,sshsync,,https://github.com/Blackmamoth/sshsync,Fast and minimal CLI 
 funny,bucklespring,,https://github.com/zevv/bucklespring,Emulates the sound of the old IBM Model-M space saver bucklespring keyboard while typing.
 video,ytsurf,,https://github.com/Stan-breaks/ytsurf,"Youtube in the terminal (syncplay support, audio-only playback and downloads, download videos, history)."
 ai,Context Extractor,,https://github.com/vaibhav-mattoo/cxt,"Command line tool that aggregates file and directory contents into the clipboard, for providing project context to AI chatbots in the browser like ChatGPT and Perplexity."
-online,mufetch,,https://github.com/ashish0kumar/mufetch,"CLI for music display (album covers and artist information) with comprehensive metadata, clickable links, responsive sizing and cross-platform support."
+music,mufetch,,https://github.com/ashish0kumar/mufetch,"CLI for music display (album covers and artist information) with comprehensive metadata, clickable links, responsive sizing and cross-platform support."
 typing,Typ0,,https://github.com/TusharIbtekar/go-typ0,Interactive CLI tool for typing practice and speed tests built with Go and Bubble Tea.
 todo-manager,FlowStateCLI,,https://github.com/sundanc/flowstatecli,"Command-line productivity tool for developers to track work sessions, manage tasks, and set goals + Pomodoro timer (online and offline)."
 disk-analyzer,diskroaster,,https://github.com/favoritelotus/diskroaster,"Multi-threaded disk testing utility that writes and verifies data on a raw disk device (designed to stress-test hard drives and SSDs by dividing the disk into sections, writing data in parallel using multiple threads and verifying the written content)."
