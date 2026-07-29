@@ -2230,3 +2230,4 @@ online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal 
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
+programming,go-exec-format-doctor,,https://github.com/soul-sol/go-exec-format-doctor,"Inspects ELF, Mach-O, PE, scripts, archives, and ZIP files locally to diagnose executable architecture mismatches without running them."
