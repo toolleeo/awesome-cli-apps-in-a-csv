@@ -68,7 +68,8 @@ monitor-top,Process viewers and monitoring (alternatives to top),Programs to lis
 screen-recorder,Screen recorder,"Tools to record the content of the terminal and manage the recording (e.g., converting into animated GIFs)"
 screensaver,Screen savers,Screen savers with animations for the idle times of the computer
 system,System tools,"System management tools, such as for brightness control, dotfile and environment variable management, notifications, etc."
-terminal,Terminals,Terminal and terminal multiplexers
+terminal,Terminals,Terminal emulators and related tools
+terminal-mux,Terminal multiplexers and accessories,Terminal multiplexers and tools or plugin for multiplexers
 text-processing,Text processing,"Text processing utilities to cut or sort lines, find dead links, colorize command output, etc."
 text-search,Text search (alternatives to grep),Search files and exploring directory trees to look for text or patterns (RegEx) contained in files; alternatives to the `grep` command
 text-search-replace,Text search and replace (alternatives to sed),"Tools to search text within files and perform operations on it, such as text replacement; alternatives to `sed`"

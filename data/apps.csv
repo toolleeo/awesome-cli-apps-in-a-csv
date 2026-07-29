@@ -31,10 +31,10 @@ editors,vai,,https://github.com/stefanoborini/vai,"Text editor similar to `vim` 
 editors,vim,http://www.vim.org/,https://github.com/vim/vim,"Historically one of the preferred text editors, behavior based on editing modes, plenty of plugins and tips to address every possible editing problem."
 editors,vis,,https://github.com/martanne/vis,"""a modern, legacy free, simple yet efficient vim-like editor"", and more: ""The intention is not to be bug for bug compatible with vim, instead a similar editing experience should be provided. The goal could thus be summarized as 80% of vim's features implemented in roughly 1% of the code""; the editor is scriptable in LUA and supports editing large files."
 editors,WordGrinder,https://cowlark.com/wordgrinder/,https://github.com/davidgiven/wordgrinder,"From the website: ""WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type."" "
-terminal,byobu,http://byobu.co/,https://github.com/dustinkirkland/byobu,"A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`."
-terminal,screen,https://www.gnu.org/software/screen/,https://git.savannah.gnu.org/git/screen.git,"Terminal multiplexer that split a physical terminal between several processes, typically interactive shells."
-terminal,Tmate,https://tmate.io/,https://github.com/tmate-io/tmate,"A fork of tmux that allows sharing the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues."
-terminal,tmux,https://tmux.github.io/,https://github.com/tmux/tmux,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
+terminal-mux,byobu,http://byobu.co/,https://github.com/dustinkirkland/byobu,"A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`."
+terminal-mux,screen,https://www.gnu.org/software/screen/,https://git.savannah.gnu.org/git/screen.git,"Terminal multiplexer that split a physical terminal between several processes, typically interactive shells."
+terminal-mux,Tmate,https://tmate.io/,https://github.com/tmate-io/tmate,"A fork of tmux that allows sharing the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues."
+terminal-mux,tmux,https://tmux.github.io/,https://github.com/tmux/tmux,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
 terminal,warp,,https://github.com/spolu/warp,Secure and simple terminal sharing.
 monitor-top,bpytop,,https://github.com/aristocratos/bpytop,Linux/macOS/FreeBSD resource monitor with a nice interface.
 monitor,glances,https://nicolargo.github.io/glances/,https://github.com/nicolargo/glances,"A comprehensive and detailed system monitor; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime."
@@ -332,7 +332,7 @@ git,grv,,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal base
 versioning,fossil,https://fossil-scm.org/,https://github.com/drhsqlite/fossil-mirror,"A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more."
 editors,Diakonos,,https://github.com/Pistos/diakonos,"A powerful editor with “standard"" keybindings and several advanced features; written in Ruby."
 copy-paste,yank,,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
-terminal,mtm,,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer."
+terminal-mux,mtm,,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer."
 text-search-replace,sd,,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
 time-tracker,Watson,,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
 data-management,WOPR,,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations, and infographic."
@@ -356,8 +356,8 @@ git,Gitea,https://gitea.com/,https://github.com/go-gitea/gitea,Single binary sel
 git,Soft Serve,,https://github.com/charmbracelet/soft-serve,Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
 text-processing,deadlink,,https://github.com/nschloe/deadlink,Parses text files for HTTP URLs and checks if they are still valid. Good to use on Markdown documentation files.
 cd,SmartCd,,https://github.com/CodesOfRishi/smartcd,"A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching."
-terminal,mx,,https://gitlab.com/lpireyn/mx,A tmux session manager written as a single Bash script.
-terminal,mynav,,https://github.com/GianlucaP106/mynav,"A powerful terminal-based workspace navigator and session manager built in Go, MyNav helps developers organize and manage multiple projects through an intuitive interface, seamlessly integrating with tmux sessions."
+terminal-mux,mx,,https://gitlab.com/lpireyn/mx,A tmux session manager written as a single Bash script.
+terminal-mux,mynav,,https://github.com/GianlucaP106/mynav,"A powerful terminal-based workspace navigator and session manager built in Go, MyNav helps developers organize and manage multiple projects through an intuitive interface, seamlessly integrating with tmux sessions."
 time-tracker,Bartib,,https://github.com/nikolassv/bartib,Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plain-text file and allows you to create flexible reports.
 productivity,gdir,,https://github.com/pafoster/gdir,A command line tool which queries Google Directions. The tool displays results as human-readable text.
 webdev,Mycorrhiza Wiki,https://mycorrhiza.wiki/,https://github.com/bouncepaw/mycorrhiza,A lightweight file-system wiki engine that uses Git for keeping history.
@@ -534,7 +534,7 @@ todo-manager,tsk,,https://github.com/kakengloh/tsk,"Terminal task management app
 monitor,The Logfile Navigator,https://lnav.org/,https://github.com/tstack/lnav,An advanced and colorful log file viewer with TUI interface.
 data-management-json,gojq,,https://github.com/itchyny/gojq,Pure Go implementation of jq.
 science,pt.sh,,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.
-terminal,Zellij,,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer."
+terminal-mux,Zellij,,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer."
 todo-manager,xit,,https://github.com/jotaen/xit,"A plain-text file format for todos and check lists. So, not really a program, but I believe it is worth to list :-)"
 security,uacme,,https://github.com/ndilieto/uacme,ACMEv2 client written in plain C with minimal dependencies.
 music,Tizonia,,https://github.com/tizonia/tizonia-openmax-il,"Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices."
@@ -812,7 +812,7 @@ music,PyRadio,,https://github.com/coderholic/pyradio,Curses based internet radio
 shells,cosh,,https://github.com/tomhrr/cosh,Concatenative command-line shell.
 system,sysm,,https://github.com/jafarlihi/sysm,Makes your system play custom sounds when any configured system or external event happens.
 graphics,Mercator,,https://github.com/mrusme/mercator,OpenStreetMap but as terminal user interface (TUI) program.
-terminal,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
+terminal-mux,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
 animation,Maze Solver,,https://github.com/Vlamonster/maze_solver_rust,"Generate, display and solve mazes in an animated way in the terminal."
 data-management-tabular,Miller,,https://github.com/johnkerl/miller,"Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed."
 data-management,datasetGPT,,https://github.com/radi-cho/datasetGPT,A command-line interface and a Python library for inferencing Large Language Models to generate textual datasets.
@@ -931,7 +931,7 @@ file-watch,rwatch,,https://github.com/davidhfrankelcodes/rwatch,A Rust re-implem
 video,FFMPerative,,https://github.com/remyxai/FFMPerative,"Powered by Large Language Models (LLMs) through an intuitive chat interface, now you can compose video edits in natural language."
 monitor,Batfetch,,https://github.com/ashish-kus/batfetch,A command-line tool that displays detailed information about the battery of your device in a clean and organized way.
 music,musicScraper,,https://github.com/mBaratta96/musicScraper,"CLI tool for scraping information from musical websites (Rateyourmusic, Metal Archives), with nice album ASCII art."
-terminal,tmux-session,,https://github.com/BartSte/tmux-session,Manage tmux sessions using fzf.
+terminal-mux,tmux-session,,https://github.com/BartSte/tmux-session,Manage tmux sessions using fzf.
 games,Dino,,https://github.com/wldfngrs/chrome-dinosaur-terminal,A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
 find,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.
 launcher,taverner,,https://github.com/vagos/taverner,"CLI launcher menu for games (or anything), the UNIX way."
@@ -970,7 +970,7 @@ writing,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spellin
 cd,Apparition,,https://github.com/david-haerer/apparition,"Apparition allows giving names to paths, so that moving to the specific path can be done by using the name; it also allows managing the list of assigned names."
 ai,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 ai,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
-terminal,vtm,,https://github.com/netxs-group/vtm,Virtual terminal multiplexer with window manager and session sharing.
+terminal-mux,vtm,,https://github.com/netxs-group/vtm,Virtual terminal multiplexer with window manager and session sharing.
 viewers,CAVA,,https://github.com/karlstav/cava,Cross-platform Audio Visualizer.
 games,rooshk,,https://github.com/cmspeedrunner/rooshk,A command line game in which you act as god over a sandbox world.
 file-handling,ForkFS,,https://github.com/SUPERCILEX/forkfs,ForkFS allows you to sandbox a process's changes to your file system.
@@ -1276,7 +1276,7 @@ git,git-heatgrid,,https://github.com/denshakhov/git-heatgrid,Visualize git commi
 data-management-tabular,gobang,,https://github.com/TaKO8Ki/gobang,A cross-platform TUI database management tool written in Rust.
 data-management-tabular,sqlite-utils,,https://github.com/simonw/sqlite-utils,Python CLI utility and library for manipulating SQLite databases.
 option-picker,fss,,https://github.com/5n00py/fss,User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.
-terminal,tmux-nested,,https://github.com/niqodea/tmux-nested,Plugin for nested tmux workflows.
+terminal-mux,tmux-nested,,https://github.com/niqodea/tmux-nested,Plugin for nested tmux workflows.
 text-search-replace,srgn,,https://github.com/alexpovel/srgn,"A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`."
 package-manager,upt,,https://github.com/sigoden/upt,Universal Package-management Tool for any OS.
 webdev,django-tui,,https://github.com/anze3db/django-tui,Inspect and run Django Commands in a text-based user interface (TUI).
@@ -2102,7 +2102,7 @@ ai-cli-commands,LazyShell,,https://github.com/bernoussama/lazyshell,AI CLI tool 
 git,repo-verify-utils,,https://github.com/jaggzh/repo-verify-utils,Utility collection to help examine what repositories and scopes yout GitHub identity has access to.
 typing,typtea,,https://github.com/ashish0kumar/typtea,Minimal terminal-based typing speed tester with support for dozens of programming languages.
 text-processing,xcut,,https://github.com/kyotalab/xcut,A flexible field extractor and filter tool for the command line (extended version of the Unix cut command).
-terminal,vtm,,https://github.com/directvt/vtm,"Virtual terminal multiplexer delivered as a single executable; It runs in native Windows or standard consoles, wraps any CLI app and supports infinite nesting to create a text-based desktop that bridges the gap between TUI and GUI."
+terminal-mux,vtm,,https://github.com/directvt/vtm,"Virtual terminal multiplexer delivered as a single executable; It runs in native Windows or standard consoles, wraps any CLI app and supports infinite nesting to create a text-based desktop that bridges the gap between TUI and GUI."
 games,what-is-sequence-game,,https://github.com/akgondber/what-is-sequence-game,Game consisting in remembering sequence of appearing items and try to restore them in right order.
 financial,Finance Tracker,,https://github.com/shen-kit/finance-tracker-tui/,"TUI financial tracker written in Go, using sqlite database."
 git,mamegrep,,https://github.com/sile/mamegrep,An interactive terminal interface for 'git grep' to easily edit search patterns and view results.
