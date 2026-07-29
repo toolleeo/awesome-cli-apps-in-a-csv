@@ -187,7 +187,6 @@ transfer,youtube-dl,,https://github.com/ytdl-org/youtube-dl,Downloads videos fro
 chat,finch,http://www.pidgin.im/,,"IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project."
 chat,irssi,http://www.irssi.org,https://github.com/irssi/irssi,"The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols."
 chat,RainbowStream,http://www.rainbowstream.org/,,Twitter client for the terminal allows almost all the operations that can be done from GUI and Web clients.
-chat,WeeChat,http://weechat.org/,https://github.com/weechat/weechat,"WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins."
 chat,ssh-chat,,https://github.com/shazow/ssh-chat,"Custom SSH server written in Go. Instead of a shell, you get a chat prompt."
 organizers,goobook,,https://gitlab.com/goobook/goobook,The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt. It can be used from Mutt the same way as abook.
 programming,dasht,http://sunaku.github.io/dasht/man/man0/README.html,https://github.com/sunaku/dasht,"Search in 200+ offline documentation sets API docs offline, in your terminal or browser."
@@ -551,7 +550,6 @@ browser,Romulus,,https://github.com/LukeEmmet/Romulus,"A cross-platform Gemini c
 email,pymailgen,,https://github.com/toolleeo/pymailgen,"Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client."
 science,FAWOC,,https://github.com/robolab-pavia/fawoc,FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
 science,slr-kit,,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
-editors,Helix,,https://github.com/helix-editor/helix,"A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune."
 editors,o,,https://github.com/xyproto/orbiton,"Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming."
 games,Pokete,,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.
 git,czg,,https://github.com/Zhengqbbb/cz-git,Interactively generate standardized commit messages.
@@ -955,7 +953,7 @@ file-dir-cleanup,Framed,,https://github.com/mactat/framed,A CLI tool that simpli
 find,Findpick,,https://github.com/thingsiplay/findpick,"General purpose file picker combining ""find"" command with a fuzzy finder."
 ls,pretty-ls,,https://github.com/ix/pretty-ls,Rust ls clone with pretty colors.
 launcher,Marker,,https://github.com/pindexis/marker,The terminal command palette.
-cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,"Like IntelliSense, but for shells, acting like a bookmark store for commands."
+cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,"Command template and snippet manager for the shell. Like IntelliSense, but for shells, acting like a bookmark store for commands."
 package-manager,aptitude,,https://salsa.debian.org/apt-team/aptitude,"A TUI front-end to APT, the Debian package manager."
 package-manager,JAPM,,https://github.com/TheAlexDev23/japm,A package manager that uses curses to provide a friendly UI
 file-handling,Snoop,,https://github.com/Mandrew0822/Snoop,A command-line utility for Linux that provides information about files in a directory.
@@ -1438,7 +1436,7 @@ networking,TReq,,https://github.com/talis-fb/TReq,A CLI tool for effortless HTTP
 git,gacp,,https://github.com/anhsirk0/gacp,"git add, commit and push in one go."
 science,periodic-table-cli-py,,https://github.com/spirometaxas/periodic-table-cli-py,An interactive Periodic Table of Elements app for the console.
 ai,gemini-cli,,https://github.com/reugn/gemini-cli,A command-line interface (CLI) for Google Gemini.
-typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli,Command line game to practice your typing speed.
+typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli,Command line game to practice typing speed by competing against typer-robot or against your best result.
 note-taking,tdo,,https://github.com/2KAbhishek/tdo,Fast and Simple Note Taking.
 utility,glyphs,,https://github.com/maaslalani/glyphs,Unicode symbols on the command line.
 file-dir-cleanup,smash,,https://github.com/thushan/smash,Smash through to find duplicate files super fast by slicing files intelligently.
@@ -1959,7 +1957,7 @@ devops,podman-tui,,https://github.com/containers/podman-tui,TUI for Podman envir
 devops,sen,,https://github.com/TomasTomecek/sen,"TUI for containers (manages interactively and inspects containers, dashboard view for containers and images, searching and filtering, real-time updates, tree view of all images)."
 editors,Amp,,https://github.com/jmacdonald/amp,A complete text editor for your terminal.
 editors,C-EDIT,,https://github.com/velorek1/c-edit,A text editor in C with drop down menus in the style of MS-DOS Editor.
-editors,Helix,https://helix-editor.com/,https://github.com/helix-editor/helix,"A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features."
+editors,Helix,https://helix-editor.com/,https://github.com/helix-editor/helix,"A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune. It ships multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features."
 editors,maki,https://sr.ht/~bscit/maki/,,A simple text editor with file navigation and an emphasis on preserving battery life.
 networking,Thymus,,https://github.com/blademd/thymus,An interactive browser & editor for network configuration files.
 editors,Turbo,,https://github.com/magiblot/turbo,"An experimental text editor for the terminal, based on Scintilla and Turbo Vision."
@@ -2014,7 +2012,7 @@ chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for th
 games,tinytetris,,https://github.com/taylorconor/tinytetris,80x23 terminal tetris game.
 chat,tgt,,https://github.com/FedericoBruzzone/tgt,A TUI for Telegram written in Rust.
 chat,tuisky,,https://github.com/sugyan/tuisky,TUI client for Bluesky.
-chat,WeeChat,https://weechat.org/,https://github.com/weechat/weechat,"Fast and light chat client, customizable and extensible with scripts."
+chat,WeeChat,https://weechat.org/,https://github.com/weechat/weechat,"WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins."
 chat,Zulip Terminal,,https://github.com/zulip/zulip-terminal,Official Zulip terminal client with TUI.
 time-tracker,arttime,,https://github.com/reportaman/arttime,A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
 graphics,asciiMOL,,https://github.com/dewberryants/asciiMol,Curses based ASCII molecule viewer for terminals.
@@ -2032,7 +2030,6 @@ programming,PesterExplorer,,https://github.com/HeyItsGilbert/PesterExplorer,A TU
 online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin."
 devops,PUG,,https://github.com/leg100/pug,"TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files)."
 science,Physics TUI,,https://github.com/ClaudioRMalvino/physics_TUI,"TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter."
-rm,RecoverPy,,https://github.com/PabloLec/recoverpy,A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
 graphics,Favicon Editor,,https://github.com/xyproto/favicon-editor,Minimalist grayscale favicon editor for the terminal.
 online,sftui,,https://github.com/AdamWHY2K/steam_friends_list_tui,"Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen)."
 science,terminalperiodictable,,https://github.com/velorek1/terminalperiodictable,Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
@@ -2169,7 +2166,6 @@ programming,Bump-Setup,,https://github.com/talwrii/bump-setup,Command-line utili
 git,gits-statuses,,https://github.com/nicolgit/gits-statuses,"A python/powershell command-line tool to display the status of multiple Git repositories in a clear, tabular format."
 utility,gtime,,https://github.com/savitojs/gtime,"Python CLI utility for global time zone lookup, comparison, and management; The program supports fuzzy search, favorites, city comparison, meeting time conversion, and a live/watch mode."
 webdev,domain-check,,https://github.com/saidutt46/domain-check,Universal domain exploration engine: fast domain availability checks across the internet.
-typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli/,Command line game to practice typing speed by competing against typer-robot or against your best result.
 financial,stocksTUI,,https://github.com/andriy-git/stocksTUI,StocksTUI: Real-time stock market data in your terminal.
 games,Terminal Ping Pong,,https://github.com/IshmamR/terminal.pong,A ping pong game in your terminal (play against AI opponent or a friend locally).
 cheatsheet,Subshella,,https://github.com/danpizz/subshella,"The program helps you manage groups of Bash environment variables with an interactive menu, making it quick to activate different configurations."
@@ -2196,7 +2192,6 @@ games,NCurses Pacman,,https://github.com/woodrowb96/ncurses-pacman,Terminal-base
 funny,ting,,https://github.com/dhth/ting,The program provides audio feedback on the command line.
 editors,Erys,,https://github.com/natibek/erys,Terminal Interface for Jupyter Notebooks.
 online,flashback,,https://github.com/cachebag/flashback,Find old YouTube content that the algorithm hides by searching videos from specific years.
-online,YouTube TUI,,https://github.com/Siriusmart/youtube-tui/tree/master,An aesthetically pleasing YouTube TUI written in Rust.
 programming,PAR MCP Inspector TUI,,https://github.com/paulrobello/par-mcp-inspector-tui,TUI to inspect and test MCP (model context protocol) servers.
 chat,ZUSE,,https://github.com/babycommando/zuse,Minimal IRC client for the terminal written in Go with Bubbletea.
 transfer,Filebin cli,,https://github.com/mshirazkamran/filebin-api,CLI tool to share files temporarily from the terminal (share short code to download on the other machine).
@@ -2206,7 +2201,6 @@ utility,loopctl,,https://github.com/Karvy-Singh/loopctl,The program allows you t
 ai-cli-commands,Ollamacode CLI,,https://github.com/tooyipjee/ollamacode,The program creates a Python script from natural language and execute it automatically.
 git,gh-repo-man,,https://github.com/2KAbhishek/gh-repo-man,"GitHub CLI extension that allows developers to browse, clone and work with multiple repositories interactively."
 music,Podcli,,https://github.com/Air08/Podcli,"Terminal Based Podcast Client with search, subscription management, and playback features."
-cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,Command template and snippet manager for the shell.
 git,GiTerm,,https://github.com/isene/GiTerm,"Git and GitHub TUI application (browse repositories, manage issues and pull requests and perform Git operations from the terminal)."
 funny,Splash,,https://github.com/joshi4/splash,Program that adds color to your logs to make them easier to read.
 backup,qbak,,https://github.com/andreas-glaser/qbak,A single-command backup helper for Linux and POSIX systems written in Rust; The program creates timestamped backup copies of files and directories with zero configuration.
