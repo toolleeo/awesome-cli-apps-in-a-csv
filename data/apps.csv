@@ -92,14 +92,14 @@ markdown,glow,,https://github.com/charmbracelet/glow,"TUI that renders Markdown 
 markdown,Terminal Markdown Viewer,,https://github.com/axiros/terminal_markdown_viewer,Python based Markdown viewer with themes source code highlighting and a directory change monitor.
 viewers,mplayer,http://www.mplayerhq.hu/design7/news.html,,"One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization."
 viewers,mpv,https://mpv.io/,https://github.com/mpv-player/mpv,"A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources."
-music,ncmpcpp,https://rybczak.net/ncmpcpp/,https://github.com/ncmpcpp/ncmpcpp,"NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory."
+audio-player,ncmpcpp,https://rybczak.net/ncmpcpp/,https://github.com/ncmpcpp/ncmpcpp,"NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory."
 music,espeak,http://espeak.sourceforge.net/,https://sourceforge.net/p/espeak/code/HEAD/tree,A compact open source software speech synthesizer for English and other languages.
 music,Alsamixer,http://www.alsa-project.org/main/index.php/Main_Page,https://github.com/alsa-project/alsa-utils,ALSA mixer with curses interfaces.
-music,cmus,https://cmus.github.io/,https://github.com/cmus/cmus,A fast and lightweight audio player with configurable keybindings and playlist support.
-music,MOC,https://moc.daper.net/,,"(music on console) - a powerful and easy to use console audio player, user interface a la Midnight Commander, plenty of features, fully controllable from the keyboard."
-music,mpg123,http://mpg123.org/,https://sourceforge.net/projects/mpg123,"Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files."
+audio-player,cmus,https://cmus.github.io/,https://github.com/cmus/cmus,A fast and lightweight audio player with configurable keybindings and playlist support.
+audio-player,MOC,https://moc.daper.net/,,"(music on console) - a powerful and easy to use console audio player, user interface a la Midnight Commander, plenty of features, fully controllable from the keyboard."
+audio-player,mpg123,http://mpg123.org/,https://sourceforge.net/projects/mpg123,"Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files."
 music,mps-youtube,,https://github.com/mps-youtube/yewtube,"A curses player for music tracks from YouTube; it allows searching for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters."
-music,ogg123,https://www.xiph.org/downloads/,https://gitlab.xiph.org/xiph/ogg.git,"Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format."
+audio-player,ogg123,https://www.xiph.org/downloads/,https://gitlab.xiph.org/xiph/ogg.git,"Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format."
 graphics,ImageMagick,http://www.imagemagick.org/script/index.php,https://github.com/ImageMagick/ImageMagick,"Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to ""resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves""."
 graphics,scrot,,https://github.com/dreamer/scrot,SCReenshot - simple screenshot tool. Main features: window and retangular area capturing export to PNG JPG GIF and others.
 git,git,https://git-scm.com/,https://github.com/git/git,"The winner across all the existing file versioning tools, distributed versioning, fully controllable from the command-line, plenty of configuration and usage options, behind a number of related project that leverage git as backend."
@@ -242,7 +242,7 @@ text-search,ripgrep,,https://github.com/BurntSushi/ripgrep,Recursively searches 
 option-picker,pmenu,,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.
 editors,eon,,https://github.com/tomas/eon,"A light, modern editor for your terminal that doesn't want to be vim."
 data-management,datadash,,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.
-music,Mp3blaster,http://www.mp3blaster.org/?m=1,https://sourceforge.net/projects/mp3blaster,Audio player for the text console.
+audio-player,Mp3blaster,http://www.mp3blaster.org/?m=1,https://sourceforge.net/projects/mp3blaster,Audio player for the text console.
 data-management-json,jqview,,https://github.com/fiatjaf/jqview,Simplest possible native GUI for inspecting JSON.
 transfer,ytmdl,,https://github.com/deepjyoti30/ytmdl,Get songs from YouTube in mp3 format.
 animation,sha256-animation,,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.
@@ -481,7 +481,7 @@ history,atuin,,https://github.com/ellie/atuin,"Atuin replaces your existing shel
 graphics,Artem,,https://github.com/FineFindus/artem,"Convert images from multiple formats (JPG, PNG, WEBP, etc.) to ASCII art, written in Rust."
 typing,thokr,,https://github.com/jrnxf/thokr,Sleek typing TUI with visualized results and historical logging.
 online,socialscan,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
-music,termusic,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
+audio-player,termusic,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
 financial,cointop,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 music,pulsemixer,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
 cd,fastdiract,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.
@@ -511,7 +511,7 @@ music,Instant Music Downloader,,https://github.com/yask123/Instant-Music-Downloa
 music,Spotify TUI,,https://github.com/Rigellute/spotify-tui,A Spotify client for the terminal written in Rust.
 music,dzr,,https://github.com/yne/dzr,"Command Line deezer.com Player for Linux, BSD, Android, Windows."
 music,beets,,https://github.com/beetbox/beets,"Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes."
-music,musikcube,,https://github.com/clangen/musikcube,"A cross-platform, terminal-based audio engine, library, player and server written in C++."
+audio-player,musikcube,,https://github.com/clangen/musikcube,"A cross-platform, terminal-based audio engine, library, player and server written in C++."
 video,Editly,,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and FFmpeg.
 video,ffmpeg,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.
 shells,xonsh,https://xon.sh/,https://github.com/xonsh/xonsh,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
@@ -581,7 +581,7 @@ programming,scc,,https://github.com/boyter/scc,"Sloc Cloc and Code (scc) is a co
 programming,Cppcheck,http://cppcheck.net/,https://github.com/danmar/cppcheck,Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behavior and dangerous coding constructs.
 programming,Frama-C,https://frama-c.com/,https://git.frama-c.com/pub/frama-c,Open source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
 games,terdle,,https://github.com/neelkarma/terdle,Wordle implemented in Rust.
-music,MusicPlayerPlus,,https://github.com/doctorfree/MusicPlayerPlus,"Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more."
+audio-player,MusicPlayerPlus,,https://github.com/doctorfree/MusicPlayerPlus,"Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more."
 funny,Limoji,,https://github.com/GEROGIANNIS/Limoji,Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
 games,Minesweeper Game,,https://github.com/omerkarabacak/minesweeper,A small command line Minesweeper Game.
 editors,Tilde,https://os.ghalkes.nl/tilde/,https://github.com/gphalkes/tilde,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc."
@@ -941,13 +941,13 @@ games,Wordle Solver,,https://gitlab.com/christosangel/wordle-solver,A bash scrip
 utility,pangran,,https://github.com/BimoT/pangran,A simple TUI program that checks if you've typed a pangram.
 utility,Polykill,,https://github.com/Bdeering1/polykill,Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
 flashcard,ToRRential Card processor,,https://github.com/Constantin1489/trrc,A command-line program to add a card to Anki using AnkiConnect API.
-music,cue,,https://github.com/ravachol/cue,A command-line music player.
+audio-player,cue,,https://github.com/ravachol/cue,A command-line music player.
 git,Git Commit Vanity Hash Solver,,https://github.com/trichner/gitc0ffee,"Neat tool to find a 'vanity' hash for a given git commit. Make all your commits hashes start with the prefix c0ffee, cafe, badc0de5 or whatever makes you happy!"
 games,blackjack,,https://github.com/acidvegas/blackjack,IRC bot to play blackjack.
 music,mzk,,https://github.com/acidvegas/mzk,Music theory helper.
 video,CreateVideoMeme,,https://github.com/hache0099/CreateMemeVideo,Bash tool to add captions to the top of videos.
 text-search,hypergrep,,https://github.com/p-ranav/hypergrep,Recursively search directories for a regex pattern using Intel Hypescan.
-music,maestro-cli,,https://github.com/PrajwalVandana/maestro-cli,"A command-line tool to play songs (or any audio, really) in the terminal."
+audio-player,maestro-cli,,https://github.com/PrajwalVandana/maestro-cli,"A command-line tool to play songs (or any audio, really) in the terminal."
 online,Shreddit,,https://github.com/x89/Shreddit,Remove your comment history on Reddit as deleting an account does not do so.
 online,magic-tape,,https://gitlab.com/christosangel/magic-tape,Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
 file-explorer,browsr,,https://github.com/juftin/browsr,"A pleasant file explorer that can browse the contents of local and remote filesystems with your keyboard or mouse; remotes include GitHub, over SSH, in AWS S3, Google Cloud Storage, or Azure Blob Storage."
@@ -1041,7 +1041,7 @@ data-management-tabular,litecli,,https://github.com/dbcli/litecli,CLI for SQLite
 package-manager,getghrel,,https://github.com/kavishgr/getghrel,"A user-friendly command-line tool that fetches and installs the latest release assets from GitHub for macOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience."
 find,bfs,,https://github.com/tavianator/bfs,A breadth-first version of the UNIX find command.
 chat,Servitor,,https://github.com/bentonedmondson/servitor,A command-line Fediverse client that doesn’t require a server.
-music,mfp,,https://github.com/guptarohit/mfp,"A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state."
+audio-player,mfp,,https://github.com/guptarohit/mfp,"A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state."
 system,Rumos,,https://github.com/octagony/rumos,CLI utility for controlling screen brightness.
 utility,sprinkles,,https://github.com/KhalilOuali/sprinkles,Randomly colors input text and outputs it to the terminal.
 git,git absorb,,https://github.com/tummychow/git-absorb,"git commit --fixup, but automatic."
@@ -1132,7 +1132,7 @@ connection-manager,SSM,,https://github.com/elliot40404/ssm,A simple SSH manager.
 todo-manager,memo,https://www.byteptr.com/memo/,https://github.com/nrosvall/memo,Memo is a Unix-style note-taking software for POSIX compatible systems.
 crypto,SOPS,,https://github.com/getsops/sops,"SOPS (Secrets OPerationS) is a simple and flexible tool for managing secrets, sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats, encrypting the values but not the keys."
 networking,sshuttle,,https://github.com/sshuttle/sshuttle,Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and macOS. Supports DNS tunneling.
-music,Gomu,,https://github.com/issadarkthing/gomu,"Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively."
+audio-player,Gomu,,https://github.com/issadarkthing/gomu,"Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively."
 ls,eza,,https://github.com/eza-community/eza,"eza is a modern, _maintained_ replacement for `ls`, built on `exa`."
 music,line,,https://github.com/pd3v/line,Tiny command-line midi sequencer and language for live coding.
 git,git-fuzzy,,https://github.com/bigH/git-fuzzy,Interactive `git` with the help of `fzf`.
@@ -1269,7 +1269,7 @@ music,fme,,https://github.com/andreykaere/fme,Flexible metadata editor that allo
 crypto,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
 networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line frontend for Tunnelblick.
 networking,sshx,,https://github.com/ekzhang/sshx,"Fast, collaborative live terminal sharing over the web."
-music,kew,,https://github.com/ravachol/kew,A command-line music player with gapless playback and simple playlist management.
+audio-player,kew,,https://github.com/ravachol/kew,A command-line music player with gapless playback and simple playlist management.
 utility,config-file-validator,,https://github.com/Boeing/config-file-validator,Cross Platform tool to validate configuration files.
 networking,recon,,https://github.com/jreisinger/recon,Gather public info about network hosts.
 git,git-heatgrid,,https://github.com/denshakhov/git-heatgrid,Visualize git commits as a calendar heatmap.
@@ -1508,9 +1508,9 @@ networking,packemon,,https://github.com/ddddddO/packemon,TUI tool and Go library
 typing,neotype,,https://github.com/tteeoo/neotype,A terminal-based typing game powered by classic ANSI escape codes.
 typing,Typon,,https://github.com/ihsuy/Typon,A multi-featured typing practice tool which can turn any text file into a typing game.
 cheatsheet,cheatshh,,https://github.com/AnirudhG07/cheatshh,A fzf based cheatsheet to store commands and their descriptions in a place you can look into so you dont have to remember them.
-music,lowfi,,https://github.com/remvze/lowfi,"A music player through your terminal, with the option to open YouTube in the browser."
+audio-player,lowfi,,https://github.com/remvze/lowfi,"A music player through your terminal, with the option to open YouTube in the browser."
 todo-manager,todoclist,,https://github.com/RuslanGagushin/todoclist,Simple CLI app for check your tasks from todoist.
-music,jammer,,https://github.com/jooapa/jammer,"Multiplatform light-weight TUI music player with Soundcloud & Youtube support, with effects."
+audio-player,jammer,,https://github.com/jooapa/jammer,"Multiplatform light-weight TUI music player with Soundcloud & Youtube support, with effects."
 security,flawz,,https://github.com/orhun/flawz,A Terminal UI for browsing security vulnerabilities (CVEs).
 email,paws,,https://github.com/tomhrr/paws,sendmail/maildir interface to Slack.
 time-tracker,pom,,https://github.com/maaslalani/pom,Pomodoro timer for the terminal.
@@ -1629,7 +1629,7 @@ vm,oxker,,https://github.com/mrjackwills/oxker,A simple TUI to view & control do
 webdev,maelstrom,,https://github.com/twentyone24/maelstrom,"stress-test your API reliability on concurrent threads, with latency metrics."
 programming,Flox,,https://github.com/flox/flox,Developer environments you can take with you.
 security,sandsifter,,https://github.com/xoreaxeaxeax/sandsifter,The x86 processor fuzzer.
-music,amused,https://projects.omarpolo.com/amused.html,https://github.com/omar-polo/amused,"Minimal music player that composes well, or aims to do so, with other tools thought."
+audio-player,amused,https://projects.omarpolo.com/amused.html,https://github.com/omar-polo/amused,"Minimal music player that composes well, or aims to do so, with other tools thought."
 note-taking,note,,https://github.com/bdazl/note,Minimalistic note taking.
 games,T-RexC,,https://github.com/StiveMan1/T-RexC,Simple Console Google T-Rex Game.
 online,par_scrape,,https://github.com/paulrobello/par_scrape,"PAR Scrape is a versatile web scraping tool with options for Selenium or Playwright, featuring AI-powered data extraction and formatting."
@@ -1658,7 +1658,7 @@ graphics,astroterm,,https://github.com/da-luce/astroterm,"A planetarium for your
 office,ggl,,https://github.com/taraqfarhan/ggl,"Search the web (google, youtube, gmail, wiki, github, stackoverflow), prompt to send emails, prompt chatGPT, Gemini right from the terminal (command line)."
 git,mamediff,,https://github.com/sile/mamediff,A TUI editor for managing unstaged and staged Git diffs.
 programming,dotenvhub,,https://github.com/Zaloog/dotenvhub,Terminal App to centrally manage .env files. Written in Python powered by Textual.
-music,kmp3,,https://github.com/korei999/kmp3,Little music player with some peculiar characteristics.
+audio-player,kmp3,,https://github.com/korei999/kmp3,Little music player with some peculiar characteristics.
 text-processing,modo,,https://github.com/elliot40404/modo,A cross platform cli app to interact with markdown style checkboxes within any text file.
 ai,kwaak,,https://github.com/bosun-ai/kwaak,Run a team of autonomous AI agents on your code.
 financial,ecb-rates,,https://github.com/lov3b/ecb-rates,Fetch exchage rates from the European Central Bank.
@@ -1882,7 +1882,7 @@ viewers,vv,,https://github.com/wolfpld/vv,"A terminal image viewer, supporting a
 music,upiano,,https://github.com/eliasdorneles/upiano,A Piano in your terminal (TUI).
 graphics,textual-paint,,https://github.com/1j01/textual-paint,MS Paint in your terminal (TUI).
 music,spotui,,https://github.com/ceuk/spotui,TUI Spotify client written in Python.
-music,rmpc,,https://mierak.github.io/rmpc/,A configurable TUI MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
+audio-player,rmpc,,https://mierak.github.io/rmpc/,A configurable TUI MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 monitor,chdig,,https://github.com/azat/chdig,Dig into ClickHouse with TUI interface.
 system,damon,,https://github.com/hashicorp/damon,"TUI interface for Hashicorp Nomad, it provides functionality to observe and interact with Nomad resources such as Jobs, Deployments, or Allocations."
 security,fubar,,https://github.com/irishmaestro/fubar,"Formidable Unix Binary Arsenal and Repository. TUI built for offline payload generation, retrieval, and exfiltration."
@@ -2027,7 +2027,6 @@ graphics,GiF for CLI,,https://github.com/google/gif-for-cli,"Convert a GIF, shor
 font,Iconic Fonts,,https://github.com/iconicFonts/iconic-fonts,"A collection of over 50 patched fonts featuring over 60,000 icons, tailored specifically for TUIs."
 time-tracker,isw,https://gitlab.com/thom-cameron/isw,,A simple terminal stopwatch application for pomodoro etc.
 networking,MQTT TUI,,https://github.com/EdJoPaTo/mqttui,MQTT Client written in rust (Subscribe to a MQTT topic or publish something quickly).
-music,MOC,https://moc.daper.net/download,,Console audio player for LINUX/UNIX.
 connection-manager,NetworkManager,https://developer.gnome.org/NetworkManager/stable/nmtui.html,,"Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices)."
 programming,PesterExplorer,,https://github.com/HeyItsGilbert/PesterExplorer,A TUI to explore Pester results (prints tests results as they're running).
 online,pola,,https://github.com/Sethispr/pola,"A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin."
@@ -2116,7 +2115,7 @@ ai,Ferrules,,https://github.com/aminediro/ferrules,"Modern, fast, document parse
 games,Bashtaker,,https://github.com/EC2854/bashtaker,Demake of Helltaker (videogame) written in bash.
 connection-manager,SSHop,,https://github.com/Skullsneeze/sshop,An SSH connection helper that let's you hop to a server with ease.
 data-management-json,Frontmatter CLI Tool,,https://github.com/marad/frontmatter,CLI tool for managing YAML frontmatter in text files; Built with Go and optimized for performance with large files.
-music,Mplay,,https://github.com/unpythonic-coder/mplay,"Full featured music player for the command line, inspired by cplay."
+audio-player,Mplay,,https://github.com/unpythonic-coder/mplay,"Full featured music player for the command line, inspired by cplay."
 games,CTetris++,,https://github.com/Jejis06/CTetris/tree/master,Feature-rich Tetris game written in C++ that runs in terminal with customizable visual styles and smooth gameplay.
 monitor,Bashmark,,https://github.com/Samrat079/Bashmark,Terminal based benchmarking utility for testing CPU and GPU performance.
 git,AI Git Narrator,,https://github.com/pmusolino/AI-Git-Narrator,Command-line tool for generating Git commit messages and PR descriptions with AI based on Git diffs and commits. Supports staged/unstaged changes and customizable AI parameters.
