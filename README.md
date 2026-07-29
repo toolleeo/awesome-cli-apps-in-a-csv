@@ -10,8 +10,8 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2231**
-* Categories: **86**
+* Apps/tools: **2230**
+* Categories: **87**
 
 # Contents
 
@@ -94,13 +94,14 @@ Summary:
 ## [Media and Creative](#media-and-creative-1)
 * [Graphics](#graphics) (54)
 * [Video](#video) (16)
-* [Sound and music](#music) (74)
+* [Sound and music](#music) (53)
+* [Music players](#audio-player) (20)
 * [Animation](#animation) (44)
 * [Viewers](#viewers) (49)
 * [Screen savers](#screensaver) (7)
 * [Screen recorder](#screen-recorder) (12)
 ## [Security and Package Management](#security-and-package-management-1)
-* [Encryption, decryption and steganography](#crypto) (17)
+* [Ciphering and steganography](#crypto) (17)
 * [Security](#security) (25)
 * [Password managers](#password-manager) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
@@ -2218,10 +2219,9 @@ Programs to process and manage video files (downloader, editing, players, etc.).
 
 ## <a name="music"></a>Sound and music
 
-Music players, podcast, synthesizers, downloaders, online radios.
+Podcast, synthesizers, downloaders, online radios.
 
 * [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.
-* [amused](https://projects.omarpolo.com/amused.html) - Minimal music player that composes well, or aims to do so, with other tools thought.
 * [asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback TUI written in Rust.
 * [Aurras](https://github.com/vedant-asati03/Aurras) - Enhances your music experience with an intuitive TUI and seamless Spotify integration, easily navigate your music library, access playlists, and get recommendations based on your listening habits.
 * [BadaBoomBooks](https://github.com/WirlyWirly/BadaBoomBooks) - Quickly organize audiobooks using a terminal and web-browser.
@@ -2229,45 +2229,27 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes.
 * [castero](https://github.com/xgi/castero) - A TUI podcast client for the terminal.
 * [cli-viz](https://github.com/sam1am/cli-viz) - An audio visualizer that runs in the linux terminal and reacts to the microphone.
-* [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.
 * [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
-* [cue](https://github.com/ravachol/cue) - A command-line music player.
 * [Detify](https://github.com/omenmn/detify) - CLI tool that automatically downloads your currently playing Spotify track using spotdl, with both manual and auto-download modes.
 * [discodos](https://github.com/JOJ0/discodos) - A CLI tool for DJ's and record collectors based on the discogs.com collection feature that allows analyzing and organize DJ sets.
 * [dzr](https://github.com/yne/dzr) - Command Line deezer.com Player for Linux, BSD, Android, Windows.
 * [espeak](http://espeak.sourceforge.net/) - A compact open source software speech synthesizer for English and other languages.
 * [fme](https://github.com/andreykaere/fme) - Flexible metadata editor that allows editing the metadata of music files.
 * [gadacz](https://github.com/rareitems/gadacz) - Audiobook player (and other audio files) TUI.
-* [Gomu](https://github.com/issadarkthing/gomu) - Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively.
 * [Instant Music Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instantly download any song!
-* [jammer](https://github.com/jooapa/jammer) - Multiplatform light-weight TUI music player with Soundcloud & Youtube support, with effects.
 * [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
-* [kew](https://github.com/ravachol/kew) - A command-line music player with gapless playback and simple playlist management.
-* [kmp3](https://github.com/korei999/kmp3) - Little music player with some peculiar characteristics.
 * [kord](https://github.com/synestematic/kord) - A Python framework that provides programmers with a simple API for the creation of music-based applications.
 * [line](https://github.com/pd3v/line) - Tiny command-line midi sequencer and language for live coding.
 * [lltag](http://bgoglin.free.fr/lltag/) - Bulk edit MP3 tags.
-* [lowfi](https://github.com/remvze/lowfi) - A music player through your terminal, with the option to open YouTube in the browser.
-* [maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.
-* [mfp](https://github.com/guptarohit/mfp) - A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state.
-* [MOC](https://moc.daper.net/) - (music on console) - a powerful and easy to use console audio player, user interface a la Midnight Commander, plenty of features, fully controllable from the keyboard.
-* [MOC](https://moc.daper.net/download) - Console audio player for LINUX/UNIX.
-* [Mp3blaster](http://www.mp3blaster.org/?m=1) - Audio player for the text console.
-* [mpg123](http://mpg123.org/) - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files.
-* [Mplay](https://github.com/unpythonic-coder/mplay) - Full featured music player for the command line, inspired by cplay.
 * [mps-youtube](https://github.com/mps-youtube/yewtube) - A curses player for music tracks from YouTube; it allows searching for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters.
 * [mpvc](https://github.com/gmt4/mpvc) - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
 * [muCLIar](https://github.com/aayush1205/muCLIar) - YouTube automator bringing you your music right on your CLI.
 * [mufetch](https://github.com/ashish0kumar/mufetch) - CLI for music display (album covers and artist information) with comprehensive metadata, clickable links, responsive sizing and cross-platform support.
 * [music](https://github.com/kitesi/music) - Command line tool to help with music related tasks, such as querying songs, lastfm scrobbling, lastfm suggestions, spotify - local playlist sync.
-* [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more.
 * [musicScraper](https://github.com/mBaratta96/musicScraper) - CLI tool for scraping information from musical websites (Rateyourmusic, Metal Archives), with nice album ASCII art.
-* [musikcube](https://github.com/clangen/musikcube) - A cross-platform, terminal-based audio engine, library, player and server written in C++.
 * [mzk](https://github.com/acidvegas/mzk) - Music theory helper.
 * [nap](https://nap.sourceforge.net/) - Linux napster client.
-* [ncmpcpp](https://rybczak.net/ncmpcpp/) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
 * [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-* [ogg123](https://www.xiph.org/downloads/) - Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format.
 * [opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (UNIX fork) is a music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene.
 * [podbit](https://github.com/ejv2/podbit) - Podbit is a replacement for newsboat's standard podboat tool for listening to podcasts. It is minimal, performant and tries to focus just on being a podcast client, rather than an RSS reader.
 * [podboat](https://newsboat.org/) - A podcast download manager for text terminals, a companion for the newsboat RSS-reader.
@@ -2278,7 +2260,6 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 * [radio-beats](https://github.com/quangnguyen30192/radio-beats) - Rofi-like menu for playing radio stations.
 * [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) - Go-powered CLI to surf global radio waves with TUI.
-* [rmpc](https://mierak.github.io/rmpc/) - A configurable TUI MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 * [Siren](https://www.kariliq.nl/siren/) - Siren is a text-based audio player for UNIX-like operating systems.
 * [sonicradio](https://github.com/dancnb/sonicradio) - A TUI radio player making use of Radio Browser API and Bubbletea.
 * [soundcloud2000](https://github.com/grobie/soundcloud2000) - A terminal client for soundcloud.
@@ -2288,12 +2269,36 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [sptui](https://github.com/szktkfm/sptui) - Spotify TUI player, written in Go.
 * [spytorec](https://github.com/Danidukiyu/SpytoRec) - Real-time Spotify recorder with automatic track splitting, metadata tagging, and high-quality FLAC/OGG output.
 * [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
-* [termusic](https://github.com/tramhao/termusic) - Terminal Music Player written in Rust.
 * [Tizonia](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 * [Toutui](https://github.com/AlbanDAVID/Toutui) - A TUI Audiobookshelf Client for Linux and macOS (supports audiobooks and podcasts, play directly without downloading).
 * [upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal (TUI).
 * [yt-audio](https://github.com/RijulGulati/yt-audio) - A simple, configurable youtube-dl wrapper to download and manage YouTube audio.
 * [ytui-music](https://github.com/sudipghimire533/ytui-music) - YouTube client in terminal for music (lightweight YouTube client).
+
+## <a name="audio-player"></a>Music players
+
+Players for local sound files and music.
+
+* [amused](https://projects.omarpolo.com/amused.html) - Minimal music player that composes well, or aims to do so, with other tools thought.
+* [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.
+* [cue](https://github.com/ravachol/cue) - A command-line music player.
+* [Gomu](https://github.com/issadarkthing/gomu) - Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively.
+* [jammer](https://github.com/jooapa/jammer) - Multiplatform light-weight TUI music player with Soundcloud & Youtube support, with effects.
+* [kew](https://github.com/ravachol/kew) - A command-line music player with gapless playback and simple playlist management.
+* [kmp3](https://github.com/korei999/kmp3) - Little music player with some peculiar characteristics.
+* [lowfi](https://github.com/remvze/lowfi) - A music player through your terminal, with the option to open YouTube in the browser.
+* [maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.
+* [mfp](https://github.com/guptarohit/mfp) - A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state.
+* [MOC](https://moc.daper.net/) - (music on console) - a powerful and easy to use console audio player, user interface a la Midnight Commander, plenty of features, fully controllable from the keyboard.
+* [Mp3blaster](http://www.mp3blaster.org/?m=1) - Audio player for the text console.
+* [mpg123](http://mpg123.org/) - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files.
+* [Mplay](https://github.com/unpythonic-coder/mplay) - Full featured music player for the command line, inspired by cplay.
+* [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more.
+* [musikcube](https://github.com/clangen/musikcube) - A cross-platform, terminal-based audio engine, library, player and server written in C++.
+* [ncmpcpp](https://rybczak.net/ncmpcpp/) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
+* [ogg123](https://www.xiph.org/downloads/) - Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format.
+* [rmpc](https://mierak.github.io/rmpc/) - A configurable TUI MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
+* [termusic](https://github.com/tramhao/termusic) - Terminal Music Player written in Rust.
 
 ## <a name="animation"></a>Animation
 
@@ -2429,7 +2434,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 
 # <a name="Security-and-Package-Management"></a>Security and Package Management
 
-## <a name="crypto"></a>Encryption, decryption and steganography
+## <a name="crypto"></a>Ciphering and steganography
 
 Programs to cipher data, streams and hide secrets in files.
 
