@@ -50,7 +50,7 @@ Summary:
 * [Programming](#programming) (74)
 * [Program templates and boilerplate](#programming-boilerplate) (13)
 * [DevOps](#devops) (22)
-* [Web development](#webdev) (35)
+* [Web development](#webdev) (36)
 * [Co-pilot](#copilot) (12)
 ## [System and Terminal](#system-and-terminal-1)
 * [System tools](#system) (44)
@@ -68,13 +68,13 @@ Summary:
 ## [Communication and Networking](#communication-and-networking-1)
 * [Email](#email) (23)
 * [Chat and instant messaging](#chat) (52)
-* [Networking](#networking) (87)
+* [Networking](#networking) (88)
 * [Connection managers](#connection-manager) (11)
 * [Data transfer](#transfer) (48)
 * [Torrent](#torrent) (10)
 * [RSS](#rss) (12)
 * [Web browser](#browser) (19)
-* [Online search and resources](#online) (43)
+* [Online search and resources](#online) (40)
 ## [Personal Information Management](#personal-information-management-1)
 * [Todo managers](#todo-manager) (44)
 * [Time trackers](#time-tracker) (28)
@@ -93,7 +93,7 @@ Summary:
 ## [Media and Creative](#media-and-creative-1)
 * [Graphics](#graphics) (54)
 * [Video](#video) (16)
-* [Sound and music](#music) (73)
+* [Sound and music](#music) (74)
 * [Animation](#animation) (41)
 * [Viewers](#viewers) (49)
 * [Screen savers](#screensaver) (7)
@@ -103,14 +103,14 @@ Summary:
 * [Security](#security) (25)
 * [Password managers](#password-manager) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
-* [Utilities](#utility) (46)
+* [Utilities](#utility) (45)
 * [Weather](#weather) (6)
 ## [Learning and Leisure](#learning-and-leisure-1)
 * [Learning and didactic tools](#learning) (9)
 * [Anki, decks and flashcards](#flashcard) (10)
 * [Typing test and practice](#typing) (22)
 * [Games](#games) (99)
-* [Funny tools](#funny) (22)
+* [Funny tools](#funny) (23)
 * [Religion](#religion) (6)
 * [Science](#science) (24)
 
@@ -1022,6 +1022,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
 * [maelstrom](https://github.com/twentyone24/maelstrom) - stress-test your API reliability on concurrent threads, with latency metrics.
 * [Metalsmith](http://www.metalsmith.io/) - An extremely simple static site generator, all functionalities are provided by plugins that can be combined and chained, written and extendable in JavaScript.
+* [monolith](https://github.com/Y2Z/monolith) - Tool and library for saving complete web pages as a single HTML file.
 * [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - A lightweight file-system wiki engine that uses Git for keeping history.
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby, extremely powerful and customizable, support many formats to generate HTML content.
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
@@ -1528,6 +1529,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [rtop](http://www.rtop-monitor.org/) - Simple, agent-less, remote server monitoring tool that works over plain SSH. Written in Go, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
 * [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 * [rustnet](https://github.com/domcyrus/rustnet) - Cross-platform network monitoring tool with a TUI displaying real-time information about network connections.
+* [Seashells](https://seashells.io/) - Pipe output to the web.
 * [serve](https://github.com/vercel/serve) - Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
 * [SMBScan](https://github.com/jeffhacks/smbscan) - SMBScan is a tool to enumerate file shares on an internal network.
 * [sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer.
@@ -1694,7 +1696,6 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator.
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 * [Awesome Finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
-* [chuckle-cli](https://github.com/seburbandev/chuckle-cli) - An application that utilises an API in order to print out jokes in your terminal.
 * [dawson](https://github.com/will-moss/dawson) - Track your project's statistics on Hacker News and Github, and get notified on every new interaction.
 * [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (HTML version) from the terminal.
 * [Fjira](https://github.com/mk-5/fjira) - The fuzziest Jira command line tool in the world.
@@ -1708,8 +1709,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [leetfetch](https://github.com/Rage997/leetfetch) - A commandline python tool to fetch and organize all leetcode submissions and problem description locally.
 * [magic-tape](https://gitlab.com/christosangel/magic-tape) - Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
 * [MAL-Cli](https://github.com/L4z3x/mal-cli) - A terminal interface for the official myanimelist api written in Rust and Ratatui.
-* [monolith](https://github.com/Y2Z/monolith) - Tool and library for saving complete web pages as a single HTML file.
-* [mufetch](https://github.com/ashish0kumar/mufetch) - CLI for music display (album covers and artist information) with comprehensive metadata, clickable links, responsive sizing and cross-platform support.
+* [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
 * [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) - The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
 * [Ozeki](https://github.com/fuzzy/ozeki) - Ozeki is a TUI for browsing data from sumo-api and for basho data going back to 1960.
 * [PagerDuty TUI](https://github.com/Mk555/pagerduty-tui) - Minimalistic terminal UI to manage triggered incidents.
@@ -1719,7 +1719,6 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [pure-recipe](https://github.com/atiumcache/pure-recipe) - Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a Markdown file.
 * [Reddittui](https://github.com/tonymajestro/reddit-tui) - Terminal UI for reddit.
 * [RIFT](https://github.com/matthieugusmini/rift) - League of Legends Esports in the terminal.
-* [Seashells](https://seashells.io/) - Pipe output to the web.
 * [sftui](https://github.com/AdamWHY2K/steam_friends_list_tui) - Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen).
 * [Shreddit](https://github.com/x89/Shreddit) - Remove your comment history on Reddit as deleting an account does not do so.
 * [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
@@ -2254,6 +2253,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [mps-youtube](https://github.com/mps-youtube/yewtube) - A curses player for music tracks from YouTube; it allows searching for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters.
 * [mpvc](https://github.com/gmt4/mpvc) - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
 * [muCLIar](https://github.com/aayush1205/muCLIar) - YouTube automator bringing you your music right on your CLI.
+* [mufetch](https://github.com/ashish0kumar/mufetch) - CLI for music display (album covers and artist information) with comprehensive metadata, clickable links, responsive sizing and cross-platform support.
 * [music](https://github.com/kitesi/music) - Command line tool to help with music related tasks, such as querying songs, lastfm scrobbling, lastfm suggestions, spotify - local playlist sync.
 * [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more.
 * [musicScraper](https://github.com/mBaratta96/musicScraper) - CLI tool for scraping information from musical websites (Rateyourmusic, Metal Archives), with nice album ASCII art.
@@ -2530,7 +2530,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [loopctl](https://github.com/Karvy-Singh/loopctl) - The program allows you to repeat a media/section of media x number of times and to repeat a certain part of media.
 * [mkdesk](https://gitlab.com/mr-draxs/mkdesk) - A program/command to create .desktop files (program launchers) using the terminal.
 * [movie](https://github.com/mayankchd/movie) - A CLI for getting information about a movie and comparing two movies.
-* [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
 * [oji](https://github.com/xxczaki/oji) - Interactive text emoji creator.
 * [pangran](https://github.com/BimoT/pangran) - A simple TUI program that checks if you've typed a pangram.
 * [play](https://github.com/paololazzari/play) - TUI playground for your favorite programs, such as grep, sed and awk.
@@ -2737,6 +2736,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 * [boxes](https://github.com/ascii-boxes/boxes) - Boxes is a command line filter program which draws ASCII art boxes around your input text.
 * [bucklespring](https://github.com/zevv/bucklespring) - Emulates the sound of the old IBM Model-M space saver bucklespring keyboard while typing.
 * [chadsay](https://github.com/agvxov/chadsay) - Like cowsay, but pronounced by GigaChad.
+* [chuckle-cli](https://github.com/seburbandev/chuckle-cli) - An application that utilises an API in order to print out jokes in your terminal.
 * [clouddrift](https://github.com/thrly/clouddrift) - Soft clouds drifting across your terminal.
 * [cowsay](https://en.wikipedia.org/wiki/Cowsay) - Generate an ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).
 * [cowthink](https://en.wikipedia.org/wiki/Cowsay) - Same as `cowsay`, but uses a "think" bubble instead of a speech bubble.
