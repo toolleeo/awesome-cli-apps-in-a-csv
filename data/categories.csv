@@ -60,9 +60,10 @@ religion,Religion,"Tools to handle religious material, e.g. reading the Holy Bib
 rss,RSS,"RSS feed visualizers, converters, and managers"
 science,Science,"Packages for scientific research and science applications, e.g., bibliography and publication management"
 security,Security,Encrypted file-systems and cyber-security tools
-crypto,"Encryption, decryption and steganography","Programs to cipher data, streams and hide secrets in files"
+crypto,Ciphering and steganography,"Programs to cipher data, streams and hide secrets in files"
 shells,Shells,Shell programs that enable the interaction through the terminal
-music,Sound and music,"Music players, podcast, synthesizers, downloaders, online radios"
+music,Sound and music,"Podcast, synthesizers, downloaders, online radios"
+audio-player,Music players,Players for local sound files and music
 monitor,System monitoring,"Applications to display the usage of system resources: network, memory, power, etc."
 monitor-top,Process viewers and monitoring (alternatives to top),Programs to list and monitor currently running processes; alternatives to the `top` command
 screen-recorder,Screen recorder,"Tools to record the content of the terminal and manage the recording (e.g., converting into animated GIFs)"

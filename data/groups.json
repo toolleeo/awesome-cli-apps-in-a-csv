@@ -8,7 +8,7 @@
     "Communication and Networking": ["email", "chat", "networking", "connection-manager", "transfer", "torrent", "rss", "browser", "online"],
     "Personal Information Management": ["todo-manager", "time-tracker", "note-taking", "organizers", "financial"],
     "Productivity": ["ai", "productivity", "office", "writing", "calc", "pastebin", "cheatsheet", "ai-cli-commands"],
-    "Media and Creative": ["graphics", "video", "music", "animation", "viewers", "screensaver", "screen-recorder"],
+    "Media and Creative": ["graphics", "video", "music", "audio-player", "animation", "viewers", "screensaver", "screen-recorder"],
     "Security and Package Management": ["crypto", "security", "password-manager"],
     "Utilities and Miscellaneous": ["utility", "weather"],
     "Learning and Leisure": ["learning", "flashcard", "typing", "games", "funny", "religion", "science"]
