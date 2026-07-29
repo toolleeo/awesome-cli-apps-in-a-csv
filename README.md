@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2206**
+* Apps/tools: **2207**
 * Categories: **87**
 
 # Contents
@@ -111,7 +111,7 @@ Summary:
 * [Learning and didactic tools](#learning) (9)
 * [Anki, decks and flashcards](#flashcard) (10)
 * [Typing test and practice](#typing) (21)
-* [Games](#games) (99)
+* [Games](#games) (100)
 * [Funny tools](#funny) (23)
 * [Religion](#religion) (6)
 * [Science](#science) (21)
@@ -2636,6 +2636,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [chess-tui](https://github.com/thomas-mauran/chess-tui) - Play chess from your terminal.
 * [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.
 * [cli-chess](https://github.com/trevorbayless/cli-chess) - A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
+* [cli.poker](https://www.cli.poker) - Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 * [clidle](https://github.com/ajeetdsouza/clidle) - Wordle, now over SSH.
 * [crappybird-py](https://github.com/JonPizza/crappybird-py) - Flappy bird.
 * [csol](https://github.com/nielssp/csol) - Collection of solitaire/patience games, such as Klondike, FreeCell, Spider, and Yukon.
