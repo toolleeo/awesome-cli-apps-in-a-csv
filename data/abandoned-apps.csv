@@ -16,3 +16,4 @@ graphics,svgcleaner,,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG 
 find,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.,archived on github
 data-management-tabular,pykli,,https://github.com/eshepelyuk/pykli,Interactive ksqlDB command line client with autocompletion and syntax highlighting written in Python.,archived on github
 pastebin,paste69,,https://github.com/watzon/paste69,Simple CURL-able pastebin.,archived on github
+ls,exa,https://the.exa.website/,https://github.com/ogham/exa,"Replacement for 'ls' written in Rust, with colors and several additional ""views"". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork.",deprecated
