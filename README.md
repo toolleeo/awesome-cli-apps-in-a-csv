@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2230**
+* Apps/tools: **2224**
 * Categories: **87**
 
 # Contents
@@ -19,7 +19,7 @@ Summary:
 * [File listing (alternatives to ls)](#ls) (12)
 * [Directory changers (alternatives to cd)](#cd) (23)
 * [File finding (alternatives to find)](#find) (10)
-* [File deletion and trash bin (alternatives to rm)](#rm) (15)
+* [File deletion and trash bin (alternatives to rm)](#rm) (14)
 * [History management](#history) (6)
 * [Diff](#diff) (12)
 * [Text search (alternatives to grep)](#text-search) (16)
@@ -44,7 +44,7 @@ Summary:
 * [Fuzzy finders and option pickers](#option-picker) (18)
 * [Markdown](#markdown) (10)
 ## [Development and Programming](#development-and-programming-1)
-* [Editors](#editors) (33)
+* [Editors](#editors) (32)
 * [Git and accessories](#git) (80)
 * [Versioning](#versioning) (10)
 * [Programming](#programming) (75)
@@ -68,14 +68,14 @@ Summary:
 * [Font management](#font) (5)
 ## [Communication and Networking](#communication-and-networking-1)
 * [Email](#email) (23)
-* [Chat and instant messaging](#chat) (52)
+* [Chat and instant messaging](#chat) (51)
 * [Networking](#networking) (87)
 * [Connection managers](#connection-manager) (12)
 * [Data transfer](#transfer) (47)
 * [Torrent](#torrent) (10)
 * [RSS](#rss) (12)
 * [Web browser](#browser) (19)
-* [Online search and resources](#online) (41)
+* [Online search and resources](#online) (40)
 ## [Personal Information Management](#personal-information-management-1)
 * [Todo managers](#todo-manager) (44)
 * [Time trackers](#time-tracker) (29)
@@ -89,7 +89,7 @@ Summary:
 * [Writing](#writing) (12)
 * [Calculators](#calc) (21)
 * [Pastebin](#pastebin) (3)
-* [Commands cheatsheet and snippets](#cheatsheet) (34)
+* [Commands cheatsheet and snippets](#cheatsheet) (33)
 * [AI terminal command generator](#ai-cli-commands) (16)
 ## [Media and Creative](#media-and-creative-1)
 * [Graphics](#graphics) (54)
@@ -110,7 +110,7 @@ Summary:
 ## [Learning and Leisure](#learning-and-leisure-1)
 * [Learning and didactic tools](#learning) (9)
 * [Anki, decks and flashcards](#flashcard) (10)
-* [Typing test and practice](#typing) (22)
+* [Typing test and practice](#typing) (21)
 * [Games](#games) (99)
 * [Funny tools](#funny) (23)
 * [Religion](#religion) (6)
@@ -188,7 +188,6 @@ Tools to manage the deletion of files/directories, often with the support of a t
 * [gomi](https://github.com/babarot/gomi) - UNIX rm command with a safety net.
 * [gtrash](https://github.com/umlx5h/gtrash) - TUI for moving and restoring items from the XDG trash. Fully compliant with the FreeDesktop.org specification.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files.
-* [RecoverPy](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
 * [rip](https://github.com/nivekuil/rip) - Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)
 * [rm-trash](https://github.com/nateshmbhat/rm-trash) - Meant to be used in place of `rm` in Linux, supporting all its arguments. It can move and restore the files from the XDG trash.
 * [rmw](https://remove-to-waste.info/) - (ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
@@ -748,8 +747,7 @@ Text editors.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
 * [Erys](https://github.com/natibek/erys) - Terminal Interface for Jupyter Notebooks.
 * [Feather](https://www.feathereditor.com/) - The only terminal based text editor designed to work with BIG files.
-* [Helix](https://github.com/helix-editor/helix) - A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune.
-* [Helix](https://helix-editor.com/) - A text editor with multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features.
+* [Helix](https://helix-editor.com/) - A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune. It ships multiple selections, tree-sitter integration, powerful code manipulation, language server support and other modern builtin features.
 * [jed](http://www.jedsoft.org/jed/index.html) - A text editor with a drop-down menu facility that make it especially user-friendly.
 * [joe](http://joe-editor.sourceforge.net/) - (Joe's Own Editor) - a compact text editor written in C, a detailed list of features and missing ones is explicitly reported on the website. This editor is mentioned in several web sources for its capability in handling large files.
 * [Kakoune](http://kakoune.org/) - Modal editor, faster as in less keystrokes, multiple selections, orthogonal design.
@@ -1467,8 +1465,7 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to Twitter that uses git as support tool to manage the tweets.
 * [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 * [twterm](https://github.com/ryota-ka/twterm) - A full-featured TUI Twitter client.
-* [WeeChat](http://weechat.org/) - WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins.
-* [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
+* [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins.
 * [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 * [Zulip Terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
 * [ZUSE](https://github.com/babycommando/zuse) - Minimal IRC client for the terminal written in Go with Bubbletea.
@@ -1734,7 +1731,6 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface.
 * [Wikipedia-Command-Line-Interface](https://github.com/DaDevMikey/Wikipedia-Command-Line-Interface) - Use wikipedia in your command prompt.
 * [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
-* [YouTube TUI](https://github.com/Siriusmart/youtube-tui/tree/master) - An aesthetically pleasing YouTube TUI written in Rust.
 
 # <a name="Personal-Information-Management"></a>Personal Information Management
 
@@ -2091,8 +2087,7 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [fzf-help](https://github.com/BartSte/fzf-help) - An fzf extension that allows you to select command line options of a given command; the options are retrieved from the command its `--help` documentation.
 * [gocheat](https://github.com/Achno/gocheat) - Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases.
 * [halp](https://github.com/orhun/halp) - halp aims to help find the correct arguments for command-line tools by checking the predefined list of commonly used options/flags.
-* [IntelliShell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells, acting like a bookmark store for commands.
-* [IntelliShell](https://github.com/lasantosr/intelli-shell) - Command template and snippet manager for the shell.
+* [IntelliShell](https://github.com/lasantosr/intelli-shell) - Command template and snippet manager for the shell. Like IntelliSense, but for shells, acting like a bookmark store for commands.
 * [kmdr-cli](https://github.com/ediardo/kmdr-cli) - The CLI tool for explaining commands from your terminal.
 * [ManPDF & ManWEB](https://github.com/sebastiancarlos/manpdf) - Read your Man pages in PDF format. Even online!
 * [mdpick](https://github.com/toolleeo/mdpick) - A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane.
@@ -2631,8 +2626,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [typeinc](https://github.com/AnirudhG07/Typeinc) - An ncurses based terminal typing speed test with different difficulty levels and cool typing UI.
 * [Typespeed](http://typespeed.sourceforge.net/) - Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words.
 * [typetype](https://github.com/ahmet8zer/typetype) - Minimalistic command line typing game.
-* [typing-game-cli](https://github.com/akgondber/typing-game-cli) - Command line game to practice your typing speed.
-* [typing-game-cli](https://github.com/akgondber/typing-game-cli/) - Command line game to practice typing speed by competing against typer-robot or against your best result.
+* [typing-game-cli](https://github.com/akgondber/typing-game-cli) - Command line game to practice typing speed by competing against typer-robot or against your best result.
 * [typist](https://github.com/wick3dr0se/typist) - A stupid simple type test written in pure Bash v5.1+.
 * [Typon](https://github.com/ihsuy/Typon) - A multi-featured typing practice tool which can turn any text file into a typing game.
 * [Typr](https://github.com/DriftingOtter/Typr) - `typr` is a Python-based application that utilizes the 'rich' module to provide you with a simple yet satisfying TUI when typing, `typr` is designed to be simple and easy to use.
