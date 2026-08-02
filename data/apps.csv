@@ -2225,6 +2225,7 @@ ai,AskOra,,https://github.com/rosettadb/askora,"Unified Python CLI interacting w
 todo-manager,Togo,,https://github.com/prime-run/togo,A fast and simple terminal-based task and todo manager built in go.
 security,keeenv,,https://github.com/scross01/keeenv,Command-line tool that populates environment variables from a local configuration file with encrypted Keepass database to dynamically fetch sensitive data.
 todo-manager,rusk,,https://github.com/tagirov/rusk,A minimal cross-platform terminal task manager.
+todo-manager,ats,,https://github.com/renezander030/agentic-task-system,"Task manager that doubles as persistent memory for AI coding agents; hybrid keyword and vector retrieval with reciprocal rank fusion over TickTick, Notion, GitHub issues, or an Obsidian vault."
 file-handling,doxx,,https://github.com/bgreenwell/doxx,"Terminal native document viewer for Word files (view, search and export documents)."
 online,IMDb Terminal Browser,,https://github.com/isene/IMDB,Ruby-based terminal application for discovering and managing movies and TV series from IMDb's Top lists.
 online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program allows you to manage and read content from various popular platforms without having to use a browser or separate apps.
