@@ -1,4 +1,4 @@
-﻿category,name,homepage,git,description
+category,name,homepage,git,description
 programming,termfu,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.
 productivity,h-m-m,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
 productivity,telert,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete."
@@ -2122,6 +2122,7 @@ music,mufetch,,https://github.com/ashish0kumar/mufetch,"CLI for music display (a
 typing,Typ0,,https://github.com/TusharIbtekar/go-typ0,Interactive CLI tool for typing practice and speed tests built with Go and Bubble Tea.
 todo-manager,FlowStateCLI,,https://github.com/sundanc/flowstatecli,"Command-line productivity tool for developers to track work sessions, manage tasks, and set goals + Pomodoro timer (online and offline)."
 system,diskroaster,,https://github.com/favoritelotus/diskroaster,"Multi-threaded disk testing utility that writes and verifies data on a raw disk device (designed to stress-test hard drives and SSDs by dividing the disk into sections, writing data in parallel using multiple threads and verifying the written content)."
+system,BluetoothHandsFreeToggle,https://github.com/Avazbek22/BluetoothHandsFreeToggle,https://github.com/Avazbek22/BluetoothHandsFreeToggle.git,Interactive Windows console utility that diagnoses and recovers Bluetooth headsets stuck in low-quality Hands-Free call audio.
 online,leetfetch,,https://github.com/Rage997/leetfetch,A commandline python tool to fetch and organize all leetcode submissions and problem description locally.
 programming,Scrut,,https://github.com/facebookincubator/scrut,"A testing toolkit for CLI applications designed to rigorously test terminal programs, inspired by Cram and focuses on providing a straightforward way to validate CLI behaviour."
 ai,Gemini CLI,,https://github.com/google-gemini/gemini-cli,It provides lightweight access to Gemini from the terminal.
@@ -2206,5 +2207,3 @@ online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program all
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
-system,BluetoothHandsFreeToggle,https://github.com/Avazbek22/BluetoothHandsFreeToggle,https://github.com/Avazbek22/BluetoothHandsFreeToggle.git,Interactive Windows console utility that diagnoses and recovers Bluetooth headsets stuck in low-quality Hands-Free call audio.
->>>>>>> 35fe99e (Add BluetoothHandsFreeToggle)
