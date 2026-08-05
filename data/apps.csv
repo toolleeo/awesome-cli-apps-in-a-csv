@@ -1319,6 +1319,7 @@ conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool aro
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
 funny,bollywood,,https://github.com/abloch/bollywood,"Runs terminal screencasts in multiple panes, resulting in another real-time Hollywood-style real-time hacking terminal."
 copilot,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
+copilot,Ordewell,,https://github.com/ordewell/ordewell,"Ordewell is a plan-first CLI/TUI orchestrator that turns one goal into an ordered plan of coding-agent tasks - each with its own runner (Claude Code, Codex, OpenCode), model, thinking effort and mode - editable before execution, run as one agent session per task, and marked done only when its own completion marker appears in the output. Apache-2.0."
 networking,asn,,https://github.com/nitefood/asn,"Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server."
 viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
 monitor-top,bottom,,https://github.com/ClementTsang/bottom,Yet another cross-platform graphical process/system monitor.
