@@ -2206,3 +2206,5 @@ online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program all
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
+financial,coinpaprika-cli,,https://github.com/coinpaprika/coinpaprika-cli,"Terminal client for cryptocurrency market data: prices, tickers, OHLCV history, and exchange listings."
+financial,dexpaprika-cli,,https://github.com/coinpaprika/dexpaprika-cli,"Terminal client for decentralized exchange data: pools, tokens, and OHLCV across 36 chains."
