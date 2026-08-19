@@ -2185,6 +2185,7 @@ git,gh-repo-man,,https://github.com/2KAbhishek/gh-repo-man,"GitHub CLI extension
 music,Podcli,,https://github.com/Air08/Podcli,"Terminal Based Podcast Client with search, subscription management, and playback features."
 git,GiTerm,,https://github.com/isene/GiTerm,"Git and GitHub TUI application (browse repositories, manage issues and pull requests and perform Git operations from the terminal)."
 funny,Splash,,https://github.com/joshi4/splash,Program that adds color to your logs to make them easier to read.
+funny,parallel-harness-pets,,https://github.com/TevvvB/parallel-harness-pets,"An ASCII creature for every coding-agent session, hatched per git worktree, with rarity bands and shiny variants to collect. Its expression tracks how tidy the worktree is."
 backup,qbak,,https://github.com/andreas-glaser/qbak,A single-command backup helper for Linux and POSIX systems written in Rust; The program creates timestamped backup copies of files and directories with zero configuration.
 file-handling,CHMpy-sp,,https://github.com/AmmarSyamil/CHMpy,TUI made from Textual for changing file/folder permission in Linux. 
 text-search-replace,scooter,,https://github.com/thomasschafer/scooter,Interactive find-and-replace TUI app; By default the program recursively searches through files in the current directory and can also be used to process text from stdin.
