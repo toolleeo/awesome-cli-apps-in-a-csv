@@ -1053,6 +1053,7 @@ versioning,Bob,,https://github.com/MordechaiHadad/bob,"Bob is a cross-platform a
 video,videoinfox,,https://github.com/powerhousepro69/videoinfox,Find videos fast. Powerful playlist building and editing. A play queue to load up unlimited playlists. Index unlimited video libraries and find videos by keyword. Download list building without leaving the browser and a Download Queue.
 text-processing,rich,,https://github.com/Textualize/rich-cli,"Rich-CLI is a command line toolbox for fancy output in the terminal, built with [Rich](https://github.com/Textualize/rich)."
 markdown,mdformat,,https://github.com/executablebooks/mdformat,Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
+markdown,CardMark,https://frankfu916.github.io/cardmark/,https://github.com/FrankFu916/cardmark,"Turns Markdown into beautiful share-ready card images (PNG/SVG) for social media; 10 themes, platform size presets (X, Open Graph, Xiaohongshu, Instagram, Story), Chinese/Japanese/Korean fonts and emoji support; pure SVG rendering without a headless browser."
 music,ytui-music,,https://github.com/sudipghimire533/ytui-music,YouTube client in terminal for music (lightweight YouTube client).
 networking,ttfb,,https://github.com/phip1611/ttfb,ttfb is a CLI-Tool to measure the TTFB (time to first byte) of HTTP requests.
 programming,mk,,https://github.com/pycontribs/mk,mk is a CLI tool that aims to ease contribution to any open source project by hiding repository implementation details from the casual contributor.
