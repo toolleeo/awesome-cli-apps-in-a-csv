@@ -1250,6 +1250,7 @@ music,fme,,https://github.com/andreykaere/fme,Flexible metadata editor that allo
 crypto,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
 networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line frontend for Tunnelblick.
 networking,sshx,,https://github.com/ekzhang/sshx,"Fast, collaborative live terminal sharing over the web."
+networking,shell.online,https://shell.online/,https://github.com/TeoSlayer/shell.online,"Turns any terminal command into a live browser link; the process stays local while link holders watch or type from any device. Sessions survive disconnects and close when the task exits."
 audio-player,kew,,https://github.com/ravachol/kew,A command-line music player with gapless playback and simple playlist management.
 utility,config-file-validator,,https://github.com/Boeing/config-file-validator,Cross Platform tool to validate configuration files.
 networking,recon,,https://github.com/jreisinger/recon,Gather public info about network hosts.
