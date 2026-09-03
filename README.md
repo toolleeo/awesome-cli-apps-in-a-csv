@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2207**
+* Apps/tools: **2208**
 * Categories: **87**
 
 # Contents
@@ -83,7 +83,7 @@ Summary:
 * [Organizers and calendars](#organizers) (22)
 * [Financial tools](#financial) (25)
 ## [Productivity](#productivity-1)
-* [AI / LLM integration](#ai) (48)
+* [AI / LLM integration](#ai) (49)
 * [Productivity](#productivity) (19)
 * [Office tools](#office) (23)
 * [Writing](#writing) (12)
@@ -1923,6 +1923,7 @@ Interfaces and front-ends to LLM engines and other tools powered by artificial i
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
 * [codepack v4](https://github.com/w3spi5/codepack) - CLI tool to extract folder structure and file contents with advanced minification for AI processing.
 * [Context Extractor](https://github.com/vaibhav-mattoo/cxt) - Command line tool that aggregates file and directory contents into the clipboard, for providing project context to AI chatbots in the browser like ChatGPT and Perplexity.
+* [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds clean, token-efficient project context for AI assistants with GUI, TUI, CLI, and a read-only MCP server, plus Smart Ignore, redaction, Git scopes, and syntax-aware compression.
 * [egit](https://github.com/Sweet-Papa-Technologies/egit) - A.I. tools and workflows for Git.
 * [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual.
 * [Elroy](https://github.com/elroy-bot/elroy) - AI personal assistant that remembers and sets goals.
