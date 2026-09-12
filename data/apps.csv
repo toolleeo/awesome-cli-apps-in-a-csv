@@ -2206,3 +2206,4 @@ online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program all
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
+ai,murmur,https://wine-fall.github.io/murmur/,https://github.com/wine-fall/murmur,"Always-on AI radio host for the terminal: it picks its own topics and talks, plays music, comes back and keeps going; type a reply and it answers in a voice that sounds human. Claude for a brain, fish-speech for a voice."
