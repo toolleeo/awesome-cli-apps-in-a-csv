@@ -208,7 +208,7 @@ Programs to replace or improve the management of command line history.
 
 Calculation of diffs between files and data, even with context or semantic awareness (i.e., considering the meaning of the data).
 
-* [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files
+* [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files.
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human-readable instead of machine-readable.
 * [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
@@ -310,9 +310,9 @@ Programs to list and monitor currently running processes; alternatives to the `t
 
 Find/remove duplicate files, automatically organize files, etc..
 
-* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
+* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files.
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, PDFs, images, etc.
-* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
+* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer.
 * [detox](https://github.com/dharple/detox) - Easily clean up filenames; it replaces characters like spaces with standard equivalents and UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
 * [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 * [doggo](https://github.com/0nsh/doggo) - CLI tool that uses AI to help you search for and organize images using natural language queries (instead of remembering filenames, you can describe what you're looking for).
@@ -340,12 +340,12 @@ Applications for interactively managing files and directories.
 * [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
 * [Far2l](https://github.com/elfmz/far2l) - Linux port of Far v2 file manager.
 * [felix](https://github.com/kyoheiu/felix) - TUI file manager with vim-like key mapping
-* [fman](https://github.com/nore-dev/fman) - TUI File Manager
+* [fman](https://github.com/nore-dev/fman) - TUI file manager written in Go with mouse support, file preview, syntax highlighting and support for themes.
 * [fml](https://github.com/wick3dr0se/fml) - Simple and fast file manager written in BASH.
 * [fzfm](https://github.com/ashish0kumar/fzfm) - A command-line fuzzy finder file manager.
 * [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
-* [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
-* [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
+* [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in Rust with support for tabs, multi-file selection, cd to last directory, slide up animations and minibuffer with completion.
+* [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Go with fuzzy search, tabs bulk rename, file preview, exit to current directory, themes and trash support.
 * [lf](https://github.com/gokcehan/lf) - lf (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
 * [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) - a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
 * [Midnight Commander](http://www.midnight-commander.org/) - A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
@@ -407,7 +407,7 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [Snoop](https://github.com/Mandrew0822/Snoop) - A command-line utility for Linux that provides information about files in a directory.
 * [symlinks](https://github.com/brandt/symlinks) - Symlinks is a simple tool that helps find and remedy problematic symbolic links on a system.
 * [treegen](https://github.com/bilbilak/treegen) - ASCII tree directory and file structure generator.
-* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
+* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers.
 * [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 * [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
 * [xcp](https://github.com/tarka/xcp) - Extended cp.
@@ -1379,7 +1379,7 @@ Utilities to manage system fonts and to generate text using ASCII-art-like chara
 Email clients (MUA - Mail User Agents), mail synchronization, generation indexing and search.
 
 * [abook](https://abook.sourceforge.io/) - TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes).
-* [aerc](https://aerc-mail.org/) - A pretty good email client
+* [aerc](https://aerc-mail.org/) - A pretty good email client, with support for editing emails in an embedded terminal tmux-style, render HTML emails with an interactive terminal web browser, first-class support for working with git and email, support for multiple accounts, with IMAP, Maildir, Notmuch, Mbox and JMAP backends, and much more.
 * [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.
 * [alpine](http://www.washington.edu/alpine/) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
 * [gmailtail](https://github.com/c4pt0r/gmailtail) - Command-line tool to monitor Gmail messages and output the as JSON; The program in designed for automation, monitoring and integration with other tools.
@@ -2374,7 +2374,7 @@ File viewers for images and other formats (e.g., e-books).
 * [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
 * [timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 * [treepp](https://github.com/terroo/treepp) - The `tree` command with icons made with Modern C++.
-* [TubiTui](https://codeberg.org/777/TubiTui.git) - A lightweight, libre, TUI-based YouTube client
+* [TubiTui](https://codeberg.org/777/TubiTui.git) - A lightweight, libre, TUI-based YouTube client.
 * [ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [vv](https://github.com/wolfpld/vv) - A terminal image viewer, supporting an extensive range of modern image formats.
