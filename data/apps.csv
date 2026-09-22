@@ -2207,3 +2207,4 @@ cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+diff,DocRefract,https://jinyounghub.github.io/docrefract/,https://github.com/jinyounghub/docrefract.git,Local-first deterministic semantic PDF and DOCX comparison for CI with categorized JSON and self-contained HTML reports.
