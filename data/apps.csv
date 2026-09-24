@@ -1332,6 +1332,7 @@ package-manager,eget,,https://github.com/zyedidia/eget,Easily install prebuilt b
 versioning,fnc,https://fnc.bsdbox.org/index,,Interactive text-based user interface for Fossil.
 font,fnt,,https://github.com/alexmyczko/fnt,"apt for fonts, the missing font manager for macOS/Linux."
 git,gh-dash,,https://github.com/dlvhdr/gh-dash,A beautiful CLI dashboard for GitHub.
+git,tea-dash,,https://github.com/gbarany/tea-dash,A gh-dash-style terminal dashboard for Gitea and Forgejo.
 git,git-cc,,https://github.com/SKalt/git-cc,A git extension to help write conventional commits.
 monitor-top,gotop,,https://github.com/xxxserxxx/gotop,A terminal based graphical activity monitor inspired by gtop and vtop.
 security,gpg-tui,,https://github.com/orhun/gpg-tui,Manage your GnuPG keys with ease!
