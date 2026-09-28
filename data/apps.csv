@@ -1480,6 +1480,7 @@ devops,stern,,https://github.com/stern/stern,Multi pod and container log tailing
 git,gh,https://cli.github.com/,https://github.com/cli/cli,"GitHub's official tool to manage repos, issues, projects, gists and much more."
 cheatsheet,tlrc,https://tldr.sh/tlrc/,https://github.com/tldr-pages/tlrc,Official tldr client written in Rust.
 networking,netscanner,,https://github.com/Chleba/netscanner,All-in-one network scanning tool.
+networking,Network Doctor,https://networkdoctor.dev/,https://github.com/heymaikol/network-doctor,"Cross-platform network troubleshooting application that diagnoses interface, DNS, TCP, TLS, HTTP, proxy, and path MTU failures and suggests fixes."
 video,Pyutube,,https://github.com/Hetari/pyutube,A simple tool to download YouTube video shorts and playlist in just one click.
 networking,ATAC,,https://github.com/Julien-cpsn/ATAC,"Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever."
 networking,geolocate,https://github.com/adamlui/js-utils/tree/main/geolocate/#readme,https://github.com/adamlui/js-utils,Fetch IP geolocation data.
