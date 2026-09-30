@@ -2207,3 +2207,4 @@ cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+copilot,ANUS,https://anus.dev,https://github.com/anus-dev/anus,"A free coding agent in your terminal. It reads your code, edits files and runs commands, and sends every request to the smartest free model that is up today (OpenRouter, Gemini, Groq, Cerebras, Mistral), switching to the next one when a model hits its limit."
