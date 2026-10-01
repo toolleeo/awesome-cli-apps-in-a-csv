@@ -2186,7 +2186,7 @@ music,Podcli,,https://github.com/Air08/Podcli,"Terminal Based Podcast Client wit
 git,GiTerm,,https://github.com/isene/GiTerm,"Git and GitHub TUI application (browse repositories, manage issues and pull requests and perform Git operations from the terminal)."
 funny,Splash,,https://github.com/joshi4/splash,Program that adds color to your logs to make them easier to read.
 backup,qbak,,https://github.com/andreas-glaser/qbak,A single-command backup helper for Linux and POSIX systems written in Rust; The program creates timestamped backup copies of files and directories with zero configuration.
-file-handling,CHMpy-sp,,https://github.com/AmmarSyamil/CHMpy,TUI made from Textual for changing file/folder permission in Linux. 
+file-handling,CHMpy-sp,,https://github.com/AmmarSyamil/CHMpy,TUI made from Textual for changing file/folder permission in Linux.
 text-search-replace,scooter,,https://github.com/thomasschafer/scooter,Interactive find-and-replace TUI app; By default the program recursively searches through files in the current directory and can also be used to process text from stdin.
 productivity,Sinkzone,,https://github.com/berbyte/sinkzone,"Application that blocks everything by default unless you explicitly allow it; A DNS tool for productivity, focus, and child safety."
 networking,portfinder,,https://github.com/doganarif/portfinder,"Modern CLI tool to identify and manage processes using network ports; Built with GO, featuring project awareness, Docker support and an interactive terminal UI."
@@ -2207,3 +2207,4 @@ cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+terminal-mux,statusbar,https://statusbar.vrypan.net,https://github.com/vrypan/statusbar,"A configurable, terminal-native statusbar for any terminal."
