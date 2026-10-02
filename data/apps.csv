@@ -369,7 +369,7 @@ viewers,viu,,https://github.com/learn-anything/command-line-tools,Command-line a
 cheatsheet,tealdeer,,https://github.com/dbrgn/tealdeer,Very fast implementation of tldr in Rust.
 file-handling,xcp,,https://github.com/tarka/xcp,Extended cp.
 cd,pazi,,https://github.com/euank/pazi,Fast autojump helper.
-file-manager,hunter,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.
+file-manager,hunter,,https://github.com/rabite0/hunter,"Ranger-like file browser written in Rust with support for tabs, multi-file selection, cd to last directory, slide up animations and minibuffer with completion."
 monitor,noti,,https://github.com/variadico/noti,Monitor a process and trigger a notification.
 find,friendly-find,,https://github.com/sjl/friendly-find,Usable replacement for find.
 option-picker,fzy,,https://github.com/jhawthorn/fzy,Better fuzzy finder.
@@ -855,15 +855,15 @@ utility,bkt,https://bkt.rs,https://github.com/dimo414/bkt,bkt is a subprocess ca
 viewers,reader,,https://github.com/mrusme/reader,Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
 file-manager,felix,,https://github.com/kyoheiu/felix,TUI file manager with vim-like key mapping
 file-manager,cfiles,,https://github.com/mananapr/cfiles,ncurses file manager written in C with vim like keybindings
-file-manager,fman,,https://github.com/nore-dev/fman,TUI File Manager
+file-manager,fman,,https://github.com/nore-dev/fman,"TUI file manager written in Go with mouse support, file preview, syntax highlighting and support for themes."
 file-manager,goful,,https://github.com/anmitsu/goful,Goful is a CUI file manager written in Go.
-file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal file manager
-email,aerc,https://aerc-mail.org/,https://git.sr.ht/~rjarry/aerc,A pretty good email client
-file-dir-cleanup,backdown,,https://github.com/Canop/backdown,Safely and ergonomically remove duplicate files
-file-dir-cleanup,czkawka,https://qarmin.github.io/czkawka/,https://github.com/qarmin/czkawka,Remove unnecessary files from your computer
-file-handling,TUI Archiver,https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver.git,A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
-viewers,TubiTui,,https://codeberg.org/777/TubiTui.git,"A lightweight, libre, TUI-based YouTube client"
-diff,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files
+file-manager,joshuto,,https://github.com/kamiyaa/joshuto,"Ranger-like terminal file manager written in Go with fuzzy search, tabs bulk rename, file preview, exit to current directory, themes and trash support."
+email,aerc,https://aerc-mail.org/,https://git.sr.ht/~rjarry/aerc,"A pretty good email client, with support for editing emails in an embedded terminal tmux-style, render HTML emails with an interactive terminal web browser, first-class support for working with git and email, support for multiple accounts, with IMAP, Maildir, Notmuch, Mbox and JMAP backends, and much more."
+file-dir-cleanup,backdown,,https://github.com/Canop/backdown,Safely and ergonomically remove duplicate files.
+file-dir-cleanup,czkawka,https://qarmin.github.io/czkawka/,https://github.com/qarmin/czkawka,Remove unnecessary files from your computer.
+file-handling,TUI Archiver,https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver.git,A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers.
+viewers,TubiTui,,https://codeberg.org/777/TubiTui.git,"A lightweight, libre, TUI-based YouTube client."
+diff,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files.
 option-picker,smenu,,https://github.com/p-gen/smenu,"Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use."
 cheatsheet,docfd,,https://github.com/darrenldl/docfd,TUI fuzzy document finder that looks for documentation files in Markdown and txt format in the directory tree.
 git,BFG Repo-Cleaner,,https://github.com/rtyley/bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster."
@@ -2206,4 +2206,5 @@ online,Neon Modem Overdrive,,https://github.com/mrusme/neonmodem,The program all
 cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane."
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
-programming-boilerplate,taggie-cli,https://github.com/2Nerds-Solutions/taggie-cli,https://github.com/2Nerds-Solutions/taggie-cli,"CLI for generating, checking, syncing, and removing project attribution (""Made with X for Y"") footers across Next.js, React, Vue, Svelte, and plain HTML projects."
+git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+programming-boilerplate,taggie-cli,https://www.npmjs.com/package/taggie-cli,https://github.com/nerds-lab-chapter-26/taggie-cli,"CLI for generating, checking, syncing, and removing project attribution (""Made with X for Y"") footers across Next.js, React, Vue, Svelte, and plain HTML projects."
