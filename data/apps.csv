@@ -1670,6 +1670,7 @@ system,shournal,,https://github.com/tycho-kirchner/shournal,Log shell-commands a
 text-processing,hburger,,https://github.com/niqodea/hburger,Shorten long strings and paths while preserving readability.
 text-search,zfind,,https://github.com/laktak/zfind,Search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter.
 graphics,gowall,,https://github.com/Achno/gowall,"A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction, image upsacling with Adversarial Networks  and more image processing features."
+graphics,cwal,,https://github.com/nitinbhat972/cwal,"Blazing-fast pywal-like color palette generator written in C."
 utility,sisi,,https://github.com/frost-beta/sisi,Semantic image search CLI tool.
 animation,rich_life,,https://github.com/paulrobello/rich_life,Conway's Game of Life and Langton's Ant.
 system,sysz,,https://github.com/joehillen/sysz,fzf terminal UI for systemctl.
