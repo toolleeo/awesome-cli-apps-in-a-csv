@@ -2098,6 +2098,7 @@ audio-player,Mplay,,https://github.com/unpythonic-coder/mplay,"Full featured mus
 games,CTetris++,,https://github.com/Jejis06/CTetris/tree/master,Feature-rich Tetris game written in C++ that runs in terminal with customizable visual styles and smooth gameplay.
 monitor,Bashmark,,https://github.com/Samrat079/Bashmark,Terminal based benchmarking utility for testing CPU and GPU performance.
 git,AI Git Narrator,,https://github.com/pmusolino/AI-Git-Narrator,Command-line tool for generating Git commit messages and PR descriptions with AI based on Git diffs and commits. Supports staged/unstaged changes and customizable AI parameters.
+git,Alpheon,https://alpheonsolutions.com,https://github.com/BravoAlphaSix/alpheon,"Reads a git diff and drafts a reviewable HANDOFF.md that records what changed and the reasoning behind it, so the intent behind a commit is not lost. Zero dependencies, single file."
 ai-cli-commands,Octomind,,https://github.com/muvon/octomind,"Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in."
 financial,gocost,,https://github.com/madalinpopa/gocost,Simple TUI application to manage monthly expenses; Built with Go and Bubble Tea framework.
 networking,AutoRecon,,https://github.com/Tib3rius/AutoRecon,AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
