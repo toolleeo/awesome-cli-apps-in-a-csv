@@ -1,5 +1,6 @@
 category,name,homepage,git,description
 programming,termfu,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.
+programming,gdb-cli,https://pypi.org/project/gdb-cli/,https://github.com/Cerdore/gdb-cli,"A GDB debugging tool for AI Agents with stateful debugging, JSON output, and core dump analysis."
 productivity,h-m-m,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
 productivity,telert,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete."
 networking,ipcalc,http://jodies.de/ipcalc,https://github.com/kjokjo/ipcalc,"Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range."
