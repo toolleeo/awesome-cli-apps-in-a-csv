@@ -1,8 +1,6 @@
-# <a name="contribute"></a>How to contribute
+# How to contribute
 
 If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
-
-As a follower of the 0-inbox approach for emails, I strive to maintain a 0-length list of pull requests for new contributions.
 
 ## Open an issue
 
@@ -27,13 +25,9 @@ In the CSV file, the `git` field refers to a **clonable git URL**.
 Please make changes **to the CSV file only**, **not to the README file**.
 I will review the request and, upon acceptance, I will take care of generating the README and updating the list.
 
-## Contribution via email
-
-If you prefer an email, contact me at `toolleeo@gmail.com` by sending the same information required for the "open an issue" method.
-
 # Generation of the README file
 
-If necessary, this `README` file can be (re-)generated from the CSV files.
+If necessary, the `README` file can be (re-)generated from the CSV files.
 To build `README.md` run:
 
 ```
