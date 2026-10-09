@@ -1,5 +1,8 @@
 import csv
+import json
 import string
+import re
+
 
 
 summary_template = """
@@ -43,7 +46,24 @@ def fmt_app(app):
     return st
 
 
+def print_grouped_apps(groups, cats, apps):
+    for group in groups:
+        label = group.replace(' ', '-')
+        print(f'# <a name="{label}"></a>{group}\n')
+        for c in groups[group]:
+            cat_item = cats[c]
+            print('## <a name="{}"></a>{}\n'.format(c, cat_item['name']))
+            if cat_item['description'] != '':
+                print(f"{cat_item['description']}.\n")
+            apps_in_cat = [a for a in apps if a['category'] == c]
+            apps_in_cat = sorted(apps_in_cat, key=lambda i: i['name'].upper())
+            for app in apps_in_cat:
+                print(fmt_app(app))
+            print()
+
+
 def print_apps(cats, apps):
+    """Old formatting with categories sorted by name."""
     for c in cats:
         cat_item = cats[c]
         print('## <a name="{}"></a>{}\n'.format(c, cat_item['name']))
@@ -56,7 +76,28 @@ def print_apps(cats, apps):
         print()
 
 
+def github_slug(text):
+    # 1. Lowercase
+    slug = text.lower()
+    # 2. Remove anything that's not a word char, space, or hyphen
+    slug = re.sub(r'[^\w\s-]', '', slug)
+    # 3. Replace spaces with dashes
+    slug = re.sub(r'\s+', '-', slug)
+    return slug
+
+
+def fmt_grouped_categories(cats, groups):
+    lines = []
+    for group in groups:
+        label = github_slug(group)
+        lines.append(f'## [{group}](#{label}-1)')
+        for c in groups[group]:
+            lines.append(f"* [{cats[c]['name']}](#{c}) ({cats[c]['count']})")
+    return '\n'.join(lines)
+
+
 def fmt_categories(cats):
+    """Old formatting with categories sorted by name and grouped in one line per letter."""
     group_by_letters = {x: [] for x in string.ascii_uppercase}
     for c in cats:
         initial = cats[c]['name'][0].upper()
@@ -73,13 +114,6 @@ def fmt_categories(cats):
     # print(lines_by_letters)
     # print(lines_to_join)
     return '\n'.join(lines_to_join)
-
-
-def fmt_categories_old(cats):
-    st = []
-    for c in cats:
-        st.append("[{}](#{}) ({})".format(cats[c]['name'], c, cats[c]['count']))
-    return ', '.join(st)
 
 
 def count_apps(apps, categories):
@@ -106,6 +140,8 @@ def main():
     _, apps = load_csv('data/apps.csv')
     _, categories = load_csv('data/categories.csv')
     _, resources = load_csv('data/resources.csv')
+    with open('data/groups.json', 'r') as f:
+        groups = json.load(f)
     categories = categories_list_to_dict(categories)
     categories = count_apps(apps, categories)
 
@@ -113,8 +149,8 @@ def main():
     for r in resources:
         md_res += '[{}]({}) - {}\n\n'.format(r['title'], r['url'], r['description'])
 
-    print(summary_template.format(n_apps=len(apps), n_cats=len(categories), cats=fmt_categories(categories)))
-    print_apps(categories, apps)
+    print(summary_template.format(n_apps=len(apps), n_cats=len(categories), cats=fmt_grouped_categories(categories, groups)))
+    print_grouped_apps(groups, categories, apps)
     print(resources_template.format(md_res))
 
 
