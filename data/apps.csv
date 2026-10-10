@@ -37,6 +37,7 @@ terminal-mux,Tmate,https://tmate.io/,https://github.com/tmate-io/tmate,"A fork o
 terminal-mux,tmux,https://tmux.github.io/,https://github.com/tmux/tmux,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
 terminal,warp,,https://github.com/spolu/warp,Secure and simple terminal sharing.
 monitor-top,bpytop,,https://github.com/aristocratos/bpytop,Linux/macOS/FreeBSD resource monitor with a nice interface.
+monitor-top,ctop-claude,https://aakashadesara.github.io/ctop/,https://github.com/aakashadesara/ctop,"htop for AI coding agents - monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost estimates."
 monitor,glances,https://nicolargo.github.io/glances/,https://github.com/nicolargo/glances,"A comprehensive and detailed system monitor; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime."
 networking,GoTTY,,https://github.com/yudai/gotty,"Turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page."
 monitor,inxi,http://smxi.org/docs/inxi.htm,https://codeberg.org/smxi/inxi.git,"A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script."
