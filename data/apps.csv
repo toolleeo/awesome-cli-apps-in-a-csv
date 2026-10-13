@@ -2207,3 +2207,4 @@ cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+development,wheelripe,https://blackman99.github.io/wheelripe/,https://github.com/Blackman99/wheelripe,"Before you move to a new Python (3.15, free-threaded 3.15t), find every locked dependency with no wheel for it on your platforms and the smallest bump that fixes each. CLI, GitHub Action, MCP."
