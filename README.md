@@ -124,6 +124,7 @@ List directory content and files, with colors or icons; alternatives to `ls`.
 
 * [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
 * [eza](https://github.com/eza-community/eza) - eza is a modern, _maintained_ replacement for `ls`, built on `exa`.
+* [file-organizer-lite](https://github.com/kontor7-agent/file-organizer-lite) - Tidy a messy Windows folder safely: PowerShell scripts that sort files by type or month (preview first, undo log) and report duplicate files. No network, no deletes.
 * [Files-Sort-py](https://github.com/AfzGit/Files-Sort-py) - Python-based file sorter that sorts file by extensions, size, and time.
 * [ll](https://github.com/antonmedv/ll) - ls with git status.
 * [lscoltui](https://github.com/breynard0/lscoltui) - A TUI tool for changing the colours of ls.
