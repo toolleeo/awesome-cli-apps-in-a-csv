@@ -2207,3 +2207,4 @@ cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+monitor,vhr-bench,https://vpshostreview.com/vps-benchmark-tool,https://github.com/vpshostreview/vhr-vps-benchmark,"Single readable Bash script that benchmarks a Linux VPS in about a minute: sysbench CPU, sysbench memory and fio 4k random read/write IOPS."
