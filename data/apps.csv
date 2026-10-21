@@ -2219,3 +2219,4 @@ learning,openleetcode,,https://github.com/therepanic/openleetcode,Terminal inter
 conversion,carta,,https://github.com/mfkrause/carta,"A universal document converter written in Rust. Read a markup format, render it back out in another. A fast, lightweight reimplementation of pandoc."
 programming,hdi,,https://github.com/grega/hdi,"Summarise how to install / run / test a project, from its README."
 screen-recorder,evp,,https://github.com/HalFrgrd/evp,A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
+programming,VIBE,,https://github.com/hydope/vibe,"Zero-touch autonomous execution engine: point it at any repository (`npx vibe-run <repo-url>`) and it detects the stack, installs dependencies, and runs the app automatically."
