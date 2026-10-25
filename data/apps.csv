@@ -2207,3 +2207,6 @@ cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+programming,wsl-shadow,https://www.npmjs.com/package/wsl-shadow,https://github.com/kanchingyg/wsl-shadow,"Offline pre-flight checker that detects Windows-to-WSL2 path, symlink, and binary shadowing hazards across Node.js and CLI toolchains."
+programming,exports-shadow,https://www.npmjs.com/package/exports-shadow,https://github.com/kanchingyg/exports-shadow,"Offline validator for package.json exports and TypeScript moduleResolution boundaries that detects subpath shadowing across Node.js, Bun, and bundlers."
+webdev,wrangler-doctor,https://www.npmjs.com/package/wrangler-doctor,https://github.com/kanchingyg/wrangler-doctor,"Offline pre-flight checker for Cloudflare Workers configs, D1 SQL migrations, and workerd global-scope contracts, with a local D1 snapshot seeder and Workflow test harness."
