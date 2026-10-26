@@ -43,6 +43,7 @@ Summary:
 * [Data management - Tabular data](#data-management-tabular) (36)
 * [Fuzzy finders and option pickers](#option-picker) (18)
 * [Markdown](#markdown) (9)
+* [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 ## [Development and Programming](#development-and-programming-1)
 * [Editors](#editors) (32)
 * [Git and accessories](#git) (81)
