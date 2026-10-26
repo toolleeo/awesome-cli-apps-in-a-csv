@@ -225,6 +225,7 @@ calc,Nota,https://kary.us/nota/,https://github.com/pouyakary/Nota,Terminal calcu
 editors,vy,,https://github.com/vyapp/vy,A vim-like in Python made from scratch.
 programming,pire,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.
 browser,Graphene,,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.
+cheatsheet,faq,,https://github.com/groda/faq.git,"Searchable lessons for Unix commands. The list narrows as you type; the article stays open beside it."
 cheatsheet,navi,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.
 data-management-tabular,TSV Utilities,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
 graphics,pastel,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
