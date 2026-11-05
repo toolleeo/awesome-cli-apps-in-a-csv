@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2213**
+* Apps/tools: **2214**
 * Categories: **87**
 
 # Contents
@@ -34,7 +34,7 @@ Summary:
 ## [File and Filesystem Management](#file-and-filesystem-management-1)
 * [File managers](#file-manager) (27)
 * [File explorer and tree visualization](#file-explorer) (11)
-* [File and file system handling](#file-handling) (30)
+* [File and file system handling](#file-handling) (31)
 * [Backup](#backup) (20)
 * [File watching for changes](#file-watch) (8)
 * [File renamers](#file-renamer) (15)
@@ -405,6 +405,7 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [logrotate](https://github.com/logrotate/logrotate) - Rotate, compress and mail logs.
 * [ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
+* [pdfmt](https://github.com/eifelcode/pdfmt) - A command-line multi tool for the PDF tasks you keep doing again and again.
 * [progress](https://github.com/Xfennec/progress) - Monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses a ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
 * [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar.
 * [qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC.
