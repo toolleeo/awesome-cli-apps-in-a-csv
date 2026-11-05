@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2214**
+* Apps/tools: **2215**
 * Categories: **87**
 
 # Contents
@@ -84,7 +84,7 @@ Summary:
 * [Todo managers](#todo-manager) (43)
 * [Time trackers](#time-tracker) (29)
 * [Note taking](#note-taking) (34)
-* [Organizers and calendars](#organizers) (22)
+* [Organizers and calendars](#organizers) (23)
 * [Financial tools](#financial) (25)
 ## [Productivity](#productivity-1)
 * [AI / LLM integration](#ai) (48)
@@ -1860,6 +1860,7 @@ Calendar and appointment managers.
 * [Calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with customizable interface.
 * [calcurse](https://calcurse.org/) - A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.
 * [caldr](https://github.com/mrusme/caldr) - A lightweight CLI / TUI calendar that supports CalDAV.
+* [chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage.
 * [gcalcli](https://github.com/insanum/gcalcli) - Access Google Calendars; supports the main tasks: create, delete, and list events.
 * [Girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler.
 * [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt. It can be used from Mutt the same way as abook.
