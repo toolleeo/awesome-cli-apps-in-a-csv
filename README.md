@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2215**
+* Apps/tools: **2216**
 * Categories: **87**
 
 # Contents
@@ -109,7 +109,7 @@ Summary:
 * [Security](#security) (25)
 * [Password managers](#password-manager) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
-* [Utilities](#utility) (46)
+* [Utilities](#utility) (47)
 * [Weather](#weather) (6)
 ## [Learning and Leisure](#learning-and-leisure-1)
 * [Learning and didactic tools](#learning) (9)
@@ -2550,6 +2550,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [tab-pal](https://github.com/ben-n93/tab-pal) - A command-line app that makes it easier to add and edit custom colour palettes in Tableau.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [tickrs](https://github.com/tarkah/tickrs) - Real-time ticker data in your terminal.
+* [tinhorn](https://github.com/puradox/tinhorn) - A terminal dice roller: shake the dice, watch em' fly, hear it bounce.
 * [tmux-fingers](https://github.com/morantron/tmux-fingers) - Copy-pasting in terminal with vimium/vimperator like hints.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
 * [Various Scripts](https://github.com/xkcd386at/scripts) - Various script, mainly in shell and Perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf.
