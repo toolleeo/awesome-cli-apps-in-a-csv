@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2211**
+* Apps/tools: **2212**
 * Categories: **87**
 
 # Contents
@@ -96,7 +96,7 @@ Summary:
 * [Commands cheatsheet and snippets](#cheatsheet) (33)
 * [AI terminal command generator](#ai-cli-commands) (16)
 ## [Media and Creative](#media-and-creative-1)
-* [Graphics](#graphics) (53)
+* [Graphics](#graphics) (54)
 * [Video](#video) (15)
 * [Sound and music](#music) (53)
 * [Music players](#audio-player) (20)
@@ -2177,6 +2177,7 @@ Applications to process images, colors, and ASCII art.
 * [scrot](https://github.com/dreamer/scrot) - SCReenshot - simple screenshot tool. Main features: window and retangular area capturing export to PNG JPG GIF and others.
 * [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 * [svgshift](https://github.com/10xJSChad/svgshift) - Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
+* [tardigrade](https://github.com/smoothyy3/tardigrade) - A creature of self-healing cells inside your terminal.
 * [TermImg](https://github.com/srlehn/termimg) - termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
 * [TerrainGenerator](https://github.com/NM711/TerrainGenerator) - 2D Terrain Generator to create procedural 2D worlds and maps.
 * [textual-paint](https://github.com/1j01/textual-paint) - MS Paint in your terminal (TUI).
