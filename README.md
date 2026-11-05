@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2210**
+* Apps/tools: **2211**
 * Categories: **87**
 
 # Contents
@@ -48,7 +48,7 @@ Summary:
 * [Fuzzy finders and option pickers](#option-picker) (18)
 * [Markdown](#markdown) (9)
 ## [Development and Programming](#development-and-programming-1)
-* [Editors](#editors) (32)
+* [Editors](#editors) (33)
 * [Git and accessories](#git) (81)
 * [Versioning](#versioning) (9)
 * [Programming](#programming) (75)
@@ -736,6 +736,7 @@ Text editors.
 * [C-EDIT](https://github.com/velorek1/c-edit) - A text editor in C with drop down menus in the style of MS-DOS Editor.
 * [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard" keybindings and several advanced features; written in Ruby.
 * [ed](https://www.gnu.org/software/ed/) - GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts.
+* [edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit.
 * [edit](https://github.com/microsoft/edit) - This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code.
 * [Emacs](https://www.gnu.org/software/emacs/) - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
