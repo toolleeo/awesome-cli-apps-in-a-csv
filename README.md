@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2216**
+* Apps/tools: **2217**
 * Categories: **87**
 
 # Contents
@@ -112,7 +112,7 @@ Summary:
 * [Utilities](#utility) (47)
 * [Weather](#weather) (6)
 ## [Learning and Leisure](#learning-and-leisure-1)
-* [Learning and didactic tools](#learning) (9)
+* [Learning and didactic tools](#learning) (10)
 * [Anki, decks and flashcards](#flashcard) (10)
 * [Typing test and practice](#typing) (21)
 * [Games](#games) (101)
@@ -2581,6 +2581,7 @@ Programs that support learning and teaching about an argument.
 * [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
 * [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
+* [openleetcode](https://github.com/therepanic/openleetcode) - Terminal interface to exercise on LeetCode tests.
 * [ShellKit](https://github.com/pokeyaro/shellkit) - Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell).
 * [TUI apps](https://github.com/learnbyexample/TUI-apps) - A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc.
 * [wb](https://github.com/MertGunduz/wb) - A TUI vocabulary notebook app for Linux based devices.
