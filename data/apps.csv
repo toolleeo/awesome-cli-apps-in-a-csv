@@ -2216,3 +2216,4 @@ file-handling,pdfmt,,https://github.com/eifelcode/pdfmt,A command-line multi too
 organizers,chroncal,,https://github.com/DouglasdeMoura/chroncal,"Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage."
 utility,tinhorn,,https://github.com/puradox/tinhorn,"A terminal dice roller: shake the dice, watch em' fly, hear it bounce."
 learning,openleetcode,,https://github.com/therepanic/openleetcode,Terminal interface to exercise on LeetCode tests.
+financial,autorekt,https://autorekt.com,https://github.com/autorekt/autorekt,"Market data for AI agents from free public sources: cross-asset prices, dollar liquidity, swap spreads, positioning, options gamma and prediction-market odds, as compact text with the age of every value."
