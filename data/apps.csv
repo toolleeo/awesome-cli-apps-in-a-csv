@@ -2208,3 +2208,4 @@ learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-T
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
 terminal-mux,berthd,,https://github.com/takakix2/berthd,"Persistent shell sessions. A small daemon that owns your PTYs, so shells outlive the terminal app."
+font,sauva,,https://github.com/lusingander/sauva,Terminal Unicode explorer.

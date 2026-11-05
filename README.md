@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2209**
+* Apps/tools: **2210**
 * Categories: **87**
 
 # Contents
@@ -69,7 +69,7 @@ Summary:
 * [Containerization and virtualization](#vm) (25)
 * [Command launchers](#launcher) (28)
 * [Dotfile managers](#dotfiles) (5)
-* [Font management](#font) (5)
+* [Font management](#font) (6)
 ## [Communication and Networking](#communication-and-networking-1)
 * [Email](#email) (23)
 * [Chat and instant messaging](#chat) (51)
@@ -1375,6 +1375,7 @@ Utilities to manage system fonts and to generate text using ASCII-art-like chara
 * [FIGlet](http://www.figlet.org/) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
 * [fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/Linux.
 * [Iconic Fonts](https://github.com/iconicFonts/iconic-fonts) - A collection of over 50 patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
+* [sauva](https://github.com/lusingander/sauva) - Terminal Unicode explorer.
 * [toilet](http://caca.zoy.org/wiki/toilet) - Tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, color fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
 
 # <a name="Communication-and-Networking"></a>Communication and Networking
