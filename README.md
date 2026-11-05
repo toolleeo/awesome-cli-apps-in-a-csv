@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2208**
+* Apps/tools: **2209**
 * Categories: **87**
 
 # Contents
@@ -59,7 +59,7 @@ Summary:
 ## [System and Terminal](#system-and-terminal-1)
 * [System tools](#system) (45)
 * [Terminals](#terminal) (14)
-* [Terminal multiplexers and accessories](#terminal-mux) (13)
+* [Terminal multiplexers and accessories](#terminal-mux) (14)
 * [Shells](#shells) (26)
 * [Prompts](#prompt) (14)
 * [Copy/paste and clipboard](#copy-paste) (11)
@@ -1122,6 +1122,7 @@ Terminal emulators and related tools.
 
 Terminal multiplexers and tools or plugin for multiplexers.
 
+* [berthd](https://github.com/takakix2/berthd) - Persistent shell sessions. A small daemon that owns your PTYs, so shells outlive the terminal app.
 * [byobu](http://byobu.co/) - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 * [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
 * [mx](https://gitlab.com/lpireyn/mx) - A tmux session manager written as a single Bash script.
