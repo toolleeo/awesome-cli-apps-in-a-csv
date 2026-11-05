@@ -2207,6 +2207,15 @@ cheatsheet,mdpick,,https://github.com/toolleeo/mdpick,"A terminal user interface
 learning,bashquest,,https://github.com/toolleeo/bashquest,Shell quest (Capture-The-Flag-style): a didactic game to train/teach common Unix shell commands.
 games,cli.poker,https://www.cli.poker,,Multiplayer Texas Hold'em poker played in the terminal over SSH. Just run `ssh cli.poker`.
 git,relnote,https://loki-inu.github.io/relnote/,https://github.com/loki-inu/relnote,Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
+terminal-mux,berthd,,https://github.com/takakix2/berthd,"Persistent shell sessions. A small daemon that owns your PTYs, so shells outlive the terminal app."
+font,sauva,,https://github.com/lusingander/sauva,Terminal Unicode explorer.
+editors,edamame,,https://github.com/mijowi/edamame,A Terminal Markdown editor that stays rendered while you edit.
+graphics,tardigrade,,https://github.com/smoothyy3/tardigrade,A creature of self-healing cells inside your terminal.
+games,chess-analyzer-tui,,https://github.com/leolaurindo/chess-analyzer-tui,"A lightweight chess.com-style analyzer. Runs with any UCI engine. Read games from your favorite chess website, file, stdin or clipboard."
+file-handling,pdfmt,,https://github.com/eifelcode/pdfmt,A command-line multi tool for the PDF tasks you keep doing again and again.
+organizers,chroncal,,https://github.com/DouglasdeMoura/chroncal,"Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage."
+utility,tinhorn,,https://github.com/puradox/tinhorn,"A terminal dice roller: shake the dice, watch em' fly, hear it bounce."
+learning,openleetcode,,https://github.com/therepanic/openleetcode,Terminal interface to exercise on LeetCode tests.
 terminal,zt,https://midasdf.github.io/,https://github.com/midasdf/zt.git,A blazing-fast terminal emulator written in Zig with quad backend support (framebuffer/X11/Wayland/macOS); 73 MB/s throughput and 5.6ms startup in a 2MB binary.
 terminal,zplit,https://midasdf.github.io/,https://github.com/midasdf/zplit.git,A lightweight terminal multiplexer written in Zig; 91KB static binary with session persistence and zellij-style modes.
 system,zephwm,https://midasdf.github.io/,https://github.com/midasdf/zephwm.git,An i3-compatible tiling window manager written in Zig; under 200KB with tree-based container model and multi-monitor support.
