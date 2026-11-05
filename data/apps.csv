@@ -2216,3 +2216,13 @@ file-handling,pdfmt,,https://github.com/eifelcode/pdfmt,A command-line multi too
 organizers,chroncal,,https://github.com/DouglasdeMoura/chroncal,"Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage."
 utility,tinhorn,,https://github.com/puradox/tinhorn,"A terminal dice roller: shake the dice, watch em' fly, hear it bounce."
 learning,openleetcode,,https://github.com/therepanic/openleetcode,Terminal interface to exercise on LeetCode tests.
+programming,zombieports,,https://github.com/ArkaKhorchidian/zombieports,"TUI showing every port listening on your machine, which project started it and how long it has been up, with one key to kill forgotten dev servers."
+system,slowrc,,https://github.com/ArkaKhorchidian/slowrc,"Profiles shell startup line by line to show what makes your .zshrc or .bashrc slow, and applies safe fixes."
+networking,isitthewifi,,https://github.com/ArkaKhorchidian/isitthewifi,"Grades your connection A-F on latency under load, jitter, loss and DNS, and tells you whether the problem is the Wi-Fi, the router, the ISP or DNS."
+networking,whotalks,,https://github.com/ArkaKhorchidian/whotalks,"Watches outbound connections for a minute and groups them by company and app, with a privacy grade."
+security,loosekeys,,https://github.com/ArkaKhorchidian/loosekeys,"Finds API keys and tokens left in plain text on your machine (shell history, .env files, AI tool configs), with masked output."
+security,sketchydeps,,https://github.com/ArkaKhorchidian/sketchydeps,"Checks installed npm and Python packages for known malware, typosquats, brand-new packages and suspicious install-time code."
+security,whoholdsup,,https://github.com/ArkaKhorchidian/whoholdsup,"Reads your lockfile and shows how many dependencies are maintained by one person, unreleased for years, or recently changed hands."
+git,codewrapped,,https://github.com/ArkaKhorchidian/codewrapped,"Year-in-review stats for your commits across every git repo on your machine, with a shareable card."
+history,shellwrapped,,https://github.com/ArkaKhorchidian/shellwrapped,"Year-in-review stats from your shell history: top commands, typos, late-night sessions, with a shareable card."
+online,subwaytop,,https://github.com/ArkaKhorchidian/subwaytop,"Every NYC subway train, live, on a map in the terminal, with station departure boards and service alerts."
