@@ -2211,3 +2211,4 @@ terminal-mux,berthd,,https://github.com/takakix2/berthd,"Persistent shell sessio
 font,sauva,,https://github.com/lusingander/sauva,Terminal Unicode explorer.
 editors,edamame,,https://github.com/mijowi/edamame,A Terminal Markdown editor that stays rendered while you edit.
 graphics,tardigrade,,https://github.com/smoothyy3/tardigrade,A creature of self-healing cells inside your terminal.
+games,chess-analyzer-tui,,https://github.com/leolaurindo/chess-analyzer-tui,"A lightweight chess.com-style analyzer. Runs with any UCI engine. Read games from your favorite chess website, file, stdin or clipboard."

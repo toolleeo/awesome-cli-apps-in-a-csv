@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2212**
+* Apps/tools: **2213**
 * Categories: **87**
 
 # Contents
@@ -115,7 +115,7 @@ Summary:
 * [Learning and didactic tools](#learning) (9)
 * [Anki, decks and flashcards](#flashcard) (10)
 * [Typing test and practice](#typing) (21)
-* [Games](#games) (100)
+* [Games](#games) (101)
 * [Funny tools](#funny) (23)
 * [Religion](#religion) (6)
 * [Science](#science) (21)
@@ -2642,6 +2642,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Open source turn-based survival RPG development project.
 * [Cemetery Escape](https://github.com/tom-on-the-internet/cemetery-escape) - A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts.
 * [cheezee](https://github.com/detectivekaktus/cheezee) - Chess TUI client built for Linux.
+* [chess-analyzer-tui](https://github.com/leolaurindo/chess-analyzer-tui) - A lightweight chess.com-style analyzer. Runs with any UCI engine. Read games from your favorite chess website, file, stdin or clipboard.
 * [chess-tui](https://github.com/thomas-mauran/chess-tui) - Play chess from your terminal.
 * [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.
 * [cli-chess](https://github.com/trevorbayless/cli-chess) - A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
