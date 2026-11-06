@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2217**
+* Apps/tools: **2218**
 * Categories: **87**
 
 # Contents
@@ -39,7 +39,7 @@ Summary:
 * [File watching for changes](#file-watch) (8)
 * [File renamers](#file-renamer) (15)
 * [File systems](#file-system) (4)
-* [File format converters](#conversion) (17)
+* [File format converters](#conversion) (18)
 ## [Text and Data Processing](#text-and-data-processing-1)
 * [Text processing](#text-processing) (58)
 * [Data management](#data-management) (18)
@@ -491,6 +491,7 @@ Utilities to convert different types of files.
 
 * [antiword](https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/) - Reader and converted for the proprietary MS .doc file format.
 * [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
+* [carta](https://github.com/mfkrause/carta) - A universal document converter written in Rust. Read a markup format, render it back out in another. A fast, lightweight reimplementation of pandoc.
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Convert Microsoft Word files to plain text; output is sent to the standard output.
 * [hecat](https://gitlab.com/nodiscc/hecat) - A generic automation tool around data stored as plain-text YAML files.
 * [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
