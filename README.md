@@ -1,3 +1,7 @@
+**NOTE ON AI USAGE AND SLOP PROGRAMS**: the use of AI tools significantly increased the amount of programs that are submitted to this Awesome List. Among worthy programs, there are many slop and poorly engineered programs, usually completely vibe coded, tools that add no value to existing consolidated ones, programs that address too specific problem to be of general interest, or programs that are likely the result of a mere experimentation with AI tools and which will probably not be maintained or further developed.
+
+For this reasons, please expect delays in the evaluation of your request to include a new program. I am not against the use of AI tools for development, but this makes really hard the judging of the quality of a new program and thus its inclusion in the list. To increase the change to get the program included in the list, an objective evaluation of why the submitted program differs from any similar programs would help.
+
 # Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
@@ -10,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2208**
+* Apps/tools: **2217**
 * Categories: **87**
 
 # Contents
@@ -30,7 +34,7 @@ Summary:
 ## [File and Filesystem Management](#file-and-filesystem-management-1)
 * [File managers](#file-manager) (27)
 * [File explorer and tree visualization](#file-explorer) (11)
-* [File and file system handling](#file-handling) (30)
+* [File and file system handling](#file-handling) (31)
 * [Backup](#backup) (20)
 * [File watching for changes](#file-watch) (8)
 * [File renamers](#file-renamer) (15)
@@ -44,7 +48,7 @@ Summary:
 * [Fuzzy finders and option pickers](#option-picker) (18)
 * [Markdown](#markdown) (9)
 ## [Development and Programming](#development-and-programming-1)
-* [Editors](#editors) (32)
+* [Editors](#editors) (33)
 * [Git and accessories](#git) (81)
 * [Versioning](#versioning) (9)
 * [Programming](#programming) (75)
@@ -55,7 +59,7 @@ Summary:
 ## [System and Terminal](#system-and-terminal-1)
 * [System tools](#system) (45)
 * [Terminals](#terminal) (14)
-* [Terminal multiplexers and accessories](#terminal-mux) (13)
+* [Terminal multiplexers and accessories](#terminal-mux) (14)
 * [Shells](#shells) (26)
 * [Prompts](#prompt) (14)
 * [Copy/paste and clipboard](#copy-paste) (11)
@@ -65,7 +69,7 @@ Summary:
 * [Containerization and virtualization](#vm) (25)
 * [Command launchers](#launcher) (28)
 * [Dotfile managers](#dotfiles) (5)
-* [Font management](#font) (5)
+* [Font management](#font) (6)
 ## [Communication and Networking](#communication-and-networking-1)
 * [Email](#email) (23)
 * [Chat and instant messaging](#chat) (51)
@@ -80,7 +84,7 @@ Summary:
 * [Todo managers](#todo-manager) (43)
 * [Time trackers](#time-tracker) (29)
 * [Note taking](#note-taking) (34)
-* [Organizers and calendars](#organizers) (22)
+* [Organizers and calendars](#organizers) (23)
 * [Financial tools](#financial) (25)
 ## [Productivity](#productivity-1)
 * [AI / LLM integration](#ai) (48)
@@ -92,7 +96,7 @@ Summary:
 * [Commands cheatsheet and snippets](#cheatsheet) (33)
 * [AI terminal command generator](#ai-cli-commands) (16)
 ## [Media and Creative](#media-and-creative-1)
-* [Graphics](#graphics) (53)
+* [Graphics](#graphics) (54)
 * [Video](#video) (15)
 * [Sound and music](#music) (53)
 * [Music players](#audio-player) (20)
@@ -105,13 +109,13 @@ Summary:
 * [Security](#security) (25)
 * [Password managers](#password-manager) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
-* [Utilities](#utility) (46)
+* [Utilities](#utility) (47)
 * [Weather](#weather) (6)
 ## [Learning and Leisure](#learning-and-leisure-1)
-* [Learning and didactic tools](#learning) (9)
+* [Learning and didactic tools](#learning) (10)
 * [Anki, decks and flashcards](#flashcard) (10)
 * [Typing test and practice](#typing) (21)
-* [Games](#games) (100)
+* [Games](#games) (101)
 * [Funny tools](#funny) (23)
 * [Religion](#religion) (6)
 * [Science](#science) (21)
@@ -208,7 +212,7 @@ Programs to replace or improve the management of command line history.
 
 Calculation of diffs between files and data, even with context or semantic awareness (i.e., considering the meaning of the data).
 
-* [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files
+* [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files.
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human-readable instead of machine-readable.
 * [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
@@ -310,9 +314,9 @@ Programs to list and monitor currently running processes; alternatives to the `t
 
 Find/remove duplicate files, automatically organize files, etc..
 
-* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
+* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files.
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, PDFs, images, etc.
-* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
+* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer.
 * [detox](https://github.com/dharple/detox) - Easily clean up filenames; it replaces characters like spaces with standard equivalents and UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
 * [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 * [doggo](https://github.com/0nsh/doggo) - CLI tool that uses AI to help you search for and organize images using natural language queries (instead of remembering filenames, you can describe what you're looking for).
@@ -340,12 +344,12 @@ Applications for interactively managing files and directories.
 * [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
 * [Far2l](https://github.com/elfmz/far2l) - Linux port of Far v2 file manager.
 * [felix](https://github.com/kyoheiu/felix) - TUI file manager with vim-like key mapping
-* [fman](https://github.com/nore-dev/fman) - TUI File Manager
+* [fman](https://github.com/nore-dev/fman) - TUI file manager written in Go with mouse support, file preview, syntax highlighting and support for themes.
 * [fml](https://github.com/wick3dr0se/fml) - Simple and fast file manager written in BASH.
 * [fzfm](https://github.com/ashish0kumar/fzfm) - A command-line fuzzy finder file manager.
 * [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
-* [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
-* [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
+* [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in Rust with support for tabs, multi-file selection, cd to last directory, slide up animations and minibuffer with completion.
+* [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Go with fuzzy search, tabs bulk rename, file preview, exit to current directory, themes and trash support.
 * [lf](https://github.com/gokcehan/lf) - lf (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
 * [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) - a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
 * [Midnight Commander](http://www.midnight-commander.org/) - A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
@@ -401,13 +405,14 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [logrotate](https://github.com/logrotate/logrotate) - Rotate, compress and mail logs.
 * [ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
+* [pdfmt](https://github.com/eifelcode/pdfmt) - A command-line multi tool for the PDF tasks you keep doing again and again.
 * [progress](https://github.com/Xfennec/progress) - Monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses a ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
 * [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar.
 * [qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC.
 * [Snoop](https://github.com/Mandrew0822/Snoop) - A command-line utility for Linux that provides information about files in a directory.
 * [symlinks](https://github.com/brandt/symlinks) - Symlinks is a simple tool that helps find and remedy problematic symbolic links on a system.
 * [treegen](https://github.com/bilbilak/treegen) - ASCII tree directory and file structure generator.
-* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
+* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers.
 * [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 * [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
 * [xcp](https://github.com/tarka/xcp) - Extended cp.
@@ -732,6 +737,7 @@ Text editors.
 * [C-EDIT](https://github.com/velorek1/c-edit) - A text editor in C with drop down menus in the style of MS-DOS Editor.
 * [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard" keybindings and several advanced features; written in Ruby.
 * [ed](https://www.gnu.org/software/ed/) - GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts.
+* [edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit.
 * [edit](https://github.com/microsoft/edit) - This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code.
 * [Emacs](https://www.gnu.org/software/emacs/) - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
@@ -1118,6 +1124,7 @@ Terminal emulators and related tools.
 
 Terminal multiplexers and tools or plugin for multiplexers.
 
+* [berthd](https://github.com/takakix2/berthd) - Persistent shell sessions. A small daemon that owns your PTYs, so shells outlive the terminal app.
 * [byobu](http://byobu.co/) - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 * [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
 * [mx](https://gitlab.com/lpireyn/mx) - A tmux session manager written as a single Bash script.
@@ -1370,6 +1377,7 @@ Utilities to manage system fonts and to generate text using ASCII-art-like chara
 * [FIGlet](http://www.figlet.org/) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
 * [fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/Linux.
 * [Iconic Fonts](https://github.com/iconicFonts/iconic-fonts) - A collection of over 50 patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
+* [sauva](https://github.com/lusingander/sauva) - Terminal Unicode explorer.
 * [toilet](http://caca.zoy.org/wiki/toilet) - Tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, color fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
 
 # <a name="Communication-and-Networking"></a>Communication and Networking
@@ -1379,7 +1387,7 @@ Utilities to manage system fonts and to generate text using ASCII-art-like chara
 Email clients (MUA - Mail User Agents), mail synchronization, generation indexing and search.
 
 * [abook](https://abook.sourceforge.io/) - TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes).
-* [aerc](https://aerc-mail.org/) - A pretty good email client
+* [aerc](https://aerc-mail.org/) - A pretty good email client, with support for editing emails in an embedded terminal tmux-style, render HTML emails with an interactive terminal web browser, first-class support for working with git and email, support for multiple accounts, with IMAP, Maildir, Notmuch, Mbox and JMAP backends, and much more.
 * [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.
 * [alpine](http://www.washington.edu/alpine/) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
 * [gmailtail](https://github.com/c4pt0r/gmailtail) - Command-line tool to monitor Gmail messages and output the as JSON; The program in designed for automation, monitoring and integration with other tools.
@@ -1852,6 +1860,7 @@ Calendar and appointment managers.
 * [Calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with customizable interface.
 * [calcurse](https://calcurse.org/) - A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.
 * [caldr](https://github.com/mrusme/caldr) - A lightweight CLI / TUI calendar that supports CalDAV.
+* [chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage.
 * [gcalcli](https://github.com/insanum/gcalcli) - Access Google Calendars; supports the main tasks: create, delete, and list events.
 * [Girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler.
 * [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt. It can be used from Mutt the same way as abook.
@@ -2170,6 +2179,7 @@ Applications to process images, colors, and ASCII art.
 * [scrot](https://github.com/dreamer/scrot) - SCReenshot - simple screenshot tool. Main features: window and retangular area capturing export to PNG JPG GIF and others.
 * [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 * [svgshift](https://github.com/10xJSChad/svgshift) - Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
+* [tardigrade](https://github.com/smoothyy3/tardigrade) - A creature of self-healing cells inside your terminal.
 * [TermImg](https://github.com/srlehn/termimg) - termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
 * [TerrainGenerator](https://github.com/NM711/TerrainGenerator) - 2D Terrain Generator to create procedural 2D worlds and maps.
 * [textual-paint](https://github.com/1j01/textual-paint) - MS Paint in your terminal (TUI).
@@ -2374,7 +2384,7 @@ File viewers for images and other formats (e.g., e-books).
 * [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
 * [timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 * [treepp](https://github.com/terroo/treepp) - The `tree` command with icons made with Modern C++.
-* [TubiTui](https://codeberg.org/777/TubiTui.git) - A lightweight, libre, TUI-based YouTube client
+* [TubiTui](https://codeberg.org/777/TubiTui.git) - A lightweight, libre, TUI-based YouTube client.
 * [ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [vv](https://github.com/wolfpld/vv) - A terminal image viewer, supporting an extensive range of modern image formats.
@@ -2540,6 +2550,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [tab-pal](https://github.com/ben-n93/tab-pal) - A command-line app that makes it easier to add and edit custom colour palettes in Tableau.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [tickrs](https://github.com/tarkah/tickrs) - Real-time ticker data in your terminal.
+* [tinhorn](https://github.com/puradox/tinhorn) - A terminal dice roller: shake the dice, watch em' fly, hear it bounce.
 * [tmux-fingers](https://github.com/morantron/tmux-fingers) - Copy-pasting in terminal with vimium/vimperator like hints.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
 * [Various Scripts](https://github.com/xkcd386at/scripts) - Various script, mainly in shell and Perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf.
@@ -2570,6 +2581,7 @@ Programs that support learning and teaching about an argument.
 * [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
 * [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
+* [openleetcode](https://github.com/therepanic/openleetcode) - Terminal interface to exercise on LeetCode tests.
 * [ShellKit](https://github.com/pokeyaro/shellkit) - Unix-like educational terminal toolkit consisting of: Libc (simulation of syscall, write, printf and more) and Pysh (interactive shell).
 * [TUI apps](https://github.com/learnbyexample/TUI-apps) - A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc.
 * [wb](https://github.com/MertGunduz/wb) - A TUI vocabulary notebook app for Linux based devices.
@@ -2634,6 +2646,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Open source turn-based survival RPG development project.
 * [Cemetery Escape](https://github.com/tom-on-the-internet/cemetery-escape) - A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts.
 * [cheezee](https://github.com/detectivekaktus/cheezee) - Chess TUI client built for Linux.
+* [chess-analyzer-tui](https://github.com/leolaurindo/chess-analyzer-tui) - A lightweight chess.com-style analyzer. Runs with any UCI engine. Read games from your favorite chess website, file, stdin or clipboard.
 * [chess-tui](https://github.com/thomas-mauran/chess-tui) - Play chess from your terminal.
 * [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.
 * [cli-chess](https://github.com/trevorbayless/cli-chess) - A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
