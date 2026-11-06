@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2219**
+* Apps/tools: **2220**
 * Categories: **87**
 
 # Contents
@@ -103,7 +103,7 @@ Summary:
 * [Animation](#animation) (44)
 * [Viewers](#viewers) (49)
 * [Screen savers](#screensaver) (7)
-* [Screen recorder](#screen-recorder) (12)
+* [Screen recorder](#screen-recorder) (13)
 ## [Security and Package Management](#security-and-package-management-1)
 * [Ciphering and steganography](#crypto) (17)
 * [Security](#security) (25)
@@ -2411,6 +2411,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 
 * [agg](https://github.com/asciinema/agg) - agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+* [evp](https://github.com/HalFrgrd/evp) - A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
 * [goscript](https://github.com/elisescu/goscript) - Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained HTML file that can be run in the browser, to playback the session.
 * [rewindtty](https://github.com/debba/rewindtty) - A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.
 * [t-rec](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated GIF images for the web written in rust.
