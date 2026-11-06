@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2220**
+* Apps/tools: **2221**
 * Categories: **87**
 
 # Contents
@@ -53,7 +53,7 @@ Summary:
 * [Versioning](#versioning) (9)
 * [Programming](#programming) (76)
 * [Program templates and boilerplate](#programming-boilerplate) (13)
-* [DevOps](#devops) (22)
+* [DevOps](#devops) (23)
 * [Web development](#webdev) (37)
 * [Co-pilot](#copilot) (12)
 ## [System and Terminal](#system-and-terminal-1)
@@ -974,6 +974,7 @@ Applications for supporting DevOps tasks, such as containers or cloud systems ma
 * [Ducker](https://github.com/robertpsoane/ducker) - TUI for managing docker containers.
 * [E1S](https://github.com/keidarcy/e1s) - TUI for browsing and managing AWS ECS resources.
 * [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) - Tool for visualizing dynamic node usage within a kubernetes cluster.
+* [flisk](https://github.com/flisk-sh/flisk) - Run every part of your app (API, website, workers, AI agents, database) on your computer with one command, Docker optional.
 * [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [KDash](https://github.com/kdash-rs/kdash) - A simple and fast terminal dashboard for Kubernetes.
 * [ktop](https://github.com/vladimirvivien/ktop) - Tool that displays useful metrics information about nodes, pods, and other workload.
