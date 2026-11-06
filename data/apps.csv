@@ -1521,6 +1521,7 @@ system,dtui,,https://github.com/Troels51/dtui,Small TUI for introspecting the st
 webdev,posting,,https://github.com/darrenburns/posting,"The modern API client that lives in your terminal, not unlike Postman and Insomnia."
 ai,parllama,,https://github.com/paulrobello/parllama,TUI designed for easy management and use of Ollama based LLMs.
 financial,mop,,https://github.com/mop-tracker/mop,Stock market tracker for hackers.
+financial,alphai-tui,https://alphai.io/tui,https://github.com/makeev/alphai-tui,Terminal stock dashboard with live quotes and candlestick charts next to AI-scored news and SEC Form 4 insider filings.
 ai,cai,,https://github.com/ad-si/cai,The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
 editors,aretext,,https://github.com/aretext/aretext,Minimalist text editor with vim-compatible key bindings.
 monitor,nitchplusplus,,https://github.com/clamsfeel2/nitchplusplus,A fast system information fetch tool.
