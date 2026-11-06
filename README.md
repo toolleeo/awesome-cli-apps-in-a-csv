@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2218**
+* Apps/tools: **2219**
 * Categories: **87**
 
 # Contents
@@ -51,7 +51,7 @@ Summary:
 * [Editors](#editors) (33)
 * [Git and accessories](#git) (81)
 * [Versioning](#versioning) (9)
-* [Programming](#programming) (75)
+* [Programming](#programming) (76)
 * [Program templates and boilerplate](#programming-boilerplate) (13)
 * [DevOps](#devops) (22)
 * [Web development](#webdev) (37)
@@ -902,6 +902,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool for generating regular expressions from user-provided test cases.
 * [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install" with goroutines.
+* [hdi](https://github.com/grega/hdi) - Summarise how to install / run / test a project, from its README.
 * [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 * [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
