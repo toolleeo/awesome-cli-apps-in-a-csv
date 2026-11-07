@@ -1378,6 +1378,7 @@ transfer,zrok,,https://github.com/openziti/zrok,"Geo-scale, next-generation peer
 password-manager,tresor,,https://github.com/Zaphoood/tresor,A KeePass TUI written in Go using Bubble Tea.
 password-manager,kpxhs,,https://github.com/akazukin5151/kpxhs,Interactive KeePass database TUI viewer written in Haskell.
 ai,ollama,https://ollama.com/,https://github.com/ollama/ollama,Get up and running with large language models locally.
+ai,OrcaReplay,,https://github.com/Continuum-AI-Corp/OrcaReplay,"Records a coding-agent session from outside the agent process and replays it offline with the network off, or forks it from a checkpoint onto a different model."
 flashcard,mdfc,,https://github.com/bttger/markdown-flashcards,Easily create and study flashcards using a Markdown file with spaced repetition.
 file-handling,logrotate,,https://github.com/logrotate/logrotate,"Rotate, compress and mail logs."
 cd,enhancd,,https://github.com/babarot/enhancd,A next-generation cd command with your interactive filter.
