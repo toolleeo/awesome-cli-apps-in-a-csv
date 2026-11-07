@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2220**
+* Apps/tools: **2221**
 * Categories: **87**
 
 # Contents
@@ -81,7 +81,7 @@ Summary:
 * [Web browser](#browser) (19)
 * [Online search and resources](#online) (39)
 ## [Personal Information Management](#personal-information-management-1)
-* [Todo managers](#todo-manager) (43)
+* [Todo managers](#todo-manager) (44)
 * [Time trackers](#time-tracker) (29)
 * [Note taking](#note-taking) (34)
 * [Organizers and calendars](#organizers) (23)
@@ -1748,6 +1748,7 @@ Todo list and task managers.
 * [judo](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite.
 * [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings.
 * [kanban-python](https://github.com/Zaloog/kanban-python) - Kanban Terminal App written in Python.
+* [mado](https://github.com/laserattack/mado2) - A command-line organizer for tasks, notes, and other Markdown entries. Each entry lives in its own directory, so it can include attachments alongside MAIN.md. Use queries to filter entries by metadata, then sort and format the results for your editor or scripts.
 * [mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker.
 * [mdt](https://github.com/basilioss/mdt) - A simple command-line Markdown todo list manager inspired by t.
 * [memo](https://www.byteptr.com/memo/) - Memo is a Unix-style note-taking software for POSIX compatible systems.
