@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2217**
+* Apps/tools: **2220**
 * Categories: **87**
 
 # Contents
@@ -39,7 +39,7 @@ Summary:
 * [File watching for changes](#file-watch) (8)
 * [File renamers](#file-renamer) (15)
 * [File systems](#file-system) (4)
-* [File format converters](#conversion) (17)
+* [File format converters](#conversion) (18)
 ## [Text and Data Processing](#text-and-data-processing-1)
 * [Text processing](#text-processing) (58)
 * [Data management](#data-management) (18)
@@ -51,7 +51,7 @@ Summary:
 * [Editors](#editors) (33)
 * [Git and accessories](#git) (81)
 * [Versioning](#versioning) (9)
-* [Programming](#programming) (75)
+* [Programming](#programming) (76)
 * [Program templates and boilerplate](#programming-boilerplate) (13)
 * [DevOps](#devops) (22)
 * [Web development](#webdev) (37)
@@ -103,7 +103,7 @@ Summary:
 * [Animation](#animation) (44)
 * [Viewers](#viewers) (49)
 * [Screen savers](#screensaver) (7)
-* [Screen recorder](#screen-recorder) (12)
+* [Screen recorder](#screen-recorder) (13)
 ## [Security and Package Management](#security-and-package-management-1)
 * [Ciphering and steganography](#crypto) (17)
 * [Security](#security) (25)
@@ -491,6 +491,7 @@ Utilities to convert different types of files.
 
 * [antiword](https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/) - Reader and converted for the proprietary MS .doc file format.
 * [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
+* [carta](https://github.com/mfkrause/carta) - A universal document converter written in Rust. Read a markup format, render it back out in another. A fast, lightweight reimplementation of pandoc.
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Convert Microsoft Word files to plain text; output is sent to the standard output.
 * [hecat](https://gitlab.com/nodiscc/hecat) - A generic automation tool around data stored as plain-text YAML files.
 * [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
@@ -901,6 +902,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool for generating regular expressions from user-provided test cases.
 * [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install" with goroutines.
+* [hdi](https://github.com/grega/hdi) - Summarise how to install / run / test a project, from its README.
 * [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 * [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
@@ -2409,6 +2411,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 
 * [agg](https://github.com/asciinema/agg) - agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+* [evp](https://github.com/HalFrgrd/evp) - A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
 * [goscript](https://github.com/elisescu/goscript) - Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained HTML file that can be run in the browser, to playback the session.
 * [rewindtty](https://github.com/debba/rewindtty) - A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.
 * [t-rec](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated GIF images for the web written in rust.
