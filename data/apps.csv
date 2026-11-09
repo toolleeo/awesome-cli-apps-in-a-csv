@@ -2220,3 +2220,4 @@ conversion,carta,,https://github.com/mfkrause/carta,"A universal document conver
 programming,hdi,,https://github.com/grega/hdi,"Summarise how to install / run / test a project, from its README."
 screen-recorder,evp,,https://github.com/HalFrgrd/evp,A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
 todo-manager,mado,,https://github.com/laserattack/mado2,"A command-line organizer for tasks, notes, and other Markdown entries. Each entry lives in its own directory, so it can include attachments alongside MAIN.md. Use queries to filter entries by metadata, then sort and format the results for your editor or scripts."
+copy-paste,pbj,https://github.com/the-inconvenience-store/pbj,https://github.com/the-inconvenience-store/pbj.git,"Enriched macOS clipboard commands for copying and extracting rich text, images, arbitrary pasteboard types, and file references."
