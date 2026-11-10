@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2222**
+* Apps/tools: **2223**
 * Categories: **87**
 
 # Contents
@@ -41,7 +41,7 @@ Summary:
 * [File systems](#file-system) (4)
 * [File format converters](#conversion) (18)
 ## [Text and Data Processing](#text-and-data-processing-1)
-* [Text processing](#text-processing) (58)
+* [Text processing](#text-processing) (59)
 * [Data management](#data-management) (18)
 * [Data management - JSON/YAML/etc.](#data-management-json) (47)
 * [Data management - Tabular data](#data-management-tabular) (36)
@@ -560,6 +560,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [ssam](https://github.com/proycon/ssam) - Ssam, short for split sampler, splits one or more text-based input files into multiple sets using random sampling. This is useful for splitting data into a training, test and development sets.
 * [stam-tools](https://github.com/annotation/stam-tools) - A collection of command-line tools for working with STAM, a data-model for stand-off annotations on text.
 * [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.
+* [TeXicode](https://github.com/dxddxx/TeXicode) - TeX to Unicode, a Unicode TeX renderer that renders TeX into Unicode by rendering the TeX.
 * [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes.
 * [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes.
 * [toc](https://github.com/AlphaJack/toc) - Generate a table of contents from the comments of a file.
