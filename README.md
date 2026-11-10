@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2223**
+* Apps/tools: **2225**
 * Categories: **87**
 
 # Contents
@@ -87,7 +87,7 @@ Summary:
 * [Organizers and calendars](#organizers) (23)
 * [Financial tools](#financial) (25)
 ## [Productivity](#productivity-1)
-* [AI / LLM integration](#ai) (48)
+* [AI / LLM integration](#ai) (49)
 * [Productivity](#productivity) (19)
 * [Office tools](#office) (23)
 * [Writing](#writing) (12)
@@ -110,7 +110,7 @@ Summary:
 * [Password managers](#password-manager) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
 * [Utilities](#utility) (47)
-* [Weather](#weather) (6)
+* [Weather](#weather) (7)
 ## [Learning and Leisure](#learning-and-leisure-1)
 * [Learning and didactic tools](#learning) (10)
 * [Anki, decks and flashcards](#flashcard) (10)
@@ -1962,6 +1962,7 @@ Interfaces and front-ends to LLM engines and other tools powered by artificial i
 * [parllama](https://github.com/paulrobello/parllama) - TUI designed for easy management and use of Ollama based LLMs.
 * [safespace](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 * [savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge.
+* [shell_sage](https://github.com/AnswerDotAI/shell_sage) - AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system.
 * [tenere](https://github.com/pythops/tenere) - A TUI for LLMs (ChatGPT, llama_cpp, ollama) written in Rust.
 * [termite](https://github.com/shobrook/termite) - Generative UI in your terminal.
 * [unibear](https://github.com/kamilmac/unibear) - A lean TUI AI assistant.
@@ -2571,6 +2572,7 @@ Information about the weather, fetched from the Internet.
 * [Aniweather](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
 * [gust](https://github.com/josephburgess/gust) - Command line weather app written in Go.
 * [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
+* [rustormy](https://github.com/Tairesh/rustormy) - Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes.
 * [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
