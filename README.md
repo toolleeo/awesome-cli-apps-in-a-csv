@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2221**
+* Apps/tools: **2222**
 * Categories: **87**
 
 # Contents
@@ -74,7 +74,7 @@ Summary:
 * [Email](#email) (23)
 * [Chat and instant messaging](#chat) (51)
 * [Networking](#networking) (87)
-* [Connection managers](#connection-manager) (12)
+* [Connection managers](#connection-manager) (13)
 * [Data transfer](#transfer) (47)
 * [Torrent](#torrent) (10)
 * [RSS](#rss) (12)
@@ -1564,6 +1564,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 
 Manage Bluetooth and Wifi networks, and SSH connections.
 
+* [bayesian-ssh](https://github.com/abdoufermat5/bayesian-ssh) - SSH session manager for the terminal and the desktop: fuzzy, usage-ranked search, bastions, Kerberos, file transfer, and bssh Teams for end-to-end encrypted sharing.
 * [bluetui](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 * [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - TUI for Mac to interact with bluetooth devices via blueutil.
