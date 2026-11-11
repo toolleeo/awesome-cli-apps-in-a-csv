@@ -1,6 +1,6 @@
-**NOTE ON AI USAGE AND SLOP PROGRAMS**: the use of AI tools significantly increased the amount of programs that are submitted to this Awesome List. Among worthy programs, there are many slop and poorly engineered programs, usually completely vibe coded, tools that add no value to existing consolidated ones, programs that address too specific problem to be of general interest, or programs that are likely the result of a mere experimentation with AI tools and which will probably not be maintained or further developed.
+**NOTE ON AI USAGE AND SLOP PROGRAMS**: the use of AI tools significantly increased the amount of programs that are submitted to this Awesome List. Among worthy programs, there are many slop and poorly engineered programs, usually completely vibe coded, tools that add no value to existing consolidated ones, programs that address too specific problems to be of general interest, or programs that are likely the result of a mere experimentation with AI tools and which will probably not be maintained or further developed.
 
-For this reasons, please expect delays in the evaluation of your request to include a new program. I am not against the use of AI tools for development, but this makes really hard the judging of the quality of a new program and thus its inclusion in the list. To increase the change to get the program included in the list, an objective evaluation of why the submitted program differs from any similar programs would help.
+For this reasons, please expect delays in the evaluation of your request to include a new program. I am not against the use of AI tools for development, but this makes really hard the judgement of the quality of a new program and thus its inclusion in the list. To increase the chance to get the program included in the list, an objective evaluation of why the submitted program differs from any similar programs would help.
 
 # Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -14,7 +14,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2221**
+* Apps/tools: **2226**
 * Categories: **87**
 
 # Contents
@@ -41,7 +41,7 @@ Summary:
 * [File systems](#file-system) (4)
 * [File format converters](#conversion) (18)
 ## [Text and Data Processing](#text-and-data-processing-1)
-* [Text processing](#text-processing) (58)
+* [Text processing](#text-processing) (59)
 * [Data management](#data-management) (18)
 * [Data management - JSON/YAML/etc.](#data-management-json) (47)
 * [Data management - Tabular data](#data-management-tabular) (36)
@@ -68,13 +68,13 @@ Summary:
 * [Package managers](#package-manager) (25)
 * [Containerization and virtualization](#vm) (25)
 * [Command launchers](#launcher) (28)
-* [Dotfile managers](#dotfiles) (5)
+* [Dotfile managers](#dotfiles) (6)
 * [Font management](#font) (6)
 ## [Communication and Networking](#communication-and-networking-1)
 * [Email](#email) (23)
 * [Chat and instant messaging](#chat) (51)
 * [Networking](#networking) (87)
-* [Connection managers](#connection-manager) (12)
+* [Connection managers](#connection-manager) (13)
 * [Data transfer](#transfer) (47)
 * [Torrent](#torrent) (10)
 * [RSS](#rss) (12)
@@ -87,7 +87,7 @@ Summary:
 * [Organizers and calendars](#organizers) (23)
 * [Financial tools](#financial) (25)
 ## [Productivity](#productivity-1)
-* [AI / LLM integration](#ai) (48)
+* [AI / LLM integration](#ai) (49)
 * [Productivity](#productivity) (19)
 * [Office tools](#office) (23)
 * [Writing](#writing) (12)
@@ -110,7 +110,7 @@ Summary:
 * [Password managers](#password-manager) (25)
 ## [Utilities and Miscellaneous](#utilities-and-miscellaneous-1)
 * [Utilities](#utility) (47)
-* [Weather](#weather) (6)
+* [Weather](#weather) (7)
 ## [Learning and Leisure](#learning-and-leisure-1)
 * [Learning and didactic tools](#learning) (10)
 * [Anki, decks and flashcards](#flashcard) (10)
@@ -560,6 +560,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [ssam](https://github.com/proycon/ssam) - Ssam, short for split sampler, splits one or more text-based input files into multiple sets using random sampling. This is useful for splitting data into a training, test and development sets.
 * [stam-tools](https://github.com/annotation/stam-tools) - A collection of command-line tools for working with STAM, a data-model for stand-off annotations on text.
 * [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.
+* [TeXicode](https://github.com/dxddxx/TeXicode) - TeX to Unicode, a Unicode TeX renderer that renders TeX into Unicode by rendering the TeX.
 * [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes.
 * [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes.
 * [toc](https://github.com/AlphaJack/toc) - Generate a table of contents from the comments of a file.
@@ -1367,6 +1368,7 @@ Tools to handle, backup and share system dotfiles.
 
 * [chezmoi](https://www.chezmoi.io/) - Manage your dotfiles across multiple diverse machines, securely.
 * [dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles.
+* [dudu](https://github.com/fontnelle/dudu) - Back up your whole dev setup in one command and restore it on a new machine in another: packages, runtimes, dotfiles and terminal, on macOS, Linux and Windows.
 * [fyora](https://github.com/wenbang24/fyora) - Intuitive declarative dotfile management.
 * [YAS-BDSM](https://github.com/sebastiancarlos/yas-bdsm) - YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager.
 * [ydf](https://github.com/yunielrc/ydf) - A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
@@ -1564,6 +1566,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 
 Manage Bluetooth and Wifi networks, and SSH connections.
 
+* [bayesian-ssh](https://github.com/abdoufermat5/bayesian-ssh) - SSH session manager for the terminal and the desktop: fuzzy, usage-ranked search, bastions, Kerberos, file transfer, and bssh Teams for end-to-end encrypted sharing.
 * [bluetui](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 * [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - TUI for Mac to interact with bluetooth devices via blueutil.
@@ -1960,6 +1963,7 @@ Interfaces and front-ends to LLM engines and other tools powered by artificial i
 * [parllama](https://github.com/paulrobello/parllama) - TUI designed for easy management and use of Ollama based LLMs.
 * [safespace](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 * [savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge.
+* [shell_sage](https://github.com/AnswerDotAI/shell_sage) - AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system.
 * [tenere](https://github.com/pythops/tenere) - A TUI for LLMs (ChatGPT, llama_cpp, ollama) written in Rust.
 * [termite](https://github.com/shobrook/termite) - Generative UI in your terminal.
 * [unibear](https://github.com/kamilmac/unibear) - A lean TUI AI assistant.
@@ -2569,6 +2573,7 @@ Information about the weather, fetched from the Internet.
 * [Aniweather](https://github.com/miselume/aniweather) - Aniweather is a simple console weather app featuring cute ASCII art of an anime girl.
 * [gust](https://github.com/josephburgess/gust) - Command line weather app written in Go.
 * [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
+* [rustormy](https://github.com/Tairesh/rustormy) - Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes.
 * [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
