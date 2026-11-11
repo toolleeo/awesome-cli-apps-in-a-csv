@@ -1343,6 +1343,7 @@ networking,havn,,https://github.com/mrjackwills/havn,A fast configurable port sc
 viewers,hnterm,,https://github.com/ggerganov/hnterm,Hacker News in the terminal.
 networking,humble-explorer,,https://github.com/koenvervloesem/humble-explorer,"Cross-platform, command-line and human-friendly Bluetooth Low Energy scanner."
 online,jira-cli,,https://github.com/ankitpokhrel/jira-cli,Feature-rich interactive Jira command line.
+online,jiratui,https://jiratui.sh/,https://github.com/whyisdifficult/jiratui,"A Textual User Interface for interacting with Atlassian Jira from your shell"
 file-explorer,kupo,,https://github.com/darrenburns/kupo,"A terminal file browser, kupo!"
 text-processing,logshark,,https://github.com/ugosan/logshark,Logshark is a debugger CLI for JSON logs written in Go.
 email,meli,,https://github.com/meli/meli,Terminal mail client.
