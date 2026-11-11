@@ -181,6 +181,7 @@ transfer,rsync,https://download.samba.org/pub/rsync/rsync.html,https://github.co
 transfer,sitecopy,http://www.manyfish.co.uk/sitecopy/,,"Synchronizes a local copy of a website with a remote copy on a server, does not use SSH/`scp` but FTP for file copy, useful when the remote server does not support secure copy."
 transfer,stftp,http://stftp.sourceforge.net/,https://sourceforge.net/projects/stftp,"(simple terminal FTP) aims to be an ""easy-to-use and unbloated client for the UNIX (and UNIX-like) console""."
 transfer,Woof,http://www.home.unix-ag.org/simon/woof.html,https://github.com/simon-budig/woof,(Web Offer One File) sets up an HTTP webserver to serve files from a given local directory all the users connected to the network can see and download the files.
+transfer,xfer,https://anadoxin.org/xfer,https://github.com/antekone/xfer,"Command-line S3/SMB/SFTP/WebDAV client, and a file transfer program, for everyday use; support for bookmarks and mirroring features."
 transfer,youtube-dl,,https://github.com/ytdl-org/youtube-dl,Downloads videos from [YouTube](https://www.youtube.com/) and some other sites useful for automated bulk downloads.
 chat,finch,http://www.pidgin.im/,,"IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project."
 chat,irssi,http://www.irssi.org,https://github.com/irssi/irssi,"The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols."
