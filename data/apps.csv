@@ -2224,4 +2224,5 @@ connection-manager,bayesian-ssh,,https://github.com/abdoufermat5/bayesian-ssh,"S
 text-processing,TeXicode,,https://github.com/dxddxx/TeXicode,"TeX to Unicode, a Unicode TeX renderer that renders TeX into Unicode by rendering the TeX."
 dotfiles,dudu,,https://github.com/fontnelle/dudu,"Back up your whole dev setup in one command and restore it on a new machine in another: packages, runtimes, dotfiles and terminal, on macOS, Linux and Windows."
 ai,shell_sage,,https://github.com/AnswerDotAI/shell_sage,"AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system."
+git,standup,,https://github.com/fainir/standup,"Turns your recent git commits into a Yesterday/Today standup update across one or more repos, with optional Claude summarization or fully local with --no-llm."
 weather,rustormy,,https://github.com/Tairesh/rustormy,"Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes."
