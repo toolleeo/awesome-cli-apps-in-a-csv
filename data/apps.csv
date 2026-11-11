@@ -725,6 +725,7 @@ screensaver,pipes.sh,,https://github.com/pipeseroni/pipes.sh,Animated pipes term
 calc,Bitwise,,https://github.com/mellowcandle/bitwise,Base conversion and bit manipulator in ncurses.
 programming,rebound,,https://github.com/shobrook/rebound,"Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Go, and Java."
 video,ffscreencast,,https://github.com/cytopia/ffscreencast,A FFmpeg screencast with video overlay and multi monitor support.
+video,halfsize,https://yklovepython.github.io/halfsize/,https://github.com/YKLovePython/halfsize,Compress a video to an exact target file size with two-pass encoding and report the measured VMAF/SSIM quality loss.
 time-tracker,Moro,,https://github.com/getmoro/moro,"A command line tool for tracking work hours, as simple as it can get."
 markdown,Grip,,https://github.com/joeyespo/grip,GitHub Readme Instant Preview - Preview Markdown files as GitHub would render them.
 cd,z,,https://github.com/rupa/z,Directory changer based on aging and 'frecency'.
