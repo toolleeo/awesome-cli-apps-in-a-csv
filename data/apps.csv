@@ -511,6 +511,7 @@ financial,paycon,,https://github.com/arcorion/paycon,Converts pay amounts betwee
 transfer,Jitter,,https://github.com/kevspau/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets."
 torrent,Transgression TUI,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission BitTorrent program.
 diff,pdf-diff,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two PDF files. Mainly dedicated to editors that usually spends a lot of hours on several PDFs.
+diff,DocRefract,https://jinyounghub.github.io/docrefract/,https://github.com/jinyounghub/docrefract.git,Local-first deterministic semantic PDF and DOCX comparison for CI with categorized JSON and self-contained HTML reports.
 graphics,kakikun,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using Unicode characters."
 graphics,Aewan,http://aewan.sourceforge.net/,https://sourceforge.net/projects/aewan,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 graphics,jp2a,https://csl.name/jp2a/,https://sourceforge.net/projects/jp2a,Command-line tool that converts images to ASCII art in the Linux terminal.
@@ -2219,4 +2220,9 @@ learning,openleetcode,,https://github.com/therepanic/openleetcode,Terminal inter
 conversion,carta,,https://github.com/mfkrause/carta,"A universal document converter written in Rust. Read a markup format, render it back out in another. A fast, lightweight reimplementation of pandoc."
 programming,hdi,,https://github.com/grega/hdi,"Summarise how to install / run / test a project, from its README."
 screen-recorder,evp,,https://github.com/HalFrgrd/evp,A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
-diff,DocRefract,https://jinyounghub.github.io/docrefract/,https://github.com/jinyounghub/docrefract.git,Local-first deterministic semantic PDF and DOCX comparison for CI with categorized JSON and self-contained HTML reports.
+todo-manager,mado,,https://github.com/laserattack/mado2,"A command-line organizer for tasks, notes, and other Markdown entries. Each entry lives in its own directory, so it can include attachments alongside MAIN.md. Use queries to filter entries by metadata, then sort and format the results for your editor or scripts."
+connection-manager,bayesian-ssh,,https://github.com/abdoufermat5/bayesian-ssh,"SSH session manager for the terminal and the desktop: fuzzy, usage-ranked search, bastions, Kerberos, file transfer, and bssh Teams for end-to-end encrypted sharing."
+text-processing,TeXicode,,https://github.com/dxddxx/TeXicode,"TeX to Unicode, a Unicode TeX renderer that renders TeX into Unicode by rendering the TeX."
+dotfiles,dudu,,https://github.com/fontnelle/dudu,"Back up your whole dev setup in one command and restore it on a new machine in another: packages, runtimes, dotfiles and terminal, on macOS, Linux and Windows."
+ai,shell_sage,,https://github.com/AnswerDotAI/shell_sage,"AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system."
+weather,rustormy,,https://github.com/Tairesh/rustormy,"Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes."
