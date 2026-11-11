@@ -511,6 +511,7 @@ financial,paycon,,https://github.com/arcorion/paycon,Converts pay amounts betwee
 transfer,Jitter,,https://github.com/kevspau/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets."
 torrent,Transgression TUI,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission BitTorrent program.
 diff,pdf-diff,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two PDF files. Mainly dedicated to editors that usually spends a lot of hours on several PDFs.
+diff,DocRefract,https://jinyounghub.github.io/docrefract/,https://github.com/jinyounghub/docrefract.git,Local-first deterministic semantic PDF and DOCX comparison for CI with categorized JSON and self-contained HTML reports.
 graphics,kakikun,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using Unicode characters."
 graphics,Aewan,http://aewan.sourceforge.net/,https://sourceforge.net/projects/aewan,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 graphics,jp2a,https://csl.name/jp2a/,https://sourceforge.net/projects/jp2a,Command-line tool that converts images to ASCII art in the Linux terminal.
