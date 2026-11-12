@@ -2216,4 +2216,13 @@ file-handling,pdfmt,,https://github.com/eifelcode/pdfmt,A command-line multi too
 organizers,chroncal,,https://github.com/DouglasdeMoura/chroncal,"Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync - CLI+TUI, local SQLite storage."
 utility,tinhorn,,https://github.com/puradox/tinhorn,"A terminal dice roller: shake the dice, watch em' fly, hear it bounce."
 learning,openleetcode,,https://github.com/therepanic/openleetcode,Terminal interface to exercise on LeetCode tests.
-security,tattlr,https://github.com/kaygaaf/tattlr,https://github.com/kaygaaf/tattlr,"Reads local coding-agent logs and can hook the agents to block risky tool calls before they run."
+conversion,carta,,https://github.com/mfkrause/carta,"A universal document converter written in Rust. Read a markup format, render it back out in another. A fast, lightweight reimplementation of pandoc."
+programming,hdi,,https://github.com/grega/hdi,"Summarise how to install / run / test a project, from its README."
+screen-recorder,evp,,https://github.com/HalFrgrd/evp,A terminal recoder powered by libghostty and Rust which makes beautiful terminal recordings.
+todo-manager,mado,,https://github.com/laserattack/mado2,"A command-line organizer for tasks, notes, and other Markdown entries. Each entry lives in its own directory, so it can include attachments alongside MAIN.md. Use queries to filter entries by metadata, then sort and format the results for your editor or scripts."
+connection-manager,bayesian-ssh,,https://github.com/abdoufermat5/bayesian-ssh,"SSH session manager for the terminal and the desktop: fuzzy, usage-ranked search, bastions, Kerberos, file transfer, and bssh Teams for end-to-end encrypted sharing."
+text-processing,TeXicode,,https://github.com/dxddxx/TeXicode,"TeX to Unicode, a Unicode TeX renderer that renders TeX into Unicode by rendering the TeX."
+dotfiles,dudu,,https://github.com/fontnelle/dudu,"Back up your whole dev setup in one command and restore it on a new machine in another: packages, runtimes, dotfiles and terminal, on macOS, Linux and Windows."
+ai,shell_sage,,https://github.com/AnswerDotAI/shell_sage,"AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system."
+weather,rustormy,,https://github.com/Tairesh/rustormy,"Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes."
+security,tattlr,,https://github.com/kaygaaf/tattlr,"Reads local coding-agent logs and can hook the agents to block risky tool calls before they run."
