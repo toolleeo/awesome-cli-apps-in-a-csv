@@ -2225,3 +2225,4 @@ text-processing,TeXicode,,https://github.com/dxddxx/TeXicode,"TeX to Unicode, a 
 dotfiles,dudu,,https://github.com/fontnelle/dudu,"Back up your whole dev setup in one command and restore it on a new machine in another: packages, runtimes, dotfiles and terminal, on macOS, Linux and Windows."
 ai,shell_sage,,https://github.com/AnswerDotAI/shell_sage,"AI-powered command-line assistant that integrates seamlessly with your terminal workflow through tmux. It provides contextual help for shell operations, making it easier to navigate complex command-line tasks, debug scripts, and manage your system."
 weather,rustormy,,https://github.com/Tairesh/rustormy,"Minimal and neofetch-like weather CLI with multiple data providers support, ASCI-icons, ANSI colors, localization and various output modes."
+video,streamtop,https://jorji49.github.io/streamtop/,https://github.com/Jorji49/streamtop,"Terminal UI for diagnosing and monitoring live HLS, DASH, IPTV and WHEP streams."
