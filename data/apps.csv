@@ -1988,6 +1988,7 @@ chat,Instagram CLI,,https://github.com/supreme-gg-gg/instagram-cli,"Instagram fr
 chat,nchat,,https://github.com/d99kris/nchat,"Terminal Telegram, WhatsApp and Signal client for LInux and macOS."
 chat,nostui,,https://github.com/akiomik/nostui,TUI client for Nostr.
 chat,nostratui,,https://github.com/adamm-xyz/nostratui,"TUI for browsing Nostr posts, written in Rust."
+chat,rtg,,https://github.com/bercly0b/rtg,"Fast, vim-like Telegram TUI client written in Rust, built on TDLib."
 chat,Sclack,,https://github.com/haskellcamargo/sclack,CLI client for Slack.
 chat,siggo,,https://github.com/derricw/siggo,"TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages)."
 chat,slack-term,,https://github.com/erroneousboat/slack-term,Slack client for the  terminal.
