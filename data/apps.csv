@@ -1918,6 +1918,7 @@ git,nodebro,,https://github.com/jonaburg/nodebro,Easily view most recent Github 
 ai-cli-commands,OpenCode,https://opencode.ai/download,https://github.com/sst/opencode,"AI coding agent, built for the terminal."
 programming,pproftui,,https://github.com/Oloruntobi1/pproftui,"TUI for Go's pprof that makes profiling interactive, intuitive, and fast."
 networking,Proxymock,https://proxymock.io,,A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
+networking,tunnel,,https://github.com/e2e-next/tunnel,"HTTPS debugging proxy and mock server built for AI coding agents: over MCP they record an app's real API calls, replay them offline, mock or break endpoints, and check what the app sent."
 programming,PuDB,,https://github.com/inducer/pudb,Allows you to debug code right where you write and test it in a terminal.
 git,pyautogit,,https://github.com/jwlodek/pyautogit,A TUI for working with git written in python.
 programming,sls-dev-tools,,https://github.com/Theodo-UK/sls-dev-tools,Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
