@@ -781,6 +781,7 @@ rss,rReader,,https://github.com/rainygirl/rreader,RSS reader client with TUI int
 rss,rss-cli,,https://github.com/Clortox/rss-cli,A UNIX-inspired CLI application for interacting with RSS feeds.
 security,pgen,,https://github.com/ctsrc/Pgen,Generate passphrases using the wordlists for random passphrases made by the EFF.
 password-manager,keydex,,https://github.com/shikaan/keydex,Manage KeePass databases from your terminal.
+password-manager,Bypass,,https://github.com/yaroshevych/bypass.git,Modern terminal secrets manager for KeePass KDBX 3.x and 4.x vaults on Linux and macOS.
 utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declarative syntax and builtin providers."
 video,lotc,,https://github.com/ranelpadon/lord-of-the-clips,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
 music,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
