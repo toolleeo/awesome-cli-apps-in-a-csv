@@ -849,6 +849,7 @@ todo-manager,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for manag
 security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
 pastebin,feuille,,https://basedwa.re/tmtt/feuille.git,"A fast, dead-simple socket-based pastebin."
+pastebin,brewpage,https://brewpage.app/,https://github.com/kochetkov-ma/brewpage-cli,"Publish a file or piped text to brewpage.app and print a shareable link; HTML and Markdown become web pages, no account needed."
 markdown,lowdown,https://kristaps.bsd.lv/lowdown/,https://github.com/kristapsdz/lowdown,"Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)"
 utility,bash-cache,,https://github.com/dimo414/bash-cache,A function memoization / caching library for bash scripts and shells
 utility,bkt,https://bkt.rs,https://github.com/dimo414/bkt,bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
