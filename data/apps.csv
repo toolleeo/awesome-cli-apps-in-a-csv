@@ -960,6 +960,7 @@ file-handling,ForkFS,,https://github.com/SUPERCILEX/forkfs,ForkFS allows you to 
 organizers,icsp,,https://github.com/loteoo/icsp,Command-line iCalendar (.ics) to CSV utility.
 ai,HAL 2023,,https://github.com/Brutuski/hal2023-cli,"Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT."
 science,GCTU,,https://github.com/Mandrew0822/GCTU---Genetic-code-translation-utility,A simple command line tool which allows one to convert DNA code sequences to the different RNA sequences.
+science,dnafile,,https://github.com/AndreySoloviev/dnafile,"Reads raw DNA exports from 23andMe, AncestryDNA, MyHeritage, FamilyTreeDNA and LivingDNA: detects the service and array, counts markers, checks whether given rsIDs are covered, and normalizes any of them to one layout. Works fully offline."
 organizers,Girok,,https://github.com/noisrucer/girok,A powerful and beautiful CLI scheduler.
 system,killport,,https://github.com/jkfran/killport,A command-line tool to easily kill processes running on a specified port.
 copilot,CLI Co-Pilot,,https://github.com/AntonOsika/CLI-Co-Pilot,CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
