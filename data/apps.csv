@@ -2168,6 +2168,7 @@ torrent,Torrra,,https://github.com/stabldev/torrra,A Python tool that lets you f
 online,Ozeki,,https://github.com/fuzzy/ozeki,Ozeki is a TUI for browsing data from sumo-api and for basho data going back to 1960.
 git,gmap,,https://github.com/seeyebe/gmap,Command-line tool for visualizing Git activity.
 history,his,,https://github.com/terroo/his,A command history utility with icons and colors that works on Windows and GNU/Linux.
+webdev,Sitemap Cohort Auditor,https://edilec.com/open-source/sitemap-cohort-auditor/,https://github.com/edilec/sitemap-cohort-auditor,"Dependency-free Node.js CLI for recursively auditing XML and GZip sitemaps, measuring URL and image coverage, comparing release cohorts, and emitting deterministic JSON."
 typing,ttypr,,https://github.com/hotellogical05/ttypr,Terminal typing practice application.
 productivity,Git-Gamify,,https://github.com/DeerYang/git-gamify,"A command-line tool that turns your Git workflow into a fun RPG loop where you cand earn XP, level up and unlock achievements from real Git usage."
 games,NCurses Pacman,,https://github.com/woodrowb96/ncurses-pacman,Terminal-based Pac Man game written in c++.
