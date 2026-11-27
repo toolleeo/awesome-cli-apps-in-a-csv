@@ -2149,6 +2149,7 @@ git,gits-statuses,,https://github.com/nicolgit/gits-statuses,"A python/powershel
 utility,gtime,,https://github.com/savitojs/gtime,"Python CLI utility for global time zone lookup, comparison, and management; The program supports fuzzy search, favorites, city comparison, meeting time conversion, and a live/watch mode."
 webdev,domain-check,,https://github.com/saidutt46/domain-check,Universal domain exploration engine: fast domain availability checks across the internet.
 financial,stocksTUI,,https://github.com/andriy-git/stocksTUI,StocksTUI: Real-time stock market data in your terminal.
+financial,tron-energy-calculator,https://gettronenergy.com/tools/,https://github.com/GetTronEnergy/tron-energy-calculator.git,"Calculates the energy consumption and TRX burn cost of TRON TRC20 USDT transfers, using live chain parameters, and compares burning against renting energy."
 games,Terminal Ping Pong,,https://github.com/IshmamR/terminal.pong,A ping pong game in your terminal (play against AI opponent or a friend locally).
 cheatsheet,Subshella,,https://github.com/danpizz/subshella,"The program helps you manage groups of Bash environment variables with an interactive menu, making it quick to activate different configurations."
 animation,The Cognitive Sandbox,,https://github.com/sylcrala/cognitive_sandbox,The project is a local simulation environment that allows individual agents (particles) to interact with and remeber each other across sessions.
