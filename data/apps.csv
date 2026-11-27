@@ -1,4 +1,6 @@
 category,name,homepage,git,description
+copilot,devintern,https://devintern.com/,https://github.com/getdevintern/devintern,"Picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests using a coding agent of your choice (Claude Code, Codex, Cursor, OpenCode), running locally with your own model keys. Source-available (FSL-1.1), free for interactive use."
+ai,devpm,https://devintern.com/,https://github.com/getdevintern/devintern,"Turns rough prompts, logs, or Figma frames into well-specified, codebase-grounded tickets in Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files. Part of the same project as devintern. Source-available (FSL-1.1), free for interactive use."
 programming,termfu,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.
 productivity,h-m-m,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
 productivity,telert,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete."
