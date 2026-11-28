@@ -501,6 +501,7 @@ music,beets,,https://github.com/beetbox/beets,"Beets is the media library manage
 audio-player,musikcube,,https://github.com/clangen/musikcube,"A cross-platform, terminal-based audio engine, library, player and server written in C++."
 video,Editly,,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and FFmpeg.
 video,ffmpeg,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.
+video,TabRetake,https://gnawbit.github.io/tabretake/,https://github.com/gnawbit/tabretake,Turn web app demos into repeatable README GIFs and 9:16 vertical videos from JSON steps or screen recordings via a local CLI and agent skill.
 shells,xonsh,https://xon.sh/,https://github.com/xonsh/xonsh,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
 financial,hledger,https://hledger.org/,https://github.com/simonmichael/hledger,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format."
 git,fzf-git.sh,,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf."
